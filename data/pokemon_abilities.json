@@ -2,109 +2,13 @@
   {
     "id": 1,
     "genre": "ポケモンの特性",
-    "question": "これ寝坊だ…",
-    "reading": "これねぼうだ",
-    "answer": "こぼれだね",
-    "extraChar": "う"
-  },
-  {
-    "id": 2,
-    "genre": "ポケモンの特性",
-    "question": "全力姿勢",
-    "reading": "ぜんりょくしせい",
-    "answer": "せいしんりょく",
-    "extraChar": "ぜ"
-  },
-  {
-    "id": 3,
-    "genre": "ポケモンの特性",
-    "question": "禁煙伝授",
-    "reading": "きんえんでんじゅ",
-    "answer": "でんきエンジン",
-    "extraChar": "ゅ"
-  },
-  {
-    "id": 4,
-    "genre": "ポケモンの特性",
-    "question": "マチアプ至る",
-    "reading": "まちあぷいたる",
-    "answer": "マルチタイプ",
-    "extraChar": "あ"
-  },
-  {
-    "id": 5,
-    "genre": "ポケモンの特性",
-    "question": "ポン酢要る人ー？",
-    "reading": "ぽんずいるひとー",
-    "answer": "ポイズンヒール",
+    "question": "解くかい？",
+    "reading": "とくかい",
+    "answer": "いかく",
     "extraChar": "と"
   },
   {
-    "id": 6,
-    "genre": "ポケモンの特性",
-    "question": "TeX作ったの",
-    "reading": "てふつくったの",
-    "answer": "ふくつのたて",
-    "extraChar": "っ"
-  },
-  {
-    "id": 7,
-    "genre": "ポケモンの特性",
-    "question": "新キャラの価値",
-    "reading": "しんきゃらのかち",
-    "answer": "きんしのちから",
-    "extraChar": "ゃ"
-  },
-  {
-    "id": 8,
-    "genre": "ポケモンの特性",
-    "question": "誠凛所属",
-    "reading": "せいりんしょぞく",
-    "answer": "せいしんりょく",
-    "extraChar": "ぞ"
-  },
-  {
-    "id": 9,
-    "genre": "ポケモンの特性",
-    "question": "ボイスメディア",
-    "reading": "ぼいすめでぃあ",
-    "answer": "アイスボディ",
-    "extraChar": "メ"
-  },
-  {
-    "id": 10,
-    "genre": "ポケモンの特性",
-    "question": "意欲あるロケだ",
-    "reading": "いよくあるろけだ",
-    "answer": "くだけるよろい",
-    "extraChar": "あ"
-  },
-  {
-    "id": 11,
-    "genre": "ポケモンの特性",
-    "question": "海苔は蛆まみれ",
-    "reading": "のりはうじまみれ",
-    "answer": "はじまりのうみ",
-    "extraChar": "れ"
-  },
-  {
-    "id": 12,
-    "genre": "ポケモンの特性",
-    "question": "防毒装備",
-    "reading": "ぼうどくそうび",
-    "answer": "どくぼうそう",
-    "extraChar": "び"
-  },
-  {
-    "id": 13,
-    "genre": "ポケモンの特性",
-    "question": "瀕死辛い",
-    "reading": "ひんしつらい",
-    "answer": "ひらいしん",
-    "extraChar": "つ"
-  },
-  {
-    "id": 14,
+    "id": 2,
     "genre": "ポケモンの特性",
     "question": "偉人居たってば！",
     "reading": "いじんいたってば",
@@ -112,60 +16,156 @@
     "extraChar": "て"
   },
   {
+    "id": 3,
+    "genre": "ポケモンの特性",
+    "question": "気怠くほろ酔い",
+    "reading": "けだるくほろよい",
+    "answer": "くだけるよろい",
+    "extraChar": "ほ"
+  },
+  {
+    "id": 4,
+    "genre": "ポケモンの特性",
+    "question": "豚汁垂らす",
+    "reading": "とんじるたらす",
+    "answer": "トランジスタ",
+    "extraChar": "る"
+  },
+  {
+    "id": 5,
+    "genre": "ポケモンの特性",
+    "question": "格好良い世代",
+    "reading": "かっこいいせだい",
+    "answer": "こだいかっせい",
+    "extraChar": "い"
+  },
+  {
+    "id": 6,
+    "genre": "ポケモンの特性",
+    "question": "今夜来て♡",
+    "reading": "こんやきて",
+    "answer": "てんきや",
+    "extraChar": "こ"
+  },
+  {
+    "id": 7,
+    "genre": "ポケモンの特性",
+    "question": "船長帰還",
+    "reading": "せんちょうきかん",
+    "answer": "きんちょうかん",
+    "extraChar": "せ"
+  },
+  {
+    "id": 8,
+    "genre": "ポケモンの特性",
+    "question": "ワイの技使うわ",
+    "reading": "わいのわざつかうわ",
+    "answer": "わざわいのうつわ",
+    "extraChar": "か"
+  },
+  {
+    "id": 9,
+    "genre": "ポケモンの特性",
+    "question": "また最推し迷う",
+    "reading": "またさいおしまよう",
+    "answer": "さまようたましい",
+    "extraChar": "お"
+  },
+  {
+    "id": 10,
+    "genre": "ポケモンの特性",
+    "question": "狡猾やねん",
+    "reading": "こうかつやねん",
+    "answer": "ねつこうかん",
+    "extraChar": "や"
+  },
+  {
+    "id": 11,
+    "genre": "ポケモンの特性",
+    "question": "苦行じゃね？",
+    "reading": "くぎょうじゃね",
+    "answer": "ぎゃくじょう",
+    "extraChar": "ね"
+  },
+  {
+    "id": 12,
+    "genre": "ポケモンの特性",
+    "question": "お、暴言",
+    "reading": "おぼうげん",
+    "answer": "ぼうおん",
+    "extraChar": "げ"
+  },
+  {
+    "id": 13,
+    "genre": "ポケモンの特性",
+    "question": "裏切りの解雇",
+    "reading": "うらぎりのかいこ",
+    "answer": "いかりのこうら",
+    "extraChar": "ぎ"
+  },
+  {
+    "id": 14,
+    "genre": "ポケモンの特性",
+    "question": "お団子食らうかの",
+    "reading": "おだんごくらうかの",
+    "answer": "おうごんのからだ",
+    "extraChar": "く"
+  },
+  {
     "id": 15,
     "genre": "ポケモンの特性",
-    "question": "碌なキノコ無い",
-    "reading": "ろくなきのこない",
-    "answer": "くろのいななき",
-    "extraChar": "こ"
+    "question": "友人女子か？",
+    "reading": "ゆうじんじょしか",
+    "answer": "じしんかじょう",
+    "extraChar": "ゆ"
   },
   {
     "id": 16,
     "genre": "ポケモンの特性",
-    "question": "スーパー無い…",
-    "reading": "すーぱーない",
-    "answer": "スナイパー",
-    "extraChar": "ー"
+    "question": "ひい！辛辣！",
+    "reading": "ひいしんらつ",
+    "answer": "ひらいしん",
+    "extraChar": "つ"
   },
   {
     "id": 17,
     "genre": "ポケモンの特性",
-    "question": "彦摩呂居た",
-    "reading": "ひこまろいた",
-    "answer": "たまひろい",
-    "extraChar": "こ"
+    "question": "駅に出る時間",
+    "reading": "えきにでるじかん",
+    "answer": "でんきにかえる",
+    "extraChar": "じ"
   },
   {
     "id": 18,
     "genre": "ポケモンの特性",
-    "question": "七位のプロ棋士",
-    "reading": "なないのぷろきし",
-    "answer": "しろのいななき",
-    "extraChar": "ぷ"
+    "question": "親睦深いぜ",
+    "reading": "しんぼくふかいぜ",
+    "answer": "しぜんかいふく",
+    "extraChar": "ぼ"
   },
   {
     "id": 19,
     "genre": "ポケモンの特性",
-    "question": "素敵な歯",
-    "reading": "すてきなは",
-    "answer": "すなはき",
-    "extraChar": "て"
+    "question": "馬券撒き",
+    "reading": "ばけんまき",
+    "answer": "まけんき",
+    "extraChar": "ば"
   },
   {
     "id": 20,
     "genre": "ポケモンの特性",
-    "question": "まーハイスペ",
-    "reading": "まーはいすぺ",
-    "answer": "マイペース",
-    "extraChar": "は"
+    "question": "スマホ無い…",
+    "reading": "すまほない",
+    "answer": "マイナス",
+    "extraChar": "ほ"
   },
   {
     "id": 21,
     "genre": "ポケモンの特性",
-    "question": "荒野の石ころ",
-    "reading": "こうやのいしころ",
-    "answer": "いやしのこころ",
-    "extraChar": "う"
+    "question": "ばっちいラルトス",
+    "reading": "ばっちいらるとす",
+    "answer": "バトルスイッチ",
+    "extraChar": "ら"
   },
   {
     "id": 22,
@@ -178,3253 +178,13 @@
   {
     "id": 23,
     "genre": "ポケモンの特性",
-    "question": "クロックス移動",
-    "reading": "くろっくすいどう",
-    "answer": "クイックドロウ",
-    "extraChar": "す"
-  },
-  {
-    "id": 24,
-    "genre": "ポケモンの特性",
-    "question": "良いバッタ自慢",
-    "reading": "いいばったじまん",
-    "answer": "じんばいったい",
-    "extraChar": "ま"
-  },
-  {
-    "id": 25,
-    "genre": "ポケモンの特性",
-    "question": "薄い本",
-    "reading": "うすいほん",
-    "answer": "すいほう",
-    "extraChar": "ん"
-  },
-  {
-    "id": 26,
-    "genre": "ポケモンの特性",
-    "question": "次男坊",
-    "reading": "じなんぼう",
-    "answer": "ぼうじん",
-    "extraChar": "な"
-  },
-  {
-    "id": 27,
-    "genre": "ポケモンの特性",
-    "question": "不倫で脅迫",
-    "reading": "ふりんできょうはく",
-    "answer": "ふうりょくでんき",
-    "extraChar": "は"
-  },
-  {
-    "id": 28,
-    "genre": "ポケモンの特性",
-    "question": "火力予想",
-    "reading": "かりょくよそう",
-    "answer": "ようりょくそ",
-    "extraChar": "か"
-  },
-  {
-    "id": 29,
-    "genre": "ポケモンの特性",
-    "question": "対人Rust",
-    "reading": "たいじんらすと",
-    "answer": "トランジスタ",
-    "extraChar": "い"
-  },
-  {
-    "id": 30,
-    "genre": "ポケモンの特性",
-    "question": "塩焼き派",
-    "reading": "しおやきは",
-    "answer": "はやおき",
-    "extraChar": "し"
-  },
-  {
-    "id": 31,
-    "genre": "ポケモンの特性",
-    "question": "うい、三重去るの",
-    "reading": "ういみえさるの",
-    "answer": "うのミサイル",
-    "extraChar": "え"
-  },
-  {
-    "id": 32,
-    "genre": "ポケモンの特性",
-    "question": "マンカラの知識",
-    "reading": "まんからのちしき",
-    "answer": "きんしのちから",
-    "extraChar": "ま"
-  },
-  {
-    "id": 33,
-    "genre": "ポケモンの特性",
-    "question": "レジ兄貴",
-    "reading": "れじあにき",
-    "answer": "きれあじ",
-    "extraChar": "に"
-  },
-  {
-    "id": 34,
-    "genre": "ポケモンの特性",
-    "question": "挨拶防止",
-    "reading": "あいさつぼうし",
-    "answer": "あついしぼう",
-    "extraChar": "さ"
-  },
-  {
-    "id": 35,
-    "genre": "ポケモンの特性",
-    "question": "とんこつ買うね",
-    "reading": "とんこつかうね",
-    "answer": "ねつこうかん",
-    "extraChar": "と"
-  },
-  {
-    "id": 36,
-    "genre": "ポケモンの特性",
-    "question": "個性厄介だ",
-    "reading": "こせいやっかいだ",
-    "answer": "こだいかっせい",
-    "extraChar": "や"
-  },
-  {
-    "id": 37,
-    "genre": "ポケモンの特性",
-    "question": "君のランクルス",
-    "reading": "きみのらんくるす",
-    "answer": "ミラクルスキン",
-    "extraChar": "の"
-  },
-  {
-    "id": 38,
-    "genre": "ポケモンの特性",
-    "question": "キノコ潰して",
-    "reading": "きのこつぶして",
-    "answer": "てつのこぶし",
-    "extraChar": "き"
-  },
-  {
-    "id": 39,
-    "genre": "ポケモンの特性",
-    "question": "陸戦で恐怖",
-    "reading": "りくせんできょうふ",
-    "answer": "ふうりょくでんき",
-    "extraChar": "せ"
-  },
-  {
-    "id": 40,
-    "genre": "ポケモンの特性",
-    "question": "熊エンカ",
-    "reading": "くまえんか",
-    "answer": "えんかく",
-    "extraChar": "ま"
-  },
-  {
-    "id": 41,
-    "genre": "ポケモンの特性",
-    "question": "浮気よ",
-    "reading": "うわきよ",
-    "answer": "よわき",
-    "extraChar": "う"
-  },
-  {
-    "id": 42,
-    "genre": "ポケモンの特性",
-    "question": "ハム語履中",
-    "reading": "はむごりちゅう",
-    "answer": "ごりむちゅう",
-    "extraChar": "は"
-  },
-  {
-    "id": 43,
-    "genre": "ポケモンの特性",
-    "question": "飲も！おかわり！",
-    "reading": "のもおかわり",
-    "answer": "かわりもの",
-    "extraChar": "お"
-  },
-  {
-    "id": 44,
-    "genre": "ポケモンの特性",
-    "question": "めっちゃガラーン",
-    "reading": "めっちゃがらーん",
-    "answer": "メガランチャー",
-    "extraChar": "っ"
-  },
-  {
-    "id": 45,
-    "genre": "ポケモンの特性",
-    "question": "臀部規制",
-    "reading": "でんぶきせい",
-    "answer": "せいでんき",
-    "extraChar": "ぶ"
-  },
-  {
-    "id": 46,
-    "genre": "ポケモンの特性",
-    "question": "逆に天使",
-    "reading": "ぎゃくにてんし",
-    "answer": "テクニシャン",
-    "extraChar": "ぎ"
-  },
-  {
-    "id": 47,
-    "genre": "ポケモンの特性",
-    "question": "近日強化",
-    "reading": "きんじつきょうか",
-    "answer": "じょうききかん",
-    "extraChar": "つ"
-  },
-  {
-    "id": 48,
-    "genre": "ポケモンの特性",
-    "question": "泣くな！生きろ！飲も！",
-    "reading": "なくないきろのも",
-    "answer": "くろのいななき",
-    "extraChar": "も"
-  },
-  {
-    "id": 49,
-    "genre": "ポケモンの特性",
-    "question": "マシンガン",
-    "reading": "ましんがん",
-    "answer": "しんがん",
-    "extraChar": "ま"
-  },
-  {
-    "id": 50,
-    "genre": "ポケモンの特性",
-    "question": "生ボイス",
-    "reading": "なまぼいす",
-    "answer": "マイナス",
-    "extraChar": "ぼ"
-  },
-  {
-    "id": 51,
-    "genre": "ポケモンの特性",
-    "question": "天狗の見た目",
-    "reading": "てんぐのみため",
-    "answer": "てんのめぐみ",
-    "extraChar": "た"
-  },
-  {
-    "id": 52,
-    "genre": "ポケモンの特性",
-    "question": "LINE溜めとる",
-    "reading": "らいんためとる",
-    "answer": "ライトメタル",
-    "extraChar": "ん"
-  },
-  {
-    "id": 53,
-    "genre": "ポケモンの特性",
-    "question": "福島全快",
-    "reading": "ふくしまぜんかい",
-    "answer": "しぜんかいふく",
-    "extraChar": "ま"
-  },
-  {
-    "id": 54,
-    "genre": "ポケモンの特性",
-    "question": "貢ぐ、口説く",
-    "reading": "みつぐくどく",
-    "answer": "どくくぐつ",
-    "extraChar": "み"
-  },
-  {
-    "id": 55,
-    "genre": "ポケモンの特性",
-    "question": "早押し機",
-    "reading": "はやおしき",
-    "answer": "はやおき",
-    "extraChar": "し"
-  },
-  {
-    "id": 56,
-    "genre": "ポケモンの特性",
-    "question": "川のマリモ",
-    "reading": "かわのまりも",
-    "answer": "かわりもの",
-    "extraChar": "ま"
-  },
-  {
-    "id": 57,
-    "genre": "ポケモンの特性",
-    "question": "かなり好き",
-    "reading": "かなりすき",
-    "answer": "すなかき",
-    "extraChar": "り"
-  },
-  {
-    "id": 58,
-    "genre": "ポケモンの特性",
-    "question": "簀巻きくるりん",
-    "reading": "すまきくるりん",
-    "answer": "スキルリンク",
-    "extraChar": "ま"
-  },
-  {
-    "id": 59,
-    "genre": "ポケモンの特性",
-    "question": "糖質0",
-    "reading": "とうしつれい",
-    "answer": "しれいとう",
-    "extraChar": "つ"
-  },
-  {
-    "id": 60,
-    "genre": "ポケモンの特性",
-    "question": "ピネだっ！",
-    "reading": "ぴねだっ",
-    "answer": "だっぴ",
-    "extraChar": "ね"
-  },
-  {
-    "id": 61,
-    "genre": "ポケモンの特性",
-    "question": "雨降りリバー",
-    "reading": "あめふりりばー",
-    "answer": "バリアフリー",
-    "extraChar": "め"
-  },
-  {
-    "id": 62,
-    "genre": "ポケモンの特性",
-    "question": "インスタ好きか？",
-    "reading": "いんすたすきか",
-    "answer": "スカイスキン",
-    "extraChar": "た"
-  },
-  {
-    "id": 63,
-    "genre": "ポケモンの特性",
-    "question": "チキンの塩辛",
-    "reading": "ちきんのしおから",
-    "answer": "きんしのちから",
-    "extraChar": "お"
-  },
-  {
-    "id": 64,
-    "genre": "ポケモンの特性",
-    "question": "ホクロおでぶ",
-    "reading": "ほくろおでぶ",
-    "answer": "ほおぶくろ",
-    "extraChar": "で"
-  },
-  {
-    "id": 65,
-    "genre": "ポケモンの特性",
-    "question": "んん…寝てた…",
-    "reading": "んんねてた",
-    "answer": "てんねん",
-    "extraChar": "た"
-  },
-  {
-    "id": 66,
-    "genre": "ポケモンの特性",
-    "question": "宝鐘の尻",
-    "reading": "ほうしょうのしり",
-    "answer": "しょうりのほし",
-    "extraChar": "う"
-  },
-  {
-    "id": 67,
-    "genre": "ポケモンの特性",
-    "question": "草のドリンク",
-    "reading": "くさのどりんく",
-    "answer": "どくのくさり",
-    "extraChar": "ん"
-  },
-  {
-    "id": 68,
-    "genre": "ポケモンの特性",
-    "question": "節々の硬化",
-    "reading": "ふしぶしのこうか",
-    "answer": "ふかしのこぶし",
-    "extraChar": "う"
-  },
-  {
-    "id": 69,
-    "genre": "ポケモンの特性",
-    "question": "吾輩勝つね",
-    "reading": "わがはいかつね",
-    "answer": "はがねつかい",
-    "extraChar": "わ"
-  },
-  {
-    "id": 70,
-    "genre": "ポケモンの特性",
-    "question": "即無料よ",
-    "reading": "そくむりょうよ",
-    "answer": "ようりょくそ",
-    "extraChar": "む"
-  },
-  {
-    "id": 71,
-    "genre": "ポケモンの特性",
-    "question": "ちょい好き",
-    "reading": "ちょいすき",
-    "answer": "ちょすい",
-    "extraChar": "き"
-  },
-  {
-    "id": 72,
-    "genre": "ポケモンの特性",
-    "question": "無理攻めいったね",
-    "reading": "むりぜめいったね",
-    "answer": "ぜったいねむり",
-    "extraChar": "め"
-  },
-  {
-    "id": 73,
-    "genre": "ポケモンの特性",
-    "question": "辛口柚子",
-    "reading": "からくちゆず",
-    "answer": "ちからずく",
-    "extraChar": "ゆ"
-  },
-  {
-    "id": 74,
-    "genre": "ポケモンの特性",
-    "question": "つい寝てた",
-    "reading": "ついねてた",
-    "answer": "たいねつ",
-    "extraChar": "て"
-  },
-  {
-    "id": 75,
-    "genre": "ポケモンの特性",
-    "question": "一人で",
-    "reading": "ひとりで",
-    "answer": "ひでり",
-    "extraChar": "と"
-  },
-  {
-    "id": 76,
-    "genre": "ポケモンの特性",
-    "question": "ドローン蛇行",
-    "reading": "どろーんだこう",
-    "answer": "ダウンロード",
-    "extraChar": "こ"
-  },
-  {
-    "id": 77,
-    "genre": "ポケモンの特性",
-    "question": "不死諦め",
-    "reading": "ふしあきらめ",
-    "answer": "あめふらし",
-    "extraChar": "き"
-  },
-  {
-    "id": 78,
-    "genre": "ポケモンの特性",
-    "question": "農家は損だ",
-    "reading": "のうかはそんだ",
-    "answer": "かんそうはだ",
-    "extraChar": "の"
-  },
-  {
-    "id": 79,
-    "genre": "ポケモンの特性",
-    "question": "美肌ミストかな？",
-    "reading": "びはだみすとかな",
-    "answer": "とびだすなかみ",
-    "extraChar": "は"
-  },
-  {
-    "id": 80,
-    "genre": "ポケモンの特性",
-    "question": "痛い缶バッジ",
-    "reading": "いたいかんばっじ",
-    "answer": "じんばいったい",
-    "extraChar": "か"
-  },
-  {
-    "id": 81,
-    "genre": "ポケモンの特性",
-    "question": "お団子食らうかの",
-    "reading": "おだんごくらうかの",
-    "answer": "おうごんのからだ",
-    "extraChar": "く"
-  },
-  {
-    "id": 82,
-    "genre": "ポケモンの特性",
-    "question": "所詮リメイク",
-    "reading": "しょせんりめいく",
-    "answer": "せいしんりょく",
-    "extraChar": "め"
-  },
-  {
-    "id": 83,
-    "genre": "ポケモンの特性",
-    "question": "9つの付録",
-    "reading": "ここのつのふろく",
-    "answer": "ふくつのこころ",
-    "extraChar": "の"
-  },
-  {
-    "id": 84,
-    "genre": "ポケモンの特性",
-    "question": "水ダウ訴訟",
-    "reading": "すいだうそしょう",
-    "answer": "そうだいしょう",
-    "extraChar": "す"
-  },
-  {
-    "id": 85,
-    "genre": "ポケモンの特性",
-    "question": "岐阜も祭り無し",
-    "reading": "ぎふもまつりなし",
-    "answer": "ふしぎなまもり",
-    "extraChar": "つ"
-  },
-  {
-    "id": 86,
-    "genre": "ポケモンの特性",
-    "question": "嫁生き返れー",
-    "reading": "よめいきかえれー",
-    "answer": "エレキメイカー",
-    "extraChar": "よ"
-  },
-  {
-    "id": 87,
-    "genre": "ポケモンの特性",
-    "question": "好き！耐えきれん！",
-    "reading": "すきたえきれん",
-    "answer": "エレキスキン",
-    "extraChar": "た"
-  },
-  {
-    "id": 88,
-    "genre": "ポケモンの特性",
-    "question": "冒険行くし",
-    "reading": "ぼうけんいくし",
-    "answer": "くいしんぼう",
-    "extraChar": "け"
-  },
-  {
-    "id": 89,
-    "genre": "ポケモンの特性",
-    "question": "クローンクッパ",
-    "reading": "くろーんくっぱ",
-    "answer": "パンクロック",
-    "extraChar": "ー"
-  },
-  {
-    "id": 90,
-    "genre": "ポケモンの特性",
-    "question": "炎上危機か",
-    "reading": "えんじょうききか",
-    "answer": "じょうききかん",
-    "extraChar": "え"
-  },
-  {
-    "id": 91,
-    "genre": "ポケモンの特性",
-    "question": "風吹く神域",
-    "reading": "かぜふくしんいき",
-    "answer": "しぜんかいふく",
-    "extraChar": "き"
-  },
-  {
-    "id": 92,
-    "genre": "ポケモンの特性",
-    "question": "急にBAN",
-    "reading": "きゅうにばん",
-    "answer": "きゅうばん",
-    "extraChar": "に"
-  },
-  {
-    "id": 93,
-    "genre": "ポケモンの特性",
-    "question": "岐阜県の塔",
-    "reading": "ぎふけんのとう",
-    "answer": "ふとうのけん",
-    "extraChar": "ぎ"
-  },
-  {
-    "id": 94,
-    "genre": "ポケモンの特性",
-    "question": "ネジが要ります",
-    "reading": "ねじがいります",
-    "answer": "すじがねいり",
-    "extraChar": "ま"
-  },
-  {
-    "id": 95,
-    "genre": "ポケモンの特性",
-    "question": "視力1000倍",
-    "reading": "しりょくせんばい",
-    "answer": "せいしんりょく",
-    "extraChar": "ば"
-  },
-  {
-    "id": 96,
-    "genre": "ポケモンの特性",
-    "question": "威張った名人",
-    "reading": "いばっためいじん",
-    "answer": "じんばいったい",
-    "extraChar": "め"
-  },
-  {
-    "id": 97,
-    "genre": "ポケモンの特性",
-    "question": "おっ、あいこや",
-    "reading": "おっあいこや",
-    "answer": "おやこあい",
-    "extraChar": "っ"
-  },
-  {
-    "id": 98,
-    "genre": "ポケモンの特性",
-    "question": "野菜売るのみ",
-    "reading": "やさいうるのみ",
-    "answer": "うのミサイル",
-    "extraChar": "や"
-  },
-  {
-    "id": 99,
-    "genre": "ポケモンの特性",
-    "question": "労基呼ぶ",
-    "reading": "ろうきよぶ",
-    "answer": "ぶきよう",
-    "extraChar": "ろ"
-  },
-  {
-    "id": 100,
-    "genre": "ポケモンの特性",
-    "question": "キジ食う巨漢",
-    "reading": "きじくうきょかん",
-    "answer": "じょうききかん",
-    "extraChar": "く"
-  },
-  {
-    "id": 101,
-    "genre": "ポケモンの特性",
-    "question": "妃笑虎よ",
-    "reading": "きわこよ",
-    "answer": "よわき",
-    "extraChar": "こ"
-  },
-  {
-    "id": 102,
-    "genre": "ポケモンの特性",
-    "question": "マグロ美味いのよ",
-    "reading": "まぐろうまいのよ",
-    "answer": "マグマのよろい",
-    "extraChar": "う"
-  },
-  {
-    "id": 103,
-    "genre": "ポケモンの特性",
-    "question": "地声クリア",
-    "reading": "じごえくりあ",
-    "answer": "ありじごく",
-    "extraChar": "え"
-  },
-  {
-    "id": 104,
-    "genre": "ポケモンの特性",
-    "question": "除草指示監",
-    "reading": "じょそうしじかん",
-    "answer": "じしんかじょう",
-    "extraChar": "そ"
-  },
-  {
-    "id": 105,
-    "genre": "ポケモンの特性",
-    "question": "親睦深いぜ",
-    "reading": "しんぼくふかいぜ",
-    "answer": "しぜんかいふく",
-    "extraChar": "ぼ"
-  },
-  {
-    "id": 106,
-    "genre": "ポケモンの特性",
-    "question": "悪魔の邪視",
-    "reading": "あくまのじゃし",
-    "answer": "あまのじゃく",
-    "extraChar": "し"
-  },
-  {
-    "id": 107,
-    "genre": "ポケモンの特性",
-    "question": "あら？ムズいな…",
-    "reading": "あらむずいな",
-    "answer": "アナライズ",
-    "extraChar": "む"
-  },
-  {
-    "id": 108,
-    "genre": "ポケモンの特性",
-    "question": "金持ち拉致",
-    "reading": "かねもちらち",
-    "answer": "ちからもち",
-    "extraChar": "ね"
-  },
-  {
-    "id": 109,
-    "genre": "ポケモンの特性",
-    "question": "白？ピンク？",
-    "reading": "しろぴんく",
-    "answer": "シンクロ",
-    "extraChar": "ぴ"
-  },
-  {
-    "id": 110,
-    "genre": "ポケモンの特性",
-    "question": "ガードだ！まもる！",
-    "reading": "がーどだまもる",
-    "answer": "ダルマモード",
-    "extraChar": "が"
-  },
-  {
-    "id": 111,
-    "genre": "ポケモンの特性",
-    "question": "小石の礫",
-    "reading": "こいしのつぶて",
-    "answer": "てつのこぶし",
-    "extraChar": "い"
-  },
-  {
-    "id": 112,
-    "genre": "ポケモンの特性",
-    "question": "リスキル苦言",
-    "reading": "りすきるくげん",
-    "answer": "スキルリンク",
-    "extraChar": "げ"
-  },
-  {
-    "id": 113,
-    "genre": "ポケモンの特性",
-    "question": "車停めてたプロ",
-    "reading": "くるまとめてたぷろ",
-    "answer": "メタルプロテクト",
-    "extraChar": "ま"
-  },
-  {
-    "id": 114,
-    "genre": "ポケモンの特性",
-    "question": "マジ感謝",
-    "reading": "まじかんしゃ",
-    "answer": "マジシャン",
-    "extraChar": "か"
-  },
-  {
-    "id": 115,
-    "genre": "ポケモンの特性",
-    "question": "揚げ煮干し",
-    "reading": "あげにぼし",
-    "answer": "にげあし",
-    "extraChar": "ぼ"
-  },
-  {
-    "id": 116,
-    "genre": "ポケモンの特性",
-    "question": "ひ、ひどい！この野郎！",
-    "reading": "ひひどいこのやろう",
-    "answer": "ひひいろのこどう",
-    "extraChar": "や"
-  },
-  {
-    "id": 117,
-    "genre": "ポケモンの特性",
-    "question": "じじい召喚",
-    "reading": "じじいしょうかん",
-    "answer": "じしんかじょう",
-    "extraChar": "い"
-  },
-  {
-    "id": 118,
-    "genre": "ポケモンの特性",
-    "question": "最新空母",
-    "reading": "さいしんくうぼ",
-    "answer": "くいしんぼう",
-    "extraChar": "さ"
-  },
-  {
-    "id": 119,
-    "genre": "ポケモンの特性",
-    "question": "かわせっ！いい子だ",
-    "reading": "かわせっいいこだ",
-    "answer": "こだいかっせい",
-    "extraChar": "わ"
-  },
-  {
-    "id": 120,
-    "genre": "ポケモンの特性",
-    "question": "生きるスノーマン",
-    "reading": "いきるすのーまん",
-    "answer": "ノーマルスキン",
-    "extraChar": "い"
-  },
-  {
-    "id": 121,
-    "genre": "ポケモンの特性",
-    "question": "貼っとこう",
-    "reading": "はっとこう",
-    "answer": "はっこう",
-    "extraChar": "と"
-  },
-  {
-    "id": 122,
-    "genre": "ポケモンの特性",
-    "question": "俺、薬デビュー",
-    "reading": "おれくすりでびゅー",
-    "answer": "スクリューおびれ",
-    "extraChar": "で"
-  },
-  {
-    "id": 123,
-    "genre": "ポケモンの特性",
-    "question": "He is ポワルン.",
-    "reading": "ひーいずぽわるん",
-    "answer": "ポイズンヒール",
-    "extraChar": "ワ"
-  },
-  {
-    "id": 124,
-    "genre": "ポケモンの特性",
-    "question": "対面勝つ",
-    "reading": "たいめんかつ",
-    "answer": "かたいツメ",
-    "extraChar": "ん"
-  },
-  {
-    "id": 125,
-    "genre": "ポケモンの特性",
-    "question": "ストローマスター",
-    "reading": "すとろーますたー",
-    "answer": "スロースタート",
-    "extraChar": "ま"
-  },
-  {
-    "id": 126,
-    "genre": "ポケモンの特性",
-    "question": "ゲーマー垢飛ぶ",
-    "reading": "げーまーあかとぶ",
-    "answer": "カブトアーマー",
-    "extraChar": "げ"
-  },
-  {
-    "id": 127,
-    "genre": "ポケモンの特性",
-    "question": "耐熱メカ",
-    "reading": "たいねつめか",
-    "answer": "かたいツメ",
-    "extraChar": "ね"
-  },
-  {
-    "id": 128,
-    "genre": "ポケモンの特性",
-    "question": "マンボウ飼育",
-    "reading": "まんぼうしいく",
-    "answer": "くいしんぼう",
-    "extraChar": "ま"
-  },
-  {
-    "id": 129,
-    "genre": "ポケモンの特性",
-    "question": "着信ね",
-    "reading": "ちゃくしんね",
-    "answer": "ねんちゃく",
-    "extraChar": "し"
-  },
-  {
-    "id": 130,
-    "genre": "ポケモンの特性",
-    "question": "友人女子か？",
-    "reading": "ゆうじんじょしか",
-    "answer": "じしんかじょう",
-    "extraChar": "ゆ"
-  },
-  {
-    "id": 131,
-    "genre": "ポケモンの特性",
-    "question": "昭和の彫り師",
-    "reading": "しょうわのほりし",
-    "answer": "しょうりのほし",
-    "extraChar": "わ"
-  },
-  {
-    "id": 132,
-    "genre": "ポケモンの特性",
-    "question": "相棒気質",
-    "reading": "あいぼうきしつ",
-    "answer": "あついしぼう",
-    "extraChar": "き"
-  },
-  {
-    "id": 133,
-    "genre": "ポケモンの特性",
-    "question": "速攻派",
-    "reading": "そっこうは",
-    "answer": "はっこう",
-    "extraChar": "そ"
-  },
-  {
-    "id": 134,
-    "genre": "ポケモンの特性",
-    "question": "振り込んで空虚",
-    "reading": "ふりこんでくうきょ",
-    "answer": "ふうりょくでんき",
-    "extraChar": "こ"
-  },
-  {
-    "id": 135,
-    "genre": "ポケモンの特性",
-    "question": "この服は露骨",
-    "reading": "このふくはろこつ",
-    "answer": "ふくつのこころ",
-    "extraChar": "は"
-  },
-  {
-    "id": 136,
-    "genre": "ポケモンの特性",
-    "question": "見習い",
-    "reading": "みならい",
-    "answer": "ミイラ",
-    "extraChar": "な"
-  },
-  {
-    "id": 137,
-    "genre": "ポケモンの特性",
-    "question": "過学習",
-    "reading": "かがくしゅう",
-    "answer": "しゅうかく",
-    "extraChar": "が"
-  },
-  {
-    "id": 138,
-    "genre": "ポケモンの特性",
-    "question": "クソ上司",
-    "reading": "くそじょうし",
-    "answer": "そうしょく",
-    "extraChar": "じ"
-  },
-  {
-    "id": 139,
-    "genre": "ポケモンの特性",
-    "question": "一人でしな！",
-    "reading": "ひとりでしな",
-    "answer": "ひとでなし",
-    "extraChar": "り"
-  },
-  {
-    "id": 140,
-    "genre": "ポケモンの特性",
-    "question": "ブルマーシェアー",
-    "reading": "ぶるまーしぇあー",
-    "answer": "シェルアーマー",
-    "extraChar": "ぶ"
-  },
-  {
-    "id": 141,
-    "genre": "ポケモンの特性",
-    "question": "測量士",
-    "reading": "そくりょうし",
-    "answer": "そうしょく",
-    "extraChar": "り"
-  },
-  {
-    "id": 142,
-    "genre": "ポケモンの特性",
-    "question": "お、暴言",
-    "reading": "おぼうげん",
-    "answer": "ぼうおん",
-    "extraChar": "げ"
-  },
-  {
-    "id": 143,
-    "genre": "ポケモンの特性",
-    "question": "採用しました、マ？",
-    "reading": "さいようしましたま",
-    "answer": "さまようたましい",
-    "extraChar": "し"
-  },
-  {
-    "id": 144,
-    "genre": "ポケモンの特性",
-    "question": "船長帰還",
-    "reading": "せんちょうきかん",
-    "answer": "きんちょうかん",
-    "extraChar": "せ"
-  },
-  {
-    "id": 145,
-    "genre": "ポケモンの特性",
-    "question": "イケる口だろよ",
-    "reading": "いけるくちだろよ",
-    "answer": "くだけるよろい",
-    "extraChar": "ち"
-  },
-  {
-    "id": 146,
-    "genre": "ポケモンの特性",
-    "question": "完クリする気？",
-    "reading": "かんくりするき",
-    "answer": "スキルリンク",
-    "extraChar": "か"
-  },
-  {
-    "id": 147,
-    "genre": "ポケモンの特性",
-    "question": "塩も舐めて",
-    "reading": "しおもなめて",
-    "answer": "おもてなし",
-    "extraChar": "め"
-  },
-  {
-    "id": 148,
-    "genre": "ポケモンの特性",
-    "question": "ふ、太もも！",
-    "reading": "ふふともも",
-    "answer": "もふもふ",
-    "extraChar": "と"
-  },
-  {
-    "id": 149,
-    "genre": "ポケモンの特性",
-    "question": "ドンキーの手",
-    "reading": "どんきーのて",
-    "answer": "ノーてんき",
-    "extraChar": "ど"
-  },
-  {
-    "id": 150,
-    "genre": "ポケモンの特性",
-    "question": "ひい！辛辣！",
-    "reading": "ひいしんらつ",
-    "answer": "ひらいしん",
-    "extraChar": "つ"
-  },
-  {
-    "id": 151,
-    "genre": "ポケモンの特性",
-    "question": "また最推し迷う",
-    "reading": "またさいおしまよう",
-    "answer": "さまようたましい",
-    "extraChar": "お"
-  },
-  {
-    "id": 152,
-    "genre": "ポケモンの特性",
-    "question": "棒玉じゃ！",
-    "reading": "ぼうぎょくじゃ",
-    "answer": "ぎゃくじょう",
-    "extraChar": "ぼ"
-  },
-  {
-    "id": 153,
-    "genre": "ポケモンの特性",
-    "question": "負けるな！",
-    "reading": "まけるな",
-    "answer": "なまけ",
-    "extraChar": "る"
-  },
-  {
-    "id": 154,
-    "genre": "ポケモンの特性",
-    "question": "牛の取り合い",
-    "reading": "ぎゅうのとりあい",
-    "answer": "りゅうのあぎと",
-    "extraChar": "い"
-  },
-  {
-    "id": 155,
-    "genre": "ポケモンの特性",
-    "question": "奥にトイレ無い",
-    "reading": "おくにといれない",
-    "answer": "とれないにおい",
-    "extraChar": "く"
-  },
-  {
-    "id": 156,
-    "genre": "ポケモンの特性",
-    "question": "時短するトラ！",
-    "reading": "じたんするとら",
-    "answer": "トランジスタ",
-    "extraChar": "る"
-  },
-  {
-    "id": 157,
-    "genre": "ポケモンの特性",
-    "question": "一応の助言",
-    "reading": "いちおうのじょげん",
-    "answer": "じょおうのいげん",
-    "extraChar": "ち"
-  },
-  {
-    "id": 158,
-    "genre": "ポケモンの特性",
-    "question": "もすかう",
-    "reading": "もすかう",
-    "answer": "もうか",
-    "extraChar": "す"
-  },
-  {
-    "id": 159,
-    "genre": "ポケモンの特性",
-    "question": "邪神浄化",
-    "reading": "じゃしんじょうか",
-    "answer": "じしんかじょう",
-    "extraChar": "ゃ"
-  },
-  {
-    "id": 160,
-    "genre": "ポケモンの特性",
-    "question": "交際したままよ",
-    "reading": "こうさいしたままよ",
-    "answer": "さまようたましい",
-    "extraChar": "こ"
-  },
-  {
-    "id": 161,
-    "genre": "ポケモンの特性",
-    "question": "隔離住居",
-    "reading": "かくりじゅうきょ",
-    "answer": "じきゅうりょく",
-    "extraChar": "か"
-  },
-  {
-    "id": 162,
-    "genre": "ポケモンの特性",
-    "question": "ファンミ",
-    "reading": "ふぁんみ",
-    "answer": "ふみん",
-    "extraChar": "ぁ"
-  },
-  {
-    "id": 163,
-    "genre": "ポケモンの特性",
-    "question": "真の願い制覇",
-    "reading": "しんのねがいせいは",
-    "answer": "はがねのせいしん",
-    "extraChar": "い"
-  },
-  {
-    "id": 164,
-    "genre": "ポケモンの特性",
-    "question": "人類へ懺悔",
-    "reading": "じんるいへざんげ",
-    "answer": "へんげんじざい",
-    "extraChar": "る"
-  },
-  {
-    "id": 165,
-    "genre": "ポケモンの特性",
-    "question": "ススキ満開",
-    "reading": "すすきまんかい",
-    "answer": "スカイスキン",
-    "extraChar": "ま"
-  },
-  {
-    "id": 166,
-    "genre": "ポケモンの特性",
-    "question": "寄付金過剰",
-    "reading": "きふきんかじょう",
-    "answer": "じょうききかん",
-    "extraChar": "ふ"
-  },
-  {
-    "id": 167,
-    "genre": "ポケモンの特性",
-    "question": "どうだー！論破！",
-    "reading": "どうだーろんぱ",
-    "answer": "ダウンロード",
-    "extraChar": "ぱ"
-  },
-  {
-    "id": 168,
-    "genre": "ポケモンの特性",
-    "question": "マンキーの居留守",
-    "reading": "まんきーのいるす",
-    "answer": "ノーマルスキン",
-    "extraChar": "い"
-  },
-  {
-    "id": 169,
-    "genre": "ポケモンの特性",
-    "question": "炭火なんだとか",
-    "reading": "すみびなんだとか",
-    "answer": "とびだすなかみ",
-    "extraChar": "ん"
-  },
-  {
-    "id": 170,
-    "genre": "ポケモンの特性",
-    "question": "菓子付きのランチ",
-    "reading": "かしつきのらんち",
-    "answer": "きんしのちから",
-    "extraChar": "つ"
-  },
-  {
-    "id": 171,
-    "genre": "ポケモンの特性",
-    "question": "駅伝人員",
-    "reading": "えきでんじんいん",
-    "answer": "でんきエンジン",
-    "extraChar": "い"
-  },
-  {
-    "id": 172,
-    "genre": "ポケモンの特性",
-    "question": "歌上手いまさよし",
-    "reading": "うたうまいまさよし",
-    "answer": "さまようたましい",
-    "extraChar": "う"
-  },
-  {
-    "id": 173,
-    "genre": "ポケモンの特性",
-    "question": "足でだと!?",
-    "reading": "あしでだと",
-    "answer": "あとだし",
-    "extraChar": "で"
-  },
-  {
-    "id": 174,
-    "genre": "ポケモンの特性",
-    "question": "貴殿に蛙化",
-    "reading": "きでんにかえるか",
-    "answer": "でんきにかえる",
-    "extraChar": "か"
-  },
-  {
-    "id": 175,
-    "genre": "ポケモンの特性",
-    "question": "躊躇いあると",
-    "reading": "ためらいあると",
-    "answer": "ライトメタル",
-    "extraChar": "あ"
-  },
-  {
-    "id": 176,
-    "genre": "ポケモンの特性",
-    "question": "吸い殻ねじり",
-    "reading": "すいがらねじり",
-    "answer": "すじがねいり",
-    "extraChar": "ら"
-  },
-  {
-    "id": 177,
-    "genre": "ポケモンの特性",
-    "question": "手作りお経",
-    "reading": "てづくりおきょう",
-    "answer": "てきおうりょく",
-    "extraChar": "づ"
-  },
-  {
-    "id": 178,
-    "genre": "ポケモンの特性",
-    "question": "正直効かん",
-    "reading": "しょうじききかん",
-    "answer": "じょうききかん",
-    "extraChar": "し"
-  },
-  {
-    "id": 179,
-    "genre": "ポケモンの特性",
-    "question": "武器売れよ",
-    "reading": "ぶきうれよ",
-    "answer": "ぶきよう",
-    "extraChar": "れ"
-  },
-  {
-    "id": 180,
-    "genre": "ポケモンの特性",
-    "question": "絵描き君",
-    "reading": "えかきくん",
-    "answer": "えんかく",
-    "extraChar": "き"
-  },
-  {
-    "id": 181,
-    "genre": "ポケモンの特性",
-    "question": "複利で賞金",
-    "reading": "ふくりでしょうきん",
-    "answer": "ふうりょくでんき",
-    "extraChar": "し"
-  },
-  {
-    "id": 182,
-    "genre": "ポケモンの特性",
-    "question": "え、完クリ？",
-    "reading": "えかんくり",
-    "answer": "えんかく",
-    "extraChar": "り"
-  },
-  {
-    "id": 183,
-    "genre": "ポケモンの特性",
-    "question": "原子力",
-    "reading": "げんしりょく",
-    "answer": "しんりょく",
-    "extraChar": "げ"
-  },
-  {
-    "id": 184,
-    "genre": "ポケモンの特性",
-    "question": "ドローンハック",
-    "reading": "どろーんはっく",
-    "answer": "ハードロック",
-    "extraChar": "ん"
-  },
-  {
-    "id": 185,
-    "genre": "ポケモンの特性",
-    "question": "太陽冷まします",
-    "reading": "たいようさまします",
-    "answer": "さまようたましい",
-    "extraChar": "す"
-  },
-  {
-    "id": 186,
-    "genre": "ポケモンの特性",
-    "question": "チルット爆睡",
-    "reading": "ちるっとばくすい",
-    "answer": "バトルスイッチ",
-    "extraChar": "く"
-  },
-  {
-    "id": 187,
-    "genre": "ポケモンの特性",
-    "question": "平社員",
-    "reading": "ひらしゃいん",
-    "answer": "ひらいしん",
-    "extraChar": "ゃ"
-  },
-  {
-    "id": 188,
-    "genre": "ポケモンの特性",
-    "question": "夏みかん色",
-    "reading": "なつみかんいろ",
-    "answer": "かんろなミツ",
-    "extraChar": "い"
-  },
-  {
-    "id": 189,
-    "genre": "ポケモンの特性",
-    "question": "夜契約だろ？",
-    "reading": "よるけいやくだろ",
-    "answer": "くだけるよろい",
-    "extraChar": "や"
-  },
-  {
-    "id": 190,
-    "genre": "ポケモンの特性",
-    "question": "ういママ探したよ",
-    "reading": "ういままさがしたよ",
-    "answer": "さまようたましい",
-    "extraChar": "が"
-  },
-  {
-    "id": 191,
-    "genre": "ポケモンの特性",
-    "question": "辛口の茄子",
-    "reading": "からくちのなす",
-    "answer": "すなのちから",
-    "extraChar": "く"
-  },
-  {
-    "id": 192,
-    "genre": "ポケモンの特性",
-    "question": "投資相談",
-    "reading": "とうしそうだん",
-    "answer": "とうそうしん",
-    "extraChar": "だ"
-  },
-  {
-    "id": 193,
-    "genre": "ポケモンの特性",
-    "question": "誕生日",
-    "reading": "たんじょうび",
-    "answer": "びんじょう",
-    "extraChar": "た"
-  },
-  {
-    "id": 194,
-    "genre": "ポケモンの特性",
-    "question": "脳内見るさ",
-    "reading": "のうないみるさ",
-    "answer": "うのミサイル",
-    "extraChar": "な"
-  },
-  {
-    "id": 195,
-    "genre": "ポケモンの特性",
-    "question": "起点やな",
-    "reading": "きてんやな",
-    "answer": "てんきや",
-    "extraChar": "な"
-  },
-  {
-    "id": 196,
-    "genre": "ポケモンの特性",
-    "question": "ワープ列車",
-    "reading": "わーぷれっしゃ",
-    "answer": "プレッシャー",
-    "extraChar": "わ"
-  },
-  {
-    "id": 197,
-    "genre": "ポケモンの特性",
-    "question": "うるさい飲み屋",
-    "reading": "うるさいのみや",
-    "answer": "うのミサイル",
-    "extraChar": "や"
-  },
-  {
-    "id": 198,
-    "genre": "ポケモンの特性",
-    "question": "ビキニで帰るん？",
-    "reading": "びきにでかえるん",
-    "answer": "でんきにかえる",
-    "extraChar": "び"
-  },
-  {
-    "id": 199,
-    "genre": "ポケモンの特性",
-    "question": "乳揉みから",
-    "reading": "ちちもみから",
-    "answer": "ちからもち",
-    "extraChar": "み"
-  },
-  {
-    "id": 200,
-    "genre": "ポケモンの特性",
-    "question": "まあ４にたい",
-    "reading": "まあしにたい",
-    "answer": "いしあたま",
-    "extraChar": "に"
-  },
-  {
-    "id": 201,
-    "genre": "ポケモンの特性",
-    "question": "お代の一割",
-    "reading": "おだいのいちわり",
-    "answer": "おわりのだいち",
-    "extraChar": "い"
-  },
-  {
-    "id": 202,
-    "genre": "ポケモンの特性",
-    "question": "伊沢のタワマン",
-    "reading": "いざわのたわまん",
-    "answer": "わざわいのたま",
-    "extraChar": "ん"
-  },
-  {
-    "id": 203,
-    "genre": "ポケモンの特性",
-    "question": "九条きゅうり",
-    "reading": "くじょうきゅうり",
-    "answer": "じきゅうりょく",
-    "extraChar": "う"
-  },
-  {
-    "id": 204,
-    "genre": "ポケモンの特性",
-    "question": "盛大な国歌",
-    "reading": "せいだいなこっか",
-    "answer": "こだいかっせい",
-    "extraChar": "な"
-  },
-  {
-    "id": 205,
-    "genre": "ポケモンの特性",
-    "question": "豚汁垂らす",
-    "reading": "とんじるたらす",
-    "answer": "トランジスタ",
-    "extraChar": "る"
-  },
-  {
-    "id": 206,
-    "genre": "ポケモンの特性",
-    "question": "今夜来て♡",
-    "reading": "こんやきて",
-    "answer": "てんきや",
-    "extraChar": "こ"
-  },
-  {
-    "id": 207,
-    "genre": "ポケモンの特性",
-    "question": "年賀状",
-    "reading": "ねんがじょう",
-    "answer": "がんじょう",
-    "extraChar": "ね"
-  },
-  {
-    "id": 208,
-    "genre": "ポケモンの特性",
-    "question": "栗、チンする気!?",
-    "reading": "くりちんするき",
-    "answer": "スキルリンク",
-    "extraChar": "ち"
-  },
-  {
-    "id": 209,
-    "genre": "ポケモンの特性",
-    "question": "兎田本",
-    "reading": "うさだぼん",
-    "answer": "ぼうだん",
-    "extraChar": "さ"
-  },
-  {
-    "id": 210,
-    "genre": "ポケモンの特性",
-    "question": "野良猫売り買い",
-    "reading": "のらねこうりかい",
-    "answer": "いかりのこうら",
-    "extraChar": "ね"
-  },
-  {
-    "id": 211,
-    "genre": "ポケモンの特性",
-    "question": "晩酌にて",
-    "reading": "ばんしゃくにて",
-    "answer": "テクニシャン",
-    "extraChar": "ば"
-  },
-  {
-    "id": 212,
-    "genre": "ポケモンの特性",
-    "question": "ナスしゃ、おこ",
-    "reading": "なすしゃおこ",
-    "answer": "すなおこし",
-    "extraChar": "ゃ"
-  },
-  {
-    "id": 213,
-    "genre": "ポケモンの特性",
-    "question": "駅近",
-    "reading": "えきちか",
-    "answer": "かちき",
-    "extraChar": "え"
-  },
-  {
-    "id": 214,
-    "genre": "ポケモンの特性",
-    "question": "脱ぎたい",
-    "reading": "ぬぎたい",
-    "answer": "ぎたい",
-    "extraChar": "ぬ"
-  },
-  {
-    "id": 215,
-    "genre": "ポケモンの特性",
-    "question": "格好良い世代",
-    "reading": "かっこいいせだい",
-    "answer": "こだいかっせい",
-    "extraChar": "い"
-  },
-  {
-    "id": 216,
-    "genre": "ポケモンの特性",
-    "question": "ミートどっしり盛る",
-    "reading": "みーとどっしりもる",
-    "answer": "リミットシールド",
-    "extraChar": "も"
-  },
-  {
-    "id": 217,
-    "genre": "ポケモンの特性",
-    "question": "寝姿いじり",
-    "reading": "ねすがたいじり",
-    "answer": "すじがねいり",
-    "extraChar": "た"
-  },
-  {
-    "id": 218,
-    "genre": "ポケモンの特性",
-    "question": "円滑にできる",
-    "reading": "えんかつにできる",
-    "answer": "でんきにかえる",
-    "extraChar": "つ"
-  },
-  {
-    "id": 219,
-    "genre": "ポケモンの特性",
-    "question": "違法です",
-    "reading": "いほうです",
-    "answer": "すいほう",
-    "extraChar": "で"
-  },
-  {
-    "id": 220,
-    "genre": "ポケモンの特性",
-    "question": "メイド居留守",
-    "reading": "めいどいるす",
-    "answer": "するどいめ",
-    "extraChar": "い"
-  },
-  {
-    "id": 221,
-    "genre": "ポケモンの特性",
-    "question": "おかんの裏声だ",
-    "reading": "おかんのうらごえだ",
-    "answer": "おうごんのからだ",
-    "extraChar": "え"
-  },
-  {
-    "id": 222,
-    "genre": "ポケモンの特性",
-    "question": "馬券撒き",
-    "reading": "ばけんまき",
-    "answer": "まけんき",
-    "extraChar": "ば"
-  },
-  {
-    "id": 223,
-    "genre": "ポケモンの特性",
     "question": "課金すな！",
     "reading": "かきんすな",
     "answer": "すなかき",
     "extraChar": "ん"
   },
   {
-    "id": 224,
-    "genre": "ポケモンの特性",
-    "question": "黄←漢字表記",
-    "reading": "きかんじひょうき",
-    "answer": "じょうききかん",
-    "extraChar": "ひ"
-  },
-  {
-    "id": 225,
-    "genre": "ポケモンの特性",
-    "question": "泣き散らかすの",
-    "reading": "なきちらかすの",
-    "answer": "すなのちから",
-    "extraChar": "き"
-  },
-  {
-    "id": 226,
-    "genre": "ポケモンの特性",
-    "question": "常時感謝",
-    "reading": "じょうじかんしゃ",
-    "answer": "じしんかじょう",
-    "extraChar": "ゃ"
-  },
-  {
-    "id": 227,
-    "genre": "ポケモンの特性",
-    "question": "社報",
-    "reading": "しゃほう",
-    "answer": "ほうし",
-    "extraChar": "ゃ"
-  },
-  {
-    "id": 228,
-    "genre": "ポケモンの特性",
-    "question": "裸送信",
-    "reading": "はだかそうしん",
-    "answer": "かんそうはだ",
-    "extraChar": "し"
-  },
-  {
-    "id": 229,
-    "genre": "ポケモンの特性",
-    "question": "珍棒だ",
-    "reading": "ちんぼうだ",
-    "answer": "ぼうだん",
-    "extraChar": "ち"
-  },
-  {
-    "id": 230,
-    "genre": "ポケモンの特性",
-    "question": "ガセネタの配信",
-    "reading": "がせねたのはいしん",
-    "answer": "はがねのせいしん",
-    "extraChar": "た"
-  },
-  {
-    "id": 231,
-    "genre": "ポケモンの特性",
-    "question": "ガチお祈りだわ…",
-    "reading": "がちおいのりだわ",
-    "answer": "おわりのだいち",
-    "extraChar": "が"
-  },
-  {
-    "id": 232,
-    "genre": "ポケモンの特性",
-    "question": "異常思想だ",
-    "reading": "いじょうしそうだ",
-    "answer": "そうだいしょう",
-    "extraChar": "じ"
-  },
-  {
-    "id": 233,
-    "genre": "ポケモンの特性",
-    "question": "毎晩イジった",
-    "reading": "まいばんいじった",
-    "answer": "じんばいったい",
-    "extraChar": "ま"
-  },
-  {
-    "id": 234,
-    "genre": "ポケモンの特性",
-    "question": "見つめて",
-    "reading": "圧)（みつめてあつ",
-    "answer": "みつあつめ",
-    "extraChar": "て"
-  },
-  {
-    "id": 235,
-    "genre": "ポケモンの特性",
-    "question": "緋色の雲",
-    "reading": "ひいろのくも",
-    "answer": "ものひろい",
-    "extraChar": "く"
-  },
-  {
-    "id": 236,
-    "genre": "ポケモンの特性",
-    "question": "神な卒論",
-    "reading": "かみなそつろん",
-    "answer": "かんろなミツ",
-    "extraChar": "そ"
-  },
-  {
-    "id": 237,
-    "genre": "ポケモンの特性",
-    "question": "腋チラの視姦",
-    "reading": "わきちらのしかん",
-    "answer": "きんしのちから",
-    "extraChar": "わ"
-  },
-  {
-    "id": 238,
-    "genre": "ポケモンの特性",
-    "question": "神フリゲ",
-    "reading": "かみふりげ",
-    "answer": "かげふみ",
-    "extraChar": "り"
-  },
-  {
-    "id": 239,
-    "genre": "ポケモンの特性",
-    "question": "スマホ無い…",
-    "reading": "すまほない",
-    "answer": "マイナス",
-    "extraChar": "ほ"
-  },
-  {
-    "id": 240,
-    "genre": "ポケモンの特性",
-    "question": "聖書輪読",
-    "reading": "せいしょりんどく",
-    "answer": "せいしんりょく",
-    "extraChar": "ど"
-  },
-  {
-    "id": 241,
-    "genre": "ポケモンの特性",
-    "question": "レート吸う",
-    "reading": "れーとすう",
-    "answer": "トレース",
-    "extraChar": "う"
-  },
-  {
-    "id": 242,
-    "genre": "ポケモンの特性",
-    "question": "いもす法",
-    "reading": "いもすほう",
-    "answer": "すいほう",
-    "extraChar": "も"
-  },
-  {
-    "id": 243,
-    "genre": "ポケモンの特性",
-    "question": "イカの釣り堀",
-    "reading": "いかのつりぼり",
-    "answer": "いかりのつぼ",
-    "extraChar": "り"
-  },
-  {
-    "id": 244,
-    "genre": "ポケモンの特性",
-    "question": "無理、興味無くす",
-    "reading": "むりきょうみなくす",
-    "answer": "きみょうなくすり",
-    "extraChar": "む"
-  },
-  {
-    "id": 245,
-    "genre": "ポケモンの特性",
-    "question": "この絵シコいやろ",
-    "reading": "このえしこいやろ",
-    "answer": "いやしのこころ",
-    "extraChar": "え"
-  },
-  {
-    "id": 246,
-    "genre": "ポケモンの特性",
-    "question": "運極振りです",
-    "reading": "うんきょくふりです",
-    "answer": "ふうりょくでんき",
-    "extraChar": "す"
-  },
-  {
-    "id": 247,
-    "genre": "ポケモンの特性",
-    "question": "パないスリー",
-    "reading": "ぱないすりー",
-    "answer": "スナイパー",
-    "extraChar": "り"
-  },
-  {
-    "id": 248,
-    "genre": "ポケモンの特性",
-    "question": "ワイの技使うわ",
-    "reading": "わいのわざつかうわ",
-    "answer": "わざわいのうつわ",
-    "extraChar": "か"
-  },
-  {
-    "id": 249,
-    "genre": "ポケモンの特性",
-    "question": "へっくしょん！",
-    "reading": "へっくしょん",
-    "answer": "へんしょく",
-    "extraChar": "っ"
-  },
-  {
-    "id": 250,
-    "genre": "ポケモンの特性",
-    "question": "初の鯖立てや",
-    "reading": "はつのさばたてや",
-    "answer": "はやてのつばさ",
-    "extraChar": "た"
-  },
-  {
-    "id": 251,
-    "genre": "ポケモンの特性",
-    "question": "駅に出る時間",
-    "reading": "えきにでるじかん",
-    "answer": "でんきにかえる",
-    "extraChar": "じ"
-  },
-  {
-    "id": 252,
-    "genre": "ポケモンの特性",
-    "question": "こちら、ハイスペック",
-    "reading": "こちらはいすぺっく",
-    "answer": "はらぺこスイッチ",
-    "extraChar": "く"
-  },
-  {
-    "id": 253,
-    "genre": "ポケモンの特性",
-    "question": "架空のオランダ語",
-    "reading": "かくうのおらんだご",
-    "answer": "おうごんのからだ",
-    "extraChar": "く"
-  },
-  {
-    "id": 254,
-    "genre": "ポケモンの特性",
-    "question": "予想は勘だ",
-    "reading": "よそうはかんだ",
-    "answer": "かんそうはだ",
-    "extraChar": "よ"
-  },
-  {
-    "id": 255,
-    "genre": "ポケモンの特性",
-    "question": "重いラブくれー！",
-    "reading": "おもいらぶくれー",
-    "answer": "オーラブレイク",
-    "extraChar": "も"
-  },
-  {
-    "id": 256,
-    "genre": "ポケモンの特性",
-    "question": "禁伝演じる",
-    "reading": "きんでんえんじる",
-    "answer": "でんきエンジン",
-    "extraChar": "る"
-  },
-  {
-    "id": 257,
-    "genre": "ポケモンの特性",
-    "question": "ハッピードクロ",
-    "reading": "はっぴーどくろ",
-    "answer": "ハードロック",
-    "extraChar": "ぴ"
-  },
-  {
-    "id": 258,
-    "genre": "ポケモンの特性",
-    "question": "酒はダメ",
-    "reading": "さけはだめ",
-    "answer": "さめはだ",
-    "extraChar": "け"
-  },
-  {
-    "id": 259,
-    "genre": "ポケモンの特性",
-    "question": "パない記録なの",
-    "reading": "ぱないきろくなの",
-    "answer": "くろのいななき",
-    "extraChar": "ぱ"
-  },
-  {
-    "id": 260,
-    "genre": "ポケモンの特性",
-    "question": "各地の貝殻",
-    "reading": "かくちのかいがら",
-    "answer": "かがくのちから",
-    "extraChar": "い"
-  },
-  {
-    "id": 261,
-    "genre": "ポケモンの特性",
-    "question": "老後ドック行く",
-    "reading": "ろうごどっくいく",
-    "answer": "クイックドロウ",
-    "extraChar": "ご"
-  },
-  {
-    "id": 262,
-    "genre": "ポケモンの特性",
-    "question": "みこはロリ",
-    "reading": "みこはろり",
-    "answer": "はりこみ",
-    "extraChar": "ろ"
-  },
-  {
-    "id": 263,
-    "genre": "ポケモンの特性",
-    "question": "苦行じゃね？",
-    "reading": "くぎょうじゃね",
-    "answer": "ぎゃくじょう",
-    "extraChar": "ね"
-  },
-  {
-    "id": 264,
-    "genre": "ポケモンの特性",
-    "question": "課長連勤",
-    "reading": "かちょうれんきん",
-    "answer": "きんちょうかん",
-    "extraChar": "れ"
-  },
-  {
-    "id": 265,
-    "genre": "ポケモンの特性",
-    "question": "まだ戻るのー？",
-    "reading": "まだもどるのー",
-    "answer": "ダルマモード",
-    "extraChar": "の"
-  },
-  {
-    "id": 266,
-    "genre": "ポケモンの特性",
-    "question": "架空シチュ",
-    "reading": "かくうしちゅ",
-    "answer": "しゅうかく",
-    "extraChar": "ち"
-  },
-  {
-    "id": 267,
-    "genre": "ポケモンの特性",
-    "question": "羽根付かないが？",
-    "reading": "はねつかないが",
-    "answer": "はがねつかい",
-    "extraChar": "な"
-  },
-  {
-    "id": 268,
-    "genre": "ポケモンの特性",
-    "question": "火器・ミサイルばり",
-    "reading": "みさいるばりかき",
-    "answer": "かいりきバサミ",
-    "extraChar": "る"
-  },
-  {
-    "id": 269,
-    "genre": "ポケモンの特性",
-    "question": "蛇は怖い",
-    "reading": "へびはこわい",
-    "answer": "いわはこび",
-    "extraChar": "へ"
-  },
-  {
-    "id": 270,
-    "genre": "ポケモンの特性",
-    "question": "品位あるポーズ",
-    "reading": "ひんいあるぽーず",
-    "answer": "ポイズンヒール",
-    "extraChar": "あ"
-  },
-  {
-    "id": 271,
-    "genre": "ポケモンの特性",
-    "question": "あ、死にゲー",
-    "reading": "あしにげー",
-    "answer": "にげあし",
-    "extraChar": "ー"
-  },
-  {
-    "id": 272,
-    "genre": "ポケモンの特性",
-    "question": "岩のタマゴ技",
-    "reading": "いわのたまごわざ",
-    "answer": "わざわいのたま",
-    "extraChar": "ご"
-  },
-  {
-    "id": 273,
-    "genre": "ポケモンの特性",
-    "question": "上下の音程",
-    "reading": "じょうげのおんてい",
-    "answer": "じょおうのいげん",
-    "extraChar": "て"
-  },
-  {
-    "id": 274,
-    "genre": "ポケモンの特性",
-    "question": "クソデカ",
-    "reading": "くそでか",
-    "answer": "かそく",
-    "extraChar": "で"
-  },
-  {
-    "id": 275,
-    "genre": "ポケモンの特性",
-    "question": "またも復帰",
-    "reading": "またもふっき",
-    "answer": "きもったま",
-    "extraChar": "ふ"
-  },
-  {
-    "id": 276,
-    "genre": "ポケモンの特性",
-    "question": "尊師逃亡",
-    "reading": "そんしとうぼう",
-    "answer": "とうそうしん",
-    "extraChar": "ぼ"
-  },
-  {
-    "id": 277,
-    "genre": "ポケモンの特性",
-    "question": "新語録",
-    "reading": "しんごろく",
-    "answer": "シンクロ",
-    "extraChar": "ご"
-  },
-  {
-    "id": 278,
-    "genre": "ポケモンの特性",
-    "question": "明日フェス、いいね！",
-    "reading": "あすふぇすいいね",
-    "answer": "アイスフェイス",
-    "extraChar": "ね"
-  },
-  {
-    "id": 279,
-    "genre": "ポケモンの特性",
-    "question": "ハンマーのスキル",
-    "reading": "はんまーのすきる",
-    "answer": "ノーマルスキン",
-    "extraChar": "は"
-  },
-  {
-    "id": 280,
-    "genre": "ポケモンの特性",
-    "question": "万馬券",
-    "reading": "まんばけん",
-    "answer": "ばんけん",
-    "extraChar": "ま"
-  },
-  {
-    "id": 281,
-    "genre": "ポケモンの特性",
-    "question": "電波クロック",
-    "reading": "でんぱくろっく",
-    "answer": "パンクロック",
-    "extraChar": "で"
-  },
-  {
-    "id": 282,
-    "genre": "ポケモンの特性",
-    "question": "競馬しろ？ムリ！",
-    "reading": "けいばしろむり",
-    "answer": "しろいけむり",
-    "extraChar": "ば"
-  },
-  {
-    "id": 283,
-    "genre": "ポケモンの特性",
-    "question": "準備なう",
-    "reading": "じゅんびなう",
-    "answer": "じゅうなん",
-    "extraChar": "び"
-  },
-  {
-    "id": 284,
-    "genre": "ポケモンの特性",
-    "question": "課金延長",
-    "reading": "かきんえんちょう",
-    "answer": "きんちょうかん",
-    "extraChar": "え"
-  },
-  {
-    "id": 285,
-    "genre": "ポケモンの特性",
-    "question": "クソ長スレ",
-    "reading": "くそながすれ",
-    "answer": "すながくれ",
-    "extraChar": "そ"
-  },
-  {
-    "id": 286,
-    "genre": "ポケモンの特性",
-    "question": "伝説行き",
-    "reading": "でんせついき",
-    "answer": "せいでんき",
-    "extraChar": "つ"
-  },
-  {
-    "id": 287,
-    "genre": "ポケモンの特性",
-    "question": "愛に失望",
-    "reading": "あいにしつぼう",
-    "answer": "あついしぼう",
-    "extraChar": "に"
-  },
-  {
-    "id": 288,
-    "genre": "ポケモンの特性",
-    "question": "無職そう",
-    "reading": "むしょくそう",
-    "answer": "そうしょく",
-    "extraChar": "む"
-  },
-  {
-    "id": 289,
-    "genre": "ポケモンの特性",
-    "question": "火星植林",
-    "reading": "かせいしょくりん",
-    "answer": "せいしんりょく",
-    "extraChar": "か"
-  },
-  {
-    "id": 290,
-    "genre": "ポケモンの特性",
-    "question": "減点ね",
-    "reading": "げんてんね",
-    "answer": "てんねん",
-    "extraChar": "げ"
-  },
-  {
-    "id": 291,
-    "genre": "ポケモンの特性",
-    "question": "忙殺、寝そう…",
-    "reading": "ぼうさつねそう",
-    "answer": "ねつぼうそう",
-    "extraChar": "さ"
-  },
-  {
-    "id": 292,
-    "genre": "ポケモンの特性",
-    "question": "貯金交換",
-    "reading": "ちょきんこうかん",
-    "answer": "きんちょうかん",
-    "extraChar": "こ"
-  },
-  {
-    "id": 293,
-    "genre": "ポケモンの特性",
-    "question": "ミステリ",
-    "reading": "みすてり",
-    "answer": "すてみ",
-    "extraChar": "り"
-  },
-  {
-    "id": 294,
-    "genre": "ポケモンの特性",
-    "question": "仮装衣装だ",
-    "reading": "かそういしょうだ",
-    "answer": "そうだいしょう",
-    "extraChar": "か"
-  },
-  {
-    "id": 295,
-    "genre": "ポケモンの特性",
-    "question": "講義ナーフしろ",
-    "reading": "こうぎなーふしろ",
-    "answer": "ふしぎなうろこ",
-    "extraChar": "ー"
-  },
-  {
-    "id": 296,
-    "genre": "ポケモンの特性",
-    "question": "外道諸国",
-    "reading": "げどうしょこく",
-    "answer": "どくげしょう",
-    "extraChar": "こ"
-  },
-  {
-    "id": 297,
-    "genre": "ポケモンの特性",
-    "question": "食いかけ",
-    "reading": "くいかけ",
-    "answer": "いかく",
-    "extraChar": "け"
-  },
-  {
-    "id": 298,
-    "genre": "ポケモンの特性",
-    "question": "脛かじりガイ",
-    "reading": "すねかじりがい",
-    "answer": "すじがねいり",
-    "extraChar": "か"
-  },
-  {
-    "id": 299,
-    "genre": "ポケモンの特性",
-    "question": "急に下痢",
-    "reading": "きゅうにげり",
-    "answer": "げきりゅう",
-    "extraChar": "に"
-  },
-  {
-    "id": 300,
-    "genre": "ポケモンの特性",
-    "question": "マジ危険",
-    "reading": "まじきけん",
-    "answer": "まけんき",
-    "extraChar": "じ"
-  },
-  {
-    "id": 301,
-    "genre": "ポケモンの特性",
-    "question": "トライの公理か",
-    "reading": "とらいのこうりか",
-    "answer": "いかりのこうら",
-    "extraChar": "と"
-  },
-  {
-    "id": 302,
-    "genre": "ポケモンの特性",
-    "question": "どう？ロックでいく？",
-    "reading": "どうろっくでいく",
-    "answer": "クイックドロウ",
-    "extraChar": "で"
-  },
-  {
-    "id": 303,
-    "genre": "ポケモンの特性",
-    "question": "ま、泣けよ",
-    "reading": "まなけよ",
-    "answer": "なまけ",
-    "extraChar": "よ"
-  },
-  {
-    "id": 304,
-    "genre": "ポケモンの特性",
-    "question": "あれ？居ました？",
-    "reading": "あれいました",
-    "answer": "いしあたま",
-    "extraChar": "れ"
-  },
-  {
-    "id": 305,
-    "genre": "ポケモンの特性",
-    "question": "酸っぱいなー",
-    "reading": "すっぱいなー",
-    "answer": "スナイパー",
-    "extraChar": "っ"
-  },
-  {
-    "id": 306,
-    "genre": "ポケモンの特性",
-    "question": "壊し、直す",
-    "reading": "こわしなおす",
-    "answer": "すなおこし",
-    "extraChar": "わ"
-  },
-  {
-    "id": 307,
-    "genre": "ポケモンの特性",
-    "question": "迷彩エコカー",
-    "reading": "めいさいえこかー",
-    "answer": "サイコメイカー",
-    "extraChar": "え"
-  },
-  {
-    "id": 308,
-    "genre": "ポケモンの特性",
-    "question": "火星一戸建て",
-    "reading": "かせいいっこだて",
-    "answer": "こだいかっせい",
-    "extraChar": "て"
-  },
-  {
-    "id": 309,
-    "genre": "ポケモンの特性",
-    "question": "裏切りの解雇",
-    "reading": "うらぎりのかいこ",
-    "answer": "いかりのこうら",
-    "extraChar": "ぎ"
-  },
-  {
-    "id": 310,
-    "genre": "ポケモンの特性",
-    "question": "炎上期",
-    "reading": "えんじょうき",
-    "answer": "きょうえん",
-    "extraChar": "じ"
-  },
-  {
-    "id": 311,
-    "genre": "ポケモンの特性",
-    "question": "金ピカのチラシ",
-    "reading": "きんぴかのちらし",
-    "answer": "きんしのちから",
-    "extraChar": "ぴ"
-  },
-  {
-    "id": 312,
-    "genre": "ポケモンの特性",
-    "question": "製処理タンク",
-    "reading": "せいしょりたんく",
-    "answer": "せいしんりょく",
-    "extraChar": "た"
-  },
-  {
-    "id": 313,
-    "genre": "ポケモンの特性",
-    "question": "麻雀士",
-    "reading": "まーじゃんし",
-    "answer": "マジシャン",
-    "extraChar": "ー"
-  },
-  {
-    "id": 314,
-    "genre": "ポケモンの特性",
-    "question": "パーが弱い",
-    "reading": "ぱーがよわい",
-    "answer": "ヨガパワー",
-    "extraChar": "い"
-  },
-  {
-    "id": 315,
-    "genre": "ポケモンの特性",
-    "question": "ネタ追加",
-    "reading": "ねたついか",
-    "answer": "たいねつ",
-    "extraChar": "か"
-  },
-  {
-    "id": 316,
-    "genre": "ポケモンの特性",
-    "question": "嘘!?ショック…",
-    "reading": "うそしょっく",
-    "answer": "そうしょく",
-    "extraChar": "っ"
-  },
-  {
-    "id": 317,
-    "genre": "ポケモンの特性",
-    "question": "トキ守った",
-    "reading": "ときまもった",
-    "answer": "きもったま",
-    "extraChar": "と"
-  },
-  {
-    "id": 318,
-    "genre": "ポケモンの特性",
-    "question": "婚活寝坊",
-    "reading": "こんかつねぼう",
-    "answer": "ねつこうかん",
-    "extraChar": "ぼ"
-  },
-  {
-    "id": 319,
-    "genre": "ポケモンの特性",
-    "question": "還暦エキス",
-    "reading": "かんれきえきす",
-    "answer": "エレキスキン",
-    "extraChar": "か"
-  },
-  {
-    "id": 320,
-    "genre": "ポケモンの特性",
-    "question": "酔う沙花叉姉妹",
-    "reading": "ようさかまたしまい",
-    "answer": "さまようたましい",
-    "extraChar": "か"
-  },
-  {
-    "id": 321,
-    "genre": "ポケモンの特性",
-    "question": "おい、裏ボス居る",
-    "reading": "おいうらぼすいる",
-    "answer": "うるおいボイス",
-    "extraChar": "ら"
-  },
-  {
-    "id": 322,
-    "genre": "ポケモンの特性",
-    "question": "データ採りニムする",
-    "reading": "でーたとりにむする",
-    "answer": "デルタストリーム",
-    "extraChar": "に"
-  },
-  {
-    "id": 323,
-    "genre": "ポケモンの特性",
-    "question": "スタートまるで無理",
-    "reading": "すたーとまるでむり",
-    "answer": "デルタストリーム",
-    "extraChar": "ま"
-  },
-  {
-    "id": 324,
-    "genre": "ポケモンの特性",
-    "question": "さきいかバリ神",
-    "reading": "さきいかばりかみ",
-    "answer": "かいりきバサミ",
-    "extraChar": "か"
-  },
-  {
-    "id": 325,
-    "genre": "ポケモンの特性",
-    "question": "枕が地っ味ー",
-    "reading": "まくらがじっみー",
-    "answer": "マジックミラー",
-    "extraChar": "が"
-  },
-  {
-    "id": 326,
-    "genre": "ポケモンの特性",
-    "question": "グーパン一振り、死",
-    "reading": "ぐーぱんひとふりし",
-    "answer": "ヒーリングシフト",
-    "extraChar": "ぱ"
-  },
-  {
-    "id": 327,
-    "genre": "ポケモンの特性",
-    "question": "悪ノリかも",
-    "reading": "わるのりかも",
-    "answer": "かわりもの",
-    "extraChar": "る"
-  },
-  {
-    "id": 328,
-    "genre": "ポケモンの特性",
-    "question": "面倒だろー？",
-    "reading": "めんどうだろー",
-    "answer": "ダウンロード",
-    "extraChar": "め"
-  },
-  {
-    "id": 329,
-    "genre": "ポケモンの特性",
-    "question": "仮装は無断",
-    "reading": "かそうはむだん",
-    "answer": "かんそうはだ",
-    "extraChar": "む"
-  },
-  {
-    "id": 330,
-    "genre": "ポケモンの特性",
-    "question": "根流しの反省",
-    "reading": "ねながしのはんせい",
-    "answer": "はがねのせいしん",
-    "extraChar": "な"
-  },
-  {
-    "id": 331,
-    "genre": "ポケモンの特性",
-    "question": "メダカとスイミー",
-    "reading": "めだかとすいみー",
-    "answer": "ミストメイカー",
-    "extraChar": "だ"
-  },
-  {
-    "id": 332,
-    "genre": "ポケモンの特性",
-    "question": "人事正気か！？",
-    "reading": "じんじしょうきか",
-    "answer": "じしんかじょう",
-    "extraChar": "き"
-  },
-  {
-    "id": 333,
-    "genre": "ポケモンの特性",
-    "question": "防水オプ要る？",
-    "reading": "ぼうすいおぷいる",
-    "answer": "うるおいボイス",
-    "extraChar": "ぷ"
-  },
-  {
-    "id": 334,
-    "genre": "ポケモンの特性",
-    "question": "冷凍室",
-    "reading": "れいとうしつ",
-    "answer": "しれいとう",
-    "extraChar": "つ"
-  },
-  {
-    "id": 335,
-    "genre": "ポケモンの特性",
-    "question": "ばちっとスマイル",
-    "reading": "ばちっとすまいる",
-    "answer": "バトルスイッチ",
-    "extraChar": "ま"
-  },
-  {
-    "id": 336,
-    "genre": "ポケモンの特性",
-    "question": "イッチ、レスバトル",
-    "reading": "いっちれすばとる",
-    "answer": "バトルスイッチ",
-    "extraChar": "れ"
-  },
-  {
-    "id": 337,
-    "genre": "ポケモンの特性",
-    "question": "異国の殺し屋",
-    "reading": "いこくのころしや",
-    "answer": "いやしのこころ",
-    "extraChar": "く"
-  },
-  {
-    "id": 338,
-    "genre": "ポケモンの特性",
-    "question": "しーー！バレる！",
-    "reading": "しーーばれる",
-    "answer": "レシーバー",
-    "extraChar": "る"
-  },
-  {
-    "id": 339,
-    "genre": "ポケモンの特性",
-    "question": "さーて、A振る",
-    "reading": "さーてえーふる",
-    "answer": "サーフテール",
-    "extraChar": "え"
-  },
-  {
-    "id": 340,
-    "genre": "ポケモンの特性",
-    "question": "黒い猛毒っ",
-    "reading": "くろいもうどくっ",
-    "answer": "クイックドロウ",
-    "extraChar": "も"
-  },
-  {
-    "id": 341,
-    "genre": "ポケモンの特性",
-    "question": "ヤタピ被り",
-    "reading": "やたぴかぶり",
-    "answer": "かたやぶり",
-    "extraChar": "ぴ"
-  },
-  {
-    "id": 342,
-    "genre": "ポケモンの特性",
-    "question": "コオロギの個性",
-    "reading": "こおろぎのこせい",
-    "answer": "せいぎのこころ",
-    "extraChar": "お"
-  },
-  {
-    "id": 343,
-    "genre": "ポケモンの特性",
-    "question": "陰陽師の芸",
-    "reading": "おんみょうじのげい",
-    "answer": "じょおうのいげん",
-    "extraChar": "み"
-  },
-  {
-    "id": 344,
-    "genre": "ポケモンの特性",
-    "question": "嘘詠唱だ",
-    "reading": "うそえいしょうだ",
-    "answer": "そうだいしょう",
-    "extraChar": "え"
-  },
-  {
-    "id": 345,
-    "genre": "ポケモンの特性",
-    "question": "2つ目のテク",
-    "reading": "ふたつめのてく",
-    "answer": "ふくつのたて",
-    "extraChar": "め"
-  },
-  {
-    "id": 346,
-    "genre": "ポケモンの特性",
-    "question": "半素数",
-    "reading": "はんそすう",
-    "answer": "はんすう",
-    "extraChar": "そ"
-  },
-  {
-    "id": 347,
-    "genre": "ポケモンの特性",
-    "question": "全てパルクール",
-    "reading": "すべてぱるくーる",
-    "answer": "パステルベール",
-    "extraChar": "く"
-  },
-  {
-    "id": 348,
-    "genre": "ポケモンの特性",
-    "question": "湯豆腐",
-    "reading": "ゆどうふ",
-    "answer": "ふゆう",
-    "extraChar": "ど"
-  },
-  {
-    "id": 349,
-    "genre": "ポケモンの特性",
-    "question": "むしろ理科系",
-    "reading": "むしろりかけい",
-    "answer": "しろいけむり",
-    "extraChar": "か"
-  },
-  {
-    "id": 350,
-    "genre": "ポケモンの特性",
-    "question": "Abemaローカル",
-    "reading": "あべまろーかる",
-    "answer": "アロマベール",
-    "extraChar": "か"
-  },
-  {
-    "id": 351,
-    "genre": "ポケモンの特性",
-    "question": "イカサマした馬よ",
-    "reading": "いかさましたうまよ",
-    "answer": "さまようたましい",
-    "extraChar": "か"
-  },
-  {
-    "id": 352,
-    "genre": "ポケモンの特性",
-    "question": "これ正解だっ！",
-    "reading": "これせいかいだっ",
-    "answer": "こだいかっせい",
-    "extraChar": "れ"
-  },
-  {
-    "id": 353,
-    "genre": "ポケモンの特性",
-    "question": "常微分",
-    "reading": "じょうびぶん",
-    "answer": "びんじょう",
-    "extraChar": "ぶ"
-  },
-  {
-    "id": 354,
-    "genre": "ポケモンの特性",
-    "question": "ばっちいラルトス",
-    "reading": "ばっちいらるとす",
-    "answer": "バトルスイッチ",
-    "extraChar": "ら"
-  },
-  {
-    "id": 355,
-    "genre": "ポケモンの特性",
-    "question": "異次元のお経",
-    "reading": "いじげんのおきょう",
-    "answer": "じょおうのいげん",
-    "extraChar": "き"
-  },
-  {
-    "id": 356,
-    "genre": "ポケモンの特性",
-    "question": "花エキス",
-    "reading": "はなえきす",
-    "answer": "すなはき",
-    "extraChar": "え"
-  },
-  {
-    "id": 357,
-    "genre": "ポケモンの特性",
-    "question": "蟹エキス出るん？",
-    "reading": "かにえきすでるん",
-    "answer": "でんきにかえる",
-    "extraChar": "す"
-  },
-  {
-    "id": 358,
-    "genre": "ポケモンの特性",
-    "question": "資格厨",
-    "reading": "しかくちゅう",
-    "answer": "しゅうかく",
-    "extraChar": "ち"
-  },
-  {
-    "id": 359,
-    "genre": "ポケモンの特性",
-    "question": "酒の疑惑が",
-    "reading": "さけのぎわくが",
-    "answer": "くさのけがわ",
-    "extraChar": "ぎ"
-  },
-  {
-    "id": 360,
-    "genre": "ポケモンの特性",
-    "question": "6Vだけ選る",
-    "reading": "ろくぶいだけよる",
-    "answer": "くだけるよろい",
-    "extraChar": "ぶ"
-  },
-  {
-    "id": 361,
-    "genre": "ポケモンの特性",
-    "question": "未テラス",
-    "reading": "みてらす",
-    "answer": "すてみ",
-    "extraChar": "ら"
-  },
-  {
-    "id": 362,
-    "genre": "ポケモンの特性",
-    "question": "茎が揺れる",
-    "reading": "くきがゆれる",
-    "answer": "ゆきがくれ",
-    "extraChar": "る"
-  },
-  {
-    "id": 363,
-    "genre": "ポケモンの特性",
-    "question": "デュエル人気か",
-    "reading": "でゅえるにんきか",
-    "answer": "でんきにかえる",
-    "extraChar": "ゅ"
-  },
-  {
-    "id": 364,
-    "genre": "ポケモンの特性",
-    "question": "投機熟慮",
-    "reading": "とうきじゅくりょ",
-    "answer": "じきゅうりょく",
-    "extraChar": "と"
-  },
-  {
-    "id": 365,
-    "genre": "ポケモンの特性",
-    "question": "新パジャマ",
-    "reading": "しんぱじゃま",
-    "answer": "マジシャン",
-    "extraChar": "ぱ"
-  },
-  {
-    "id": 366,
-    "genre": "ポケモンの特性",
-    "question": "鬼火入れないと",
-    "reading": "おにびいれないと",
-    "answer": "とれないにおい",
-    "extraChar": "び"
-  },
-  {
-    "id": 367,
-    "genre": "ポケモンの特性",
-    "question": "あたし迷子",
-    "reading": "あたしまいご",
-    "answer": "いしあたま",
-    "extraChar": "ご"
-  },
-  {
-    "id": 368,
-    "genre": "ポケモンの特性",
-    "question": "良い大人になれ",
-    "reading": "いいおとなになれ",
-    "answer": "とれないにおい",
-    "extraChar": "な"
-  },
-  {
-    "id": 369,
-    "genre": "ポケモンの特性",
-    "question": "即勝利",
-    "reading": "そくしょうり",
-    "answer": "そうしょく",
-    "extraChar": "り"
-  },
-  {
-    "id": 370,
-    "genre": "ポケモンの特性",
-    "question": "まー愛してるー",
-    "reading": "まーあいしてるー",
-    "answer": "テイルアーマー",
-    "extraChar": "し"
-  },
-  {
-    "id": 371,
-    "genre": "ポケモンの特性",
-    "question": "支援邪魔",
-    "reading": "しえんじゃま",
-    "answer": "マジシャン",
-    "extraChar": "え"
-  },
-  {
-    "id": 372,
-    "genre": "ポケモンの特性",
-    "question": "くしゃみ2点",
-    "reading": "くしゃみにてん",
-    "answer": "テクニシャン",
-    "extraChar": "み"
-  },
-  {
-    "id": 373,
-    "genre": "ポケモンの特性",
-    "question": "VRテーマ",
-    "reading": "ぶいあーるてーま",
-    "answer": "テイルアーマー",
-    "extraChar": "ぶ"
-  },
-  {
-    "id": 374,
-    "genre": "ポケモンの特性",
-    "question": "豆腐の研磨",
-    "reading": "とうふのけんま",
-    "answer": "ふとうのけん",
-    "extraChar": "ま"
-  },
-  {
-    "id": 375,
-    "genre": "ポケモンの特性",
-    "question": "ガンメタ済み",
-    "reading": "がんめたずみ",
-    "answer": "みずがため",
-    "extraChar": "ん"
-  },
-  {
-    "id": 376,
-    "genre": "ポケモンの特性",
-    "question": "手抜きやん",
-    "reading": "てぬきやん",
-    "answer": "てんきや",
-    "extraChar": "ぬ"
-  },
-  {
-    "id": 377,
-    "genre": "ポケモンの特性",
-    "question": "エルデンに課金",
-    "reading": "えるでんにかきん",
-    "answer": "でんきにかえる",
-    "extraChar": "ん"
-  },
-  {
-    "id": 378,
-    "genre": "ポケモンの特性",
-    "question": "あー今寝てるー",
-    "reading": "あーいまねてるー",
-    "answer": "テイルアーマー",
-    "extraChar": "ね"
-  },
-  {
-    "id": 379,
-    "genre": "ポケモンの特性",
-    "question": "2舞する？ケチる？",
-    "reading": "にまいするけちる",
-    "answer": "マルチスケイル",
-    "extraChar": "に"
-  },
-  {
-    "id": 380,
-    "genre": "ポケモンの特性",
-    "question": "愚息どつく",
-    "reading": "ぐそくどつく",
-    "answer": "どくくぐつ",
-    "extraChar": "そ"
-  },
-  {
-    "id": 381,
-    "genre": "ポケモンの特性",
-    "question": "親の飯、良き",
-    "reading": "おやのめしよき",
-    "answer": "きよめのしお",
-    "extraChar": "や"
-  },
-  {
-    "id": 382,
-    "genre": "ポケモンの特性",
-    "question": "暴飲食",
-    "reading": "ぼういんしょく",
-    "answer": "くいしんぼう",
-    "extraChar": "ょ"
-  },
-  {
-    "id": 383,
-    "genre": "ポケモンの特性",
-    "question": "相棒ディス",
-    "reading": "あいぼうでぃす",
-    "answer": "アイスボディ",
-    "extraChar": "う"
-  },
-  {
-    "id": 384,
-    "genre": "ポケモンの特性",
-    "question": "狡猾やねん",
-    "reading": "こうかつやねん",
-    "answer": "ねつこうかん",
-    "extraChar": "や"
-  },
-  {
-    "id": 385,
-    "genre": "ポケモンの特性",
-    "question": "ドンだー次郎",
-    "reading": "どんだーじろう",
-    "answer": "ダウンロード",
-    "extraChar": "じ"
-  },
-  {
-    "id": 386,
-    "genre": "ポケモンの特性",
-    "question": "巣、崩壊",
-    "reading": "すほうかい",
-    "answer": "すいほう",
-    "extraChar": "か"
-  },
-  {
-    "id": 387,
-    "genre": "ポケモンの特性",
-    "question": "いくぜ！フル進化！",
-    "reading": "いくぜふるしんか",
-    "answer": "しぜんかいふく",
-    "extraChar": "る"
-  },
-  {
-    "id": 388,
-    "genre": "ポケモンの特性",
-    "question": "わかめの森",
-    "reading": "わかめのもり",
-    "answer": "かわりもの",
-    "extraChar": "め"
-  },
-  {
-    "id": 389,
-    "genre": "ポケモンの特性",
-    "question": "裏ノリでいこか",
-    "reading": "うらのりでいこか",
-    "answer": "いかりのこうら",
-    "extraChar": "で"
-  },
-  {
-    "id": 390,
-    "genre": "ポケモンの特性",
-    "question": "炒めると楽",
-    "reading": "いためるとらく",
-    "answer": "ライトメタル",
-    "extraChar": "く"
-  },
-  {
-    "id": 391,
-    "genre": "ポケモンの特性",
-    "question": "信徒暴走",
-    "reading": "しんとぼうそう",
-    "answer": "とうそうしん",
-    "extraChar": "ぼ"
-  },
-  {
-    "id": 392,
-    "genre": "ポケモンの特性",
-    "question": "ばっちり吸い取る",
-    "reading": "ばっちりすいとる",
-    "answer": "バトルスイッチ",
-    "extraChar": "り"
-  },
-  {
-    "id": 393,
-    "genre": "ポケモンの特性",
-    "question": "石連投",
-    "reading": "いしれんとう",
-    "answer": "しれいとう",
-    "extraChar": "ん"
-  },
-  {
-    "id": 394,
-    "genre": "ポケモンの特性",
-    "question": "探知機避け",
-    "reading": "たんちきよけ",
-    "answer": "きけんよち",
-    "extraChar": "た"
-  },
-  {
-    "id": 395,
-    "genre": "ポケモンの特性",
-    "question": "まずい茄子",
-    "reading": "まずいなす",
-    "answer": "マイナス",
-    "extraChar": "ず"
-  },
-  {
-    "id": 396,
-    "genre": "ポケモンの特性",
-    "question": "言葉一致する",
-    "reading": "ことばいっちする",
-    "answer": "バトルスイッチ",
-    "extraChar": "こ"
-  },
-  {
-    "id": 397,
-    "genre": "ポケモンの特性",
-    "question": "また愛して",
-    "reading": "またあいして",
-    "answer": "いしあたま",
-    "extraChar": "て"
-  },
-  {
-    "id": 398,
-    "genre": "ポケモンの特性",
-    "question": "倒産しそう…",
-    "reading": "とうさんしそう",
-    "answer": "とうそうしん",
-    "extraChar": "さ"
-  },
-  {
-    "id": 399,
-    "genre": "ポケモンの特性",
-    "question": "冷たい肩",
-    "reading": "つめたいかた",
-    "answer": "かたいつめ",
-    "extraChar": "た"
-  },
-  {
-    "id": 400,
-    "genre": "ポケモンの特性",
-    "question": "どエロい癖",
-    "reading": "どえろいへき",
-    "answer": "ヘドロえき",
-    "extraChar": "い"
-  },
-  {
-    "id": 401,
-    "genre": "ポケモンの特性",
-    "question": "まるころベアー",
-    "reading": "まるころべあー",
-    "answer": "アロマベール",
-    "extraChar": "こ"
-  },
-  {
-    "id": 402,
-    "genre": "ポケモンの特性",
-    "question": "図鑑は嘘だ",
-    "reading": "ずかんはうそだ",
-    "answer": "かんそうはだ",
-    "extraChar": "ず"
-  },
-  {
-    "id": 403,
-    "genre": "ポケモンの特性",
-    "question": "元気なへずま",
-    "reading": "げんきなへずま",
-    "answer": "きずなへんげ",
-    "extraChar": "ま"
-  },
-  {
-    "id": 404,
-    "genre": "ポケモンの特性",
-    "question": "丸焼き",
-    "reading": "まるやき",
-    "answer": "やるき",
-    "extraChar": "ま"
-  },
-  {
-    "id": 405,
-    "genre": "ポケモンの特性",
-    "question": "スカンクが屁嗅がす",
-    "reading": "すかんくがへかがす",
-    "answer": "かがくへんかガス",
-    "extraChar": "す"
-  },
-  {
-    "id": 406,
-    "genre": "ポケモンの特性",
-    "question": "小沢の不正だわ",
-    "reading": "おざわのふせいだわ",
-    "answer": "わざわいのおふだ",
-    "extraChar": "せ"
-  },
-  {
-    "id": 407,
-    "genre": "ポケモンの特性",
-    "question": "一斉カキコだ",
-    "reading": "いっせいかきこだ",
-    "answer": "こだいかっせい",
-    "extraChar": "き"
-  },
-  {
-    "id": 408,
-    "genre": "ポケモンの特性",
-    "question": "甘しいたけ",
-    "reading": "あましいたけ",
-    "answer": "いしあたま",
-    "extraChar": "け"
-  },
-  {
-    "id": 409,
-    "genre": "ポケモンの特性",
-    "question": "この広い土俵",
-    "reading": "このひろいどひょう",
-    "answer": "ひひいろのこどう",
-    "extraChar": "ょ"
-  },
-  {
-    "id": 410,
-    "genre": "ポケモンの特性",
-    "question": "光のライコウ",
-    "reading": "ひかりのらいこう",
-    "answer": "いかりのこうら",
-    "extraChar": "ひ"
-  },
-  {
-    "id": 411,
-    "genre": "ポケモンの特性",
-    "question": "琵琶湖入ろ",
-    "reading": "びわこはいろ",
-    "answer": "いわはこび",
-    "extraChar": "ろ"
-  },
-  {
-    "id": 412,
-    "genre": "ポケモンの特性",
-    "question": "歯が耐熱化",
-    "reading": "はがたいねつか",
-    "answer": "はがねつかい",
-    "extraChar": "た"
-  },
-  {
-    "id": 413,
-    "genre": "ポケモンの特性",
-    "question": "野次馬の見張り",
-    "reading": "やじうまのみはり",
-    "answer": "はじまりのうみ",
-    "extraChar": "や"
-  },
-  {
-    "id": 414,
-    "genre": "ポケモンの特性",
-    "question": "メンハ吸う",
-    "reading": "めんはすう",
-    "answer": "はんすう",
-    "extraChar": "め"
-  },
-  {
-    "id": 415,
-    "genre": "ポケモンの特性",
-    "question": "中指出す美兎",
-    "reading": "なかゆびだすみと",
-    "answer": "とびだすなかみ",
-    "extraChar": "ゆ"
-  },
-  {
-    "id": 416,
-    "genre": "ポケモンの特性",
-    "question": "メガネ開発",
-    "reading": "めがねかいはつ",
-    "answer": "はがねつかい",
-    "extraChar": "め"
-  },
-  {
-    "id": 417,
-    "genre": "ポケモンの特性",
-    "question": "緊迫スリル",
-    "reading": "きんぱくすりる",
-    "answer": "スキルリンク",
-    "extraChar": "ぱ"
-  },
-  {
-    "id": 418,
-    "genre": "ポケモンの特性",
-    "question": "機械拒否",
-    "reading": "きかいきょひ",
-    "answer": "ききかいひ",
-    "extraChar": "ょ"
-  },
-  {
-    "id": 419,
-    "genre": "ポケモンの特性",
-    "question": "闇深げ",
-    "reading": "やみふかげ",
-    "answer": "かげふみ",
-    "extraChar": "や"
-  },
-  {
-    "id": 420,
-    "genre": "ポケモンの特性",
-    "question": "諸法則",
-    "reading": "しょほうそく",
-    "answer": "そうしょく",
-    "extraChar": "ほ"
-  },
-  {
-    "id": 421,
-    "genre": "ポケモンの特性",
-    "question": "全マシじゃ！",
-    "reading": "ぜんましじゃ",
-    "answer": "マジシャン",
-    "extraChar": "ぜ"
-  },
-  {
-    "id": 422,
-    "genre": "ポケモンの特性",
-    "question": "ライフル止めた",
-    "reading": "らいふるとめた",
-    "answer": "ライトメタル",
-    "extraChar": "ふ"
-  },
-  {
-    "id": 423,
-    "genre": "ポケモンの特性",
-    "question": "延期やて",
-    "reading": "えんきやて",
-    "answer": "てんきや",
-    "extraChar": "え"
-  },
-  {
-    "id": 424,
-    "genre": "ポケモンの特性",
-    "question": "早よ詫び来い",
-    "reading": "はよわびこい",
-    "answer": "いわはこび",
-    "extraChar": "よ"
-  },
-  {
-    "id": 425,
-    "genre": "ポケモンの特性",
-    "question": "根っこ這う",
-    "reading": "ねっこはう",
-    "answer": "はっこう",
-    "extraChar": "ね"
-  },
-  {
-    "id": 426,
-    "genre": "ポケモンの特性",
-    "question": "飴とナイフ",
-    "reading": "あめとないふ",
-    "answer": "ナイトメア",
-    "extraChar": "ふ"
-  },
-  {
-    "id": 427,
-    "genre": "ポケモンの特性",
-    "question": "歩数計",
-    "reading": "ほすうけい",
-    "answer": "すいほう",
-    "extraChar": "け"
-  },
-  {
-    "id": 428,
-    "genre": "ポケモンの特性",
-    "question": "なんか見つけろ",
-    "reading": "なんかみつけろ",
-    "answer": "かんろなミツ",
-    "extraChar": "け"
-  },
-  {
-    "id": 429,
+    "id": 24,
     "genre": "ポケモンの特性",
     "question": "早押し「あ」",
     "reading": "はやおしあ",
@@ -3432,119 +192,15 @@
     "extraChar": "お"
   },
   {
-    "id": 430,
+    "id": 25,
     "genre": "ポケモンの特性",
-    "question": "すごーい！飛べるー！",
-    "reading": "すごーいとべるー",
-    "answer": "スイートベール",
-    "extraChar": "ご"
+    "question": "違法です",
+    "reading": "いほうです",
+    "answer": "すいほう",
+    "extraChar": "で"
   },
   {
-    "id": 431,
-    "genre": "ポケモンの特性",
-    "question": "織田からの拷問",
-    "reading": "おだからのごうもん",
-    "answer": "おうごんのからだ",
-    "extraChar": "も"
-  },
-  {
-    "id": 432,
-    "genre": "ポケモンの特性",
-    "question": "嬉しい時",
-    "reading": "うれしいとき",
-    "answer": "しれいとう",
-    "extraChar": "き"
-  },
-  {
-    "id": 433,
-    "genre": "ポケモンの特性",
-    "question": "モスラの勝ちな",
-    "reading": "もすらのかちな",
-    "answer": "すなのちから",
-    "extraChar": "も"
-  },
-  {
-    "id": 434,
-    "genre": "ポケモンの特性",
-    "question": "海賊",
-    "reading": "かいぞく",
-    "answer": "いかく",
-    "extraChar": "ぞ"
-  },
-  {
-    "id": 435,
-    "genre": "ポケモンの特性",
-    "question": "何これ？いい音",
-    "reading": "なにこれいいおと",
-    "answer": "とれないにおい",
-    "extraChar": "こ"
-  },
-  {
-    "id": 436,
-    "genre": "ポケモンの特性",
-    "question": "気怠くほろ酔い",
-    "reading": "けだるくほろよい",
-    "answer": "くだけるよろい",
-    "extraChar": "ほ"
-  },
-  {
-    "id": 437,
-    "genre": "ポケモンの特性",
-    "question": "コード明快さ",
-    "reading": "こーどめいかいさ",
-    "answer": "サイコメイカー",
-    "extraChar": "ど"
-  },
-  {
-    "id": 438,
-    "genre": "ポケモンの特性",
-    "question": "無茶よ",
-    "reading": "むちゃよ",
-    "answer": "よちむ",
-    "extraChar": "ゃ"
-  },
-  {
-    "id": 439,
-    "genre": "ポケモンの特性",
-    "question": "パインサワー",
-    "reading": "ぱいんさわー",
-    "answer": "サンパワー",
-    "extraChar": "い"
-  },
-  {
-    "id": 440,
-    "genre": "ポケモンの特性",
-    "question": "昆布使うね",
-    "reading": "こんぶつかうね",
-    "answer": "ねつこうかん",
-    "extraChar": "ぶ"
-  },
-  {
-    "id": 441,
-    "genre": "ポケモンの特性",
-    "question": "真逆の味",
-    "reading": "まぎゃくのあじ",
-    "answer": "あまのじゃく",
-    "extraChar": "ぎ"
-  },
-  {
-    "id": 442,
-    "genre": "ポケモンの特性",
-    "question": "ガチの滑落か",
-    "reading": "がちのかつらくか",
-    "answer": "かがくのちから",
-    "extraChar": "つ"
-  },
-  {
-    "id": 443,
-    "genre": "ポケモンの特性",
-    "question": "ぷりんぷりんのおこ",
-    "reading": "ぷりんぷりんのおこ",
-    "answer": "こおりのりんぷん",
-    "extraChar": "り"
-  },
-  {
-    "id": 444,
+    "id": 26,
     "genre": "ポケモンの特性",
     "question": "見た目いかつ！",
     "reading": "みためいかつ",
@@ -3552,7 +208,223 @@
     "extraChar": "み"
   },
   {
-    "id": 445,
+    "id": 27,
+    "genre": "ポケモンの特性",
+    "question": "ミートどっしり盛る",
+    "reading": "みーとどっしりもる",
+    "answer": "リミットシールド",
+    "extraChar": "も"
+  },
+  {
+    "id": 28,
+    "genre": "ポケモンの特性",
+    "question": "どうだー！論破！",
+    "reading": "どうだーろんぱ",
+    "answer": "ダウンロード",
+    "extraChar": "ぱ"
+  },
+  {
+    "id": 29,
+    "genre": "ポケモンの特性",
+    "question": "乳揉みから",
+    "reading": "ちちもみから",
+    "answer": "ちからもち",
+    "extraChar": "み"
+  },
+  {
+    "id": 30,
+    "genre": "ポケモンの特性",
+    "question": "晩酌にて",
+    "reading": "ばんしゃくにて",
+    "answer": "テクニシャン",
+    "extraChar": "ば"
+  },
+  {
+    "id": 31,
+    "genre": "ポケモンの特性",
+    "question": "競馬しろ？ムリ！",
+    "reading": "けいばしろむり",
+    "answer": "しろいけむり",
+    "extraChar": "ば"
+  },
+  {
+    "id": 32,
+    "genre": "ポケモンの特性",
+    "question": "浮気よ",
+    "reading": "うわきよ",
+    "answer": "よわき",
+    "extraChar": "う"
+  },
+  {
+    "id": 33,
+    "genre": "ポケモンの特性",
+    "question": "異常思想だ",
+    "reading": "いじょうしそうだ",
+    "answer": "そうだいしょう",
+    "extraChar": "じ"
+  },
+  {
+    "id": 34,
+    "genre": "ポケモンの特性",
+    "question": "防水オプ要る？",
+    "reading": "ぼうすいおぷいる",
+    "answer": "うるおいボイス",
+    "extraChar": "ぷ"
+  },
+  {
+    "id": 35,
+    "genre": "ポケモンの特性",
+    "question": "伊沢のタワマン",
+    "reading": "いざわのたわまん",
+    "answer": "わざわいのたま",
+    "extraChar": "ん"
+  },
+  {
+    "id": 36,
+    "genre": "ポケモンの特性",
+    "question": "インスタ好きか？",
+    "reading": "いんすたすきか",
+    "answer": "スカイスキン",
+    "extraChar": "た"
+  },
+  {
+    "id": 37,
+    "genre": "ポケモンの特性",
+    "question": "上下の音程",
+    "reading": "じょうげのおんてい",
+    "answer": "じょおうのいげん",
+    "extraChar": "て"
+  },
+  {
+    "id": 38,
+    "genre": "ポケモンの特性",
+    "question": "また愛して",
+    "reading": "またあいして",
+    "answer": "いしあたま",
+    "extraChar": "て"
+  },
+  {
+    "id": 39,
+    "genre": "ポケモンの特性",
+    "question": "スタートまるで無理",
+    "reading": "すたーとまるでむり",
+    "answer": "デルタストリーム",
+    "extraChar": "ま"
+  },
+  {
+    "id": 40,
+    "genre": "ポケモンの特性",
+    "question": "簀巻きくるりん",
+    "reading": "すまきくるりん",
+    "answer": "スキルリンク",
+    "extraChar": "ま"
+  },
+  {
+    "id": 41,
+    "genre": "ポケモンの特性",
+    "question": "蟹エキス出るん？",
+    "reading": "かにえきすでるん",
+    "answer": "でんきにかえる",
+    "extraChar": "す"
+  },
+  {
+    "id": 42,
+    "genre": "ポケモンの特性",
+    "question": "まあ４にたい",
+    "reading": "まあしにたい",
+    "answer": "いしあたま",
+    "extraChar": "に"
+  },
+  {
+    "id": 43,
+    "genre": "ポケモンの特性",
+    "question": "愛に失望",
+    "reading": "あいにしつぼう",
+    "answer": "あついしぼう",
+    "extraChar": "に"
+  },
+  {
+    "id": 44,
+    "genre": "ポケモンの特性",
+    "question": "小沢の不正だわ",
+    "reading": "おざわのふせいだわ",
+    "answer": "わざわいのおふだ",
+    "extraChar": "せ"
+  },
+  {
+    "id": 45,
+    "genre": "ポケモンの特性",
+    "question": "万馬券",
+    "reading": "まんばけん",
+    "answer": "ばんけん",
+    "extraChar": "ま"
+  },
+  {
+    "id": 46,
+    "genre": "ポケモンの特性",
+    "question": "リスキル苦言",
+    "reading": "りすきるくげん",
+    "answer": "スキルリンク",
+    "extraChar": "げ"
+  },
+  {
+    "id": 47,
+    "genre": "ポケモンの特性",
+    "question": "飲も！おかわり！",
+    "reading": "のもおかわり",
+    "answer": "かわりもの",
+    "extraChar": "お"
+  },
+  {
+    "id": 48,
+    "genre": "ポケモンの特性",
+    "question": "これ正解だっ！",
+    "reading": "これせいかいだっ",
+    "answer": "こだいかっせい",
+    "extraChar": "れ"
+  },
+  {
+    "id": 49,
+    "genre": "ポケモンの特性",
+    "question": "琵琶湖入ろ",
+    "reading": "びわこはいろ",
+    "answer": "いわはこび",
+    "extraChar": "ろ"
+  },
+  {
+    "id": 50,
+    "genre": "ポケモンの特性",
+    "question": "手抜きやん",
+    "reading": "てぬきやん",
+    "answer": "てんきや",
+    "extraChar": "ぬ"
+  },
+  {
+    "id": 51,
+    "genre": "ポケモンの特性",
+    "question": "昭和の彫り師",
+    "reading": "しょうわのほりし",
+    "answer": "しょうりのほし",
+    "extraChar": "わ"
+  },
+  {
+    "id": 52,
+    "genre": "ポケモンの特性",
+    "question": "即無料よ",
+    "reading": "そくむりょうよ",
+    "answer": "ようりょくそ",
+    "extraChar": "む"
+  },
+  {
+    "id": 53,
+    "genre": "ポケモンの特性",
+    "question": "労基呼ぶ",
+    "reading": "ろうきよぶ",
+    "answer": "ぶきよう",
+    "extraChar": "ろ"
+  },
+  {
+    "id": 54,
     "genre": "ポケモンの特性",
     "question": "私服を改善",
     "reading": "しふくをかいぜん",
@@ -3560,7 +432,871 @@
     "extraChar": "を"
   },
   {
-    "id": 446,
+    "id": 55,
+    "genre": "ポケモンの特性",
+    "question": "金持ち拉致",
+    "reading": "かねもちらち",
+    "answer": "ちからもち",
+    "extraChar": "ね"
+  },
+  {
+    "id": 56,
+    "genre": "ポケモンの特性",
+    "question": "老後ドック行く",
+    "reading": "ろうごどっくいく",
+    "answer": "クイックドロウ",
+    "extraChar": "ご"
+  },
+  {
+    "id": 57,
+    "genre": "ポケモンの特性",
+    "question": "野良猫売り買い",
+    "reading": "のらねこうりかい",
+    "answer": "いかりのこうら",
+    "extraChar": "ね"
+  },
+  {
+    "id": 58,
+    "genre": "ポケモンの特性",
+    "question": "交際したままよ",
+    "reading": "こうさいしたままよ",
+    "answer": "さまようたましい",
+    "extraChar": "こ"
+  },
+  {
+    "id": 59,
+    "genre": "ポケモンの特性",
+    "question": "ドローンハック",
+    "reading": "どろーんはっく",
+    "answer": "ハードロック",
+    "extraChar": "ん"
+  },
+  {
+    "id": 60,
+    "genre": "ポケモンの特性",
+    "question": "時短するトラ！",
+    "reading": "じたんするとら",
+    "answer": "トランジスタ",
+    "extraChar": "る"
+  },
+  {
+    "id": 61,
+    "genre": "ポケモンの特性",
+    "question": "野菜売るのみ",
+    "reading": "やさいうるのみ",
+    "answer": "うのミサイル",
+    "extraChar": "や"
+  },
+  {
+    "id": 62,
+    "genre": "ポケモンの特性",
+    "question": "見つめて",
+    "reading": "圧)（みつめてあつ",
+    "answer": "みつあつめ",
+    "extraChar": "て"
+  },
+  {
+    "id": 63,
+    "genre": "ポケモンの特性",
+    "question": "無職そう",
+    "reading": "むしょくそう",
+    "answer": "そうしょく",
+    "extraChar": "む"
+  },
+  {
+    "id": 64,
+    "genre": "ポケモンの特性",
+    "question": "瀕死辛い",
+    "reading": "ひんしつらい",
+    "answer": "ひらいしん",
+    "extraChar": "つ"
+  },
+  {
+    "id": 65,
+    "genre": "ポケモンの特性",
+    "question": "草のドリンク",
+    "reading": "くさのどりんく",
+    "answer": "どくのくさり",
+    "extraChar": "ん"
+  },
+  {
+    "id": 66,
+    "genre": "ポケモンの特性",
+    "question": "陸戦で恐怖",
+    "reading": "りくせんできょうふ",
+    "answer": "ふうりょくでんき",
+    "extraChar": "せ"
+  },
+  {
+    "id": 67,
+    "genre": "ポケモンの特性",
+    "question": "聖書輪読",
+    "reading": "せいしょりんどく",
+    "answer": "せいしんりょく",
+    "extraChar": "ど"
+  },
+  {
+    "id": 68,
+    "genre": "ポケモンの特性",
+    "question": "ひ、ひどい！この野郎！",
+    "reading": "ひひどいこのやろう",
+    "answer": "ひひいろのこどう",
+    "extraChar": "や"
+  },
+  {
+    "id": 69,
+    "genre": "ポケモンの特性",
+    "question": "急に下痢",
+    "reading": "きゅうにげり",
+    "answer": "げきりゅう",
+    "extraChar": "に"
+  },
+  {
+    "id": 70,
+    "genre": "ポケモンの特性",
+    "question": "He is ポワルン.",
+    "reading": "ひーいずぽわるん",
+    "answer": "ポイズンヒール",
+    "extraChar": "ワ"
+  },
+  {
+    "id": 71,
+    "genre": "ポケモンの特性",
+    "question": "どエロい癖",
+    "reading": "どえろいへき",
+    "answer": "ヘドロえき",
+    "extraChar": "い"
+  },
+  {
+    "id": 72,
+    "genre": "ポケモンの特性",
+    "question": "全てパルクール",
+    "reading": "すべてぱるくーる",
+    "answer": "パステルベール",
+    "extraChar": "く"
+  },
+  {
+    "id": 73,
+    "genre": "ポケモンの特性",
+    "question": "黒い猛毒っ",
+    "reading": "くろいもうどくっ",
+    "answer": "クイックドロウ",
+    "extraChar": "も"
+  },
+  {
+    "id": 74,
+    "genre": "ポケモンの特性",
+    "question": "各地の貝殻",
+    "reading": "かくちのかいがら",
+    "answer": "かがくのちから",
+    "extraChar": "い"
+  },
+  {
+    "id": 75,
+    "genre": "ポケモンの特性",
+    "question": "即勝利",
+    "reading": "そくしょうり",
+    "answer": "そうしょく",
+    "extraChar": "り"
+  },
+  {
+    "id": 76,
+    "genre": "ポケモンの特性",
+    "question": "ヤタピ被り",
+    "reading": "やたぴかぶり",
+    "answer": "かたやぶり",
+    "extraChar": "ぴ"
+  },
+  {
+    "id": 77,
+    "genre": "ポケモンの特性",
+    "question": "かわせっ！いい子だ",
+    "reading": "かわせっいいこだ",
+    "answer": "こだいかっせい",
+    "extraChar": "わ"
+  },
+  {
+    "id": 78,
+    "genre": "ポケモンの特性",
+    "question": "デュエル人気か",
+    "reading": "でゅえるにんきか",
+    "answer": "でんきにかえる",
+    "extraChar": "ゅ"
+  },
+  {
+    "id": 79,
+    "genre": "ポケモンの特性",
+    "question": "俺、薬デビュー",
+    "reading": "おれくすりでびゅー",
+    "answer": "スクリューおびれ",
+    "extraChar": "で"
+  },
+  {
+    "id": 80,
+    "genre": "ポケモンの特性",
+    "question": "岐阜も祭り無し",
+    "reading": "ぎふもまつりなし",
+    "answer": "ふしぎなまもり",
+    "extraChar": "つ"
+  },
+  {
+    "id": 81,
+    "genre": "ポケモンの特性",
+    "question": "無理、興味無くす",
+    "reading": "むりきょうみなくす",
+    "answer": "きみょうなくすり",
+    "extraChar": "む"
+  },
+  {
+    "id": 82,
+    "genre": "ポケモンの特性",
+    "question": "グーパン一振り、死",
+    "reading": "ぐーぱんひとふりし",
+    "answer": "ヒーリングシフト",
+    "extraChar": "ぱ"
+  },
+  {
+    "id": 83,
+    "genre": "ポケモンの特性",
+    "question": "さきいかバリ神",
+    "reading": "さきいかばりかみ",
+    "answer": "かいりきバサミ",
+    "extraChar": "か"
+  },
+  {
+    "id": 84,
+    "genre": "ポケモンの特性",
+    "question": "チキンの塩辛",
+    "reading": "ちきんのしおから",
+    "answer": "きんしのちから",
+    "extraChar": "お"
+  },
+  {
+    "id": 85,
+    "genre": "ポケモンの特性",
+    "question": "昆布使うね",
+    "reading": "こんぶつかうね",
+    "answer": "ねつこうかん",
+    "extraChar": "ぶ"
+  },
+  {
+    "id": 86,
+    "genre": "ポケモンの特性",
+    "question": "良いバッタ自慢",
+    "reading": "いいばったじまん",
+    "answer": "じんばいったい",
+    "extraChar": "ま"
+  },
+  {
+    "id": 87,
+    "genre": "ポケモンの特性",
+    "question": "彦摩呂居た",
+    "reading": "ひこまろいた",
+    "answer": "たまひろい",
+    "extraChar": "こ"
+  },
+  {
+    "id": 88,
+    "genre": "ポケモンの特性",
+    "question": "パーが弱い",
+    "reading": "ぱーがよわい",
+    "answer": "ヨガパワー",
+    "extraChar": "い"
+  },
+  {
+    "id": 89,
+    "genre": "ポケモンの特性",
+    "question": "マチアプ至る",
+    "reading": "まちあぷいたる",
+    "answer": "マルチタイプ",
+    "extraChar": "あ"
+  },
+  {
+    "id": 90,
+    "genre": "ポケモンの特性",
+    "question": "君のランクルス",
+    "reading": "きみのらんくるす",
+    "answer": "ミラクルスキン",
+    "extraChar": "の"
+  },
+  {
+    "id": 91,
+    "genre": "ポケモンの特性",
+    "question": "ぷりんぷりんのおこ",
+    "reading": "ぷりんぷりんのおこ",
+    "answer": "こおりのりんぷん",
+    "extraChar": "り"
+  },
+  {
+    "id": 92,
+    "genre": "ポケモンの特性",
+    "question": "地声クリア",
+    "reading": "じごえくりあ",
+    "answer": "ありじごく",
+    "extraChar": "え"
+  },
+  {
+    "id": 93,
+    "genre": "ポケモンの特性",
+    "question": "メガネ開発",
+    "reading": "めがねかいはつ",
+    "answer": "はがねつかい",
+    "extraChar": "め"
+  },
+  {
+    "id": 94,
+    "genre": "ポケモンの特性",
+    "question": "寝姿いじり",
+    "reading": "ねすがたいじり",
+    "answer": "すじがねいり",
+    "extraChar": "た"
+  },
+  {
+    "id": 95,
+    "genre": "ポケモンの特性",
+    "question": "酒の疑惑が",
+    "reading": "さけのぎわくが",
+    "answer": "くさのけがわ",
+    "extraChar": "ぎ"
+  },
+  {
+    "id": 96,
+    "genre": "ポケモンの特性",
+    "question": "駅伝人員",
+    "reading": "えきでんじんいん",
+    "answer": "でんきエンジン",
+    "extraChar": "い"
+  },
+  {
+    "id": 97,
+    "genre": "ポケモンの特性",
+    "question": "吾輩勝つね",
+    "reading": "わがはいかつね",
+    "answer": "はがねつかい",
+    "extraChar": "わ"
+  },
+  {
+    "id": 98,
+    "genre": "ポケモンの特性",
+    "question": "真の願い制覇",
+    "reading": "しんのねがいせいは",
+    "answer": "はがねのせいしん",
+    "extraChar": "い"
+  },
+  {
+    "id": 99,
+    "genre": "ポケモンの特性",
+    "question": "暴飲食",
+    "reading": "ぼういんしょく",
+    "answer": "くいしんぼう",
+    "extraChar": "ょ"
+  },
+  {
+    "id": 100,
+    "genre": "ポケモンの特性",
+    "question": "近日強化",
+    "reading": "きんじつきょうか",
+    "answer": "じょうききかん",
+    "extraChar": "つ"
+  },
+  {
+    "id": 101,
+    "genre": "ポケモンの特性",
+    "question": "おかんの裏声だ",
+    "reading": "おかんのうらごえだ",
+    "answer": "おうごんのからだ",
+    "extraChar": "え"
+  },
+  {
+    "id": 102,
+    "genre": "ポケモンの特性",
+    "question": "人事正気か！？",
+    "reading": "じんじしょうきか",
+    "answer": "じしんかじょう",
+    "extraChar": "き"
+  },
+  {
+    "id": 103,
+    "genre": "ポケモンの特性",
+    "question": "常微分",
+    "reading": "じょうびぶん",
+    "answer": "びんじょう",
+    "extraChar": "ぶ"
+  },
+  {
+    "id": 104,
+    "genre": "ポケモンの特性",
+    "question": "火器・ミサイルばり",
+    "reading": "みさいるばりかき",
+    "answer": "かいりきバサミ",
+    "extraChar": "る"
+  },
+  {
+    "id": 105,
+    "genre": "ポケモンの特性",
+    "question": "信徒暴走",
+    "reading": "しんとぼうそう",
+    "answer": "とうそうしん",
+    "extraChar": "ぼ"
+  },
+  {
+    "id": 106,
+    "genre": "ポケモンの特性",
+    "question": "不死諦め",
+    "reading": "ふしあきらめ",
+    "answer": "あめふらし",
+    "extraChar": "き"
+  },
+  {
+    "id": 107,
+    "genre": "ポケモンの特性",
+    "question": "ゲーマー垢飛ぶ",
+    "reading": "げーまーあかとぶ",
+    "answer": "カブトアーマー",
+    "extraChar": "げ"
+  },
+  {
+    "id": 108,
+    "genre": "ポケモンの特性",
+    "question": "まー愛してるー",
+    "reading": "まーあいしてるー",
+    "answer": "テイルアーマー",
+    "extraChar": "し"
+  },
+  {
+    "id": 109,
+    "genre": "ポケモンの特性",
+    "question": "図鑑は嘘だ",
+    "reading": "ずかんはうそだ",
+    "answer": "かんそうはだ",
+    "extraChar": "ず"
+  },
+  {
+    "id": 110,
+    "genre": "ポケモンの特性",
+    "question": "ハム語履中",
+    "reading": "はむごりちゅう",
+    "answer": "ごりむちゅう",
+    "extraChar": "は"
+  },
+  {
+    "id": 111,
+    "genre": "ポケモンの特性",
+    "question": "スカンクが屁嗅がす",
+    "reading": "すかんくがへかがす",
+    "answer": "かがくへんかガス",
+    "extraChar": "す"
+  },
+  {
+    "id": 112,
+    "genre": "ポケモンの特性",
+    "question": "準備なう",
+    "reading": "じゅんびなう",
+    "answer": "じゅうなん",
+    "extraChar": "び"
+  },
+  {
+    "id": 113,
+    "genre": "ポケモンの特性",
+    "question": "根流しの反省",
+    "reading": "ねながしのはんせい",
+    "answer": "はがねのせいしん",
+    "extraChar": "な"
+  },
+  {
+    "id": 114,
+    "genre": "ポケモンの特性",
+    "question": "新キャラの価値",
+    "reading": "しんきゃらのかち",
+    "answer": "きんしのちから",
+    "extraChar": "ゃ"
+  },
+  {
+    "id": 115,
+    "genre": "ポケモンの特性",
+    "question": "水ダウ訴訟",
+    "reading": "すいだうそしょう",
+    "answer": "そうだいしょう",
+    "extraChar": "す"
+  },
+  {
+    "id": 116,
+    "genre": "ポケモンの特性",
+    "question": "光のライコウ",
+    "reading": "ひかりのらいこう",
+    "answer": "いかりのこうら",
+    "extraChar": "ひ"
+  },
+  {
+    "id": 117,
+    "genre": "ポケモンの特性",
+    "question": "何これ？いい音",
+    "reading": "なにこれいいおと",
+    "answer": "とれないにおい",
+    "extraChar": "こ"
+  },
+  {
+    "id": 118,
+    "genre": "ポケモンの特性",
+    "question": "ういママ探したよ",
+    "reading": "ういままさがしたよ",
+    "answer": "さまようたましい",
+    "extraChar": "が"
+  },
+  {
+    "id": 119,
+    "genre": "ポケモンの特性",
+    "question": "湯豆腐",
+    "reading": "ゆどうふ",
+    "answer": "ふゆう",
+    "extraChar": "ど"
+  },
+  {
+    "id": 120,
+    "genre": "ポケモンの特性",
+    "question": "豆腐の研磨",
+    "reading": "とうふのけんま",
+    "answer": "ふとうのけん",
+    "extraChar": "ま"
+  },
+  {
+    "id": 121,
+    "genre": "ポケモンの特性",
+    "question": "甘しいたけ",
+    "reading": "あましいたけ",
+    "answer": "いしあたま",
+    "extraChar": "け"
+  },
+  {
+    "id": 122,
+    "genre": "ポケモンの特性",
+    "question": "九条きゅうり",
+    "reading": "くじょうきゅうり",
+    "answer": "じきゅうりょく",
+    "extraChar": "う"
+  },
+  {
+    "id": 123,
+    "genre": "ポケモンの特性",
+    "question": "荒野の石ころ",
+    "reading": "こうやのいしころ",
+    "answer": "いやしのこころ",
+    "extraChar": "う"
+  },
+  {
+    "id": 124,
+    "genre": "ポケモンの特性",
+    "question": "投資相談",
+    "reading": "とうしそうだん",
+    "answer": "とうそうしん",
+    "extraChar": "だ"
+  },
+  {
+    "id": 125,
+    "genre": "ポケモンの特性",
+    "question": "人類へ懺悔",
+    "reading": "じんるいへざんげ",
+    "answer": "へんげんじざい",
+    "extraChar": "る"
+  },
+  {
+    "id": 126,
+    "genre": "ポケモンの特性",
+    "question": "ナスしゃ、おこ",
+    "reading": "なすしゃおこ",
+    "answer": "すなおこし",
+    "extraChar": "ゃ"
+  },
+  {
+    "id": 127,
+    "genre": "ポケモンの特性",
+    "question": "講義ナーフしろ",
+    "reading": "こうぎなーふしろ",
+    "answer": "ふしぎなうろこ",
+    "extraChar": "ー"
+  },
+  {
+    "id": 128,
+    "genre": "ポケモンの特性",
+    "question": "円滑にできる",
+    "reading": "えんかつにできる",
+    "answer": "でんきにかえる",
+    "extraChar": "つ"
+  },
+  {
+    "id": 129,
+    "genre": "ポケモンの特性",
+    "question": "ネジが要ります",
+    "reading": "ねじがいります",
+    "answer": "すじがねいり",
+    "extraChar": "ま"
+  },
+  {
+    "id": 130,
+    "genre": "ポケモンの特性",
+    "question": "炭火なんだとか",
+    "reading": "すみびなんだとか",
+    "answer": "とびだすなかみ",
+    "extraChar": "ん"
+  },
+  {
+    "id": 131,
+    "genre": "ポケモンの特性",
+    "question": "ブルマーシェアー",
+    "reading": "ぶるまーしぇあー",
+    "answer": "シェルアーマー",
+    "extraChar": "ぶ"
+  },
+  {
+    "id": 132,
+    "genre": "ポケモンの特性",
+    "question": "マンキーの居留守",
+    "reading": "まんきーのいるす",
+    "answer": "ノーマルスキン",
+    "extraChar": "い"
+  },
+  {
+    "id": 133,
+    "genre": "ポケモンの特性",
+    "question": "悪魔の邪視",
+    "reading": "あくまのじゃし",
+    "answer": "あまのじゃく",
+    "extraChar": "し"
+  },
+  {
+    "id": 134,
+    "genre": "ポケモンの特性",
+    "question": "この服は露骨",
+    "reading": "このふくはろこつ",
+    "answer": "ふくつのこころ",
+    "extraChar": "は"
+  },
+  {
+    "id": 135,
+    "genre": "ポケモンの特性",
+    "question": "VRテーマ",
+    "reading": "ぶいあーるてーま",
+    "answer": "テイルアーマー",
+    "extraChar": "ぶ"
+  },
+  {
+    "id": 136,
+    "genre": "ポケモンの特性",
+    "question": "ストローマスター",
+    "reading": "すとろーますたー",
+    "answer": "スロースタート",
+    "extraChar": "ま"
+  },
+  {
+    "id": 137,
+    "genre": "ポケモンの特性",
+    "question": "挨拶防止",
+    "reading": "あいさつぼうし",
+    "answer": "あついしぼう",
+    "extraChar": "さ"
+  },
+  {
+    "id": 138,
+    "genre": "ポケモンの特性",
+    "question": "9つの付録",
+    "reading": "ここのつのふろく",
+    "answer": "ふくつのこころ",
+    "extraChar": "の"
+  },
+  {
+    "id": 139,
+    "genre": "ポケモンの特性",
+    "question": "この広い土俵",
+    "reading": "このひろいどひょう",
+    "answer": "ひひいろのこどう",
+    "extraChar": "ょ"
+  },
+  {
+    "id": 140,
+    "genre": "ポケモンの特性",
+    "question": "2つ目のテク",
+    "reading": "ふたつめのてく",
+    "answer": "ふくつのたて",
+    "extraChar": "め"
+  },
+  {
+    "id": 141,
+    "genre": "ポケモンの特性",
+    "question": "駅近",
+    "reading": "えきちか",
+    "answer": "かちき",
+    "extraChar": "え"
+  },
+  {
+    "id": 142,
+    "genre": "ポケモンの特性",
+    "question": "なんか見つけろ",
+    "reading": "なんかみつけろ",
+    "answer": "かんろなミツ",
+    "extraChar": "け"
+  },
+  {
+    "id": 143,
+    "genre": "ポケモンの特性",
+    "question": "花エキス",
+    "reading": "はなえきす",
+    "answer": "すなはき",
+    "extraChar": "え"
+  },
+  {
+    "id": 144,
+    "genre": "ポケモンの特性",
+    "question": "架空シチュ",
+    "reading": "かくうしちゅ",
+    "answer": "しゅうかく",
+    "extraChar": "ち"
+  },
+  {
+    "id": 145,
+    "genre": "ポケモンの特性",
+    "question": "ファンミ",
+    "reading": "ふぁんみ",
+    "answer": "ふみん",
+    "extraChar": "ぁ"
+  },
+  {
+    "id": 146,
+    "genre": "ポケモンの特性",
+    "question": "クロックス移動",
+    "reading": "くろっくすいどう",
+    "answer": "クイックドロウ",
+    "extraChar": "す"
+  },
+  {
+    "id": 147,
+    "genre": "ポケモンの特性",
+    "question": "半素数",
+    "reading": "はんそすう",
+    "answer": "はんすう",
+    "extraChar": "そ"
+  },
+  {
+    "id": 148,
+    "genre": "ポケモンの特性",
+    "question": "外道諸国",
+    "reading": "げどうしょこく",
+    "answer": "どくげしょう",
+    "extraChar": "こ"
+  },
+  {
+    "id": 149,
+    "genre": "ポケモンの特性",
+    "question": "めっちゃガラーン",
+    "reading": "めっちゃがらーん",
+    "answer": "メガランチャー",
+    "extraChar": "っ"
+  },
+  {
+    "id": 150,
+    "genre": "ポケモンの特性",
+    "question": "冒険行くし",
+    "reading": "ぼうけんいくし",
+    "answer": "くいしんぼう",
+    "extraChar": "け"
+  },
+  {
+    "id": 151,
+    "genre": "ポケモンの特性",
+    "question": "コオロギの個性",
+    "reading": "こおろぎのこせい",
+    "answer": "せいぎのこころ",
+    "extraChar": "お"
+  },
+  {
+    "id": 152,
+    "genre": "ポケモンの特性",
+    "question": "金ピカのチラシ",
+    "reading": "きんぴかのちらし",
+    "answer": "きんしのちから",
+    "extraChar": "ぴ"
+  },
+  {
+    "id": 153,
+    "genre": "ポケモンの特性",
+    "question": "毎晩イジった",
+    "reading": "まいばんいじった",
+    "answer": "じんばいったい",
+    "extraChar": "ま"
+  },
+  {
+    "id": 154,
+    "genre": "ポケモンの特性",
+    "question": "イッチ、レスバトル",
+    "reading": "いっちれすばとる",
+    "answer": "バトルスイッチ",
+    "extraChar": "れ"
+  },
+  {
+    "id": 155,
+    "genre": "ポケモンの特性",
+    "question": "禁煙伝授",
+    "reading": "きんえんでんじゅ",
+    "answer": "でんきエンジン",
+    "extraChar": "ゅ"
+  },
+  {
+    "id": 156,
+    "genre": "ポケモンの特性",
+    "question": "手作りお経",
+    "reading": "てづくりおきょう",
+    "answer": "てきおうりょく",
+    "extraChar": "づ"
+  },
+  {
+    "id": 157,
+    "genre": "ポケモンの特性",
+    "question": "糖質0",
+    "reading": "とうしつれい",
+    "answer": "しれいとう",
+    "extraChar": "つ"
+  },
+  {
+    "id": 158,
+    "genre": "ポケモンの特性",
+    "question": "くしゃみ2点",
+    "reading": "くしゃみにてん",
+    "answer": "テクニシャン",
+    "extraChar": "み"
+  },
+  {
+    "id": 159,
+    "genre": "ポケモンの特性",
+    "question": "減点ね",
+    "reading": "げんてんね",
+    "answer": "てんねん",
+    "extraChar": "げ"
+  },
+  {
+    "id": 160,
+    "genre": "ポケモンの特性",
+    "question": "炎上危機か",
+    "reading": "えんじょうききか",
+    "answer": "じょうききかん",
+    "extraChar": "え"
+  },
+  {
+    "id": 161,
+    "genre": "ポケモンの特性",
+    "question": "ちょい好き",
+    "reading": "ちょいすき",
+    "answer": "ちょすい",
+    "extraChar": "き"
+  },
+  {
+    "id": 162,
+    "genre": "ポケモンの特性",
+    "question": "悪ノリかも",
+    "reading": "わるのりかも",
+    "answer": "かわりもの",
+    "extraChar": "る"
+  },
+  {
+    "id": 163,
     "genre": "ポケモンの特性",
     "question": "ここのヤギ白い",
     "reading": "ここのやぎしろい",
@@ -3568,7 +1304,1103 @@
     "extraChar": "ぎ"
   },
   {
-    "id": 447,
+    "id": 164,
+    "genre": "ポケモンの特性",
+    "question": "採用しました、マ？",
+    "reading": "さいようしましたま",
+    "answer": "さまようたましい",
+    "extraChar": "し"
+  },
+  {
+    "id": 165,
+    "genre": "ポケモンの特性",
+    "question": "まずい茄子",
+    "reading": "まずいなす",
+    "answer": "マイナス",
+    "extraChar": "ず"
+  },
+  {
+    "id": 166,
+    "genre": "ポケモンの特性",
+    "question": "クソデカ",
+    "reading": "くそでか",
+    "answer": "かそく",
+    "extraChar": "で"
+  },
+  {
+    "id": 167,
+    "genre": "ポケモンの特性",
+    "question": "臀部規制",
+    "reading": "でんぶきせい",
+    "answer": "せいでんき",
+    "extraChar": "ぶ"
+  },
+  {
+    "id": 168,
+    "genre": "ポケモンの特性",
+    "question": "白？ピンク？",
+    "reading": "しろぴんく",
+    "answer": "シンクロ",
+    "extraChar": "ぴ"
+  },
+  {
+    "id": 169,
+    "genre": "ポケモンの特性",
+    "question": "羽根付かないが？",
+    "reading": "はねつかないが",
+    "answer": "はがねつかい",
+    "extraChar": "な"
+  },
+  {
+    "id": 170,
+    "genre": "ポケモンの特性",
+    "question": "麻雀士",
+    "reading": "まーじゃんし",
+    "answer": "マジシャン",
+    "extraChar": "ー"
+  },
+  {
+    "id": 171,
+    "genre": "ポケモンの特性",
+    "question": "枕が地っ味ー",
+    "reading": "まくらがじっみー",
+    "answer": "マジックミラー",
+    "extraChar": "が"
+  },
+  {
+    "id": 172,
+    "genre": "ポケモンの特性",
+    "question": "クローンクッパ",
+    "reading": "くろーんくっぱ",
+    "answer": "パンクロック",
+    "extraChar": "ー"
+  },
+  {
+    "id": 173,
+    "genre": "ポケモンの特性",
+    "question": "資格厨",
+    "reading": "しかくちゅう",
+    "answer": "しゅうかく",
+    "extraChar": "ち"
+  },
+  {
+    "id": 174,
+    "genre": "ポケモンの特性",
+    "question": "マジ感謝",
+    "reading": "まじかんしゃ",
+    "answer": "マジシャン",
+    "extraChar": "か"
+  },
+  {
+    "id": 175,
+    "genre": "ポケモンの特性",
+    "question": "常時感謝",
+    "reading": "じょうじかんしゃ",
+    "answer": "じしんかじょう",
+    "extraChar": "ゃ"
+  },
+  {
+    "id": 176,
+    "genre": "ポケモンの特性",
+    "question": "伝説行き",
+    "reading": "でんせついき",
+    "answer": "せいでんき",
+    "extraChar": "つ"
+  },
+  {
+    "id": 177,
+    "genre": "ポケモンの特性",
+    "question": "太陽冷まします",
+    "reading": "たいようさまします",
+    "answer": "さまようたましい",
+    "extraChar": "す"
+  },
+  {
+    "id": 178,
+    "genre": "ポケモンの特性",
+    "question": "見習い",
+    "reading": "みならい",
+    "answer": "ミイラ",
+    "extraChar": "な"
+  },
+  {
+    "id": 179,
+    "genre": "ポケモンの特性",
+    "question": "新語録",
+    "reading": "しんごろく",
+    "answer": "シンクロ",
+    "extraChar": "ご"
+  },
+  {
+    "id": 180,
+    "genre": "ポケモンの特性",
+    "question": "Abemaローカル",
+    "reading": "あべまろーかる",
+    "answer": "アロマベール",
+    "extraChar": "か"
+  },
+  {
+    "id": 181,
+    "genre": "ポケモンの特性",
+    "question": "防毒装備",
+    "reading": "ぼうどくそうび",
+    "answer": "どくぼうそう",
+    "extraChar": "び"
+  },
+  {
+    "id": 182,
+    "genre": "ポケモンの特性",
+    "question": "裸送信",
+    "reading": "はだかそうしん",
+    "answer": "かんそうはだ",
+    "extraChar": "し"
+  },
+  {
+    "id": 183,
+    "genre": "ポケモンの特性",
+    "question": "メイド居留守",
+    "reading": "めいどいるす",
+    "answer": "するどいめ",
+    "extraChar": "い"
+  },
+  {
+    "id": 184,
+    "genre": "ポケモンの特性",
+    "question": "吸い殻ねじり",
+    "reading": "すいがらねじり",
+    "answer": "すじがねいり",
+    "extraChar": "ら"
+  },
+  {
+    "id": 185,
+    "genre": "ポケモンの特性",
+    "question": "ばっちり吸い取る",
+    "reading": "ばっちりすいとる",
+    "answer": "バトルスイッチ",
+    "extraChar": "り"
+  },
+  {
+    "id": 186,
+    "genre": "ポケモンの特性",
+    "question": "あ、死にゲー",
+    "reading": "あしにげー",
+    "answer": "にげあし",
+    "extraChar": "ー"
+  },
+  {
+    "id": 187,
+    "genre": "ポケモンの特性",
+    "question": "ドローン蛇行",
+    "reading": "どろーんだこう",
+    "answer": "ダウンロード",
+    "extraChar": "こ"
+  },
+  {
+    "id": 188,
+    "genre": "ポケモンの特性",
+    "question": "宝鐘の尻",
+    "reading": "ほうしょうのしり",
+    "answer": "しょうりのほし",
+    "extraChar": "う"
+  },
+  {
+    "id": 189,
+    "genre": "ポケモンの特性",
+    "question": "福島全快",
+    "reading": "ふくしまぜんかい",
+    "answer": "しぜんかいふく",
+    "extraChar": "ま"
+  },
+  {
+    "id": 190,
+    "genre": "ポケモンの特性",
+    "question": "ススキ満開",
+    "reading": "すすきまんかい",
+    "answer": "スカイスキン",
+    "extraChar": "ま"
+  },
+  {
+    "id": 191,
+    "genre": "ポケモンの特性",
+    "question": "個性厄介だ",
+    "reading": "こせいやっかいだ",
+    "answer": "こだいかっせい",
+    "extraChar": "や"
+  },
+  {
+    "id": 192,
+    "genre": "ポケモンの特性",
+    "question": "ブイズべた惚れー",
+    "reading": "ぶいずべたぼれー",
+    "answer": "ターボブレイズ",
+    "extraChar": "べ"
+  },
+  {
+    "id": 193,
+    "genre": "ポケモンの特性",
+    "question": "武器売れよ",
+    "reading": "ぶきうれよ",
+    "answer": "ぶきよう",
+    "extraChar": "れ"
+  },
+  {
+    "id": 194,
+    "genre": "ポケモンの特性",
+    "question": "ガチの滑落か",
+    "reading": "がちのかつらくか",
+    "answer": "かがくのちから",
+    "extraChar": "つ"
+  },
+  {
+    "id": 195,
+    "genre": "ポケモンの特性",
+    "question": "わかめの森",
+    "reading": "わかめのもり",
+    "answer": "かわりもの",
+    "extraChar": "め"
+  },
+  {
+    "id": 196,
+    "genre": "ポケモンの特性",
+    "question": "美肌ミストかな？",
+    "reading": "びはだみすとかな",
+    "answer": "とびだすなかみ",
+    "extraChar": "は"
+  },
+  {
+    "id": 197,
+    "genre": "ポケモンの特性",
+    "question": "寄付金過剰",
+    "reading": "きふきんかじょう",
+    "answer": "じょうききかん",
+    "extraChar": "ふ"
+  },
+  {
+    "id": 198,
+    "genre": "ポケモンの特性",
+    "question": "陰陽師の芸",
+    "reading": "おんみょうじのげい",
+    "answer": "じょおうのいげん",
+    "extraChar": "み"
+  },
+  {
+    "id": 199,
+    "genre": "ポケモンの特性",
+    "question": "じじい召喚",
+    "reading": "じじいしょうかん",
+    "answer": "じしんかじょう",
+    "extraChar": "い"
+  },
+  {
+    "id": 200,
+    "genre": "ポケモンの特性",
+    "question": "原子力",
+    "reading": "げんしりょく",
+    "answer": "しんりょく",
+    "extraChar": "げ"
+  },
+  {
+    "id": 201,
+    "genre": "ポケモンの特性",
+    "question": "対面勝つ",
+    "reading": "たいめんかつ",
+    "answer": "かたいツメ",
+    "extraChar": "ん"
+  },
+  {
+    "id": 202,
+    "genre": "ポケモンの特性",
+    "question": "仮装衣装だ",
+    "reading": "かそういしょうだ",
+    "answer": "そうだいしょう",
+    "extraChar": "か"
+  },
+  {
+    "id": 203,
+    "genre": "ポケモンの特性",
+    "question": "火力予想",
+    "reading": "かりょくよそう",
+    "answer": "ようりょくそ",
+    "extraChar": "か"
+  },
+  {
+    "id": 204,
+    "genre": "ポケモンの特性",
+    "question": "天狗の見た目",
+    "reading": "てんぐのみため",
+    "answer": "てんのめぐみ",
+    "extraChar": "た"
+  },
+  {
+    "id": 205,
+    "genre": "ポケモンの特性",
+    "question": "完クリする気？",
+    "reading": "かんくりするき",
+    "answer": "スキルリンク",
+    "extraChar": "か"
+  },
+  {
+    "id": 206,
+    "genre": "ポケモンの特性",
+    "question": "急にBAN",
+    "reading": "きゅうにばん",
+    "answer": "きゅうばん",
+    "extraChar": "に"
+  },
+  {
+    "id": 207,
+    "genre": "ポケモンの特性",
+    "question": "飴とナイフ",
+    "reading": "あめとないふ",
+    "answer": "ナイトメア",
+    "extraChar": "ふ"
+  },
+  {
+    "id": 208,
+    "genre": "ポケモンの特性",
+    "question": "すごーい！飛べるー！",
+    "reading": "すごーいとべるー",
+    "answer": "スイートベール",
+    "extraChar": "ご"
+  },
+  {
+    "id": 209,
+    "genre": "ポケモンの特性",
+    "question": "石連投",
+    "reading": "いしれんとう",
+    "answer": "しれいとう",
+    "extraChar": "ん"
+  },
+  {
+    "id": 210,
+    "genre": "ポケモンの特性",
+    "question": "さーて、A振る",
+    "reading": "さーてえーふる",
+    "answer": "サーフテール",
+    "extraChar": "え"
+  },
+  {
+    "id": 211,
+    "genre": "ポケモンの特性",
+    "question": "一人でしな！",
+    "reading": "ひとりでしな",
+    "answer": "ひとでなし",
+    "extraChar": "り"
+  },
+  {
+    "id": 212,
+    "genre": "ポケモンの特性",
+    "question": "チルット爆睡",
+    "reading": "ちるっとばくすい",
+    "answer": "バトルスイッチ",
+    "extraChar": "く"
+  },
+  {
+    "id": 213,
+    "genre": "ポケモンの特性",
+    "question": "ライフル止めた",
+    "reading": "らいふるとめた",
+    "answer": "ライトメタル",
+    "extraChar": "ふ"
+  },
+  {
+    "id": 214,
+    "genre": "ポケモンの特性",
+    "question": "威張った名人",
+    "reading": "いばっためいじん",
+    "answer": "じんばいったい",
+    "extraChar": "め"
+  },
+  {
+    "id": 215,
+    "genre": "ポケモンの特性",
+    "question": "新パジャマ",
+    "reading": "しんぱじゃま",
+    "answer": "マジシャン",
+    "extraChar": "ぱ"
+  },
+  {
+    "id": 216,
+    "genre": "ポケモンの特性",
+    "question": "最新空母",
+    "reading": "さいしんくうぼ",
+    "answer": "くいしんぼう",
+    "extraChar": "さ"
+  },
+  {
+    "id": 217,
+    "genre": "ポケモンの特性",
+    "question": "着信ね",
+    "reading": "ちゃくしんね",
+    "answer": "ねんちゃく",
+    "extraChar": "し"
+  },
+  {
+    "id": 218,
+    "genre": "ポケモンの特性",
+    "question": "言葉一致する",
+    "reading": "ことばいっちする",
+    "answer": "バトルスイッチ",
+    "extraChar": "こ"
+  },
+  {
+    "id": 219,
+    "genre": "ポケモンの特性",
+    "question": "ビキニで帰るん？",
+    "reading": "びきにでかえるん",
+    "answer": "でんきにかえる",
+    "extraChar": "び"
+  },
+  {
+    "id": 220,
+    "genre": "ポケモンの特性",
+    "question": "腋チラの視姦",
+    "reading": "わきちらのしかん",
+    "answer": "きんしのちから",
+    "extraChar": "わ"
+  },
+  {
+    "id": 221,
+    "genre": "ポケモンの特性",
+    "question": "対人Rust",
+    "reading": "たいじんらすと",
+    "answer": "トランジスタ",
+    "extraChar": "い"
+  },
+  {
+    "id": 222,
+    "genre": "ポケモンの特性",
+    "question": "炒めると楽",
+    "reading": "いためるとらく",
+    "answer": "ライトメタル",
+    "extraChar": "く"
+  },
+  {
+    "id": 223,
+    "genre": "ポケモンの特性",
+    "question": "面倒だろー？",
+    "reading": "めんどうだろー",
+    "answer": "ダウンロード",
+    "extraChar": "め"
+  },
+  {
+    "id": 224,
+    "genre": "ポケモンの特性",
+    "question": "隔離住居",
+    "reading": "かくりじゅうきょ",
+    "answer": "じきゅうりょく",
+    "extraChar": "か"
+  },
+  {
+    "id": 225,
+    "genre": "ポケモンの特性",
+    "question": "イカの釣り堀",
+    "reading": "いかのつりぼり",
+    "answer": "いかりのつぼ",
+    "extraChar": "り"
+  },
+  {
+    "id": 226,
+    "genre": "ポケモンの特性",
+    "question": "モスラの勝ちな",
+    "reading": "もすらのかちな",
+    "answer": "すなのちから",
+    "extraChar": "も"
+  },
+  {
+    "id": 227,
+    "genre": "ポケモンの特性",
+    "question": "え、完クリ？",
+    "reading": "えかんくり",
+    "answer": "えんかく",
+    "extraChar": "り"
+  },
+  {
+    "id": 228,
+    "genre": "ポケモンの特性",
+    "question": "むしろ理科系",
+    "reading": "むしろりかけい",
+    "answer": "しろいけむり",
+    "extraChar": "か"
+  },
+  {
+    "id": 229,
+    "genre": "ポケモンの特性",
+    "question": "LINE溜めとる",
+    "reading": "らいんためとる",
+    "answer": "ライトメタル",
+    "extraChar": "ん"
+  },
+  {
+    "id": 230,
+    "genre": "ポケモンの特性",
+    "question": "いくぜ！フル進化！",
+    "reading": "いくぜふるしんか",
+    "answer": "しぜんかいふく",
+    "extraChar": "る"
+  },
+  {
+    "id": 231,
+    "genre": "ポケモンの特性",
+    "question": "嫁生き返れー",
+    "reading": "よめいきかえれー",
+    "answer": "エレキメイカー",
+    "extraChar": "よ"
+  },
+  {
+    "id": 232,
+    "genre": "ポケモンの特性",
+    "question": "生きるスノーマン",
+    "reading": "いきるすのーまん",
+    "answer": "ノーマルスキン",
+    "extraChar": "い"
+  },
+  {
+    "id": 233,
+    "genre": "ポケモンの特性",
+    "question": "振り込んで空虚",
+    "reading": "ふりこんでくうきょ",
+    "answer": "ふうりょくでんき",
+    "extraChar": "こ"
+  },
+  {
+    "id": 234,
+    "genre": "ポケモンの特性",
+    "question": "負けるな！",
+    "reading": "まけるな",
+    "answer": "なまけ",
+    "extraChar": "る"
+  },
+  {
+    "id": 235,
+    "genre": "ポケモンの特性",
+    "question": "冷凍室",
+    "reading": "れいとうしつ",
+    "answer": "しれいとう",
+    "extraChar": "つ"
+  },
+  {
+    "id": 236,
+    "genre": "ポケモンの特性",
+    "question": "素敵な歯",
+    "reading": "すてきなは",
+    "answer": "すなはき",
+    "extraChar": "て"
+  },
+  {
+    "id": 237,
+    "genre": "ポケモンの特性",
+    "question": "延期やて",
+    "reading": "えんきやて",
+    "answer": "てんきや",
+    "extraChar": "え"
+  },
+  {
+    "id": 238,
+    "genre": "ポケモンの特性",
+    "question": "逆に天使",
+    "reading": "ぎゃくにてんし",
+    "answer": "テクニシャン",
+    "extraChar": "ぎ"
+  },
+  {
+    "id": 239,
+    "genre": "ポケモンの特性",
+    "question": "未テラス",
+    "reading": "みてらす",
+    "answer": "すてみ",
+    "extraChar": "ら"
+  },
+  {
+    "id": 240,
+    "genre": "ポケモンの特性",
+    "question": "ハッピードクロ",
+    "reading": "はっぴーどくろ",
+    "answer": "ハードロック",
+    "extraChar": "ぴ"
+  },
+  {
+    "id": 241,
+    "genre": "ポケモンの特性",
+    "question": "不倫で脅迫",
+    "reading": "ふりんできょうはく",
+    "answer": "ふうりょくでんき",
+    "extraChar": "は"
+  },
+  {
+    "id": 242,
+    "genre": "ポケモンの特性",
+    "question": "真逆の味",
+    "reading": "まぎゃくのあじ",
+    "answer": "あまのじゃく",
+    "extraChar": "ぎ"
+  },
+  {
+    "id": 243,
+    "genre": "ポケモンの特性",
+    "question": "複利で賞金",
+    "reading": "ふくりでしょうきん",
+    "answer": "ふうりょくでんき",
+    "extraChar": "し"
+  },
+  {
+    "id": 244,
+    "genre": "ポケモンの特性",
+    "question": "蛇は怖い",
+    "reading": "へびはこわい",
+    "answer": "いわはこび",
+    "extraChar": "へ"
+  },
+  {
+    "id": 245,
+    "genre": "ポケモンの特性",
+    "question": "脱ぎたい",
+    "reading": "ぬぎたい",
+    "answer": "ぎたい",
+    "extraChar": "ぬ"
+  },
+  {
+    "id": 246,
+    "genre": "ポケモンの特性",
+    "question": "中指出す美兎",
+    "reading": "なかゆびだすみと",
+    "answer": "とびだすなかみ",
+    "extraChar": "ゆ"
+  },
+  {
+    "id": 247,
+    "genre": "ポケモンの特性",
+    "question": "黄←漢字表記",
+    "reading": "きかんじひょうき",
+    "answer": "じょうききかん",
+    "extraChar": "ひ"
+  },
+  {
+    "id": 248,
+    "genre": "ポケモンの特性",
+    "question": "うるさい飲み屋",
+    "reading": "うるさいのみや",
+    "answer": "うのミサイル",
+    "extraChar": "や"
+  },
+  {
+    "id": 249,
+    "genre": "ポケモンの特性",
+    "question": "泣き散らかすの",
+    "reading": "なきちらかすの",
+    "answer": "すなのちから",
+    "extraChar": "き"
+  },
+  {
+    "id": 250,
+    "genre": "ポケモンの特性",
+    "question": "誕生日",
+    "reading": "たんじょうび",
+    "answer": "びんじょう",
+    "extraChar": "た"
+  },
+  {
+    "id": 251,
+    "genre": "ポケモンの特性",
+    "question": "もすかう",
+    "reading": "もすかう",
+    "answer": "もうか",
+    "extraChar": "す"
+  },
+  {
+    "id": 252,
+    "genre": "ポケモンの特性",
+    "question": "婚活寝坊",
+    "reading": "こんかつねぼう",
+    "answer": "ねつこうかん",
+    "extraChar": "ぼ"
+  },
+  {
+    "id": 253,
+    "genre": "ポケモンの特性",
+    "question": "ばちっとスマイル",
+    "reading": "ばちっとすまいる",
+    "answer": "バトルスイッチ",
+    "extraChar": "ま"
+  },
+  {
+    "id": 254,
+    "genre": "ポケモンの特性",
+    "question": "キノコ潰して",
+    "reading": "きのこつぶして",
+    "answer": "てつのこぶし",
+    "extraChar": "き"
+  },
+  {
+    "id": 255,
+    "genre": "ポケモンの特性",
+    "question": "躊躇いあると",
+    "reading": "ためらいあると",
+    "answer": "ライトメタル",
+    "extraChar": "あ"
+  },
+  {
+    "id": 256,
+    "genre": "ポケモンの特性",
+    "question": "迷彩エコカー",
+    "reading": "めいさいえこかー",
+    "answer": "サイコメイカー",
+    "extraChar": "え"
+  },
+  {
+    "id": 257,
+    "genre": "ポケモンの特性",
+    "question": "課長連勤",
+    "reading": "かちょうれんきん",
+    "answer": "きんちょうかん",
+    "extraChar": "れ"
+  },
+  {
+    "id": 258,
+    "genre": "ポケモンの特性",
+    "question": "珍棒だ",
+    "reading": "ちんぼうだ",
+    "answer": "ぼうだん",
+    "extraChar": "ち"
+  },
+  {
+    "id": 259,
+    "genre": "ポケモンの特性",
+    "question": "七位のプロ棋士",
+    "reading": "なないのぷろきし",
+    "answer": "しろのいななき",
+    "extraChar": "ぷ"
+  },
+  {
+    "id": 260,
+    "genre": "ポケモンの特性",
+    "question": "酸っぱいなー",
+    "reading": "すっぱいなー",
+    "answer": "スナイパー",
+    "extraChar": "っ"
+  },
+  {
+    "id": 261,
+    "genre": "ポケモンの特性",
+    "question": "こちら、ハイスペック",
+    "reading": "こちらはいすぺっく",
+    "answer": "はらぺこスイッチ",
+    "extraChar": "く"
+  },
+  {
+    "id": 262,
+    "genre": "ポケモンの特性",
+    "question": "まーハイスペ",
+    "reading": "まーはいすぺ",
+    "answer": "マイペース",
+    "extraChar": "は"
+  },
+  {
+    "id": 263,
+    "genre": "ポケモンの特性",
+    "question": "茎が揺れる",
+    "reading": "くきがゆれる",
+    "answer": "ゆきがくれ",
+    "extraChar": "る"
+  },
+  {
+    "id": 264,
+    "genre": "ポケモンの特性",
+    "question": "マグロ美味いのよ",
+    "reading": "まぐろうまいのよ",
+    "answer": "マグマのよろい",
+    "extraChar": "う"
+  },
+  {
+    "id": 265,
+    "genre": "ポケモンの特性",
+    "question": "塩も舐めて",
+    "reading": "しおもなめて",
+    "answer": "おもてなし",
+    "extraChar": "め"
+  },
+  {
+    "id": 266,
+    "genre": "ポケモンの特性",
+    "question": "貢ぐ、口説く",
+    "reading": "みつぐくどく",
+    "answer": "どくくぐつ",
+    "extraChar": "み"
+  },
+  {
+    "id": 267,
+    "genre": "ポケモンの特性",
+    "question": "レート吸う",
+    "reading": "れーとすう",
+    "answer": "トレース",
+    "extraChar": "う"
+  },
+  {
+    "id": 268,
+    "genre": "ポケモンの特性",
+    "question": "ハンマーのスキル",
+    "reading": "はんまーのすきる",
+    "answer": "ノーマルスキン",
+    "extraChar": "は"
+  },
+  {
+    "id": 269,
+    "genre": "ポケモンの特性",
+    "question": "邪神浄化",
+    "reading": "じゃしんじょうか",
+    "answer": "じしんかじょう",
+    "extraChar": "ゃ"
+  },
+  {
+    "id": 270,
+    "genre": "ポケモンの特性",
+    "question": "クソ上司",
+    "reading": "くそじょうし",
+    "answer": "そうしょく",
+    "extraChar": "じ"
+  },
+  {
+    "id": 271,
+    "genre": "ポケモンの特性",
+    "question": "一人で",
+    "reading": "ひとりで",
+    "answer": "ひでり",
+    "extraChar": "と"
+  },
+  {
+    "id": 272,
+    "genre": "ポケモンの特性",
+    "question": "正直効かん",
+    "reading": "しょうじききかん",
+    "answer": "じょうききかん",
+    "extraChar": "し"
+  },
+  {
+    "id": 273,
+    "genre": "ポケモンの特性",
+    "question": "痛い缶バッジ",
+    "reading": "いたいかんばっじ",
+    "answer": "じんばいったい",
+    "extraChar": "か"
+  },
+  {
+    "id": 274,
+    "genre": "ポケモンの特性",
+    "question": "ドンキーの手",
+    "reading": "どんきーのて",
+    "answer": "ノーてんき",
+    "extraChar": "ど"
+  },
+  {
+    "id": 275,
+    "genre": "ポケモンの特性",
+    "question": "まだ戻るのー？",
+    "reading": "まだもどるのー",
+    "answer": "ダルマモード",
+    "extraChar": "の"
+  },
+  {
+    "id": 276,
+    "genre": "ポケモンの特性",
+    "question": "次男坊",
+    "reading": "じなんぼう",
+    "answer": "ぼうじん",
+    "extraChar": "な"
+  },
+  {
+    "id": 277,
+    "genre": "ポケモンの特性",
+    "question": "ネタ追加",
+    "reading": "ねたついか",
+    "answer": "たいねつ",
+    "extraChar": "か"
+  },
+  {
+    "id": 278,
+    "genre": "ポケモンの特性",
+    "question": "おい、裏ボス居る",
+    "reading": "おいうらぼすいる",
+    "answer": "うるおいボイス",
+    "extraChar": "ら"
+  },
+  {
+    "id": 279,
+    "genre": "ポケモンの特性",
+    "question": "丸焼き",
+    "reading": "まるやき",
+    "answer": "やるき",
+    "extraChar": "ま"
+  },
+  {
+    "id": 280,
+    "genre": "ポケモンの特性",
+    "question": "冷たい肩",
+    "reading": "つめたいかた",
+    "answer": "かたいつめ",
+    "extraChar": "た"
+  },
+  {
+    "id": 281,
+    "genre": "ポケモンの特性",
+    "question": "農家は損だ",
+    "reading": "のうかはそんだ",
+    "answer": "かんそうはだ",
+    "extraChar": "の"
+  },
+  {
+    "id": 282,
+    "genre": "ポケモンの特性",
+    "question": "節々の硬化",
+    "reading": "ふしぶしのこうか",
+    "answer": "ふかしのこぶし",
+    "extraChar": "う"
+  },
+  {
+    "id": 283,
+    "genre": "ポケモンの特性",
+    "question": "嘘詠唱だ",
+    "reading": "うそえいしょうだ",
+    "answer": "そうだいしょう",
+    "extraChar": "え"
+  },
+  {
+    "id": 284,
+    "genre": "ポケモンの特性",
+    "question": "パない記録なの",
+    "reading": "ぱないきろくなの",
+    "answer": "くろのいななき",
+    "extraChar": "ぱ"
+  },
+  {
+    "id": 285,
+    "genre": "ポケモンの特性",
+    "question": "還暦エキス",
+    "reading": "かんれきえきす",
+    "answer": "エレキスキン",
+    "extraChar": "か"
+  },
+  {
+    "id": 286,
+    "genre": "ポケモンの特性",
+    "question": "神な卒論",
+    "reading": "かみなそつろん",
+    "answer": "かんろなミツ",
+    "extraChar": "そ"
+  },
+  {
+    "id": 287,
+    "genre": "ポケモンの特性",
+    "question": "酒はダメ",
+    "reading": "さけはだめ",
+    "answer": "さめはだ",
+    "extraChar": "け"
+  },
+  {
+    "id": 288,
+    "genre": "ポケモンの特性",
+    "question": "小石の礫",
+    "reading": "こいしのつぶて",
+    "answer": "てつのこぶし",
+    "extraChar": "い"
+  },
+  {
+    "id": 289,
+    "genre": "ポケモンの特性",
+    "question": "尊師逃亡",
+    "reading": "そんしとうぼう",
+    "answer": "とうそうしん",
+    "extraChar": "ぼ"
+  },
+  {
+    "id": 290,
+    "genre": "ポケモンの特性",
+    "question": "ふ、太もも！",
+    "reading": "ふふともも",
+    "answer": "もふもふ",
+    "extraChar": "と"
+  },
+  {
+    "id": 291,
+    "genre": "ポケモンの特性",
+    "question": "一応の助言",
+    "reading": "いちおうのじょげん",
+    "answer": "じょおうのいげん",
+    "extraChar": "ち"
+  },
+  {
+    "id": 292,
+    "genre": "ポケモンの特性",
+    "question": "所詮リメイク",
+    "reading": "しょせんりめいく",
+    "answer": "せいしんりょく",
+    "extraChar": "め"
+  },
+  {
+    "id": 293,
+    "genre": "ポケモンの特性",
+    "question": "足でだと!?",
+    "reading": "あしでだと",
+    "answer": "あとだし",
+    "extraChar": "で"
+  },
+  {
+    "id": 294,
+    "genre": "ポケモンの特性",
+    "question": "奥にトイレ無い",
+    "reading": "おくにといれない",
+    "answer": "とれないにおい",
+    "extraChar": "く"
+  },
+  {
+    "id": 295,
+    "genre": "ポケモンの特性",
+    "question": "緊迫スリル",
+    "reading": "きんぱくすりる",
+    "answer": "スキルリンク",
+    "extraChar": "ぱ"
+  },
+  {
+    "id": 296,
+    "genre": "ポケモンの特性",
+    "question": "風吹く神域",
+    "reading": "かぜふくしんいき",
+    "answer": "しぜんかいふく",
+    "extraChar": "き"
+  },
+  {
+    "id": 297,
+    "genre": "ポケモンの特性",
+    "question": "緋色の雲",
+    "reading": "ひいろのくも",
+    "answer": "ものひろい",
+    "extraChar": "く"
+  },
+  {
+    "id": 298,
+    "genre": "ポケモンの特性",
+    "question": "あたし迷子",
+    "reading": "あたしまいご",
+    "answer": "いしあたま",
+    "extraChar": "ご"
+  },
+  {
+    "id": 299,
+    "genre": "ポケモンの特性",
+    "question": "鬼火入れないと",
+    "reading": "おにびいれないと",
+    "answer": "とれないにおい",
+    "extraChar": "び"
+  },
+  {
+    "id": 300,
+    "genre": "ポケモンの特性",
+    "question": "6Vだけ選る",
+    "reading": "ろくぶいだけよる",
+    "answer": "くだけるよろい",
+    "extraChar": "ぶ"
+  },
+  {
+    "id": 301,
     "genre": "ポケモンの特性",
     "question": "オーダー比べ",
     "reading": "おーだーくらべ",
@@ -3576,31 +2408,599 @@
     "extraChar": "べ"
   },
   {
-    "id": 448,
+    "id": 302,
     "genre": "ポケモンの特性",
-    "question": "嫁のお仕置き",
-    "reading": "よめのおしおき",
-    "answer": "きよめのしお",
-    "extraChar": "お"
+    "question": "歩数計",
+    "reading": "ほすうけい",
+    "answer": "すいほう",
+    "extraChar": "け"
   },
   {
-    "id": 449,
+    "id": 303,
     "genre": "ポケモンの特性",
-    "question": "古墳四角いぜ",
-    "reading": "こふんしかくいぜ",
-    "answer": "しぜんかいふく",
-    "extraChar": "こ"
+    "question": "かなり好き",
+    "reading": "かなりすき",
+    "answer": "すなかき",
+    "extraChar": "り"
   },
   {
-    "id": 450,
+    "id": 304,
     "genre": "ポケモンの特性",
-    "question": "暴慢だ",
-    "reading": "ぼうまんだ",
-    "answer": "ぼうだん",
+    "question": "熊エンカ",
+    "reading": "くまえんか",
+    "answer": "えんかく",
     "extraChar": "ま"
   },
   {
-    "id": 451,
+    "id": 305,
+    "genre": "ポケモンの特性",
+    "question": "パないスリー",
+    "reading": "ぱないすりー",
+    "answer": "スナイパー",
+    "extraChar": "り"
+  },
+  {
+    "id": 306,
+    "genre": "ポケモンの特性",
+    "question": "織田からの拷問",
+    "reading": "おだからのごうもん",
+    "answer": "おうごんのからだ",
+    "extraChar": "も"
+  },
+  {
+    "id": 307,
+    "genre": "ポケモンの特性",
+    "question": "諸法則",
+    "reading": "しょほうそく",
+    "answer": "そうしょく",
+    "extraChar": "ほ"
+  },
+  {
+    "id": 308,
+    "genre": "ポケモンの特性",
+    "question": "まるころベアー",
+    "reading": "まるころべあー",
+    "answer": "アロマベール",
+    "extraChar": "こ"
+  },
+  {
+    "id": 309,
+    "genre": "ポケモンの特性",
+    "question": "生ボイス",
+    "reading": "なまぼいす",
+    "answer": "マイナス",
+    "extraChar": "ぼ"
+  },
+  {
+    "id": 310,
+    "genre": "ポケモンの特性",
+    "question": "元気なへずま",
+    "reading": "げんきなへずま",
+    "answer": "きずなへんげ",
+    "extraChar": "ま"
+  },
+  {
+    "id": 311,
+    "genre": "ポケモンの特性",
+    "question": "全力姿勢",
+    "reading": "ぜんりょくしせい",
+    "answer": "せいしんりょく",
+    "extraChar": "ぜ"
+  },
+  {
+    "id": 312,
+    "genre": "ポケモンの特性",
+    "question": "火星植林",
+    "reading": "かせいしょくりん",
+    "answer": "せいしんりょく",
+    "extraChar": "か"
+  },
+  {
+    "id": 313,
+    "genre": "ポケモンの特性",
+    "question": "電波クロック",
+    "reading": "でんぱくろっく",
+    "answer": "パンクロック",
+    "extraChar": "で"
+  },
+  {
+    "id": 314,
+    "genre": "ポケモンの特性",
+    "question": "火星一戸建て",
+    "reading": "かせいいっこだて",
+    "answer": "こだいかっせい",
+    "extraChar": "て"
+  },
+  {
+    "id": 315,
+    "genre": "ポケモンの特性",
+    "question": "つい寝てた",
+    "reading": "ついねてた",
+    "answer": "たいねつ",
+    "extraChar": "て"
+  },
+  {
+    "id": 316,
+    "genre": "ポケモンの特性",
+    "question": "んん…寝てた…",
+    "reading": "んんねてた",
+    "answer": "てんねん",
+    "extraChar": "た"
+  },
+  {
+    "id": 317,
+    "genre": "ポケモンの特性",
+    "question": "泣くな！生きろ！飲も！",
+    "reading": "なくないきろのも",
+    "answer": "くろのいななき",
+    "extraChar": "も"
+  },
+  {
+    "id": 318,
+    "genre": "ポケモンの特性",
+    "question": "この絵シコいやろ",
+    "reading": "このえしこいやろ",
+    "answer": "いやしのこころ",
+    "extraChar": "え"
+  },
+  {
+    "id": 319,
+    "genre": "ポケモンの特性",
+    "question": "車停めてたプロ",
+    "reading": "くるまとめてたぷろ",
+    "answer": "メタルプロテクト",
+    "extraChar": "ま"
+  },
+  {
+    "id": 320,
+    "genre": "ポケモンの特性",
+    "question": "異国の殺し屋",
+    "reading": "いこくのころしや",
+    "answer": "いやしのこころ",
+    "extraChar": "く"
+  },
+  {
+    "id": 321,
+    "genre": "ポケモンの特性",
+    "question": "お代の一割",
+    "reading": "おだいのいちわり",
+    "answer": "おわりのだいち",
+    "extraChar": "い"
+  },
+  {
+    "id": 322,
+    "genre": "ポケモンの特性",
+    "question": "忙殺、寝そう…",
+    "reading": "ぼうさつねそう",
+    "answer": "ねつぼうそう",
+    "extraChar": "さ"
+  },
+  {
+    "id": 323,
+    "genre": "ポケモンの特性",
+    "question": "あれ？居ました？",
+    "reading": "あれいました",
+    "answer": "いしあたま",
+    "extraChar": "れ"
+  },
+  {
+    "id": 324,
+    "genre": "ポケモンの特性",
+    "question": "マジ危険",
+    "reading": "まじきけん",
+    "answer": "まけんき",
+    "extraChar": "じ"
+  },
+  {
+    "id": 325,
+    "genre": "ポケモンの特性",
+    "question": "夜契約だろ？",
+    "reading": "よるけいやくだろ",
+    "answer": "くだけるよろい",
+    "extraChar": "や"
+  },
+  {
+    "id": 326,
+    "genre": "ポケモンの特性",
+    "question": "重いラブくれー！",
+    "reading": "おもいらぶくれー",
+    "answer": "オーラブレイク",
+    "extraChar": "も"
+  },
+  {
+    "id": 327,
+    "genre": "ポケモンの特性",
+    "question": "相棒気質",
+    "reading": "あいぼうきしつ",
+    "answer": "あついしぼう",
+    "extraChar": "き"
+  },
+  {
+    "id": 328,
+    "genre": "ポケモンの特性",
+    "question": "壊し、直す",
+    "reading": "こわしなおす",
+    "answer": "すなおこし",
+    "extraChar": "わ"
+  },
+  {
+    "id": 329,
+    "genre": "ポケモンの特性",
+    "question": "機械拒否",
+    "reading": "きかいきょひ",
+    "answer": "ききかいひ",
+    "extraChar": "ょ"
+  },
+  {
+    "id": 330,
+    "genre": "ポケモンの特性",
+    "question": "架空のオランダ語",
+    "reading": "かくうのおらんだご",
+    "answer": "おうごんのからだ",
+    "extraChar": "く"
+  },
+  {
+    "id": 331,
+    "genre": "ポケモンの特性",
+    "question": "予想は勘だ",
+    "reading": "よそうはかんだ",
+    "answer": "かんそうはだ",
+    "extraChar": "よ"
+  },
+  {
+    "id": 332,
+    "genre": "ポケモンの特性",
+    "question": "ピネだっ！",
+    "reading": "ぴねだっ",
+    "answer": "だっぴ",
+    "extraChar": "ね"
+  },
+  {
+    "id": 333,
+    "genre": "ポケモンの特性",
+    "question": "ホクロおでぶ",
+    "reading": "ほくろおでぶ",
+    "answer": "ほおぶくろ",
+    "extraChar": "で"
+  },
+  {
+    "id": 334,
+    "genre": "ポケモンの特性",
+    "question": "早よ詫び来い",
+    "reading": "はよわびこい",
+    "answer": "いわはこび",
+    "extraChar": "よ"
+  },
+  {
+    "id": 335,
+    "genre": "ポケモンの特性",
+    "question": "トキ守った",
+    "reading": "ときまもった",
+    "answer": "きもったま",
+    "extraChar": "と"
+  },
+  {
+    "id": 336,
+    "genre": "ポケモンの特性",
+    "question": "平社員",
+    "reading": "ひらしゃいん",
+    "answer": "ひらいしん",
+    "extraChar": "ゃ"
+  },
+  {
+    "id": 337,
+    "genre": "ポケモンの特性",
+    "question": "マシンガン",
+    "reading": "ましんがん",
+    "answer": "しんがん",
+    "extraChar": "ま"
+  },
+  {
+    "id": 338,
+    "genre": "ポケモンの特性",
+    "question": "塩焼き派",
+    "reading": "しおやきは",
+    "answer": "はやおき",
+    "extraChar": "し"
+  },
+  {
+    "id": 339,
+    "genre": "ポケモンの特性",
+    "question": "根っこ這う",
+    "reading": "ねっこはう",
+    "answer": "はっこう",
+    "extraChar": "ね"
+  },
+  {
+    "id": 340,
+    "genre": "ポケモンの特性",
+    "question": "視力1000倍",
+    "reading": "しりょくせんばい",
+    "answer": "せいしんりょく",
+    "extraChar": "ば"
+  },
+  {
+    "id": 341,
+    "genre": "ポケモンの特性",
+    "question": "またも復帰",
+    "reading": "またもふっき",
+    "answer": "きもったま",
+    "extraChar": "ふ"
+  },
+  {
+    "id": 342,
+    "genre": "ポケモンの特性",
+    "question": "社報",
+    "reading": "しゃほう",
+    "answer": "ほうし",
+    "extraChar": "ゃ"
+  },
+  {
+    "id": 343,
+    "genre": "ポケモンの特性",
+    "question": "食いかけ",
+    "reading": "くいかけ",
+    "answer": "いかく",
+    "extraChar": "け"
+  },
+  {
+    "id": 344,
+    "genre": "ポケモンの特性",
+    "question": "貼っとこう",
+    "reading": "はっとこう",
+    "answer": "はっこう",
+    "extraChar": "と"
+  },
+  {
+    "id": 345,
+    "genre": "ポケモンの特性",
+    "question": "炎上期",
+    "reading": "えんじょうき",
+    "answer": "きょうえん",
+    "extraChar": "じ"
+  },
+  {
+    "id": 346,
+    "genre": "ポケモンの特性",
+    "question": "過学習",
+    "reading": "かがくしゅう",
+    "answer": "しゅうかく",
+    "extraChar": "が"
+  },
+  {
+    "id": 347,
+    "genre": "ポケモンの特性",
+    "question": "あら？ムズいな…",
+    "reading": "あらむずいな",
+    "answer": "アナライズ",
+    "extraChar": "む"
+  },
+  {
+    "id": 348,
+    "genre": "ポケモンの特性",
+    "question": "課金延長",
+    "reading": "かきんえんちょう",
+    "answer": "きんちょうかん",
+    "extraChar": "え"
+  },
+  {
+    "id": 349,
+    "genre": "ポケモンの特性",
+    "question": "無茶よ",
+    "reading": "むちゃよ",
+    "answer": "よちむ",
+    "extraChar": "ゃ"
+  },
+  {
+    "id": 350,
+    "genre": "ポケモンの特性",
+    "question": "海苔は蛆まみれ",
+    "reading": "のりはうじまみれ",
+    "answer": "はじまりのうみ",
+    "extraChar": "れ"
+  },
+  {
+    "id": 351,
+    "genre": "ポケモンの特性",
+    "question": "嘘!?ショック…",
+    "reading": "うそしょっく",
+    "answer": "そうしょく",
+    "extraChar": "っ"
+  },
+  {
+    "id": 352,
+    "genre": "ポケモンの特性",
+    "question": "揚げ煮干し",
+    "reading": "あげにぼし",
+    "answer": "にげあし",
+    "extraChar": "ぼ"
+  },
+  {
+    "id": 353,
+    "genre": "ポケモンの特性",
+    "question": "ガンメタ済み",
+    "reading": "がんめたずみ",
+    "answer": "みずがため",
+    "extraChar": "ん"
+  },
+  {
+    "id": 354,
+    "genre": "ポケモンの特性",
+    "question": "ワープ列車",
+    "reading": "わーぷれっしゃ",
+    "answer": "プレッシャー",
+    "extraChar": "わ"
+  },
+  {
+    "id": 355,
+    "genre": "ポケモンの特性",
+    "question": "ミステリ",
+    "reading": "みすてり",
+    "answer": "すてみ",
+    "extraChar": "り"
+  },
+  {
+    "id": 356,
+    "genre": "ポケモンの特性",
+    "question": "辛口の茄子",
+    "reading": "からくちのなす",
+    "answer": "すなのちから",
+    "extraChar": "く"
+  },
+  {
+    "id": 357,
+    "genre": "ポケモンの特性",
+    "question": "運極振りです",
+    "reading": "うんきょくふりです",
+    "answer": "ふうりょくでんき",
+    "extraChar": "す"
+  },
+  {
+    "id": 358,
+    "genre": "ポケモンの特性",
+    "question": "好き！耐えきれん！",
+    "reading": "すきたえきれん",
+    "answer": "エレキスキン",
+    "extraChar": "た"
+  },
+  {
+    "id": 359,
+    "genre": "ポケモンの特性",
+    "question": "野次馬の見張り",
+    "reading": "やじうまのみはり",
+    "answer": "はじまりのうみ",
+    "extraChar": "や"
+  },
+  {
+    "id": 360,
+    "genre": "ポケモンの特性",
+    "question": "コード明快さ",
+    "reading": "こーどめいかいさ",
+    "answer": "サイコメイカー",
+    "extraChar": "ど"
+  },
+  {
+    "id": 361,
+    "genre": "ポケモンの特性",
+    "question": "ポン酢要る人ー？",
+    "reading": "ぽんずいるひとー",
+    "answer": "ポイズンヒール",
+    "extraChar": "と"
+  },
+  {
+    "id": 362,
+    "genre": "ポケモンの特性",
+    "question": "支援邪魔",
+    "reading": "しえんじゃま",
+    "answer": "マジシャン",
+    "extraChar": "え"
+  },
+  {
+    "id": 363,
+    "genre": "ポケモンの特性",
+    "question": "絵描き君",
+    "reading": "えかきくん",
+    "answer": "えんかく",
+    "extraChar": "き"
+  },
+  {
+    "id": 364,
+    "genre": "ポケモンの特性",
+    "question": "嬉しい時",
+    "reading": "うれしいとき",
+    "answer": "しれいとう",
+    "extraChar": "き"
+  },
+  {
+    "id": 365,
+    "genre": "ポケモンの特性",
+    "question": "イケる口だろよ",
+    "reading": "いけるくちだろよ",
+    "answer": "くだけるよろい",
+    "extraChar": "ち"
+  },
+  {
+    "id": 366,
+    "genre": "ポケモンの特性",
+    "question": "親の飯、良き",
+    "reading": "おやのめしよき",
+    "answer": "きよめのしお",
+    "extraChar": "や"
+  },
+  {
+    "id": 367,
+    "genre": "ポケモンの特性",
+    "question": "巣、崩壊",
+    "reading": "すほうかい",
+    "answer": "すいほう",
+    "extraChar": "か"
+  },
+  {
+    "id": 368,
+    "genre": "ポケモンの特性",
+    "question": "トライの公理か",
+    "reading": "とらいのこうりか",
+    "answer": "いかりのこうら",
+    "extraChar": "と"
+  },
+  {
+    "id": 369,
+    "genre": "ポケモンの特性",
+    "question": "異次元のお経",
+    "reading": "いじげんのおきょう",
+    "answer": "じょおうのいげん",
+    "extraChar": "き"
+  },
+  {
+    "id": 370,
+    "genre": "ポケモンの特性",
+    "question": "貯金交換",
+    "reading": "ちょきんこうかん",
+    "answer": "きんちょうかん",
+    "extraChar": "こ"
+  },
+  {
+    "id": 371,
+    "genre": "ポケモンの特性",
+    "question": "とんこつ買うね",
+    "reading": "とんこつかうね",
+    "answer": "ねつこうかん",
+    "extraChar": "と"
+  },
+  {
+    "id": 372,
+    "genre": "ポケモンの特性",
+    "question": "酔う沙花叉姉妹",
+    "reading": "ようさかまたしまい",
+    "answer": "さまようたましい",
+    "extraChar": "か"
+  },
+  {
+    "id": 373,
+    "genre": "ポケモンの特性",
+    "question": "クソ長スレ",
+    "reading": "くそながすれ",
+    "answer": "すながくれ",
+    "extraChar": "そ"
+  },
+  {
+    "id": 374,
+    "genre": "ポケモンの特性",
+    "question": "しーー！バレる！",
+    "reading": "しーーばれる",
+    "answer": "レシーバー",
+    "extraChar": "る"
+  },
+  {
+    "id": 375,
+    "genre": "ポケモンの特性",
+    "question": "薄い本",
+    "reading": "うすいほん",
+    "answer": "すいほう",
+    "extraChar": "ん"
+  },
+  {
+    "id": 376,
     "genre": "ポケモンの特性",
     "question": "トナカイにお礼",
     "reading": "となかいにおれい",
@@ -3608,11 +3008,643 @@
     "extraChar": "か"
   },
   {
+    "id": 377,
+    "genre": "ポケモンの特性",
+    "question": "菓子付きのランチ",
+    "reading": "かしつきのらんち",
+    "answer": "きんしのちから",
+    "extraChar": "つ"
+  },
+  {
+    "id": 378,
+    "genre": "ポケモンの特性",
+    "question": "スーパー無い…",
+    "reading": "すーぱーない",
+    "answer": "スナイパー",
+    "extraChar": "ー"
+  },
+  {
+    "id": 379,
+    "genre": "ポケモンの特性",
+    "question": "全マシじゃ！",
+    "reading": "ぜんましじゃ",
+    "answer": "マジシャン",
+    "extraChar": "ぜ"
+  },
+  {
+    "id": 380,
+    "genre": "ポケモンの特性",
+    "question": "一斉カキコだ",
+    "reading": "いっせいかきこだ",
+    "answer": "こだいかっせい",
+    "extraChar": "き"
+  },
+  {
+    "id": 381,
+    "genre": "ポケモンの特性",
+    "question": "ま、泣けよ",
+    "reading": "まなけよ",
+    "answer": "なまけ",
+    "extraChar": "よ"
+  },
+  {
+    "id": 382,
+    "genre": "ポケモンの特性",
+    "question": "耐熱メカ",
+    "reading": "たいねつめか",
+    "answer": "かたいツメ",
+    "extraChar": "ね"
+  },
+  {
+    "id": 383,
+    "genre": "ポケモンの特性",
+    "question": "歯が耐熱化",
+    "reading": "はがたいねつか",
+    "answer": "はがねつかい",
+    "extraChar": "た"
+  },
+  {
+    "id": 384,
+    "genre": "ポケモンの特性",
+    "question": "盛大な国歌",
+    "reading": "せいだいなこっか",
+    "answer": "こだいかっせい",
+    "extraChar": "な"
+  },
+  {
+    "id": 385,
+    "genre": "ポケモンの特性",
+    "question": "良い大人になれ",
+    "reading": "いいおとなになれ",
+    "answer": "とれないにおい",
+    "extraChar": "な"
+  },
+  {
+    "id": 386,
+    "genre": "ポケモンの特性",
+    "question": "岐阜県の塔",
+    "reading": "ぎふけんのとう",
+    "answer": "ふとうのけん",
+    "extraChar": "ぎ"
+  },
+  {
+    "id": 387,
+    "genre": "ポケモンの特性",
+    "question": "裏ノリでいこか",
+    "reading": "うらのりでいこか",
+    "answer": "いかりのこうら",
+    "extraChar": "で"
+  },
+  {
+    "id": 388,
+    "genre": "ポケモンの特性",
+    "question": "脳内見るさ",
+    "reading": "のうないみるさ",
+    "answer": "うのミサイル",
+    "extraChar": "な"
+  },
+  {
+    "id": 389,
+    "genre": "ポケモンの特性",
+    "question": "パインサワー",
+    "reading": "ぱいんさわー",
+    "answer": "サンパワー",
+    "extraChar": "い"
+  },
+  {
+    "id": 390,
+    "genre": "ポケモンの特性",
+    "question": "禁伝演じる",
+    "reading": "きんでんえんじる",
+    "answer": "でんきエンジン",
+    "extraChar": "る"
+  },
+  {
+    "id": 391,
+    "genre": "ポケモンの特性",
+    "question": "栗、チンする気!?",
+    "reading": "くりちんするき",
+    "answer": "スキルリンク",
+    "extraChar": "ち"
+  },
+  {
+    "id": 392,
+    "genre": "ポケモンの特性",
+    "question": "起点やな",
+    "reading": "きてんやな",
+    "answer": "てんきや",
+    "extraChar": "な"
+  },
+  {
+    "id": 393,
+    "genre": "ポケモンの特性",
+    "question": "メンハ吸う",
+    "reading": "めんはすう",
+    "answer": "はんすう",
+    "extraChar": "め"
+  },
+  {
+    "id": 394,
+    "genre": "ポケモンの特性",
+    "question": "これ寝坊だ…",
+    "reading": "これねぼうだ",
+    "answer": "こぼれだね",
+    "extraChar": "う"
+  },
+  {
+    "id": 395,
+    "genre": "ポケモンの特性",
+    "question": "古墳四角いぜ",
+    "reading": "こふんしかくいぜ",
+    "answer": "しぜんかいふく",
+    "extraChar": "こ"
+  },
+  {
+    "id": 396,
+    "genre": "ポケモンの特性",
+    "question": "貴殿に蛙化",
+    "reading": "きでんにかえるか",
+    "answer": "でんきにかえる",
+    "extraChar": "か"
+  },
+  {
+    "id": 397,
+    "genre": "ポケモンの特性",
+    "question": "早押し機",
+    "reading": "はやおしき",
+    "answer": "はやおき",
+    "extraChar": "し"
+  },
+  {
+    "id": 398,
+    "genre": "ポケモンの特性",
+    "question": "うい、三重去るの",
+    "reading": "ういみえさるの",
+    "answer": "うのミサイル",
+    "extraChar": "え"
+  },
+  {
+    "id": 399,
+    "genre": "ポケモンの特性",
+    "question": "牛の取り合い",
+    "reading": "ぎゅうのとりあい",
+    "answer": "りゅうのあぎと",
+    "extraChar": "い"
+  },
+  {
+    "id": 400,
+    "genre": "ポケモンの特性",
+    "question": "品位あるポーズ",
+    "reading": "ひんいあるぽーず",
+    "answer": "ポイズンヒール",
+    "extraChar": "あ"
+  },
+  {
+    "id": 401,
+    "genre": "ポケモンの特性",
+    "question": "ガチお祈りだわ…",
+    "reading": "がちおいのりだわ",
+    "answer": "おわりのだいち",
+    "extraChar": "が"
+  },
+  {
+    "id": 402,
+    "genre": "ポケモンの特性",
+    "question": "ガードだ！まもる！",
+    "reading": "がーどだまもる",
+    "answer": "ダルマモード",
+    "extraChar": "が"
+  },
+  {
+    "id": 403,
+    "genre": "ポケモンの特性",
+    "question": "ボイスメディア",
+    "reading": "ぼいすめでぃあ",
+    "answer": "アイスボディ",
+    "extraChar": "メ"
+  },
+  {
+    "id": 404,
+    "genre": "ポケモンの特性",
+    "question": "除草指示監",
+    "reading": "じょそうしじかん",
+    "answer": "じしんかじょう",
+    "extraChar": "そ"
+  },
+  {
+    "id": 405,
+    "genre": "ポケモンの特性",
+    "question": "棒玉じゃ！",
+    "reading": "ぼうぎょくじゃ",
+    "answer": "ぎゃくじょう",
+    "extraChar": "ぼ"
+  },
+  {
+    "id": 406,
+    "genre": "ポケモンの特性",
+    "question": "仮装は無断",
+    "reading": "かそうはむだん",
+    "answer": "かんそうはだ",
+    "extraChar": "む"
+  },
+  {
+    "id": 407,
+    "genre": "ポケモンの特性",
+    "question": "海賊",
+    "reading": "かいぞく",
+    "answer": "いかく",
+    "extraChar": "ぞ"
+  },
+  {
+    "id": 408,
+    "genre": "ポケモンの特性",
+    "question": "兎田本",
+    "reading": "うさだぼん",
+    "answer": "ぼうだん",
+    "extraChar": "さ"
+  },
+  {
+    "id": 409,
+    "genre": "ポケモンの特性",
+    "question": "イカサマした馬よ",
+    "reading": "いかさましたうまよ",
+    "answer": "さまようたましい",
+    "extraChar": "か"
+  },
+  {
+    "id": 410,
+    "genre": "ポケモンの特性",
+    "question": "歌上手いまさよし",
+    "reading": "うたうまいまさよし",
+    "answer": "さまようたましい",
+    "extraChar": "う"
+  },
+  {
+    "id": 411,
+    "genre": "ポケモンの特性",
+    "question": "川のマリモ",
+    "reading": "かわのまりも",
+    "answer": "かわりもの",
+    "extraChar": "ま"
+  },
+  {
+    "id": 412,
+    "genre": "ポケモンの特性",
+    "question": "マンボウ飼育",
+    "reading": "まんぼうしいく",
+    "answer": "くいしんぼう",
+    "extraChar": "ま"
+  },
+  {
+    "id": 413,
+    "genre": "ポケモンの特性",
+    "question": "エルデンに課金",
+    "reading": "えるでんにかきん",
+    "answer": "でんきにかえる",
+    "extraChar": "ん"
+  },
+  {
+    "id": 414,
+    "genre": "ポケモンの特性",
+    "question": "年賀状",
+    "reading": "ねんがじょう",
+    "answer": "がんじょう",
+    "extraChar": "ね"
+  },
+  {
+    "id": 415,
+    "genre": "ポケモンの特性",
+    "question": "探知機避け",
+    "reading": "たんちきよけ",
+    "answer": "きけんよち",
+    "extraChar": "た"
+  },
+  {
+    "id": 416,
+    "genre": "ポケモンの特性",
+    "question": "雨降りリバー",
+    "reading": "あめふりりばー",
+    "answer": "バリアフリー",
+    "extraChar": "め"
+  },
+  {
+    "id": 417,
+    "genre": "ポケモンの特性",
+    "question": "どう？ロックでいく？",
+    "reading": "どうろっくでいく",
+    "answer": "クイックドロウ",
+    "extraChar": "で"
+  },
+  {
+    "id": 418,
+    "genre": "ポケモンの特性",
+    "question": "明日フェス、いいね！",
+    "reading": "あすふぇすいいね",
+    "answer": "アイスフェイス",
+    "extraChar": "ね"
+  },
+  {
+    "id": 419,
+    "genre": "ポケモンの特性",
+    "question": "メダカとスイミー",
+    "reading": "めだかとすいみー",
+    "answer": "ミストメイカー",
+    "extraChar": "だ"
+  },
+  {
+    "id": 420,
+    "genre": "ポケモンの特性",
+    "question": "辛口柚子",
+    "reading": "からくちゆず",
+    "answer": "ちからずく",
+    "extraChar": "ゆ"
+  },
+  {
+    "id": 421,
+    "genre": "ポケモンの特性",
+    "question": "倒産しそう…",
+    "reading": "とうさんしそう",
+    "answer": "とうそうしん",
+    "extraChar": "さ"
+  },
+  {
+    "id": 422,
+    "genre": "ポケモンの特性",
+    "question": "夏みかん色",
+    "reading": "なつみかんいろ",
+    "answer": "かんろなミツ",
+    "extraChar": "い"
+  },
+  {
+    "id": 423,
+    "genre": "ポケモンの特性",
+    "question": "へっくしょん！",
+    "reading": "へっくしょん",
+    "answer": "へんしょく",
+    "extraChar": "っ"
+  },
+  {
+    "id": 424,
+    "genre": "ポケモンの特性",
+    "question": "闇深げ",
+    "reading": "やみふかげ",
+    "answer": "かげふみ",
+    "extraChar": "や"
+  },
+  {
+    "id": 425,
+    "genre": "ポケモンの特性",
+    "question": "投機熟慮",
+    "reading": "とうきじゅくりょ",
+    "answer": "じきゅうりょく",
+    "extraChar": "と"
+  },
+  {
+    "id": 426,
+    "genre": "ポケモンの特性",
+    "question": "相棒ディス",
+    "reading": "あいぼうでぃす",
+    "answer": "アイスボディ",
+    "extraChar": "う"
+  },
+  {
+    "id": 427,
+    "genre": "ポケモンの特性",
+    "question": "岩のタマゴ技",
+    "reading": "いわのたまごわざ",
+    "answer": "わざわいのたま",
+    "extraChar": "ご"
+  },
+  {
+    "id": 428,
+    "genre": "ポケモンの特性",
+    "question": "ドンだー次郎",
+    "reading": "どんだーじろう",
+    "answer": "ダウンロード",
+    "extraChar": "じ"
+  },
+  {
+    "id": 429,
+    "genre": "ポケモンの特性",
+    "question": "ガセネタの配信",
+    "reading": "がせねたのはいしん",
+    "answer": "はがねのせいしん",
+    "extraChar": "た"
+  },
+  {
+    "id": 430,
+    "genre": "ポケモンの特性",
+    "question": "初の鯖立てや",
+    "reading": "はつのさばたてや",
+    "answer": "はやてのつばさ",
+    "extraChar": "た"
+  },
+  {
+    "id": 431,
+    "genre": "ポケモンの特性",
+    "question": "おっ、あいこや",
+    "reading": "おっあいこや",
+    "answer": "おやこあい",
+    "extraChar": "っ"
+  },
+  {
+    "id": 432,
+    "genre": "ポケモンの特性",
+    "question": "誠凛所属",
+    "reading": "せいりんしょぞく",
+    "answer": "せいしんりょく",
+    "extraChar": "ぞ"
+  },
+  {
+    "id": 433,
+    "genre": "ポケモンの特性",
+    "question": "データ採りニムする",
+    "reading": "でーたとりにむする",
+    "answer": "デルタストリーム",
+    "extraChar": "に"
+  },
+  {
+    "id": 434,
+    "genre": "ポケモンの特性",
+    "question": "神フリゲ",
+    "reading": "かみふりげ",
+    "answer": "かげふみ",
+    "extraChar": "り"
+  },
+  {
+    "id": 435,
+    "genre": "ポケモンの特性",
+    "question": "碌なキノコ無い",
+    "reading": "ろくなきのこない",
+    "answer": "くろのいななき",
+    "extraChar": "こ"
+  },
+  {
+    "id": 436,
+    "genre": "ポケモンの特性",
+    "question": "嫁のお仕置き",
+    "reading": "よめのおしおき",
+    "answer": "きよめのしお",
+    "extraChar": "お"
+  },
+  {
+    "id": 437,
+    "genre": "ポケモンの特性",
+    "question": "あー今寝てるー",
+    "reading": "あーいまねてるー",
+    "answer": "テイルアーマー",
+    "extraChar": "ね"
+  },
+  {
+    "id": 438,
+    "genre": "ポケモンの特性",
+    "question": "暴慢だ",
+    "reading": "ぼうまんだ",
+    "answer": "ぼうだん",
+    "extraChar": "ま"
+  },
+  {
+    "id": 439,
+    "genre": "ポケモンの特性",
+    "question": "脛かじりガイ",
+    "reading": "すねかじりがい",
+    "answer": "すじがねいり",
+    "extraChar": "か"
+  },
+  {
+    "id": 440,
+    "genre": "ポケモンの特性",
+    "question": "速攻派",
+    "reading": "そっこうは",
+    "answer": "はっこう",
+    "extraChar": "そ"
+  },
+  {
+    "id": 441,
+    "genre": "ポケモンの特性",
+    "question": "いもす法",
+    "reading": "いもすほう",
+    "answer": "すいほう",
+    "extraChar": "も"
+  },
+  {
+    "id": 442,
+    "genre": "ポケモンの特性",
+    "question": "TeX作ったの",
+    "reading": "てふつくったの",
+    "answer": "ふくつのたて",
+    "extraChar": "っ"
+  },
+  {
+    "id": 443,
+    "genre": "ポケモンの特性",
+    "question": "無理攻めいったね",
+    "reading": "むりぜめいったね",
+    "answer": "ぜったいねむり",
+    "extraChar": "め"
+  },
+  {
+    "id": 444,
+    "genre": "ポケモンの特性",
+    "question": "マンカラの知識",
+    "reading": "まんからのちしき",
+    "answer": "きんしのちから",
+    "extraChar": "ま"
+  },
+  {
+    "id": 445,
+    "genre": "ポケモンの特性",
+    "question": "測量士",
+    "reading": "そくりょうし",
+    "answer": "そうしょく",
+    "extraChar": "り"
+  },
+  {
+    "id": 446,
+    "genre": "ポケモンの特性",
+    "question": "レジ兄貴",
+    "reading": "れじあにき",
+    "answer": "きれあじ",
+    "extraChar": "に"
+  },
+  {
+    "id": 447,
+    "genre": "ポケモンの特性",
+    "question": "キジ食う巨漢",
+    "reading": "きじくうきょかん",
+    "answer": "じょうききかん",
+    "extraChar": "く"
+  },
+  {
+    "id": 448,
+    "genre": "ポケモンの特性",
+    "question": "意欲あるロケだ",
+    "reading": "いよくあるろけだ",
+    "answer": "くだけるよろい",
+    "extraChar": "あ"
+  },
+  {
+    "id": 449,
+    "genre": "ポケモンの特性",
+    "question": "愚息どつく",
+    "reading": "ぐそくどつく",
+    "answer": "どくくぐつ",
+    "extraChar": "そ"
+  },
+  {
+    "id": 450,
+    "genre": "ポケモンの特性",
+    "question": "2舞する？ケチる？",
+    "reading": "にまいするけちる",
+    "answer": "マルチスケイル",
+    "extraChar": "に"
+  },
+  {
+    "id": 451,
+    "genre": "ポケモンの特性",
+    "question": "感染貴重",
+    "reading": "かんせんきちょう",
+    "answer": "きんちょうかん",
+    "extraChar": "せ"
+  },
+  {
     "id": 452,
     "genre": "ポケモンの特性",
-    "question": "ブイズべた惚れー",
-    "reading": "ぶいずべたぼれー",
-    "answer": "ターボブレイズ",
-    "extraChar": "べ"
+    "question": "染色定理",
+    "reading": "せんしょくていり",
+    "answer": "せいしんりょく",
+    "extraChar": "て"
+  },
+  {
+    "id": 453,
+    "genre": "ポケモンの特性",
+    "question": "妃笑虎よ",
+    "reading": "きわこよ",
+    "answer": "よわき",
+    "extraChar": "こ"
+  },
+  {
+    "id": 454,
+    "genre": "ポケモンの特性",
+    "question": "池沼監禁",
+    "reading": "ちしょうかんきん",
+    "answer": "きんちょうかん",
+    "extraChar": "し"
+  },
+  {
+    "id": 455,
+    "genre": "ポケモンの特性",
+    "question": "ちんちん強化",
+    "reading": "ちんちんきょうか",
+    "answer": "きんちょうかん",
+    "extraChar": "ち"
+  },
+  {
+    "id": 456,
+    "genre": "ポケモンの特性",
+    "question": "二回目、勃つ",
+    "reading": "にかいめたつ",
+    "answer": "かたいツメ",
+    "extraChar": "に"
   }
 ]

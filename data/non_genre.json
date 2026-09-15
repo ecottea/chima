@@ -4,7 +4,8 @@
     "genre": "ゲーム",
     "question": "ほう、例題助かるー",
     "reading": "ほうれいだいたすかるー",
-    "answer": "崩壊スターレイル",
+    "answer": "崩壊：スターレイル",
+    "answerReading": "ほうかいすたーれいる",
     "extraChar": "だ"
   },
   {
@@ -13,6 +14,7 @@
     "question": "遊ぼー",
     "reading": "あそぼー",
     "answer": "ボーア",
+    "answerReading": "ぼーあ",
     "extraChar": "そ"
   },
   {
@@ -21,6 +23,7 @@
     "question": "ダサい色したポケット",
     "reading": "ださいいろしたぽけっと",
     "answer": "札幌市時計台",
+    "answerReading": "さっぽろしとけいだい",
     "extraChar": "た"
   },
   {
@@ -29,14 +32,16 @@
     "question": "重力子",
     "reading": "じゅうりょくし",
     "answer": "首里城",
+    "answerReading": "しゅりじょう",
     "extraChar": "く"
   },
   {
     "id": 5,
     "genre": "施設",
-    "question": "ココに欲しいニャン",
+    "question": "ココに欲しいニャン♡",
     "reading": "ここにほしいにゃん",
     "answer": "ニコニコ本社",
+    "answerReading": "にこにこほんしゃ",
     "extraChar": "い"
   },
   {
@@ -45,6 +50,7 @@
     "question": "品がないホラゲ",
     "reading": "ひんがないほらげ",
     "answer": "平賀源内",
+    "answerReading": "ひらがげんない",
     "extraChar": "ほ"
   },
   {
@@ -53,6 +59,7 @@
     "question": "歌い手の少年",
     "reading": "うたいてのしょうねん",
     "answer": "大正天皇",
+    "answerReading": "たいしょうてんのう",
     "extraChar": "ね"
   },
   {
@@ -61,6 +68,7 @@
     "question": "怪しいブログ",
     "reading": "あやしいぶろぐ",
     "answer": "石黒彩",
+    "answerReading": "いしぐろあや",
     "extraChar": "ぶ"
   },
   {
@@ -69,6 +77,7 @@
     "question": "長州力君限定",
     "reading": "ちょうしゅうりきくんげんてい",
     "answer": "中心極限定理",
+    "answerReading": "ちゅうしんきょくげんていり",
     "extraChar": "う"
   },
   {
@@ -77,6 +86,7 @@
     "question": "本格・螳螂拳部",
     "reading": "ほんかくとうろうけんぶ",
     "answer": "東方見聞録",
+    "answerReading": "とうほうけんぶんろく",
     "extraChar": "か"
   },
   {
@@ -85,6 +95,7 @@
     "question": "スノボデート",
     "reading": "すのぼでーと",
     "answer": "DEATH NOTE",
+    "answerReading": "ですのーと",
     "extraChar": "ぼ"
   },
   {
@@ -93,6 +104,7 @@
     "question": "ヤフオクに出す",
     "reading": "やふおくにだす",
     "answer": "福田康夫",
+    "answerReading": "ふくだやすお",
     "extraChar": "に"
   },
   {
@@ -101,6 +113,7 @@
     "question": "ほんまに効くん？",
     "reading": "ほんまにきくん",
     "answer": "キン肉マン",
+    "answerReading": "きんにくまん",
     "extraChar": "ほ"
   },
   {
@@ -109,6 +122,7 @@
     "question": "お祝い！飲むぞ！",
     "reading": "おいわいのむぞ",
     "answer": "岩尾望",
+    "answerReading": "いわおのぞむ",
     "extraChar": "い"
   },
   {
@@ -117,6 +131,7 @@
     "question": "懐くAI",
     "reading": "なつくえーあい",
     "answer": "アークナイツ",
+    "answerReading": "あーくないつ",
     "extraChar": "え"
   },
   {
@@ -125,6 +140,7 @@
     "question": "即5連鎖生む",
     "reading": "そくごれんさうむ",
     "answer": "三國無双",
+    "answerReading": "さんごくむそう",
     "extraChar": "れ"
   },
   {
@@ -133,6 +149,7 @@
     "question": "続く神テニス",
     "reading": "つづくかみてにす",
     "answer": "手塚国光",
+    "answerReading": "てづかくにみつ",
     "extraChar": "す"
   },
   {
@@ -141,6 +158,7 @@
     "question": "木、除草指導",
     "reading": "きじょそうしどう",
     "answer": "時期尚早",
+    "answerReading": "じきしょうそう",
     "extraChar": "ど"
   },
   {
@@ -149,6 +167,7 @@
     "question": "いいちこ美味すぎや",
     "reading": "いいちこうますぎや",
     "answer": "すぎやまこういち",
+    "answerReading": "すぎやまこういち",
     "extraChar": "い"
   },
   {
@@ -157,6 +176,7 @@
     "question": "まさか元不良？",
     "reading": "まさかもとふりょう",
     "answer": "坂本龍馬",
+    "answerReading": "さかもとりょうま",
     "extraChar": "ふ"
   },
   {
@@ -165,6 +185,7 @@
     "question": "無料奉仕マン",
     "reading": "むりょうほうしまん",
     "answer": "宝鐘マリン",
+    "answerReading": "ほうしょうまりん",
     "extraChar": "む"
   },
   {
@@ -173,6 +194,7 @@
     "question": "僕らは太陽さ",
     "reading": "ぼくらはたいようさ",
     "answer": "はたらく細胞",
+    "answerReading": "はたらくさいぼう",
     "extraChar": "よ"
   },
   {
@@ -181,6 +203,7 @@
     "question": "かさ増しヤバすぎやわ",
     "reading": "かさましやばすぎやわ",
     "answer": "若林正恭",
+    "answerReading": "わかばやしまさやす",
     "extraChar": "ぎ"
   },
   {
@@ -189,6 +212,7 @@
     "question": "アイテムを売る公園",
     "reading": "あいてむをうるこうえん",
     "answer": "上を向いて歩こう",
+    "answerReading": "うえをむいてあるこう",
     "extraChar": "ん"
   },
   {
@@ -197,6 +221,7 @@
     "question": "月の石を採るからね",
     "reading": "つきのいしをとるからね",
     "answer": "虎の威を借る狐",
+    "answerReading": "とらのいをかるきつね",
     "extraChar": "し"
   },
   {
@@ -205,6 +230,7 @@
     "question": "肉味噌汁汲み上げて",
     "reading": "にくみそしるくみあげて",
     "answer": "みくみくにしてあげる♪",
+    "answerReading": "みくみくにしてあげる",
     "extraChar": "そ"
   },
   {
@@ -213,6 +239,7 @@
     "question": "ラーメン寄付",
     "reading": "らーめんきふ",
     "answer": "フランキー",
+    "answerReading": "ふらんきー",
     "extraChar": "め"
   },
   {
@@ -221,6 +248,7 @@
     "question": "演習やだ！",
     "reading": "えんしゅうやだ",
     "answer": "上田晋也",
+    "answerReading": "うえだしんや",
     "extraChar": "ゅ"
   },
   {
@@ -229,6 +257,7 @@
     "question": "父は歌い手",
     "reading": "ちちはうたいて",
     "answer": "うちはイタチ",
+    "answerReading": "うちはいたち",
     "extraChar": "て"
   },
   {
@@ -237,6 +266,7 @@
     "question": "粥美味しいな",
     "reading": "かゆおいしいな",
     "answer": "椎名唯華",
+    "answerReading": "しいなゆいか",
     "extraChar": "お"
   },
   {
@@ -245,6 +275,7 @@
     "question": "野菜食ってもた",
     "reading": "やさいくってもた",
     "answer": "腐っても鯛",
+    "answerReading": "くさってもたい",
     "extraChar": "や"
   },
   {
@@ -253,6 +284,7 @@
     "question": "うんち絵文字だい",
     "reading": "うんちえもじだい",
     "answer": "一網打尽",
+    "answerReading": "いちもうだじん",
     "extraChar": "え"
   },
   {
@@ -261,6 +293,7 @@
     "question": "また明日ログイン",
     "reading": "またあすろぐいん",
     "answer": "ロイ・マスタング",
+    "answerReading": "ろいますたんぐ",
     "extraChar": "あ"
   },
   {
@@ -269,6 +302,7 @@
     "question": "飲み会沸かすし",
     "reading": "のみかいわかすし",
     "answer": "石川佳純",
+    "answerReading": "いしかわかすみ",
     "extraChar": "の"
   },
   {
@@ -277,6 +311,7 @@
     "question": "高菜食えるかい？",
     "reading": "たかなくえるかい",
     "answer": "田中角栄",
+    "answerReading": "たなかかくえい",
     "extraChar": "る"
   },
   {
@@ -285,6 +320,7 @@
     "question": "あ、中華美味しい",
     "reading": "あちゅうかおいしい",
     "answer": "赤井秀一",
+    "answerReading": "あかいしゅういち",
     "extraChar": "お"
   },
   {
@@ -293,6 +329,7 @@
     "question": "うい絵師が描く本",
     "reading": "ういえしがかくほん",
     "answer": "崩壊学園",
+    "answerReading": "ほうかいがくえん",
     "extraChar": "し"
   },
   {
@@ -301,6 +338,7 @@
     "question": "カビる椅子もうダメ",
     "reading": "かびるいすもうだめ",
     "answer": "梅田スカイビル",
+    "answerReading": "うめだすかいびる",
     "extraChar": "も"
   },
   {
@@ -309,6 +347,7 @@
     "question": "相手振るチェリー",
     "reading": "あいてふるちぇりー",
     "answer": "FAIRY TAIL",
+    "answerReading": "ふぇありーている",
     "extraChar": "ち"
   },
   {
@@ -317,6 +356,7 @@
     "question": "上等ゴミ箱",
     "reading": "じょうとうごみばこ",
     "answer": "後鳥羽上皇",
+    "answerReading": "ごとばじょうこう",
     "extraChar": "み"
   },
   {
@@ -325,6 +365,7 @@
     "question": "「裏へ来い」「行けへんし」",
     "reading": "うらへこいいけへんし",
     "answer": "平行四辺形",
+    "answerReading": "へいこうしへんけい",
     "extraChar": "ら"
   },
   {
@@ -333,6 +374,7 @@
     "question": "不衛生な設営",
     "reading": "ふえいせいなせつえい",
     "answer": "刹那・F・セイエイ",
+    "answerReading": "せつなえふせいえい",
     "extraChar": "い"
   },
   {
@@ -341,6 +383,7 @@
     "question": "メガシンカ未選定",
     "reading": "めがしんかみせんてい",
     "answer": "真・女神転生",
+    "answerReading": "しんめがみてんせい",
     "extraChar": "か"
   },
   {
@@ -349,6 +392,7 @@
     "question": "スマブラ、ラグあるかい？",
     "reading": "すまぶららぐあるかい",
     "answer": "あらいぐまラスカル",
+    "answerReading": "あらいぐまらすかる",
     "extraChar": "ぶ"
   },
   {
@@ -357,6 +401,7 @@
     "question": "上位マッチング",
     "reading": "じょういまっちんぐ",
     "answer": "満場一致",
+    "answerReading": "まんじょういっち",
     "extraChar": "ぐ"
   },
   {
@@ -365,6 +410,7 @@
     "question": "ラスボス・ベガ",
     "reading": "らすぼすべが",
     "answer": "ラスベガス",
+    "answerReading": "らすべがす",
     "extraChar": "ぼ"
   },
   {
@@ -373,6 +419,7 @@
     "question": "善き推し活",
     "reading": "よきおしかつ",
     "answer": "岡潔",
+    "answerReading": "おかきよし",
     "extraChar": "つ"
   },
   {
@@ -381,6 +428,7 @@
     "question": "肉食べたいっ！",
     "reading": "にくたべたいっ",
     "answer": "タイタニック",
+    "answerReading": "たいたにっく",
     "extraChar": "べ"
   },
   {
@@ -389,6 +437,7 @@
     "question": "猿のセクハラ",
     "reading": "さるのせくはら",
     "answer": "春野サクラ",
+    "answerReading": "はるのさくら",
     "extraChar": "せ"
   },
   {
@@ -397,6 +446,7 @@
     "question": "まーた始まる…",
     "reading": "まーたはじまる",
     "answer": "タージ・マハル",
+    "answerReading": "たーじまはる",
     "extraChar": "ま"
   },
   {
@@ -405,6 +455,7 @@
     "question": "エリートの意識",
     "reading": "えりーとのいしき",
     "answer": "いとしのエリー",
+    "answerReading": "いとしのえりー",
     "extraChar": "き"
   },
   {
@@ -413,6 +464,7 @@
     "question": "無敵の運転",
     "reading": "むてきのうんてん",
     "answer": "天武天皇",
+    "answerReading": "てんむてんのう",
     "extraChar": "き"
   },
   {
@@ -421,6 +473,7 @@
     "question": "ハロー！配信にゃ！",
     "reading": "はろーはいしんにゃ",
     "answer": "上海ハニー",
+    "answerReading": "しゃんはいはにー",
     "extraChar": "ろ"
   },
   {
@@ -429,6 +482,7 @@
     "question": "毎日説教",
     "reading": "まいにちせっきょう",
     "answer": "一石二鳥",
+    "answerReading": "いっせきにちょう",
     "extraChar": "ま"
   },
   {
@@ -437,6 +491,7 @@
     "question": "超でっかい絵馬",
     "reading": "ちょうでっかいえま",
     "answer": "出前一丁",
+    "answerReading": "でまえいっちょう",
     "extraChar": "か"
   },
   {
@@ -445,6 +500,7 @@
     "question": "カタカナの教材",
     "reading": "かたかなのきょうざい",
     "answer": "境界の彼方",
+    "answerReading": "きょうかいのかなた",
     "extraChar": "ざ"
   },
   {
@@ -453,6 +509,7 @@
     "question": "焼き肉のテンション",
     "reading": "やきにくのてんしょん",
     "answer": "紀伊國屋書店",
+    "answerReading": "きのくにやしょてん",
     "extraChar": "ん"
   },
   {
@@ -461,6 +518,7 @@
     "question": "来てほしくない政党",
     "reading": "きてほしくないせいとう",
     "answer": "特性方程式",
+    "answerReading": "とくせいほうていしき",
     "extraChar": "な"
   },
   {
@@ -469,6 +527,7 @@
     "question": "トーンわりと余ったね",
     "reading": "とーんわりとあまったね",
     "answer": "マリー・アントワネット",
+    "answerReading": "まりーあんとわねっと",
     "extraChar": "た"
   },
   {
@@ -477,6 +536,7 @@
     "question": "珍事、受けループミラー",
     "reading": "ちんじうけるーぷみらー",
     "answer": "ウラジーミル・プーチン",
+    "answerReading": "うらじーみるぷーちん",
     "extraChar": "け"
   },
   {
@@ -485,6 +545,7 @@
     "question": "相撲インストラクター",
     "reading": "すもういんすとらくたー",
     "answer": "モンスターストライク",
+    "answerReading": "もんすたーすとらいく",
     "extraChar": "う"
   },
   {
@@ -493,6 +554,7 @@
     "question": "同伴困るな…",
     "reading": "どうはんこまるな",
     "answer": "はなまるうどん",
+    "answerReading": "はなまるうどん",
     "extraChar": "こ"
   },
   {
@@ -501,6 +563,7 @@
     "question": "同伴困るな…",
     "reading": "どうはんこまるな",
     "answer": "近藤春菜",
+    "answerReading": "こんどうはるな",
     "extraChar": "ま"
   },
   {
@@ -509,6 +572,7 @@
     "question": "冬来た(断定)",
     "reading": "ふゆきただんてい",
     "answer": "油断大敵",
+    "answerReading": "ゆだんたいてき",
     "extraChar": "ふ"
   },
   {
@@ -517,6 +581,7 @@
     "question": "冬来た(断定)",
     "reading": "ふゆきただんてい",
     "answer": "大胆不敵",
+    "answerReading": "だいたんふてき",
     "extraChar": "ゆ"
   },
   {
@@ -525,6 +590,7 @@
     "question": "甘いアンパン",
     "reading": "あまいあんぱん",
     "answer": "アイアンマン",
+    "answerReading": "あいあんまん",
     "extraChar": "ぱ"
   },
   {
@@ -533,6 +599,7 @@
     "question": "グラタン製作",
     "reading": "ぐらたんせいさく",
     "answer": "サクラ大戦",
+    "answerReading": "さくらたいせん",
     "extraChar": "ぐ"
   },
   {
@@ -541,6 +608,7 @@
     "question": "ハンバーグ2万!?",
     "reading": "はんばーぐにまん",
     "answer": "バーニング・マン",
+    "answerReading": "ばーにんぐまん",
     "extraChar": "は"
   },
   {
@@ -549,6 +617,7 @@
     "question": "高菜おにぎり屋",
     "reading": "たかなおにぎりや",
     "answer": "柳田理科雄",
+    "answerReading": "やなぎたりかお",
     "extraChar": "に"
   },
   {
@@ -557,6 +626,7 @@
     "question": "サンマのクレープ",
     "reading": "さんまのくれーぷ",
     "answer": "くまのプーさん",
+    "answerReading": "くまのぷーさん",
     "extraChar": "れ"
   },
   {
@@ -565,6 +635,7 @@
     "question": "無添の羊羹",
     "reading": "むてんのようかん",
     "answer": "桓武天皇",
+    "answerReading": "かんむてんのう",
     "extraChar": "よ"
   },
   {
@@ -573,6 +644,7 @@
     "question": "たい焼き専売",
     "reading": "たいやきせんばい",
     "answer": "大器晩成",
+    "answerReading": "たいきばんせい",
     "extraChar": "や"
   },
   {
@@ -581,6 +653,7 @@
     "question": "抹茶羊羹",
     "reading": "まっちゃようかん",
     "answer": "うまかっちゃん",
+    "answerReading": "うまかっちゃん",
     "extraChar": "よ"
   },
   {
@@ -589,6 +662,7 @@
     "question": "ドーナツ出荷",
     "reading": "どーなつしゅっか",
     "answer": "カシューナッツ",
+    "answerReading": "かしゅーなっつ",
     "extraChar": "ど"
   },
   {
@@ -597,6 +671,7 @@
     "question": "まあ焼き鳥も良し",
     "reading": "まあやきとりもよし",
     "answer": "山本祥彰",
+    "answerReading": "やまもとよしあき",
     "extraChar": "り"
   },
   {
@@ -605,6 +680,7 @@
     "question": "クソ！天丼高い！",
     "reading": "くそてんどんたかい",
     "answer": "天体観測",
+    "answerReading": "てんたいかんそく",
     "extraChar": "ど"
   },
   {
@@ -613,6 +689,7 @@
     "question": "む？天ぷら甘いぞ？",
     "reading": "むてんぷらあまいぞ",
     "answer": "Amazonプライム",
+    "answerReading": "あまぞんぷらいむ",
     "extraChar": "て"
   },
   {
@@ -621,6 +698,7 @@
     "question": "腐乱するドーナツ",
     "reading": "ふらんするどーなつ",
     "answer": "ツール・ド・フランス",
+    "answerReading": "つーるどふらんす",
     "extraChar": "な"
   },
   {
@@ -629,6 +707,7 @@
     "question": "煎餅売ってこい",
     "reading": "せんべいうってこい",
     "answer": "一転攻勢",
+    "answerReading": "いってんこうせい",
     "extraChar": "べ"
   },
   {
@@ -637,6 +716,7 @@
     "question": "朝イチにマカロン",
     "reading": "あさいちにまかろん",
     "answer": "毎日かあさん",
+    "answerReading": "まいにちかあさん",
     "extraChar": "ろ"
   },
   {
@@ -645,6 +725,7 @@
     "question": "素麺の確保せい！",
     "reading": "そうめんのかくほせい",
     "answer": "慣性の法則",
+    "answerReading": "かんせいのほうそく",
     "extraChar": "め"
   },
   {
@@ -653,6 +734,7 @@
     "question": "納豆保存依頼",
     "reading": "なっとうほぞんいらい",
     "answer": "内藤ホライゾン",
+    "answerReading": "ないとうほらいぞん",
     "extraChar": "っ"
   },
   {
@@ -661,6 +743,7 @@
     "question": "超自由なつけ麺",
     "reading": "ちょうじゆうなつけめん",
     "answer": "夏目友人帳",
+    "answerReading": "なつめゆうじんちょう",
     "extraChar": "け"
   },
   {
@@ -669,6 +752,7 @@
     "question": "どう？タコ焼き食うかい？",
     "reading": "どうたこやきくうかい",
     "answer": "攻殻機動隊",
+    "answerReading": "こうかくきどうたい",
     "extraChar": "や"
   },
   {
@@ -677,6 +761,7 @@
     "question": "自動生成どう？",
     "reading": "じどうせいせいどう",
     "answer": "正々堂々",
+    "answerReading": "せいせいどうどう",
     "extraChar": "じ"
   },
   {
@@ -685,6 +770,7 @@
     "question": "ド炎上",
     "reading": "どえんじょう",
     "answer": "江戸城",
+    "answerReading": "えどじょう",
     "extraChar": "ん"
   },
   {
@@ -693,6 +779,7 @@
     "question": "マジ箱推しよ",
     "reading": "まじはこおしよ",
     "answer": "小島よしお",
+    "answerReading": "こじまよしお",
     "extraChar": "は"
   },
   {
@@ -701,6 +788,7 @@
     "question": "ワイの垢、BAN",
     "reading": "わいのあかばん",
     "answer": "イワンのばか",
+    "answerReading": "いわんのばか",
     "extraChar": "あ"
   },
   {
@@ -709,6 +797,7 @@
     "question": "宣言しただけ",
     "reading": "せんげんしただけ",
     "answer": "武田信玄",
+    "answerReading": "たけだしんげん",
     "extraChar": "せ"
   },
   {
@@ -717,6 +806,7 @@
     "question": "あ、マクド嫌い？",
     "reading": "あまくどきらい",
     "answer": "喜怒哀楽",
+    "answerReading": "きどあいらく",
     "extraChar": "ま"
   },
   {
@@ -725,6 +815,7 @@
     "question": "溜まる無理ゲー",
     "reading": "たまるむりげー",
     "answer": "マルゲリータ",
+    "answerReading": "まるげりーた",
     "extraChar": "む"
   },
   {
@@ -733,6 +824,7 @@
     "question": "愛してるんだー",
     "reading": "あいしてるんだー",
     "answer": "UNDERTALE",
+    "answerReading": "あんだーている",
     "extraChar": "し"
   },
   {
@@ -741,6 +833,7 @@
     "question": "アニソンの熱気",
     "reading": "あにそんのねっき",
     "answer": "アンネの日記",
+    "answerReading": "あんねのにっき",
     "extraChar": "そ"
   },
   {
@@ -749,6 +842,7 @@
     "question": "寝ずに宅飲みだ",
     "reading": "ねずにたくのみだ",
     "answer": "水野忠邦",
+    "answerReading": "みずのただくに",
     "extraChar": "ね"
   },
   {
@@ -757,6 +851,7 @@
     "question": "まず幾何履修",
     "reading": "まずきかりしゅう",
     "answer": "桐生一馬",
+    "answerReading": "きりゅうかずま",
     "extraChar": "し"
   },
   {
@@ -765,6 +860,7 @@
     "question": "ストライク!?不満…",
     "reading": "すとらいくふまん",
     "answer": "Minecraft",
+    "answerReading": "まいんくらふと",
     "extraChar": "す"
   },
   {
@@ -773,6 +869,7 @@
     "question": "のりしお飽きない",
     "reading": "のりしおあきない",
     "answer": "アイのシナリオ",
+    "answerReading": "あいのしなりお",
     "extraChar": "き"
   },
   {
@@ -781,6 +878,7 @@
     "question": "せっかち人生",
     "reading": "せっかちじんせい",
     "answer": "摂関政治",
+    "answerReading": "せっかんせいじ",
     "extraChar": "ち"
   },
   {
@@ -789,6 +887,7 @@
     "question": "ガンメタ体制",
     "reading": "がんめたたいせい",
     "answer": "正多面体",
+    "answerReading": "せいためんたい",
     "extraChar": "が"
   },
   {
@@ -797,6 +896,7 @@
     "question": "エアーマンとか無理",
     "reading": "えあーまんとかむり",
     "answer": "カントリーマアム",
+    "answerReading": "かんとりーまあむ",
     "extraChar": "え"
   },
   {
@@ -805,6 +905,7 @@
     "question": "NGなら去れよ",
     "reading": "えぬじーならされよ",
     "answer": "さよならエレジー",
+    "answerReading": "さよならえれじー",
     "extraChar": "ぬ"
   },
   {
@@ -813,6 +914,7 @@
     "question": "この靴ダサいんかな…",
     "reading": "このくつださいんかな",
     "answer": "夏の大三角",
+    "answerReading": "なつのだいさんかく",
     "extraChar": "こ"
   },
   {
@@ -821,6 +923,7 @@
     "question": "パンツもろ出てもうた",
     "reading": "ぱんつもろでてもうた",
     "answer": "桃太郎電鉄",
+    "answerReading": "ももたろうでんてつ",
     "extraChar": "ぱ"
   },
   {
@@ -829,6 +932,7 @@
     "question": "いや、さっきは凡ミス",
     "reading": "いやさっきはぼんみす",
     "answer": "一寸先は闇",
+    "answerReading": "いっすんさきはやみ",
     "extraChar": "ぼ"
   },
   {
@@ -837,6 +941,7 @@
     "question": "汗かきが働いたの",
     "reading": "あせかきがはたらいたの",
     "answer": "関ヶ原の戦い",
+    "answerReading": "せきがはらのたたかい",
     "extraChar": "あ"
   },
   {
@@ -845,6 +950,7 @@
     "question": "爆アド得る",
     "reading": "ばくあどえる",
     "answer": "エクアドル",
+    "answerReading": "えくあどる",
     "extraChar": "ば"
   },
   {
@@ -853,6 +959,7 @@
     "question": "数独好き",
     "reading": "すうどくずき",
     "answer": "ウド鈴木",
+    "answerReading": "うどすずき",
     "extraChar": "く"
   },
   {
@@ -861,6 +968,7 @@
     "question": "豪語しただけ",
     "reading": "ごうごしただけ",
     "answer": "剛田武",
+    "answerReading": "ごうだたけし",
     "extraChar": "ご"
   },
   {
@@ -869,6 +977,7 @@
     "question": "尻がデカいわ",
     "reading": "しりがでかいわ",
     "answer": "石狩川",
+    "answerReading": "いしかりがわ",
     "extraChar": "で"
   },
   {
@@ -877,6 +986,7 @@
     "question": "プチリラックス",
     "reading": "ぷちりらっくす",
     "answer": "プラスチック",
+    "answerReading": "ぷらすちっく",
     "extraChar": "り"
   },
   {
@@ -885,6 +995,7 @@
     "question": "詰将棋歴",
     "reading": "つめしょうぎれき",
     "answer": "行列式",
+    "answerReading": "ぎょうれつしき",
     "extraChar": "め"
   },
   {
@@ -893,6 +1004,7 @@
     "question": "非破壊光線",
     "reading": "ひはかいこうせん",
     "answer": "星間飛行",
+    "answerReading": "せいかんひこう",
     "extraChar": "は"
   },
   {
@@ -901,6 +1013,7 @@
     "question": "宇宙人の子",
     "reading": "うちゅうじんのこ",
     "answer": "人工知能",
+    "answerReading": "じんこうちのう",
     "extraChar": "ゅ"
   },
   {
@@ -909,6 +1022,7 @@
     "question": "もう爺ちゃんだ",
     "reading": "もうじいちゃんだ",
     "answer": "一網打尽",
+    "answerReading": "いちもうだじん",
     "extraChar": "ゃ"
   },
   {
@@ -917,6 +1031,7 @@
     "question": "父、情強か",
     "reading": "ちちじょうきょうか",
     "answer": "次長課長",
+    "answerReading": "じちょうかちょう",
     "extraChar": "き"
   },
   {
@@ -925,6 +1040,7 @@
     "question": "スジ肉焼くんじゃ",
     "reading": "すじにくやくんじゃ",
     "answer": "靖国神社",
+    "answerReading": "やすくにじんじゃ",
     "extraChar": "く"
   },
   {
@@ -933,6 +1049,7 @@
     "question": "進捗管理部",
     "reading": "しんちょくかんりぶ",
     "answer": "分子間力",
+    "answerReading": "ぶんしかんりょく",
     "extraChar": "ち"
   },
   {
@@ -941,6 +1058,7 @@
     "question": "完成したのかい？",
     "reading": "かんせいしたのかい",
     "answer": "大化の改新",
+    "answerReading": "たいかのかいしん",
     "extraChar": "せ"
   },
   {
@@ -949,6 +1067,7 @@
     "question": "おもろい家やんな",
     "reading": "おもろいいえやんな",
     "answer": "燃えろいい女",
+    "answerReading": "もえろいいおんな",
     "extraChar": "や"
   },
   {
@@ -957,6 +1076,7 @@
     "question": "Python3書こう",
     "reading": "ぱいそんさんかこう",
     "answer": "冠婚葬祭",
+    "answerReading": "かんこんそうさい",
     "extraChar": "ぱ"
   },
   {
@@ -965,6 +1085,7 @@
     "question": "名取、個人Vさ",
     "reading": "なとりこじんぶいさ",
     "answer": "こぶとり爺さん",
+    "answerReading": "こぶとりじいさん",
     "extraChar": "な"
   },
   {
@@ -973,6 +1094,7 @@
     "question": "強敵居て苦戦",
     "reading": "きょうてきいてくせん",
     "answer": "滴定曲線",
+    "answerReading": "てきていきょくせん",
     "extraChar": "う"
   },
   {
@@ -981,6 +1103,7 @@
     "question": "積読てんこ盛りだい！",
     "reading": "つんどくてんこもりだい",
     "answer": "国立天文台",
+    "answerReading": "こくりつてんもんだい",
     "extraChar": "ど"
   },
   {
@@ -989,6 +1112,7 @@
     "question": "平成ソング歌うよ",
     "reading": "へいせいそんぐうたうよ",
     "answer": "太平洋戦争",
+    "answerReading": "たいへいようせんそう",
     "extraChar": "ぐ"
   },
   {
@@ -997,6 +1121,7 @@
     "question": "茄子とか瓜入れてみた",
     "reading": "なすとかうりいれてみた",
     "answer": "ミステリと言う勿れ",
+    "answerReading": "みすてりというなかれ",
     "extraChar": "た"
   },
   {
@@ -1005,6 +1130,7 @@
     "question": "マンムー狩り",
     "reading": "まんむーがり",
     "answer": "マーガリン",
+    "answerReading": "まーがりん",
     "extraChar": "む"
   },
   {
@@ -1013,6 +1139,7 @@
     "question": "トリパします",
     "reading": "とりぱします",
     "answer": "リトマス紙",
+    "answerReading": "りとますし",
     "extraChar": "ぱ"
   },
   {
@@ -1021,6 +1148,7 @@
     "question": "硬めルギア",
     "reading": "かためるぎあ",
     "answer": "メタルギア",
+    "answerReading": "めたるぎあ",
     "extraChar": "か"
   },
   {
@@ -1029,6 +1157,7 @@
     "question": "ここテラスだろ",
     "reading": "ここてらすだろ",
     "answer": "寺田心",
+    "answerReading": "てらだこころ",
     "extraChar": "す"
   },
   {
@@ -1037,6 +1166,7 @@
     "question": "生ハガネール",
     "reading": "なまはがねーる",
     "answer": "長濱ねる",
+    "answerReading": "ながはまねる",
     "extraChar": "ー"
   },
   {
@@ -1045,6 +1175,7 @@
     "question": "バグリザードン",
     "reading": "ばぐりざーどん",
     "answer": "リンドバーグ",
+    "answerReading": "りんどばーぐ",
     "extraChar": "ざ"
   },
   {
@@ -1053,6 +1184,7 @@
     "question": "ヤミラミナイト",
     "reading": "やみらみないと",
     "answer": "みなとみらい",
+    "answerReading": "みなとみらい",
     "extraChar": "や"
   },
   {
@@ -1061,6 +1193,7 @@
     "question": "イーブイ好きか？",
     "reading": "いーぶいすきか",
     "answer": "伊吹萃香",
+    "answerReading": "いぶきすいか",
     "extraChar": "ー"
   },
   {
@@ -1069,6 +1202,7 @@
     "question": "スイクン固定化",
     "reading": "すいくんこていか",
     "answer": "インカ帝国",
+    "answerReading": "いんかていこく",
     "extraChar": "す"
   },
   {
@@ -1077,6 +1211,7 @@
     "question": "レジスチルMAD",
     "reading": "れじすちるまっど",
     "answer": "マルチスレッド",
+    "answerReading": "まるちすれっど",
     "extraChar": "じ"
   },
   {
@@ -1085,6 +1220,7 @@
     "question": "どうせイシツブテ",
     "reading": "どうせいしつぶて",
     "answer": "西武鉄道",
+    "answerReading": "せいぶてつどう",
     "extraChar": "し"
   },
   {
@@ -1093,6 +1229,7 @@
     "question": "バクフーンに襷",
     "reading": "ばくふーんにたすき",
     "answer": "キン肉バスター",
+    "answerReading": "きんにくばすたー",
     "extraChar": "ふ"
   },
   {
@@ -1101,6 +1238,7 @@
     "question": "レシラムの封印",
     "reading": "れしらむのふういん",
     "answer": "風来のシレン",
+    "answerReading": "ふうらいのしれん",
     "extraChar": "む"
   },
   {
@@ -1109,6 +1247,7 @@
     "question": "オンバーン入れたで",
     "reading": "おんばーんいれたで",
     "answer": "バレンタインデー",
+    "answerReading": "ばれんたいんでー",
     "extraChar": "お"
   },
   {
@@ -1117,6 +1256,7 @@
     "question": "ちんまいケロマツや",
     "reading": "ちんまいけろまつや",
     "answer": "松山ケンイチ",
+    "answerReading": "まつやまけんいち",
     "extraChar": "ろ"
   },
   {
@@ -1125,6 +1265,7 @@
     "question": "催眠エルフーン",
     "reading": "さいみんえるふーん",
     "answer": "インフルエンサー",
+    "answerReading": "いんふるえんさー",
     "extraChar": "み"
   },
   {
@@ -1133,6 +1274,7 @@
     "question": "オキニのアイアント",
     "reading": "おきにのあいあんと",
     "answer": "アントニオ猪木",
+    "answerReading": "あんとにおいのき",
     "extraChar": "あ"
   },
   {
@@ -1141,6 +1283,7 @@
     "question": "ナットレイ派の古参",
     "reading": "なっとれいはのこさん",
     "answer": "トイレの花子さん",
+    "answerReading": "といれのはなこさん",
     "extraChar": "っ"
   },
   {
@@ -1149,6 +1292,7 @@
     "question": "地震ありコライドン",
     "reading": "じしんありこらいどん",
     "answer": "シリコンアイランド",
+    "answerReading": "しりこんあいらんど",
     "extraChar": "じ"
   },
   {
@@ -1157,6 +1301,7 @@
     "question": "カイオーガだ！面食らう",
     "reading": "かいおーがだめんくらう",
     "answer": "仮面ライダークウガ",
+    "answerReading": "かめんらいだーくうが",
     "extraChar": "お"
   },
   {
@@ -1165,6 +1310,7 @@
     "question": "サンダー入れたマダム",
     "reading": "さんだーいれたまだむ",
     "answer": "サマータイムレンダ",
+    "answerReading": "さまーたいむれんだ",
     "extraChar": "だ"
   },
   {
@@ -1173,6 +1319,7 @@
     "question": "追い出されたマンムー",
     "reading": "おいだされたまんむー",
     "answer": "サマータイムレンダ",
+    "answerReading": "さまーたいむれんだ",
     "extraChar": "だ"
   },
   {
@@ -1181,6 +1328,7 @@
     "question": "キュウコン、ナッシー",
     "reading": "きゅうこんなっしー",
     "answer": "ナッシュ均衡",
+    "answerReading": "なっしゅきんこう",
     "extraChar": "ー"
   },
   {
@@ -1189,6 +1337,7 @@
     "question": "上演希望",
     "reading": "じょうえんきぼう",
     "answer": "望遠鏡",
+    "answerReading": "ぼうえんきょう",
     "extraChar": "じ"
   },
   {
@@ -1197,6 +1346,7 @@
     "question": "あくたんスレ",
     "reading": "あくたんすれ",
     "answer": "アンタレス",
+    "answerReading": "あんたれす",
     "extraChar": "く"
   },
   {
@@ -1205,6 +1355,7 @@
     "question": "かなたその羽",
     "reading": "かなたそのはね",
     "answer": "高嶺の花",
+    "answerReading": "たかねのはな",
     "extraChar": "そ"
   },
   {
@@ -1213,6 +1364,7 @@
     "question": "PONやるAZKi",
     "reading": "ぽんやるあずき",
     "answer": "安保瑠輝也",
+    "answerReading": "あんぽるきや",
     "extraChar": "ず"
   },
   {
@@ -1221,6 +1373,7 @@
     "question": "最推し：百鬼",
     "reading": "さいおしなきり",
     "answer": "響咲リオナ",
+    "answerReading": "いさきりおな",
     "extraChar": "し"
   },
   {
@@ -1229,6 +1382,7 @@
     "question": "最推し：あやめ",
     "reading": "さいおしあやめ",
     "answer": "優しい雨",
+    "answerReading": "やさしいあめ",
     "extraChar": "お"
   },
   {
@@ -1237,6 +1391,7 @@
     "question": "沙花叉くっせｗ",
     "reading": "さかまたくっせ",
     "answer": "切磋琢磨",
+    "answerReading": "せっさたくま",
     "extraChar": "か"
   },
   {
@@ -1245,6 +1400,7 @@
     "question": "あてぃしの虜",
     "reading": "あてぃしのとりこ",
     "answer": "トリノコシティ",
+    "answerReading": "とりのこしてぃ",
     "extraChar": "あ"
   },
   {
@@ -1253,6 +1409,7 @@
     "question": "歩くさくらみこ",
     "reading": "あるくさくらみこ",
     "answer": "朝倉未来",
+    "answerReading": "あさくらみくる",
     "extraChar": "こ"
   },
   {
@@ -1261,6 +1418,7 @@
     "question": "エロゲという事故",
     "reading": "えろげというじこ",
     "answer": "小峠英二",
+    "answerReading": "ことうげえいじ",
     "extraChar": "ろ"
   },
   {
@@ -1269,6 +1427,7 @@
     "question": "現地ルーナイト",
     "reading": "げんちるーないと",
     "answer": "ナイチンゲール",
+    "answerReading": "ないちんげーる",
     "extraChar": "と"
   },
   {
@@ -1277,6 +1436,7 @@
     "question": "まつりす集会",
     "reading": "まつりすしゅうかい",
     "answer": "対馬海流",
+    "answerReading": "つしまかいりゅう",
     "extraChar": "す"
   },
   {
@@ -1285,6 +1445,7 @@
     "question": "ウブなららーいおん♪",
     "reading": "うぶなららーいおん",
     "answer": "ライナー・ブラウン",
+    "answerReading": "らいなーぶらうん",
     "extraChar": "お"
   },
   {
@@ -1293,6 +1454,7 @@
     "question": "健康器具使用",
     "reading": "けんこうきぐしよう",
     "answer": "具志堅用高",
+    "answerReading": "ぐしけんようこう",
     "extraChar": "き"
   },
   {
@@ -1301,6 +1463,7 @@
     "question": "社名：あじまる屋",
     "reading": "しゃめいあじまるや",
     "answer": "射命丸文",
+    "answerReading": "しゃめいまるあや",
     "extraChar": "じ"
   },
   {
@@ -1309,6 +1472,7 @@
     "question": "5期生みんな神",
     "reading": "ごきせいみんなかみ",
     "answer": "南回帰線",
+    "answerReading": "みなみかいきせん",
     "extraChar": "ご"
   },
   {
@@ -1317,6 +1481,7 @@
     "question": "まちゅ、羊羹箱買い",
     "reading": "まちゅようかんはこがい",
     "answer": "横浜中華街",
+    "answerReading": "よこはまちゅうかがい",
     "extraChar": "ん"
   },
   {
@@ -1325,6 +1490,7 @@
     "question": "推しにガチ恋、生えたて",
     "reading": "おしにがちこいはえたて",
     "answer": "老いては子に従え",
+    "answerReading": "おいてはこにしたがえ",
     "extraChar": "ち"
   },
   {
@@ -1333,6 +1499,7 @@
     "question": "マリ箱はよ開けなーー！",
     "reading": "まりばこはよあけなーー",
     "answer": "Kアリーナ横浜",
+    "answerReading": "けーありーなよこはま",
     "extraChar": "ば"
   },
   {
@@ -1341,6 +1508,7 @@
     "question": "ラモーン",
     "reading": "らもーん",
     "answer": "モーラ",
+    "answerReading": "もーら",
     "extraChar": "ん"
   },
   {
@@ -1349,6 +1517,7 @@
     "question": "製処理タンク",
     "reading": "せいしょりたんく",
     "answer": "染色体",
+    "answerReading": "せんしょくたい",
     "extraChar": "り"
   },
   {
@@ -1357,6 +1526,7 @@
     "question": "値引き満足か？",
     "reading": "ねびきまんぞくか",
     "answer": "万引き家族",
+    "answerReading": "まんびきかぞく",
     "extraChar": "ね"
   },
   {
@@ -1365,6 +1535,7 @@
     "question": "参加したいか？",
     "reading": "さんかしたいか",
     "answer": "酒井貴士",
+    "answerReading": "さかいたかし",
     "extraChar": "ん"
   },
   {
@@ -1373,6 +1544,7 @@
     "question": "パチンコ爆死か",
     "reading": "ぱちんこばくしか",
     "answer": "バチカン市国",
+    "answerReading": "ばちかんしこく",
     "extraChar": "ぱ"
   },
   {
@@ -1381,6 +1553,7 @@
     "question": "捨て垢大事",
     "reading": "すてあかだいじ",
     "answer": "飛鳥時代",
+    "answerReading": "あすかじだい",
     "extraChar": "て"
   },
   {
@@ -1389,6 +1562,7 @@
     "question": "引退するの",
     "reading": "いんたいするの",
     "answer": "NON STYLE",
+    "answerReading": "のんすたいる",
     "extraChar": "い"
   },
   {
@@ -1397,6 +1571,7 @@
     "question": "嘘つきの詐欺",
     "reading": "うそつきのさぎ",
     "answer": "月野うさぎ",
+    "answerReading": "つきのうさぎ",
     "extraChar": "そ"
   },
   {
@@ -1405,6 +1580,7 @@
     "question": "クソゲーだ、売る",
     "reading": "くそげーだうる",
     "answer": "DARK SOULS",
+    "answerReading": "だーくそうる",
     "extraChar": "げ"
   },
   {
@@ -1413,6 +1589,7 @@
     "question": "無料絵師じゃ",
     "reading": "むりょうえしじゃ",
     "answer": "会者定離",
+    "answerReading": "えしゃじょうり",
     "extraChar": "む"
   },
   {
@@ -1421,6 +1598,7 @@
     "question": "絡みありかい？",
     "reading": "からみありかい",
     "answer": "ミライアカリ",
+    "answerReading": "みらいあかり",
     "extraChar": "か"
   },
   {
@@ -1429,6 +1607,7 @@
     "question": "頭突きあかん！",
     "reading": "ずつきあかん",
     "answer": "赤ずきん",
+    "answerReading": "あかずきん",
     "extraChar": "つ"
   },
   {
@@ -1437,6 +1616,7 @@
     "question": "S行けないお",
     "reading": "えすいけないお",
     "answer": "井伊直弼",
+    "answerReading": "いいなおすけ",
     "extraChar": "え"
   },
   {
@@ -1445,6 +1625,7 @@
     "question": "禁：早押しあ",
     "reading": "きんはやおしあ",
     "answer": "青木真也",
+    "answerReading": "あおきしんや",
     "extraChar": "は"
   },
   {
@@ -1453,6 +1634,7 @@
     "question": "地下、初陣です",
     "reading": "ちかういじんです",
     "answer": "一次関数",
+    "answerReading": "いちじかんすう",
     "extraChar": "で"
   },
   {
@@ -1461,6 +1643,7 @@
     "question": "盛んな読書",
     "reading": "さかんなどくしょ",
     "answer": "サカナクション",
+    "answerReading": "さかなくしょん",
     "extraChar": "ど"
   },
   {
@@ -1469,6 +1652,7 @@
     "question": "浮き駒取る",
     "reading": "うきごまとる",
     "answer": "後藤真希",
+    "answerReading": "ごとうまき",
     "extraChar": "る"
   },
   {
@@ -1477,6 +1661,7 @@
     "question": "二枚落ちだ",
     "reading": "にまいおちだ",
     "answer": "大地真央",
+    "answerReading": "だいちまお",
     "extraChar": "に"
   },
   {
@@ -1485,6 +1670,7 @@
     "question": "角取りましょ",
     "reading": "かくとりましょ",
     "answer": "マトリョシカ",
+    "answerReading": "まとりょしか",
     "extraChar": "く"
   },
   {
@@ -1493,6 +1679,7 @@
     "question": "早指し！待つな！",
     "reading": "はやざしまつな",
     "answer": "生八つ橋",
+    "answerReading": "なまやつはし",
     "extraChar": "ざ"
   },
   {
@@ -1501,6 +1688,7 @@
     "question": "無理攻めあかん",
     "reading": "むりぜめあかん",
     "answer": "あめかんむり",
+    "answerReading": "あめかんむり",
     "extraChar": "ぜ"
   },
   {
@@ -1509,6 +1697,7 @@
     "question": "指し手が甘いや",
     "reading": "さしてがあまいや",
     "answer": "阿佐ヶ谷姉妹",
+    "answerReading": "あさがやしまい",
     "extraChar": "て"
   },
   {
@@ -1517,6 +1706,7 @@
     "question": "名人の王手",
     "reading": "めいじんのおうて",
     "answer": "明治天皇",
+    "answerReading": "めいじてんのう",
     "extraChar": "お"
   },
   {
@@ -1525,6 +1715,7 @@
     "question": "飛車、下段引く",
     "reading": "ひしゃげだんひく",
     "answer": "髭男爵",
+    "answerReading": "ひげだんしゃく",
     "extraChar": "ひ"
   },
   {
@@ -1533,6 +1724,7 @@
     "question": "そつなき受け攻め",
     "reading": "そつなきうけせめ",
     "answer": "夏目漱石",
+    "answerReading": "なつめそうせき",
     "extraChar": "け"
   },
   {
@@ -1541,6 +1733,7 @@
     "question": "ポンっと突き捨て",
     "reading": "ぽんっとつきすて",
     "answer": "月とスッポン",
+    "answerReading": "つきとすっぽん",
     "extraChar": "て"
   },
   {
@@ -1549,6 +1742,7 @@
     "question": "定跡に一致",
     "reading": "じょうせきにいっち",
     "answer": "一石二鳥",
+    "answerReading": "いっせきにちょう",
     "extraChar": "じ"
   },
   {
@@ -1557,6 +1751,7 @@
     "question": "効き筋受けた駒",
     "reading": "ききすじうけたこま",
     "answer": "北島康介",
+    "answerReading": "きたじまこうすけ",
     "extraChar": "き"
   },
   {
@@ -1565,6 +1760,7 @@
     "question": "穴熊狂やん",
     "reading": "あなぐまきょうやん",
     "answer": "恐山アンナ",
+    "answerReading": "きょうやまあんな",
     "extraChar": "ぐ"
   },
   {
@@ -1573,6 +1769,7 @@
     "question": "受からないよ…待った！",
     "reading": "うからないよまった",
     "answer": "真赤な太陽",
+    "answerReading": "まっかなたいよう",
     "extraChar": "ら"
   },
   {
@@ -1581,6 +1778,7 @@
     "question": "初戦、角頭歩",
     "reading": "しょせんかくとうふ",
     "answer": "尖閣諸島",
+    "answerReading": "せんかくしょとう",
     "extraChar": "ふ"
   },
   {
@@ -1589,6 +1787,7 @@
     "question": "あの不成が活きた",
     "reading": "あのならずがいきた",
     "answer": "ナイアガラの滝",
+    "answerReading": "ないあがらのたき",
     "extraChar": "ず"
   },
   {
@@ -1597,6 +1796,7 @@
     "question": "棋譜採るけど多いな…",
     "reading": "きふとるけどおおいな",
     "answer": "大きな古時計",
+    "answerReading": "おおきなふるどけい",
     "extraChar": "と"
   },
   {
@@ -1605,6 +1805,7 @@
     "question": "棒銀の強行",
     "reading": "ぼうぎんのきょうこう",
     "answer": "近郊農業",
+    "answerReading": "きんこうのうぎょう",
     "extraChar": "ぼ"
   },
   {
@@ -1613,6 +1814,7 @@
     "question": "やっぱ5筋振るんかと",
     "reading": "やっぱごすじふるんかと",
     "answer": "スカッとゴルフ パンヤ",
+    "answerReading": "すかっとごるふぱんや",
     "extraChar": "じ"
   },
   {
@@ -1621,6 +1823,7 @@
     "question": "3切れ将棋いいぜ",
     "reading": "さんきれしょうぎいいぜ",
     "answer": "最小全域木",
+    "answerReading": "さいしょうぜんいきぎ",
     "extraChar": "れ"
   },
   {
@@ -1629,6 +1832,7 @@
     "question": "中の人でした",
     "reading": "なかのひとでした",
     "answer": "中田英寿",
+    "answerReading": "なかたひでとし",
     "extraChar": "の"
   },
   {
@@ -1637,6 +1841,7 @@
     "question": "燃えドラゴン",
     "reading": "もえどらごん",
     "answer": "ドラえもん",
+    "answerReading": "どらえもん",
     "extraChar": "ご"
   },
   {
@@ -1645,6 +1850,7 @@
     "question": "台パンする",
     "reading": "だいぱんする",
     "answer": "インパルス",
+    "answerReading": "いんぱるす",
     "extraChar": "だ"
   },
   {
@@ -1653,6 +1859,7 @@
     "question": "しょうもない爆弾",
     "reading": "しょうもないばくだん",
     "answer": "爆笑問題",
+    "answerReading": "ばくしょうもんだい",
     "extraChar": "な"
   },
   {
@@ -1661,6 +1868,7 @@
     "question": "新詠唱だよ",
     "reading": "しんえいしょうだよ",
     "answer": "吉田松陰",
+    "answerReading": "よしだしょういん",
     "extraChar": "え"
   },
   {
@@ -1669,6 +1877,7 @@
     "question": "プロレス民ね",
     "reading": "ぷろれすみんね",
     "answer": "プロミネンス",
+    "answerReading": "ぷろみねんす",
     "extraChar": "れ"
   },
   {
@@ -1677,6 +1886,7 @@
     "question": "新参叩こ",
     "reading": "しんざんたたこ",
     "answer": "虎視眈々",
+    "answerReading": "こしたんたん",
     "extraChar": "ざ"
   },
   {
@@ -1685,6 +1895,7 @@
     "question": "地下の頂上",
     "reading": "ちかのちょうじょう",
     "answer": "次長課長",
+    "answerReading": "じちょうかちょう",
     "extraChar": "の"
   },
   {
@@ -1693,6 +1904,7 @@
     "question": "炎出す系",
     "reading": "ほのおだすけい",
     "answer": "小野大輔",
+    "answerReading": "おのだいすけ",
     "extraChar": "ほ"
   },
   {
@@ -1701,6 +1913,7 @@
     "question": "サンマ好きだ",
     "reading": "さんますきだ",
     "answer": "菅田将暉",
+    "answerReading": "すだまさき",
     "extraChar": "ん"
   },
   {
@@ -1709,6 +1922,7 @@
     "question": "顔に当たらない",
     "reading": "かおにあたらない",
     "answer": "泣いた赤鬼",
+    "answerReading": "ないたあかおに",
     "extraChar": "ら"
   },
   {
@@ -1717,6 +1931,7 @@
     "question": "序盤は乱数",
     "reading": "じょばんはらんすう",
     "answer": "波瀾万丈",
+    "answerReading": "はらんばんじょう",
     "extraChar": "す"
   },
   {
@@ -1725,6 +1940,7 @@
     "question": "上位天使だね",
     "reading": "じょういてんしだね",
     "answer": "少年時代",
+    "answerReading": "しょうねんじだい",
     "extraChar": "て"
   },
   {
@@ -1733,6 +1949,7 @@
     "question": "難問逃げていいっ？",
     "reading": "なんもんにげていいっ",
     "answer": "にんげんっていいな",
+    "answerReading": "にんげんっていいな",
     "extraChar": "も"
   },
   {
@@ -1741,6 +1958,7 @@
     "question": "葉巻やらないか？",
     "reading": "はまきやらないか",
     "answer": "病は気から",
+    "answerReading": "やまいはきから",
     "extraChar": "な"
   },
   {
@@ -1749,6 +1967,7 @@
     "question": "ガンダムクラス",
     "reading": "がんだむくらす",
     "answer": "SLAM DUNK",
+    "answerReading": "すらむだんく",
     "extraChar": "が"
   },
   {
@@ -1757,6 +1976,7 @@
     "question": "暴れる兄",
     "reading": "あばれるあに",
     "answer": "アルバニア",
+    "answerReading": "あるばにあ",
     "extraChar": "れ"
   },
   {
@@ -1765,6 +1985,7 @@
     "question": "住めば都",
     "reading": "すめばみやこ",
     "answer": "目安箱",
+    "answerReading": "めやすばこ",
     "extraChar": "み"
   },
   {
@@ -1773,6 +1994,7 @@
     "question": "クソ暑いなー",
     "reading": "くそあついなー",
     "answer": "アークナイツ",
+    "answerReading": "あーくないつ",
     "extraChar": "そ"
   },
   {
@@ -1781,6 +2003,7 @@
     "question": "武士が火だるま",
     "reading": "ぶしがひだるま",
     "answer": "ダブルヒガシ",
+    "answerReading": "だぶるひがし",
     "extraChar": "ま"
   },
   {
@@ -1789,6 +2012,7 @@
     "question": "闇数独解く",
     "reading": "やみすうどくとく",
     "answer": "海と毒薬",
+    "answerReading": "うみとどくやく",
     "extraChar": "す"
   },
   {
@@ -1797,6 +2021,7 @@
     "question": "はみチン衣装",
     "reading": "はみちんいしょう",
     "answer": "意味深長",
+    "answerReading": "いみしんちょう",
     "extraChar": "は"
   },
   {
@@ -1805,6 +2030,7 @@
     "question": "弾け飛ぶっしょ",
     "reading": "はじけとぶっしょ",
     "answer": "武家諸法度",
+    "answerReading": "ぶけしょはっと",
     "extraChar": "じ"
   },
   {
@@ -1813,6 +2039,7 @@
     "question": "いちゃもんかよっ！",
     "reading": "いちゃもんかよっ",
     "answer": "よっちゃんイカ",
+    "answerReading": "よっちゃんいか",
     "extraChar": "も"
   },
   {
@@ -1821,6 +2048,7 @@
     "question": "ハンゲのテトリス",
     "reading": "はんげのてとりす",
     "answer": "鳩の巣原理",
+    "answerReading": "はとのすげんり",
     "extraChar": "て"
   },
   {
@@ -1829,6 +2057,7 @@
     "question": "雑用しまっせ！",
     "reading": "ざつようしまっせ",
     "answer": "枝葉末節",
+    "answerReading": "しようまっせつ",
     "extraChar": "ざ"
   },
   {
@@ -1837,6 +2066,7 @@
     "question": "ガリ勉、孤独かな",
     "reading": "がりべんこどくかな",
     "answer": "閑古鳥が鳴く",
+    "answerReading": "かんこどりがなく",
     "extraChar": "べ"
   },
   {
@@ -1845,6 +2075,7 @@
     "question": "一兆円!?マジ!?",
     "reading": "いっちょうえんまじ",
     "answer": "満場一致",
+    "answerReading": "まんじょういっち",
     "extraChar": "え"
   },
   {
@@ -1853,6 +2084,7 @@
     "question": "良問が皆無",
     "reading": "りょうもんがかいむ",
     "answer": "感慨無量",
+    "answerReading": "かんがいむりょう",
     "extraChar": "も"
   },
   {
@@ -1861,6 +2093,7 @@
     "question": "新作ちょうだい！",
     "reading": "しんさくちょうだい",
     "answer": "大地讃頌",
+    "answerReading": "だいちさんしょう",
     "extraChar": "く"
   },
   {
@@ -1869,6 +2102,7 @@
     "question": "わしらクセ強いんだ",
     "reading": "わしらくせつよいんだ",
     "answer": "岩倉使節団",
+    "answerReading": "いわくらしせつだん",
     "extraChar": "よ"
   },
   {
@@ -1877,6 +2111,7 @@
     "question": "ジャイアン、神作詞",
     "reading": "じゃいあんかみさくし",
     "answer": "赤石山脈",
+    "answerReading": "あかいしさんみゃく",
     "extraChar": "じ"
   },
   {
@@ -1885,6 +2120,7 @@
     "question": "受験票もいる",
     "reading": "じゅけんひょうもいる",
     "answer": "標準模型",
+    "answerReading": "ひょうじゅんもけい",
     "extraChar": "る"
   },
   {
@@ -1893,6 +2129,7 @@
     "question": "ぽっちゃりの商人",
     "reading": "ぽっちゃりのしょうにん",
     "answer": "ニッポンの社長",
+    "answerReading": "にっぽんのしゃちょう",
     "extraChar": "り"
   },
   {
@@ -1901,6 +2138,7 @@
     "question": "6Vっす",
     "reading": "ろくぶいっす",
     "answer": "ブロックス",
+    "answerReading": "ぶろっくす",
     "extraChar": "い"
   },
   {
@@ -1909,6 +2147,7 @@
     "question": "金コイ出す",
     "reading": "きんこいだす",
     "answer": "NKODICE",
+    "answerReading": "んこだいす",
     "extraChar": "き"
   },
   {
@@ -1917,6 +2156,7 @@
     "question": "雨グドラか",
     "reading": "あめぐどらか",
     "answer": "神楽めあ",
+    "answerReading": "かぐらめあ",
     "extraChar": "ど"
   },
   {
@@ -1925,6 +2165,7 @@
     "question": "永続仕様",
     "reading": "えいぞくしよう",
     "answer": "吉幾三",
+    "answerReading": "よしいくぞう",
     "extraChar": "え"
   },
   {
@@ -1933,6 +2174,7 @@
     "question": "俺、パラセクト",
     "reading": "おれぱらせくと",
     "answer": "クレオパトラ",
+    "answerReading": "くれおぱとら",
     "extraChar": "せ"
   },
   {
@@ -1941,6 +2183,7 @@
     "question": "すかさずテラス",
     "reading": "すかさずてらす",
     "answer": "鈴カステラ",
+    "answerReading": "すずかすてら",
     "extraChar": "さ"
   },
   {
@@ -1949,6 +2192,7 @@
     "question": "最遅厳選",
     "reading": "さいちげんせん",
     "answer": "チンゲンサイ",
+    "answerReading": "ちんげんさい",
     "extraChar": "せ"
   },
   {
@@ -1957,6 +2201,7 @@
     "question": "エネコ！でんげきは！",
     "reading": "えねこでんげきは",
     "answer": "箱根駅伝",
+    "answerReading": "はこねえきでん",
     "extraChar": "げ"
   },
   {
@@ -1965,6 +2210,7 @@
     "question": "コライドン自慢",
     "reading": "こらいどんじまん",
     "answer": "コマンドライン",
+    "answerReading": "こまんどらいん",
     "extraChar": "じ"
   },
   {
@@ -1973,6 +2219,7 @@
     "question": "水弱点ね",
     "reading": "みずじゃくてんね",
     "answer": "天竺鼠",
+    "answerReading": "てんじくねずみ",
     "extraChar": "ゃ"
   },
   {
@@ -1981,6 +2228,7 @@
     "question": "水テラしようか",
     "reading": "みずてらしようか",
     "answer": "三浦知良",
+    "answerReading": "みうらかずよし",
     "extraChar": "て"
   },
   {
@@ -1989,6 +2237,7 @@
     "question": "また山男だ",
     "reading": "またやまおとこだ",
     "answer": "音霊魂子",
+    "answerReading": "おとだまたまこ",
     "extraChar": "や"
   },
   {
@@ -1997,6 +2246,7 @@
     "question": "素敵なカイリキー",
     "reading": "すてきなかいりきー",
     "answer": "いきなりステーキ",
+    "answerReading": "いきなりすてーき",
     "extraChar": "か"
   },
   {
@@ -2005,6 +2255,7 @@
     "question": "御三家育成か",
     "reading": "ごさんけいくせいか",
     "answer": "正三角形",
+    "answerReading": "せいさんかくけい",
     "extraChar": "ご"
   },
   {
@@ -2013,6 +2264,7 @@
     "question": "メガヤンマ8匹",
     "reading": "めがやんまはちひき",
     "answer": "比企谷八幡",
+    "answerReading": "ひきがやはちまん",
     "extraChar": "め"
   },
   {
@@ -2021,6 +2273,7 @@
     "question": "ゴツメ採用予想",
     "reading": "ごつめさいようよそう",
     "answer": "強い相互作用",
+    "answerReading": "つよいそうごさよう",
     "extraChar": "め"
   },
   {
@@ -2029,6 +2282,7 @@
     "question": "運命力、詐欺か？",
     "reading": "うんめいりょくさぎか",
     "answer": "産業革命",
+    "answerReading": "さんぎょうかくめい",
     "extraChar": "り"
   },
   {
@@ -2037,6 +2291,7 @@
     "question": "負担強いるノマテラ",
     "reading": "ふたんしいるのまてら",
     "answer": "魂のルフラン",
+    "answerReading": "たましいのるふらん",
     "extraChar": "て"
   },
   {
@@ -2045,6 +2300,7 @@
     "question": "発光ロトム撮った",
     "reading": "はっこうろとむとった",
     "answer": "とっとこハム太郎",
+    "answerReading": "とっとこはむたろう",
     "extraChar": "っ"
   },
   {
@@ -2053,6 +2309,7 @@
     "question": "四天王ごと来いや！",
     "reading": "してんのうごとこいや",
     "answer": "光陰矢の如し",
+    "answerReading": "こういんやのごとし",
     "extraChar": "て"
   },
   {
@@ -2061,6 +2318,7 @@
     "question": "もう個体値無いのさ",
     "reading": "もうこたいちないのさ",
     "answer": "小さな恋のうた",
+    "answerReading": "ちいさなこいのうた",
     "extraChar": "も"
   },
   {
@@ -2069,6 +2327,7 @@
     "question": "ドーブル討伐したわ",
     "reading": "どーぶるとうばつしたわ",
     "answer": "どうぶつタワーバトル",
+    "answerReading": "どうぶつたわーばとる",
     "extraChar": "し"
   },
   {
@@ -2077,6 +2336,7 @@
     "question": "裁判官",
     "reading": "さいばんかん",
     "answer": "晩餐歌",
+    "answerReading": "ばんさんか",
     "extraChar": "い"
   },
   {
@@ -2085,6 +2345,7 @@
     "question": "昼のマクド",
     "reading": "ひるのまくど",
     "answer": "火の車",
+    "answerReading": "ひのくるま",
     "extraChar": "ど"
   },
   {
@@ -2093,6 +2354,7 @@
     "question": "さてと、寝るか",
     "reading": "さてとねるか",
     "answer": "重音テト",
+    "answerReading": "かさねてと",
     "extraChar": "る"
   },
   {
@@ -2101,6 +2363,7 @@
     "question": "神さまーーっ！",
     "reading": "かみさまーーっ",
     "answer": "マッカーサー",
+    "answerReading": "まっかーさー",
     "extraChar": "み"
   },
   {
@@ -2109,6 +2372,7 @@
     "question": "もう完食!?",
     "reading": "もうかんしょく",
     "answer": "クンショウモ",
+    "answerReading": "くんしょうも",
     "extraChar": "か"
   },
   {
@@ -2117,6 +2381,7 @@
     "question": "虫とタイマン",
     "reading": "むしとたいまん",
     "answer": "タイムマシン",
+    "answerReading": "たいむましん",
     "extraChar": "と"
   },
   {
@@ -2125,6 +2390,7 @@
     "question": "賢い坂田",
     "reading": "かしこいさかた",
     "answer": "酒井貴士",
+    "answerReading": "さかいたかし",
     "extraChar": "こ"
   },
   {
@@ -2133,6 +2399,7 @@
     "question": "果物がいい…",
     "reading": "くだものがいい",
     "answer": "大学芋",
+    "answerReading": "だいがくいも",
     "extraChar": "の"
   },
   {
@@ -2141,6 +2408,7 @@
     "question": "三人野球",
     "reading": "さんにんやきゅう",
     "answer": "乳酸菌",
+    "answerReading": "にゅうさんきん",
     "extraChar": "や"
   },
   {
@@ -2149,6 +2417,7 @@
     "question": "低価格コイン",
     "reading": "ていかかくこいん",
     "answer": "インカ帝国",
+    "answerReading": "いんかていこく",
     "extraChar": "か"
   },
   {
@@ -2157,6 +2426,7 @@
     "question": "戦争の放棄",
     "reading": "せんそうのほうき",
     "answer": "帰巣本能",
+    "answerReading": "きそうほんのう",
     "extraChar": "せ"
   },
   {
@@ -2165,6 +2435,7 @@
     "question": "自衛の格闘",
     "reading": "じえいのかくとう",
     "answer": "狩野永徳",
+    "answerReading": "かのうえいとく",
     "extraChar": "じ"
   },
   {
@@ -2173,6 +2444,7 @@
     "question": "茄子食わせないの",
     "reading": "なすくわせないの",
     "answer": "砂の惑星",
+    "answerReading": "すなのわくせい",
     "extraChar": "な"
   },
   {
@@ -2181,6 +2453,7 @@
     "question": "月見さ、乾杯",
     "reading": "つきみさかんぱい",
     "answer": "才気煥発",
+    "answerReading": "さいきかんぱつ",
     "extraChar": "み"
   },
   {
@@ -2189,6 +2462,7 @@
     "question": "一流教師",
     "reading": "いちりゅうきょうし",
     "answer": "長州力",
+    "answerReading": "ちょうしゅうりき",
     "extraChar": "い"
   },
   {
@@ -2197,6 +2471,7 @@
     "question": "原付の試乗",
     "reading": "げんつきのしじょう",
     "answer": "上弦の月",
+    "answerReading": "じょうげんのつき",
     "extraChar": "し"
   },
   {
@@ -2205,6 +2480,7 @@
     "question": "あなたもマリオやろう！",
     "reading": "あなたもまりおやろう",
     "answer": "森山直太朗",
+    "answerReading": "もりやまなおたろう",
     "extraChar": "あ"
   },
   {
@@ -2213,6 +2489,7 @@
     "question": "税金と戦うよ",
     "reading": "ぜいきんとたたかうよ",
     "answer": "北風と太陽",
+    "answerReading": "きたかぜとたいよう",
     "extraChar": "ん"
   },
   {
@@ -2221,6 +2498,7 @@
     "question": "会員制の価格",
     "reading": "かいいんせいのかかく",
     "answer": "寛政の改革",
+    "answerReading": "かんせいのかいかく",
     "extraChar": "い"
   },
   {
@@ -2229,6 +2507,7 @@
     "question": "もこうとスマブラするん？",
     "reading": "もこうとすまぶらするん",
     "answer": "ウルトラマンコスモス",
+    "answerReading": "うるとらまんこすもす",
     "extraChar": "ぶ"
   },
   {
@@ -2237,6 +2516,7 @@
     "question": "出世魚",
     "reading": "しゅっせうお",
     "answer": "雪舟",
+    "answerReading": "せっしゅう",
     "extraChar": "お"
   },
   {
@@ -2245,6 +2525,7 @@
     "question": "二刀流",
     "reading": "にとうりゅう",
     "answer": "豆乳",
+    "answerReading": "とうにゅう",
     "extraChar": "り"
   },
   {
@@ -2253,6 +2534,7 @@
     "question": "マクド食おうか",
     "reading": "まくどくおうか",
     "answer": "横隔膜",
+    "answerReading": "おうかくまく",
     "extraChar": "ど"
   },
   {
@@ -2261,6 +2543,7 @@
     "question": "自信ありかい？",
     "reading": "じしんありかい",
     "answer": "碇シンジ",
+    "answerReading": "いかりしんじ",
     "extraChar": "あ"
   },
   {
@@ -2269,6 +2552,7 @@
     "question": "火器武器錬成",
     "reading": "かきぶきれんせい",
     "answer": "回帰分析",
+    "answerReading": "かいきぶんせき",
     "extraChar": "れ"
   },
   {
@@ -2277,6 +2561,7 @@
     "question": "ヤバめの追撃",
     "reading": "やばめのついげき",
     "answer": "鬼滅の刃",
+    "answerReading": "きめつのやいば",
     "extraChar": "げ"
   },
   {
@@ -2285,6 +2570,7 @@
     "question": "真夏の怪奇",
     "reading": "まなつのかいき",
     "answer": "中野五月",
+    "answerReading": "なかのいつき",
     "extraChar": "ま"
   },
   {
@@ -2293,6 +2579,7 @@
     "question": "特盛りのサンマ",
     "reading": "とくもりのさんま",
     "answer": "森のくまさん",
+    "answerReading": "もりのくまさん",
     "extraChar": "と"
   },
   {
@@ -2301,6 +2588,7 @@
     "question": "俳句がたくさん",
     "reading": "はいくがたくさん",
     "answer": "博学多才",
+    "answerReading": "はくがくたさい",
     "extraChar": "ん"
   },
   {
@@ -2309,6 +2597,7 @@
     "question": "大学マスター",
     "reading": "だいがくますたー",
     "answer": "タイガーマスク",
+    "answerReading": "たいがーますく",
     "extraChar": "だ"
   },
   {
@@ -2317,6 +2606,7 @@
     "question": "同人誌見てよ",
     "reading": "どうじんしみてよ",
     "answer": "天童よしみ",
+    "answerReading": "てんどうよしみ",
     "extraChar": "じ"
   },
   {
@@ -2325,6 +2615,7 @@
     "question": "兄、Vオタかな？",
     "reading": "あにぶいおたかな",
     "answer": "泣いた赤鬼",
+    "answerReading": "ないたあかおに",
     "extraChar": "ぶ"
   },
   {
@@ -2333,6 +2624,7 @@
     "question": "企画はノープラン",
     "reading": "きかくはのーぷらん",
     "answer": "クープランの墓",
+    "answerReading": "くーぷらんのはか",
     "extraChar": "き"
   },
   {
@@ -2341,6 +2633,7 @@
     "question": "ぶん殴るジャック",
     "reading": "ぶんなぐるじゃっく",
     "answer": "ジャングル・ブック",
+    "answerReading": "じゃんぐるぶっく",
     "extraChar": "な"
   },
   {
@@ -2349,6 +2642,7 @@
     "question": "素手で引ん剥いてら…",
     "reading": "すででひんむいてら",
     "answer": "むすんでひらいて",
+    "answerReading": "むすんでひらいて",
     "extraChar": "で"
   },
   {
@@ -2357,6 +2651,7 @@
     "question": "サンマに近い味",
     "reading": "さんまにちかいあじ",
     "answer": "毎日かあさん",
+    "answerReading": "まいにちかあさん",
     "extraChar": "じ"
   },
   {
@@ -2365,6 +2660,7 @@
     "question": "寂れていく天神",
     "reading": "さびれていくてんじん",
     "answer": "天才てれびくん",
+    "answerReading": "てんさいてれびくん",
     "extraChar": "じ"
   },
   {
@@ -2373,6 +2669,7 @@
     "question": "ちと再履修かも",
     "reading": "ちとさいりしゅうかも",
     "answer": "坂本龍一",
+    "answerReading": "さかもとりゅういち",
     "extraChar": "し"
   },
   {
@@ -2381,6 +2678,7 @@
     "question": "ドライビール、2缶目だ",
     "reading": "どらいびーるにかんめだ",
     "answer": "仮面ライダービルド",
+    "answerReading": "かめんらいだーびるど",
     "extraChar": "に"
   },
   {
@@ -2389,6 +2687,7 @@
     "question": "歯医者見ないふりした",
     "reading": "はいしゃみないふりした",
     "answer": "伏見稲荷大社",
+    "answerReading": "ふしみいなりたいしゃ",
     "extraChar": "は"
   },
   {
@@ -2397,6 +2696,7 @@
     "question": "永夜抄",
     "reading": "えいやしょう",
     "answer": "照英",
+    "answerReading": "しょうえい",
     "extraChar": "や"
   },
   {
@@ -2405,6 +2705,7 @@
     "question": "アイワナ好き",
     "reading": "あいわなずき",
     "answer": "キズナアイ",
+    "answerReading": "きずなあい",
     "extraChar": "わ"
   },
   {
@@ -2413,6 +2714,7 @@
     "question": "ツイ廃垢",
     "reading": "ついはいあか",
     "answer": "愛は勝つ",
+    "answerReading": "あいはかつ",
     "extraChar": "い"
   },
   {
@@ -2421,6 +2723,7 @@
     "question": "意気消沈",
     "reading": "いきしょうちん",
     "answer": "聴診器",
+    "answerReading": "ちょうしんき",
     "extraChar": "い"
   },
   {
@@ -2429,6 +2732,7 @@
     "question": "漫才ファン",
     "reading": "まんざいふぁん",
     "answer": "ファインマン",
+    "answerReading": "ふぁいんまん",
     "extraChar": "ざ"
   },
   {
@@ -2437,6 +2741,7 @@
     "question": "ハミチン拝見",
     "reading": "はみちんはいけん",
     "answer": "廃藩置県",
+    "answerReading": "はいはんちけん",
     "extraChar": "み"
   },
   {
@@ -2445,6 +2750,7 @@
     "question": "ボス・洛山戦",
     "reading": "ぼすらくざんせん",
     "answer": "千本桜",
+    "answerReading": "せんぼんざくら",
     "extraChar": "す"
   },
   {
@@ -2453,6 +2759,7 @@
     "question": "弁当、箸ない…",
     "reading": "べんとうはしない",
     "answer": "シナイ半島",
+    "answerReading": "しないはんとう",
     "extraChar": "べ"
   },
   {
@@ -2461,6 +2768,7 @@
     "question": "ゆっくりスタート",
     "reading": "ゆっくりすたーと",
     "answer": "トリックスター",
+    "answerReading": "とりっくすたー",
     "extraChar": "ゆ"
   },
   {
@@ -2469,6 +2777,7 @@
     "question": "年下派やもん",
     "reading": "とししたはやもん",
     "answer": "橋本真也",
+    "answerReading": "はしもとしんや",
     "extraChar": "た"
   },
   {
@@ -2477,6 +2786,7 @@
     "question": "飛ぶ虫が湧くのよ",
     "reading": "とぶむしがわくのよ",
     "answer": "徳川慶喜",
+    "answerReading": "とくがわよしのぶ",
     "extraChar": "む"
   },
   {
@@ -2485,6 +2795,7 @@
     "question": "政治家お兄さん",
     "reading": "せいじかおにいさん",
     "answer": "異世界おじさん",
+    "answerReading": "いせかいおじさん",
     "extraChar": "に"
   },
   {
@@ -2493,6 +2804,7 @@
     "question": "ニコ厨が居たぜ",
     "reading": "にこちゅうがいたぜ",
     "answer": "銭形幸一",
+    "answerReading": "ぜにがたこういち",
     "extraChar": "ゅ"
   },
   {
@@ -2501,6 +2813,7 @@
     "question": "天命、ごくわずか",
     "reading": "てんめいごくわずか",
     "answer": "可愛くてごめん",
+    "answerReading": "かわいくてごめん",
     "extraChar": "ず"
   },
   {
@@ -2509,6 +2822,7 @@
     "question": "にんじん投げていいっ？",
     "reading": "にんじんなげていいっ",
     "answer": "にんげんっていいな",
+    "answerReading": "にんげんっていいな",
     "extraChar": "じ"
   },
   {
@@ -2517,6 +2831,7 @@
     "question": "アイドルさんだ、推せそう",
     "reading": "あいどるさんだおせそう",
     "answer": "踊る大捜査線",
+    "answerReading": "おどるだいそうさせん",
     "extraChar": "あ"
   },
   {
@@ -2525,6 +2840,7 @@
     "question": "雑巾から泡出たし",
     "reading": "ぞうきんからあわでたし",
     "answer": "浮気したらあかんで",
+    "answerReading": "うわきしたらあかんで",
     "extraChar": "ぞ"
   },
   {
@@ -2533,6 +2849,7 @@
     "question": "不信、議会は欠席",
     "reading": "ふしんぎかいはけっせき",
     "answer": "世界ふしぎ発見",
+    "answerReading": "せかいふしぎはっけん",
     "extraChar": "き"
   },
   {
@@ -2541,6 +2858,7 @@
     "question": "んー…手詰まり",
     "reading": "んーてづまり",
     "answer": "テリーマン",
+    "answerReading": "てりーまん",
     "extraChar": "づ"
   },
   {
@@ -2549,6 +2867,7 @@
     "question": "下Bしとけ",
     "reading": "したびーしとけ",
     "answer": "ビートたけし",
+    "answerReading": "びーとたけし",
     "extraChar": "し"
   },
   {
@@ -2557,6 +2876,7 @@
     "question": "釣りスレ死滅",
     "reading": "つりすれしめつ",
     "answer": "支離滅裂",
+    "answerReading": "しりめつれつ",
     "extraChar": "す"
   },
   {
@@ -2565,6 +2885,7 @@
     "question": "珍味な根っこ",
     "reading": "ちんみなねっこ",
     "answer": "こっちみんな",
+    "answerReading": "こっちみんな",
     "extraChar": "ね"
   },
   {
@@ -2573,6 +2894,7 @@
     "question": "社畜動員",
     "reading": "しゃちくどういん",
     "answer": "工藤新一",
+    "answerReading": "くどうしんいち",
     "extraChar": "ゃ"
   },
   {
@@ -2581,6 +2903,7 @@
     "question": "真っ黒スライム",
     "reading": "まっくろすらいむ",
     "answer": "マックスむらい",
+    "answerReading": "まっくすむらい",
     "extraChar": "ろ"
   },
   {
@@ -2589,6 +2912,7 @@
     "question": "機械がアシスト",
     "reading": "きかいがあしすと",
     "answer": "春日俊彰",
+    "answerReading": "かすがとしあき",
     "extraChar": "い"
   },
   {
@@ -2597,6 +2921,7 @@
     "question": "ラノベ読む小僧",
     "reading": "らのべよむこぞう",
     "answer": "夜空ノムコウ",
+    "answerReading": "よぞらのむこう",
     "extraChar": "べ"
   },
   {
@@ -2605,6 +2930,7 @@
     "question": "テレ東映すさ",
     "reading": "てれとううつすさ",
     "answer": "等差数列",
+    "answerReading": "とうさすうれつ",
     "extraChar": "て"
   },
   {
@@ -2613,6 +2939,7 @@
     "question": "研究資料",
     "reading": "けんきゅうしりょう",
     "answer": "昇龍拳",
+    "answerReading": "しょうりゅうけん",
     "extraChar": "き"
   },
   {
@@ -2621,6 +2948,7 @@
     "question": "田んぼ、四角い枠",
     "reading": "たんぼしかくいわく",
     "answer": "石川啄木",
+    "answerReading": "いしかわたくぼく",
     "extraChar": "ん"
   },
   {
@@ -2629,6 +2957,7 @@
     "question": "太郎が来ましたわ",
     "reading": "たろうがきましたわ",
     "answer": "喜多川歌麿",
+    "answerReading": "きたがわうたまろ",
     "extraChar": "し"
   },
   {
@@ -2637,6 +2966,7 @@
     "question": "身長ください",
     "reading": "しんちょうください",
     "answer": "大地讃頌",
+    "answerReading": "だいちさんしょう",
     "extraChar": "く"
   },
   {
@@ -2645,6 +2975,7 @@
     "question": "Word、Excelある",
     "reading": "わーどえくせるある",
     "answer": "アクセル・ワールド",
+    "answerReading": "あくせるわーるど",
     "extraChar": "え"
   },
   {
@@ -2653,6 +2984,7 @@
     "question": "入試、いい感じか？",
     "reading": "にゅうしいいかんじか",
     "answer": "冠位十二階",
+    "answerReading": "かんいじゅうにかい",
     "extraChar": "し"
   },
   {
@@ -2661,6 +2993,7 @@
     "question": "オバサンな訳ないて",
     "reading": "おばさんなわけないて",
     "answer": "お化けなんてないさ",
+    "answerReading": "おばけなんてないさ",
     "extraChar": "わ"
   },
   {
@@ -2669,6 +3002,7 @@
     "question": "モー娘。ファンレター",
     "reading": "もーむすふぁんれたー",
     "answer": "モンスターファーム",
+    "answerReading": "もんすたーふぁーむ",
     "extraChar": "れ"
   },
   {
@@ -2677,6 +3011,7 @@
     "question": "筋トレあるある見る",
     "reading": "きんとれあるあるみる",
     "answer": "アルミン・アルレルト",
+    "answerReading": "あるみんあるれると",
     "extraChar": "き"
   },
   {
@@ -2685,6 +3020,7 @@
     "question": "長女のリバウンド",
     "reading": "ちょうじょのりばうんど",
     "answer": "万里の長城",
+    "answerReading": "ばんりのちょうじょう",
     "extraChar": "ど"
   },
   {
@@ -2693,6 +3029,7 @@
     "question": "パない奥義",
     "reading": "ぱないおうぎ",
     "answer": "うなぎパイ",
+    "answerReading": "うなぎぱい",
     "extraChar": "お"
   },
   {
@@ -2701,6 +3038,7 @@
     "question": "裁判負けた",
     "reading": "さいばんまけた",
     "answer": "埼玉県",
+    "answerReading": "さいたまけん",
     "extraChar": "ば"
   },
   {
@@ -2709,6 +3047,7 @@
     "question": "横の引き出し",
     "reading": "よこのひきだし",
     "answer": "野田佳彦",
+    "answerReading": "のだよしひこ",
     "extraChar": "き"
   },
   {
@@ -2717,6 +3056,7 @@
     "question": "ガキ使みたわ",
     "reading": "がきつかみたわ",
     "answer": "北上川",
+    "answerReading": "きたかみがわ",
     "extraChar": "つ"
   },
   {
@@ -2725,6 +3065,7 @@
     "question": "薄めのワサビ",
     "reading": "うすめのわさび",
     "answer": "メビウスの輪",
+    "answerReading": "めびうすのわ",
     "extraChar": "さ"
   },
   {
@@ -2733,6 +3074,7 @@
     "question": "廃垢消した",
     "reading": "はいあかけした",
     "answer": "高橋愛",
+    "answerReading": "たかはしあい",
     "extraChar": "け"
   },
   {
@@ -2741,6 +3083,7 @@
     "question": "妖怪の声",
     "reading": "ようかいのこえ",
     "answer": "狩野英孝",
+    "answerReading": "かのえいこう",
     "extraChar": "よ"
   },
   {
@@ -2749,6 +3092,7 @@
     "question": "城の冷房",
     "reading": "しろのれいぼう",
     "answer": "路傍の石",
+    "answerReading": "ろぼうのいし",
     "extraChar": "れ"
   },
   {
@@ -2757,6 +3101,7 @@
     "question": "巨人専用",
     "reading": "きょじんせんよう",
     "answer": "幼女戦記",
+    "answerReading": "ようじょせんき",
     "extraChar": "ん"
   },
   {
@@ -2765,6 +3110,7 @@
     "question": "ガチの環境",
     "reading": "がちのかんきょう",
     "answer": "金のガチョウ",
+    "answerReading": "きんのがちょう",
     "extraChar": "か"
   },
   {
@@ -2773,6 +3119,7 @@
     "question": "へちょい幽霊",
     "reading": "へちょいゆうれい",
     "answer": "徴兵令",
+    "answerReading": "ちょうへいれい",
     "extraChar": "ゆ"
   },
   {
@@ -2781,6 +3128,7 @@
     "question": "浮気絶えないの",
     "reading": "うわきたえないの",
     "answer": "井ノ上たきな",
+    "answerReading": "いのうえたきな",
     "extraChar": "わ"
   },
   {
@@ -2789,6 +3137,7 @@
     "question": "引リツしとくが？",
     "reading": "いんりつしとくが",
     "answer": "利害得失",
+    "answerReading": "りがいとくしつ",
     "extraChar": "ん"
   },
   {
@@ -2797,6 +3146,7 @@
     "question": "作業が大好き",
     "reading": "さぎょうがだいすき",
     "answer": "流石兄弟",
+    "answerReading": "さすがきょうだい",
     "extraChar": "ぎ"
   },
   {
@@ -2805,6 +3155,7 @@
     "question": "ワンパンでしょうね",
     "reading": "わんぱんでしょうね",
     "answer": "電波少年",
+    "answerReading": "でんぱしょうねん",
     "extraChar": "わ"
   },
   {
@@ -2813,6 +3164,7 @@
     "question": "院試の高い壁",
     "reading": "いんしのたかいかべ",
     "answer": "大化の改新",
+    "answerReading": "たいかのかいしん",
     "extraChar": "べ"
   },
   {
@@ -2821,6 +3173,7 @@
     "question": "超ダサい雰囲気",
     "reading": "ちょうださいふんいき",
     "answer": "第一三共",
+    "answerReading": "だいいちさんきょう",
     "extraChar": "ふ"
   },
   {
@@ -2829,6 +3182,7 @@
     "question": "クソマロ蹴るんじゃい！",
     "reading": "くそまろけるんじゃい",
     "answer": "マイケル・ジャクソン",
+    "answerReading": "まいけるじゃくそん",
     "extraChar": "ろ"
   },
   {
@@ -2837,6 +3191,7 @@
     "question": "チンチロ、違法そうだ",
     "reading": "ちんちろいほうそうだ",
     "answer": "本田宗一郎",
+    "answerReading": "ほんだそういちろう",
     "extraChar": "ち"
   },
   {
@@ -2845,6 +3200,7 @@
     "question": "花マルが付いて良い子",
     "reading": "はなまるがついていいこ",
     "answer": "初恋が泣いている",
+    "answerReading": "はつこいがないている",
     "extraChar": "ま"
   },
   {
@@ -2853,6 +3209,7 @@
     "question": "Follow You!",
     "reading": "ふぉろーゆー",
     "answer": "U.F.O.",
+    "answerReading": "ゆーふぉー",
     "extraChar": "ろ"
   },
   {
@@ -2861,6 +3218,7 @@
     "question": "バンカズ3",
     "reading": "ばんかずさん",
     "answer": "晩餐歌",
+    "answerReading": "ばんさんか",
     "extraChar": "ず"
   },
   {
@@ -2869,6 +3227,7 @@
     "question": "みさくら語スレ",
     "reading": "みさくらごすれ",
     "answer": "さくらすみれ",
+    "answerReading": "さくらすみれ",
     "extraChar": "ご"
   },
   {
@@ -2877,6 +3236,7 @@
     "question": "指示厨さん",
     "reading": "しじちゅうさん",
     "answer": "三銃士",
+    "answerReading": "さんじゅうし",
     "extraChar": "ち"
   },
   {
@@ -2885,6 +3245,7 @@
     "question": "飛べ！モアイ像",
     "reading": "とべもあいぞう",
     "answer": "本部以蔵",
+    "answerReading": "もとべいぞう",
     "extraChar": "あ"
   },
   {
@@ -2893,6 +3254,7 @@
     "question": "人権掴むぜ",
     "reading": "じんけんつかむぜ",
     "answer": "完全無欠",
+    "answerReading": "かんぜんむけつ",
     "extraChar": "じ"
   },
   {
@@ -2901,6 +3263,7 @@
     "question": "転載禁止っ！",
     "reading": "てんさいきんしっ",
     "answer": "心機一転",
+    "answerReading": "しんきいってん",
     "extraChar": "さ"
   },
   {
@@ -2909,6 +3272,7 @@
     "question": "万パー居留守だ",
     "reading": "まんぱーいるすだ",
     "answer": "スパイダーマン",
+    "answerReading": "すぱいだーまん",
     "extraChar": "る"
   },
   {
@@ -2917,6 +3281,7 @@
     "question": "賞金期待",
     "reading": "しょうきんきたい",
     "answer": "錦帯橋",
+    "answerReading": "きんたいきょう",
     "extraChar": "し"
   },
   {
@@ -2925,6 +3290,7 @@
     "question": "タイブレークなの",
     "reading": "たいぶれーくなの",
     "answer": "紅の豚",
+    "answerReading": "くれないのぶた",
     "extraChar": "ー"
   },
   {
@@ -2933,6 +3299,7 @@
     "question": "ずいぶん釣られた",
     "reading": "ずいぶんつられた",
     "answer": "対物レンズ",
+    "answerReading": "たいぶつれんず",
     "extraChar": "ら"
   },
   {
@@ -2941,6 +3308,7 @@
     "question": "あらら、時間切れ",
     "reading": "あららじかんぎれ",
     "answer": "阿良々木火憐",
+    "answerReading": "あららぎかれん",
     "extraChar": "じ"
   },
   {
@@ -2949,6 +3317,7 @@
     "question": "スト6売ります",
     "reading": "すとろくうります",
     "answer": "クリスマス島",
+    "answerReading": "くりすますとう",
     "extraChar": "ろ"
   },
   {
@@ -2957,6 +3326,7 @@
     "question": "ガンダム改良",
     "reading": "がんだむかいりょう",
     "answer": "感慨無量",
+    "answerReading": "かんがいむりょう",
     "extraChar": "だ"
   },
   {
@@ -2965,6 +3335,7 @@
     "question": "石、頑丈だね",
     "reading": "いしがんじょうだね",
     "answer": "少年時代",
+    "answerReading": "しょうねんじだい",
     "extraChar": "が"
   },
   {
@@ -2973,6 +3344,7 @@
     "question": "おパンツ買い漁り",
     "reading": "おぱんつかいあさり",
     "answer": "おつかいありさん",
+    "answerReading": "おつかいありさん",
     "extraChar": "ぱ"
   },
   {
@@ -2981,6 +3353,7 @@
     "question": "若い！求婚だ！",
     "reading": "わかいきゅうこんだ",
     "answer": "閑話休題",
+    "answerReading": "かんわきゅうだい",
     "extraChar": "こ"
   },
   {
@@ -2989,6 +3362,7 @@
     "question": "はい、凸待ちやろう",
     "reading": "はいとつまちやろう",
     "answer": "鳩山一郎",
+    "answerReading": "はとやまいちろう",
     "extraChar": "つ"
   },
   {
@@ -2997,6 +3371,7 @@
     "question": "空いた穴に枠立て",
     "reading": "あいたあなにわくたて",
     "answer": "あなたに逢いたくて",
+    "answerReading": "あなたにあいたくて",
     "extraChar": "わ"
   },
   {
@@ -3005,6 +3380,7 @@
     "question": "ナッツちと食べ過ぎね",
     "reading": "なっつちとたべすぎね",
     "answer": "チベットスナギツネ",
+    "answerReading": "ちべっとすなぎつね",
     "extraChar": "た"
   },
   {
@@ -3013,6 +3389,7 @@
     "question": "SASUKE出たいなら言えよ",
     "reading": "さすけでたいならいえよ",
     "answer": "さよならイエスタデイ",
+    "answerReading": "さよならいえすたでい",
     "extraChar": "け"
   },
   {
@@ -3021,6 +3398,7 @@
     "question": "白米丼",
     "reading": "はくまいどん",
     "answer": "まいどくん",
+    "answerReading": "まいどくん",
     "extraChar": "は"
   },
   {
@@ -3029,6 +3407,7 @@
     "question": "絶対バグ！",
     "reading": "ぜったいばぐ",
     "answer": "痛バッグ",
+    "answerReading": "いたばっぐ",
     "extraChar": "ぜ"
   },
   {
@@ -3037,6 +3416,7 @@
     "question": "何でもする日",
     "reading": "なんでもするひ",
     "answer": "ヒルナンデス！",
+    "answerReading": "ひるなんです",
     "extraChar": "も"
   },
   {
@@ -3045,6 +3425,7 @@
     "question": "文武分担",
     "reading": "ぶんぶぶんたん",
     "answer": "ぶんぶんぶん",
+    "answerReading": "ぶんぶんぶん",
     "extraChar": "た"
   },
   {
@@ -3053,6 +3434,7 @@
     "question": "神が裏ボス",
     "reading": "かみがうらぼす",
     "answer": "霞ヶ浦",
+    "answerReading": "かすみがうら",
     "extraChar": "ぼ"
   },
   {
@@ -3061,6 +3443,7 @@
     "question": "顔優勝",
     "reading": "かおゆうしょう",
     "answer": "桜花賞",
+    "answerReading": "おうかしょう",
     "extraChar": "ゆ"
   },
   {
@@ -3069,6 +3452,7 @@
     "question": "攻めない誓いさ",
     "reading": "せめないちかいさ",
     "answer": "小さな世界",
+    "answerReading": "ちいさなせかい",
     "extraChar": "め"
   },
   {
@@ -3077,6 +3461,7 @@
     "question": "痛車売るんよ",
     "reading": "いたしゃうるんよ",
     "answer": "単子葉類",
+    "answerReading": "たんしようるい",
     "extraChar": "ゃ"
   },
   {
@@ -3085,6 +3470,7 @@
     "question": "絵師のリツイート",
     "reading": "えしのりついーと",
     "answer": "いとしのエリー",
+    "answerReading": "いとしのえりー",
     "extraChar": "つ"
   },
   {
@@ -3093,6 +3479,7 @@
     "question": "超ブラックだ",
     "reading": "ちょうぶらっくだ",
     "answer": "ダチョウ倶楽部",
+    "answerReading": "だちょうくらぶ",
     "extraChar": "っ"
   },
   {
@@ -3101,6 +3488,7 @@
     "question": "明らかに肥満",
     "reading": "あきらかにひまん",
     "answer": "Hikakin_Mania",
+    "answerReading": "ひかきんまにあ",
     "extraChar": "ら"
   },
   {
@@ -3109,6 +3497,7 @@
     "question": "台パンマスター",
     "reading": "だいぱんますたー",
     "answer": "スパイダーマン",
+    "answerReading": "すぱいだーまん",
     "extraChar": "た"
   },
   {
@@ -3117,6 +3506,7 @@
     "question": "Geminiは買おう",
     "reading": "じぇみにはかおう",
     "answer": "ハニカミ王子",
+    "answerReading": "はにかみおうじ",
     "extraChar": "ぇ"
   },
   {
@@ -3125,6 +3515,7 @@
     "question": "チョッキ貸しに行く",
     "reading": "ちょっきかしにいく",
     "answer": "皆既日食",
+    "answerReading": "かいきにっしょく",
     "extraChar": "ち"
   },
   {
@@ -3133,6 +3524,7 @@
     "question": "ブランドトレーナー",
     "reading": "ぶらんどとれーなー",
     "answer": "ブレードランナー",
+    "answerReading": "ぶれーどらんなー",
     "extraChar": "と"
   },
   {
@@ -3141,6 +3533,7 @@
     "question": "消されゆくサーバー",
     "reading": "けされゆくさーばー",
     "answer": "sasakure.UK",
+    "answerReading": "ささくれゆーけー",
     "extraChar": "ば"
   },
   {
@@ -3149,6 +3542,7 @@
     "question": "桜全部切った",
     "reading": "さくらぜんぶきった",
     "answer": "キタサンブラック",
+    "answerReading": "きたさんぶらっく",
     "extraChar": "ぜ"
   },
   {
@@ -3157,6 +3551,7 @@
     "question": "公式製のじゃん",
     "reading": "こうしきせいのじゃん",
     "answer": "聖者の行進",
+    "answerReading": "せいじゃのこうしん",
     "extraChar": "き"
   },
   {
@@ -3165,6 +3560,7 @@
     "question": "戦場の一兵士",
     "reading": "せんじょうのいちへいし",
     "answer": "事象の地平線",
+    "answerReading": "じしょうのちへいせん",
     "extraChar": "い"
   },
   {
@@ -3173,6 +3569,7 @@
     "question": "ｳｪｰｲwする彼逮捕",
     "reading": "うぇーいするかれたいほ",
     "answer": "崩壊:スターレイル",
+    "answerReading": "ほうかいすたーれいる",
     "extraChar": "ぇ"
   },
   {
@@ -3181,6 +3578,7 @@
     "question": "敏腕ニキ登場",
     "reading": "びんわんにきとうじょう",
     "answer": "上腕二頭筋",
+    "answerReading": "じょうわんにとうきん",
     "extraChar": "び"
   },
   {
@@ -3189,6 +3587,7 @@
     "question": "新人君かな？",
     "reading": "しんじんくんかな",
     "answer": "艱難辛苦",
+    "answerReading": "かんなんしんく",
     "extraChar": "じ"
   },
   {
@@ -3197,6 +3596,7 @@
     "question": "名称公募",
     "reading": "めいしょうこうぼ",
     "answer": "明眸皓歯",
+    "answerReading": "めいぼうこうし",
     "extraChar": "ょ"
   },
   {
@@ -3205,6 +3605,7 @@
     "question": "学食相席",
     "reading": "がくしょくあいせき",
     "answer": "曲学阿世",
+    "answerReading": "きょくがくあせい",
     "extraChar": "し"
   },
   {
@@ -3213,6 +3614,7 @@
     "question": "しつこい3四歩",
     "reading": "しつこいさんよんふ",
     "answer": "粉骨砕身",
+    "answerReading": "ふんこつさいしん",
     "extraChar": "よ"
   },
   {
@@ -3221,6 +3623,7 @@
     "question": "変数としていい？",
     "reading": "へんすうとしていい",
     "answer": "平身低頭",
+    "answerReading": "へいしんていとう",
     "extraChar": "す"
   },
   {
@@ -3229,6 +3632,7 @@
     "question": "再放送せんと！",
     "reading": "さいほうそうせんと",
     "answer": "東奔西走",
+    "answerReading": "とうほんせいそう",
     "extraChar": "さ"
   },
   {
@@ -3237,6 +3641,7 @@
     "question": "攻撃した",
     "reading": "こうげきした",
     "answer": "多項式",
+    "answerReading": "たこうしき",
     "extraChar": "げ"
   },
   {
@@ -3245,6 +3650,7 @@
     "question": "ズルい女",
     "reading": "ずるいおんな",
     "answer": "イオナズン",
+    "answerReading": "いおなずん",
     "extraChar": "る"
   },
   {
@@ -3253,6 +3659,7 @@
     "question": "たちまち負け",
     "reading": "たちまちまけ",
     "answer": "町田ちま",
+    "answerReading": "まちたちま",
     "extraChar": "け"
   },
   {
@@ -3261,6 +3668,7 @@
     "question": "ヒロイン気質",
     "reading": "ひろいんきしつ",
     "answer": "五木ひろし",
+    "answerReading": "いつきひろし",
     "extraChar": "ん"
   },
   {
@@ -3269,6 +3677,7 @@
     "question": "パンゲア統治",
     "reading": "ぱんげあとうち",
     "answer": "パンチアウト!!",
+    "answerReading": "ぱんちあうと",
     "extraChar": "げ"
   },
   {
@@ -3277,6 +3686,7 @@
     "question": "完クリ？偉い！",
     "reading": "かんくりえらい",
     "answer": "偕楽園",
+    "answerReading": "かいらくえん",
     "extraChar": "り"
   },
   {
@@ -3285,6 +3695,7 @@
     "question": "マグロ換金",
     "reading": "まぐろかんきん",
     "answer": "軍艦巻",
+    "answerReading": "ぐんかんまき",
     "extraChar": "ろ"
   },
   {
@@ -3293,6 +3704,7 @@
     "question": "すぐ水飲もうね",
     "reading": "すぐみずのもうね",
     "answer": "ねずみのすもう",
+    "answerReading": "ねずみのすもう",
     "extraChar": "ぐ"
   },
   {
@@ -3301,6 +3713,7 @@
     "question": "すっぴん鑑定",
     "reading": "すっぴんかんてい",
     "answer": "天下一品",
+    "answerReading": "てんかいっぴん",
     "extraChar": "す"
   },
   {
@@ -3309,6 +3722,7 @@
     "question": "いろんな特性",
     "reading": "いろんなとくせい",
     "answer": "南斗六星",
+    "answerReading": "なんとろくせい",
     "extraChar": "い"
   },
   {
@@ -3317,6 +3731,7 @@
     "question": "実験手袋",
     "reading": "じっけんてぶくろ",
     "answer": "点字ブロック",
+    "answerReading": "てんじぶろっく",
     "extraChar": "け"
   },
   {
@@ -3325,6 +3740,7 @@
     "question": "とびきりのアタック",
     "reading": "とびきりのあたっく",
     "answer": "ビクトリアの滝",
+    "answerReading": "びくとりあのたき",
     "extraChar": "っ"
   },
   {
@@ -3333,6 +3749,7 @@
     "question": "待って！スネ夫が居る！",
     "reading": "まってすねおがいる",
     "answer": "お願いマッスル",
+    "answerReading": "おねがいまっする",
     "extraChar": "て"
   },
   {
@@ -3341,6 +3758,7 @@
     "question": "アク禁は注意",
     "reading": "あくきんはちゅうい",
     "answer": "愛・地球博",
+    "answerReading": "あいちきゅうはく",
     "extraChar": "ん"
   },
   {
@@ -3349,6 +3767,7 @@
     "question": "厳めしい音楽",
     "reading": "いかめしいおんがく",
     "answer": "辛亥革命",
+    "answerReading": "しんがいかくめい",
     "extraChar": "お"
   },
   {
@@ -3357,6 +3776,7 @@
     "question": "ヤケクソの性格",
     "reading": "やけくそのせいかく",
     "answer": "世界の約束",
+    "answerReading": "せかいのやくそく",
     "extraChar": "け"
   },
   {
@@ -3365,6 +3785,7 @@
     "question": "優雅な慰安会",
     "reading": "ゆうがないあんかい",
     "answer": "内憂外患",
+    "answerReading": "ないゆうがいかん",
     "extraChar": "あ"
   },
   {
@@ -3373,6 +3794,7 @@
     "question": "筋力普通では？",
     "reading": "きんりょくふつうでは",
     "answer": "風力発電",
+    "answerReading": "ふうりょくはつでん",
     "extraChar": "き"
   },
   {
@@ -3381,6 +3803,7 @@
     "question": "正露丸買えません",
     "reading": "せいろがんかえません",
     "answer": "エロマンガ先生",
+    "answerReading": "えろまんがせんせい",
     "extraChar": "か"
   },
   {
@@ -3389,6 +3812,7 @@
     "question": "天動説がよぎるの",
     "reading": "てんどうせつがよぎるの",
     "answer": "銀河鉄道の夜",
+    "answerReading": "ぎんがてつどうのよる",
     "extraChar": "せ"
   },
   {
@@ -3397,6 +3821,7 @@
     "question": "爬虫類",
     "reading": "はちゅうるい",
     "answer": "ハイチュウ",
+    "answerReading": "はいちゅう",
     "extraChar": "る"
   },
   {
@@ -3405,6 +3830,7 @@
     "question": "マリカー10",
     "reading": "まりかーてん",
     "answer": "テリーマン",
+    "answerReading": "てりーまん",
     "extraChar": "か"
   },
   {
@@ -3413,6 +3839,7 @@
     "question": "枯山水",
     "reading": "かれさんすい",
     "answer": "睡蓮花",
+    "answerReading": "すいれんか",
     "extraChar": "さ"
   },
   {
@@ -3421,6 +3848,7 @@
     "question": "我が神斬った",
     "reading": "わがかみきった",
     "answer": "北上川",
+    "answerReading": "きたかみがわ",
     "extraChar": "っ"
   },
   {
@@ -3429,6 +3857,7 @@
     "question": "少し謝る",
     "reading": "すこしあやまる",
     "answer": "マルコシアス",
+    "answerReading": "まるこしあす",
     "extraChar": "や"
   },
   {
@@ -3437,6 +3866,7 @@
     "question": "飲んで五月蝿い",
     "reading": "のんでうるさい",
     "answer": "雲泥の差",
+    "answerReading": "うんでいのさ",
     "extraChar": "る"
   },
   {
@@ -3445,6 +3875,7 @@
     "question": "タケノコ売ろう",
     "reading": "たけのこうろう",
     "answer": "河野太郎",
+    "answerReading": "こうのたろう",
     "extraChar": "け"
   },
   {
@@ -3453,6 +3884,7 @@
     "question": "4年塩漬け",
     "reading": "よねんしおづけ",
     "answer": "米津玄師",
+    "answerReading": "よねづけんし",
     "extraChar": "お"
   },
   {
@@ -3461,6 +3893,7 @@
     "question": "貧困し危機",
     "reading": "ひんこんしきき",
     "answer": "金婚式",
+    "answerReading": "きんこんしき",
     "extraChar": "ひ"
   },
   {
@@ -3469,6 +3902,7 @@
     "question": "お吸い物だけ",
     "reading": "おすいものだけ",
     "answer": "小野大輔",
+    "answerReading": "おのだいすけ",
     "extraChar": "も"
   },
   {
@@ -3477,6 +3911,7 @@
     "question": "いま肩凝りマシだ",
     "reading": "いまかたこりましだ",
     "answer": "塊魂",
+    "answerReading": "かたまりだましい",
     "extraChar": "こ"
   },
   {
@@ -3485,6 +3920,7 @@
     "question": "蟹おかわりしたの",
     "reading": "かにおかわりしたの",
     "answer": "西川貴教",
+    "answerReading": "にしかわたかのり",
     "extraChar": "お"
   },
   {
@@ -3493,6 +3929,7 @@
     "question": "旅行道中",
     "reading": "りょこうどうちゅう",
     "answer": "超流動",
+    "answerReading": "ちょうりゅうどう",
     "extraChar": "こ"
   },
   {
@@ -3501,6 +3938,7 @@
     "question": "已己巳己君だ！－完－",
     "reading": "いこみきくんだかん",
     "answer": "大韓民国",
+    "answerReading": "だいかんみんこく",
     "extraChar": "き"
   },
   {
@@ -3509,6 +3947,7 @@
     "question": "教室の工事",
     "reading": "きょうしつのこうじ",
     "answer": "荒城の月",
+    "answerReading": "こうじょうのつき",
     "extraChar": "し"
   },
   {
@@ -3517,6 +3956,7 @@
     "question": "大体女子校",
     "reading": "だいたいじょしこう",
     "answer": "大正時代",
+    "answerReading": "たいしょうじだい",
     "extraChar": "こ"
   },
   {
@@ -3525,6 +3965,7 @@
     "question": "3万ドル奢って",
     "reading": "さんまんどるおごって",
     "answer": "踊る！さんま御殿!!",
+    "answerReading": "おどるさんまごてん",
     "extraChar": "っ"
   },
   {
@@ -3533,6 +3974,7 @@
     "question": "酔っ払い、あーしんど",
     "reading": "よっぱらいあーしんど",
     "answer": "ヨッシーアイランド",
+    "answerReading": "よっしーあいらんど",
     "extraChar": "ぱ"
   },
   {
@@ -3541,6 +3983,7 @@
     "question": "貝かイカの選択",
     "reading": "かいかいかのせんたく",
     "answer": "寛政の改革",
+    "answerReading": "かんせいのかいかく",
     "extraChar": "た"
   },
   {
@@ -3549,6 +3992,7 @@
     "question": "こういう策大好きや",
     "reading": "こういうさくだいすきや",
     "answer": "最大公約数",
+    "answerReading": "さいだいこうやくすう",
     "extraChar": "き"
   },
   {
@@ -3557,6 +4001,7 @@
     "question": "隠岐諸島",
     "reading": "おきしょとう",
     "answer": "京都市",
+    "answerReading": "きょうとし",
     "extraChar": "お"
   },
   {
@@ -3565,6 +4010,7 @@
     "question": "粉入れた水",
     "reading": "こないれたみず",
     "answer": "泉こなた",
+    "answerReading": "いずみこなた",
     "extraChar": "れ"
   },
   {
@@ -3573,6 +4019,7 @@
     "question": "恐怖政治",
     "reading": "きょうふせいじ",
     "answer": "星条旗",
+    "answerReading": "せいじょうき",
     "extraChar": "ふ"
   },
   {
@@ -3581,6 +4028,7 @@
     "question": "神引きあるか？",
     "reading": "かみびきあるか",
     "answer": "赤見かるび",
+    "answerReading": "あかみかるび",
     "extraChar": "き"
   },
   {
@@ -3589,6 +4037,7 @@
     "question": "すまん、謝罪",
     "reading": "すまんしゃざい",
     "answer": "すしざんまい",
+    "answerReading": "すしざんまい",
     "extraChar": "ゃ"
   },
   {
@@ -3597,6 +4046,7 @@
     "question": "たぶん大遅刻",
     "reading": "たぶんだいちこく",
     "answer": "国分太一",
+    "answerReading": "こくぶんたいち",
     "extraChar": "だ"
   },
   {
@@ -3605,6 +4055,7 @@
     "question": "過度のサビ残や",
     "reading": "かどのさびざんや",
     "answer": "さざんかの宿",
+    "answerReading": "さざんかのやど",
     "extraChar": "び"
   },
   {
@@ -3613,6 +4064,7 @@
     "question": "飲み食いさせるわ",
     "reading": "のみくいさせるわ",
     "answer": "猿の惑星",
+    "answerReading": "さるのわくせい",
     "extraChar": "み"
   },
   {
@@ -3621,6 +4073,7 @@
     "question": "本音交渉",
     "reading": "ほんねこうしょう",
     "answer": "少年法",
+    "answerReading": "しょうねんほう",
     "extraChar": "こ"
   },
   {
@@ -3629,6 +4082,7 @@
     "question": "身長大事ね",
     "reading": "しんちょうだいじね",
     "answer": "少年時代",
+    "answerReading": "しょうねんじだい",
     "extraChar": "ち"
   },
   {
@@ -3637,6 +4091,7 @@
     "question": "ぬいぐるみ捨てます…",
     "reading": "ぬいぐるみすてます",
     "answer": "ステイル・マグヌス",
+    "answerReading": "すているまぐぬす",
     "extraChar": "み"
   },
   {
@@ -3645,6 +4100,7 @@
     "question": "またイチゴ狩るのよ",
     "reading": "またいちごかるのよ",
     "answer": "かまいたちの夜",
+    "answerReading": "かまいたちのよる",
     "extraChar": "ご"
   },
   {
@@ -3653,6 +4109,7 @@
     "question": "父さん再起動",
     "reading": "とうさんさいきどう",
     "answer": "斎藤道三",
+    "answerReading": "さいとうどうさん",
     "extraChar": "き"
   },
   {
@@ -3661,6 +4118,7 @@
     "question": "分解しはじめた",
     "reading": "ぶんかいしはじめた",
     "answer": "高橋名人",
+    "answerReading": "たかはしめいじん",
     "extraChar": "ぶ"
   },
   {
@@ -3669,6 +4127,7 @@
     "question": "酒、もう限界っ！",
     "reading": "さけもうげんかいっ",
     "answer": "毛細血管",
+    "answerReading": "もうさいけっかん",
     "extraChar": "げ"
   },
   {
@@ -3677,6 +4136,7 @@
     "question": "血走って完投",
     "reading": "ちばしってかんとう",
     "answer": "七転八倒",
+    "answerReading": "しちてんばっとう",
     "extraChar": "か"
   },
   {
@@ -3685,6 +4145,7 @@
     "question": "双腕螺旋丸",
     "reading": "そうわんらせんがん",
     "answer": "湾岸戦争",
+    "answerReading": "わんがんせんそう",
     "extraChar": "ら"
   },
   {
@@ -3693,6 +4154,7 @@
     "question": "キノ3取れない箱",
     "reading": "きのさんとれないはこ",
     "answer": "トイレの花子さん",
+    "answerReading": "といれのはなこさん",
     "extraChar": "き"
   },
   {
@@ -3701,6 +4163,7 @@
     "question": "マンション移動させて",
     "reading": "まんしょんいどうさせて",
     "answer": "三省堂書店",
+    "answerReading": "さんせいどうしょてん",
     "extraChar": "ま"
   },
   {
@@ -3709,6 +4172,7 @@
     "question": "不意打ちしない心得",
     "reading": "ふいうちしないこころえ",
     "answer": "船越英一郎",
+    "answerReading": "ふなこしえいいちろう",
     "extraChar": "こ"
   },
   {
@@ -3717,6 +4181,7 @@
     "question": "かなシコ精通",
     "reading": "かなしこせいつう",
     "answer": "回折格子",
+    "answerReading": "かいせつこうし",
     "extraChar": "な"
   },
   {
@@ -3725,6 +4190,7 @@
     "question": "歌枠はよ",
     "reading": "うたわくはよ",
     "answer": "波田陽区",
+    "answerReading": "はたようく",
     "extraChar": "わ"
   },
   {
@@ -3733,6 +4199,7 @@
     "question": "推しは音乃瀬",
     "reading": "おしはおとのせ",
     "answer": "瀬戸大橋",
+    "answerReading": "せとおおはし",
     "extraChar": "の"
   },
   {
@@ -3741,6 +4208,7 @@
     "question": "あ！麺屋ぼたん！",
     "reading": "あめんやぼたん",
     "answer": "ボンタンアメ",
+    "answerReading": "ぼんたんあめ",
     "extraChar": "や"
   },
   {
@@ -3749,6 +4217,7 @@
     "question": "楽にするぺこ",
     "reading": "らくにするぺこ",
     "answer": "コペルニクス",
+    "answerReading": "こぺるにくす",
     "extraChar": "ら"
   },
   {
@@ -3757,6 +4226,7 @@
     "question": "かなりみこち推し",
     "reading": "かなりみこちおし",
     "answer": "雷おこし",
+    "answerReading": "かみなりおこし",
     "extraChar": "ち"
   },
   {
@@ -3765,6 +4235,7 @@
     "question": "どの切り抜き見た？",
     "reading": "どのきりぬきみた",
     "answer": "緑のたぬき",
+    "answerReading": "みどりのたぬき",
     "extraChar": "き"
   },
   {
@@ -3773,6 +4244,7 @@
     "question": "みこスバにお菓子",
     "reading": "みこすばにおかし",
     "answer": "にしおかすみこ",
+    "answerReading": "にしおかすみこ",
     "extraChar": "ば"
   },
   {
@@ -3781,6 +4253,7 @@
     "question": "金コイは出ねえ",
     "reading": "きんこいはでねえ",
     "answer": "箱根駅伝",
+    "answerReading": "はこねえきでん",
     "extraChar": "い"
   },
   {
@@ -3789,6 +4262,7 @@
     "question": "騎士が爆乳",
     "reading": "きしがばくにゅう",
     "answer": "入学式",
+    "answerReading": "にゅうがくしき",
     "extraChar": "ば"
   },
   {
@@ -3797,6 +4271,7 @@
     "question": "最推し：団長",
     "reading": "さいおしだんちょう",
     "answer": "大地讃頌",
+    "answerReading": "だいちさんしょう",
     "extraChar": "お"
   },
   {
@@ -3805,6 +4280,7 @@
     "question": "月曜日と記載",
     "reading": "げつようびときさい",
     "answer": "激突要塞！",
+    "answerReading": "げきとつようさい",
     "extraChar": "び"
   },
   {
@@ -3813,6 +4289,7 @@
     "question": "しらけんの業務",
     "reading": "しらけんのぎょうむ",
     "answer": "野村證券",
+    "answerReading": "のむらしょうけん",
     "extraChar": "ぎ"
   },
   {
@@ -3821,6 +4298,7 @@
     "question": "船長のラジオ",
     "reading": "せんちょうのらじお",
     "answer": "ランチの女王",
+    "answerReading": "らんちのじょおう",
     "extraChar": "せ"
   },
   {
@@ -3829,6 +4307,7 @@
     "question": "生誕祭だもん",
     "reading": "せいたんさいだもん",
     "answer": "三体問題",
+    "answerReading": "さんたいもんだい",
     "extraChar": "せ"
   },
   {
@@ -3837,6 +4316,7 @@
     "question": "え、足の裏痒い…",
     "reading": "えあしのうらかゆい",
     "answer": "英雄の証",
+    "answerReading": "えいゆうのあかし",
     "extraChar": "ら"
   },
   {
@@ -3845,6 +4325,7 @@
     "question": "消防署員だ",
     "reading": "しょうぼうしょいんだ",
     "answer": "針小棒大",
+    "answerReading": "しんしょうぼうだい",
     "extraChar": "ょ"
   },
   {
@@ -3853,6 +4334,7 @@
     "question": "配信画面見せて？",
     "reading": "はいしんがめんみせて",
     "answer": "真・女神転生",
+    "answerReading": "しんめがみてんせい",
     "extraChar": "は"
   },
   {
@@ -3861,6 +4343,7 @@
     "question": "白確の証人",
     "reading": "しろかくのしょうにん",
     "answer": "黒の召喚士",
+    "answerReading": "くろのしょうかんし",
     "extraChar": "に"
   },
   {
@@ -3869,6 +4352,7 @@
     "question": "パスポート持ったんけ？",
     "reading": "ぱすぽーともったんけ",
     "answer": "ポケットモンスター",
+    "answerReading": "ぽけっともんすたー",
     "extraChar": "ぱ"
   },
   {
@@ -3877,6 +4361,7 @@
     "question": "「じゃあ敵」とリングイン",
     "reading": "じゃあてきとりんぐいん",
     "answer": "GIANT KILLING",
+    "answerReading": "じゃいあんときりんぐ",
     "extraChar": "て"
   },
   {
@@ -3885,6 +4370,7 @@
     "question": "モザイクしたわ",
     "reading": "もざいくしたわ",
     "answer": "伊沢拓司",
+    "answerReading": "いざわたくし",
     "extraChar": "も"
   },
   {
@@ -3893,6 +4379,7 @@
     "question": "大島美幸",
     "reading": "おおしまみゆき",
     "answer": "三島由紀夫",
+    "answerReading": "みしまゆきお",
     "extraChar": "お"
   },
   {
@@ -3901,6 +4388,7 @@
     "question": "濃いお飲み物",
     "reading": "こいおのみもの",
     "answer": "小野妹子",
+    "answerReading": "おののいもこ",
     "extraChar": "み"
   },
   {
@@ -3909,6 +4397,7 @@
     "question": "東京湾",
     "reading": "とうきょうわん",
     "answer": "共和党",
+    "answerReading": "きょうわとう",
     "extraChar": "ん"
   },
   {
@@ -3917,6 +4406,7 @@
     "question": "猫にガチ恋",
     "reading": "ねこにがちこい",
     "answer": "虎金妃笑虎",
+    "answerReading": "こがねいにこ",
     "extraChar": "ち"
   },
   {
@@ -3925,6 +4415,7 @@
     "question": "古式神社や",
     "reading": "こしきじんじゃや",
     "answer": "金色夜叉",
+    "answerReading": "こんじきやしゃ",
     "extraChar": "じ"
   },
   {
@@ -3933,6 +4424,7 @@
     "question": "崩壊止まらん",
     "reading": "ほうかいとまらん",
     "answer": "快刀乱麻",
+    "answerReading": "かいとうらんま",
     "extraChar": "ほ"
   },
   {
@@ -3941,6 +4433,7 @@
     "question": "三食なか卯",
     "reading": "さんしょくなかう",
     "answer": "サカナクション",
+    "answerReading": "さかなくしょん",
     "extraChar": "う"
   },
   {
@@ -3949,6 +4442,7 @@
     "question": "旅行大好き",
     "reading": "りょこうだいすき",
     "answer": "虚構推理",
+    "answerReading": "きょこうすいり",
     "extraChar": "だ"
   },
   {
@@ -3957,6 +4451,7 @@
     "question": "カルピスの薄さ",
     "reading": "かるぴすのうすさ",
     "answer": "スピノサウルス",
+    "answerReading": "すぴのさうるす",
     "extraChar": "か"
   },
   {
@@ -3965,6 +4460,7 @@
     "question": "蜂の巣ある壁",
     "reading": "はちのすあるかべ",
     "answer": "あべのハルカス",
+    "answerReading": "あべのはるかす",
     "extraChar": "ち"
   },
   {
@@ -3973,6 +4469,7 @@
     "question": "異教徒殺し",
     "reading": "いきょうとごろし",
     "answer": "白い巨塔",
+    "answerReading": "しろいきょとう",
     "extraChar": "ご"
   },
   {
@@ -3981,6 +4478,7 @@
     "question": "怯むな空手家",
     "reading": "ひるむなからてか",
     "answer": "中村光",
+    "answerReading": "なかむらひかる",
     "extraChar": "て"
   },
   {
@@ -3989,6 +4487,7 @@
     "question": "選挙速報",
     "reading": "せんきょそくほう",
     "answer": "双曲線",
+    "answerReading": "そうきょくせん",
     "extraChar": "ほ"
   },
   {
@@ -3997,6 +4496,7 @@
     "question": "アパートには居れん",
     "reading": "あぱーとにはおれん",
     "answer": "アニ・レオンハート",
+    "answerReading": "あにれおんはーと",
     "extraChar": "ぱ"
   },
   {
@@ -4005,6 +4505,7 @@
     "question": "早速の報復",
     "reading": "さっそくのほうふく",
     "answer": "フックの法則",
+    "answerReading": "ふっくのほうそく",
     "extraChar": "さ"
   },
   {
@@ -4013,6 +4514,7 @@
     "question": "アンデッドらしいよー",
     "reading": "あんでっどらしいよー",
     "answer": "ヨッシーアイランド",
+    "answerReading": "よっしーあいらんど",
     "extraChar": "で"
   },
   {
@@ -4021,6 +4523,7 @@
     "question": "おっ、醤油無いのん？",
     "reading": "おっしょうゆないのん",
     "answer": "女の一生",
+    "answerReading": "おんなのいっしょう",
     "extraChar": "ゆ"
   },
   {
@@ -4029,6 +4532,7 @@
     "question": "暖房代の軽視",
     "reading": "だんぼうだいのけいし",
     "answer": "ダイの大冒険",
+    "answerReading": "だいのだいぼうけん",
     "extraChar": "し"
   },
   {
@@ -4037,6 +4541,7 @@
     "question": "少林寺の聖地へ",
     "reading": "しょうりんじのせいちへ",
     "answer": "事象の地平線",
+    "answerReading": "じしょうのちへいせん",
     "extraChar": "り"
   },
   {
@@ -4045,6 +4550,7 @@
     "question": "まだイライラ",
     "reading": "まだいらいら",
     "answer": "ダライ・ラマ",
+    "answerReading": "だらいらま",
     "extraChar": "い"
   },
   {
@@ -4053,6 +4559,7 @@
     "question": "突撃のみ",
     "reading": "とつげきのみ",
     "answer": "月ノ美兎",
+    "answerReading": "つきのみと",
     "extraChar": "げ"
   },
   {
@@ -4061,6 +4568,7 @@
     "question": "うっかりタイポ",
     "reading": "うっかりたいぽ",
     "answer": "立方体",
+    "answerReading": "りっぽうたい",
     "extraChar": "か"
   },
   {
@@ -4069,6 +4577,7 @@
     "question": "生乾き、嫌",
     "reading": "なまがわきいや",
     "answer": "今川焼き",
+    "answerReading": "いまがわやき",
     "extraChar": "な"
   },
   {
@@ -4077,6 +4586,7 @@
     "question": "フルコミットだー！",
     "reading": "ふるこみっとだー",
     "answer": "ダッフルコート",
+    "answerReading": "だっふるこーと",
     "extraChar": "み"
   },
   {
@@ -4085,6 +4595,7 @@
     "question": "会話垂れ流し",
     "reading": "かいわたれながし",
     "answer": "中川大志",
+    "answerReading": "なかがわたいし",
     "extraChar": "れ"
   },
   {
@@ -4093,6 +4604,7 @@
     "question": "いまさら団結",
     "reading": "いまさらだんけつ",
     "answer": "松平健",
+    "answerReading": "まつだいらけん",
     "extraChar": "さ"
   },
   {
@@ -4101,6 +4613,7 @@
     "question": "初ライブなのだ！",
     "reading": "はつらいぶなのだ",
     "answer": "奈良の大仏",
+    "answerReading": "ならのだいぶつ",
     "extraChar": "は"
   },
   {
@@ -4109,6 +4622,7 @@
     "question": "米ソの攻め合い",
     "reading": "べいそのせめあい",
     "answer": "安倍晴明",
+    "answerReading": "あべのせいめい",
     "extraChar": "そ"
   },
   {
@@ -4117,6 +4631,7 @@
     "question": "ガン飛ばす海賊",
     "reading": "がんとばすかいぞく",
     "answer": "鳥羽水族館",
+    "answerReading": "とばすいぞくかん",
     "extraChar": "が"
   },
   {
@@ -4125,6 +4640,7 @@
     "question": "投資大丈夫？",
     "reading": "とうしだいじょうぶ",
     "answer": "唐招提寺",
+    "answerReading": "とうしょうだいじ",
     "extraChar": "ぶ"
   },
   {
@@ -4133,6 +4649,7 @@
     "question": "ガングロ三姉妹",
     "reading": "がんぐろさんしまい",
     "answer": "ロマンシング サ・ガ",
+    "answerReading": "ろまんしんぐさが",
     "extraChar": "い"
   },
   {
@@ -4141,6 +4658,7 @@
     "question": "戦闘力可視",
     "reading": "せんとうりょくかし",
     "answer": "尖閣諸島",
+    "answerReading": "せんかくしょとう",
     "extraChar": "り"
   },
   {
@@ -4149,6 +4667,7 @@
     "question": "高度肉弾戦",
     "reading": "こうどにくだんせん",
     "answer": "独断専行",
+    "answerReading": "どくだんせんこう",
     "extraChar": "に"
   },
   {
@@ -4157,6 +4676,7 @@
     "question": "ちょいエロ大王",
     "reading": "ちょいえろだいおう",
     "answer": "尾田栄一郎",
+    "answerReading": "おだえいいちろう",
     "extraChar": "ょ"
   },
   {
@@ -4165,6 +4685,7 @@
     "question": "ナメクジのうろつき",
     "reading": "なめくじのうろつき",
     "answer": "菊次郎の夏",
+    "answerReading": "きくじろうのなつ",
     "extraChar": "め"
   },
   {
@@ -4173,6 +4694,7 @@
     "question": "黒竜ダンジョン",
     "reading": "こくりゅうだんじょん",
     "answer": "熟慮断行",
+    "answerReading": "じゅくりょだんこう",
     "extraChar": "ん"
   },
   {
@@ -4181,6 +4703,7 @@
     "question": "フライングなニワトリ",
     "reading": "ふらいんぐなにわとり",
     "answer": "フラワリングナイト",
+    "answerReading": "ふらわりんぐないと",
     "extraChar": "に"
   },
   {
@@ -4189,6 +4712,7 @@
     "question": "若き日もスレ立てとな",
     "reading": "わかきひもすれたてとな",
     "answer": "別れても好きな人",
+    "answerReading": "わかれてもすきなひと",
     "extraChar": "た"
   },
   {
@@ -4197,6 +4721,7 @@
     "question": "常識の面倒さ",
     "reading": "じょうしきのめんどうさ",
     "answer": "三度目の正直",
+    "answerReading": "さんどめのしょうじき",
     "extraChar": "う"
   },
   {
@@ -4205,6 +4730,7 @@
     "question": "美濃組むアマ",
     "reading": "みのくむあま",
     "answer": "悪魔の実",
+    "answerReading": "あくまのみ",
     "extraChar": "む"
   },
   {
@@ -4213,6 +4739,7 @@
     "question": "角道空き",
     "reading": "かくみちあき",
     "answer": "菊地亜美",
+    "answerReading": "きくちあみ",
     "extraChar": "か"
   },
   {
@@ -4221,6 +4748,7 @@
     "question": "受からないや…",
     "reading": "うからないや",
     "answer": "やらないか",
+    "answerReading": "やらないか",
     "extraChar": "う"
   },
   {
@@ -4229,6 +4757,7 @@
     "question": "駒落ち飽きた",
     "reading": "こまおちあきた",
     "answer": "あきたこまち",
+    "answerReading": "あきたこまち",
     "extraChar": "お"
   },
   {
@@ -4237,6 +4766,7 @@
     "question": "不成指したか",
     "reading": "ならずさしたか",
     "answer": "高梨沙羅",
+    "answerReading": "たかなしさら",
     "extraChar": "ず"
   },
   {
@@ -4245,6 +4775,7 @@
     "question": "女流棋士",
     "reading": "じょりゅうきし",
     "answer": "首里城",
+    "answerReading": "しゅりじょう",
     "extraChar": "き"
   },
   {
@@ -4253,6 +4784,7 @@
     "question": "弟子の2連王手",
     "reading": "でしのにれんおうて",
     "answer": "暖簾に腕押し",
+    "answerReading": "のれんにうでおし",
     "extraChar": "て"
   },
   {
@@ -4261,6 +4793,7 @@
     "question": "香落ち履修",
     "reading": "きょうおちりしゅう",
     "answer": "長州力",
+    "answerReading": "ちょうしゅうりき",
     "extraChar": "お"
   },
   {
@@ -4269,6 +4802,7 @@
     "question": "上手の全勝",
     "reading": "うわてのぜんしょう",
     "answer": "昭和天皇",
+    "answerReading": "しょうわてんのう",
     "extraChar": "ぜ"
   },
   {
@@ -4277,6 +4811,7 @@
     "question": "指運が良いかな",
     "reading": "ゆびうんがいいかな",
     "answer": "内憂外患",
+    "answerReading": "ないゆうがいかん",
     "extraChar": "び"
   },
   {
@@ -4285,6 +4820,7 @@
     "question": "居飛車やめるアマ",
     "reading": "いびしゃやめるあま",
     "answer": "射命丸文",
+    "answerReading": "しゃめいまるあや",
     "extraChar": "び"
   },
   {
@@ -4293,6 +4829,7 @@
     "question": "今回、美濃組んだ",
     "reading": "こんかいみのくんだ",
     "answer": "大韓民国",
+    "answerReading": "だいかんみんこく",
     "extraChar": "の"
   },
   {
@@ -4301,6 +4838,7 @@
     "question": "三桂、もう勝った",
     "reading": "さんけいもうかった",
     "answer": "毛細血管",
+    "answerReading": "もうさいけっかん",
     "extraChar": "た"
   },
   {
@@ -4309,6 +4847,7 @@
     "question": "おー！良い差し回し！",
     "reading": "おーよいさしまわし",
     "answer": "オーイシマサヨシ",
+    "answerReading": "おーいしまさよし",
     "extraChar": "わ"
   },
   {
@@ -4317,6 +4856,7 @@
     "question": "2四歩してくれた",
     "reading": "によんふしてくれた",
     "answer": "天使にふれたよ",
+    "answerReading": "てんしにふれたよ",
     "extraChar": "く"
   },
   {
@@ -4325,6 +4865,7 @@
     "question": "5筋位取ろっ",
     "reading": "ごすじくらいとろっ",
     "answer": "イラストロジック",
+    "answerReading": "いらすとろじっく",
     "extraChar": "ご"
   },
   {
@@ -4333,6 +4874,7 @@
     "question": "思考は控えの桂",
     "reading": "しこうはひかえのけい",
     "answer": "栄光の架橋",
+    "answerReading": "えいこうのかけはし",
     "extraChar": "ひ"
   },
   {
@@ -4341,6 +4883,7 @@
     "question": "棋力足りんくない？",
     "reading": "きりょくたりんくない",
     "answer": "南極大陸",
+    "answerReading": "なんきょくたいりく",
     "extraChar": "り"
   },
   {
@@ -4349,6 +4892,7 @@
     "question": "玉頭に飛、進軍",
     "reading": "ぎょくとうにひしんぐん",
     "answer": "ヒトシ君人形",
+    "answerReading": "ひとしくんにんぎょう",
     "extraChar": "ぐ"
   },
   {
@@ -4357,6 +4901,7 @@
     "question": "矢倉組むと見ていいか？",
     "reading": "やぐらくむとみていいか",
     "answer": "悔やむと書いてミライ",
+    "answerReading": "くやむとかいてみらい",
     "extraChar": "ぐ"
   },
   {
@@ -4365,6 +4910,7 @@
     "question": "振り飛車しないみたい",
     "reading": "ふりびしゃしないみたい",
     "answer": "伏見稲荷大社",
+    "answerReading": "ふしみいなりたいしゃ",
     "extraChar": "び"
   },
   {
@@ -4373,6 +4919,7 @@
     "question": "無理関数",
     "reading": "むりかんすう",
     "answer": "うかんむり",
+    "answerReading": "うかんむり",
     "extraChar": "す"
   },
   {
@@ -4381,6 +4928,7 @@
     "question": "点Pどこ？",
     "reading": "てんぴーどこ",
     "answer": "テコンドー",
+    "answerReading": "てこんどー",
     "extraChar": "ぴ"
   },
   {
@@ -4389,6 +4937,7 @@
     "question": "偶イデアル",
     "reading": "ぐういである",
     "answer": "ウルグアイ",
+    "answerReading": "うるぐあい",
     "extraChar": "で"
   },
   {
@@ -4397,6 +4946,7 @@
     "question": "issue破棄",
     "reading": "いしゅーはき",
     "answer": "ハイキュー!!",
+    "answerReading": "はいきゅー",
     "extraChar": "し"
   },
   {
@@ -4405,6 +4955,7 @@
     "question": "可解積分",
     "reading": "かかいせきぶん",
     "answer": "化政文化",
+    "answerReading": "かせいぶんか",
     "extraChar": "き"
   },
   {
@@ -4413,6 +4964,7 @@
     "question": "ベクトルむずー！",
     "reading": "べくとるむずー",
     "answer": "トム・クルーズ",
+    "answerReading": "とむくるーず",
     "extraChar": "べ"
   },
   {
@@ -4421,6 +4973,7 @@
     "question": "理系の頭",
     "reading": "りけいのあたま",
     "answer": "天野景太",
+    "answerReading": "あまのけいた",
     "extraChar": "り"
   },
   {
@@ -4429,6 +4982,7 @@
     "question": "掛け算する歌",
     "reading": "かけざんするうた",
     "answer": "ケンタウルス座",
+    "answerReading": "けんたうるすざ",
     "extraChar": "か"
   },
   {
@@ -4437,6 +4991,7 @@
     "question": "最大値はnull",
     "reading": "さいだいちはぬる",
     "answer": "乾貞治",
+    "answerReading": "いぬいさだはる",
     "extraChar": "ち"
   },
   {
@@ -4445,6 +5000,7 @@
     "question": "オンラインセグ木",
     "reading": "おんらいんせぐき",
     "answer": "ライオン・キング",
+    "answerReading": "らいおんきんぐ",
     "extraChar": "せ"
   },
   {
@@ -4453,6 +5009,7 @@
     "question": "くるくる積分",
     "reading": "くるくるせきぶん",
     "answer": "ルクセンブルク",
+    "answerReading": "るくせんぶるく",
     "extraChar": "き"
   },
   {
@@ -4461,6 +5018,7 @@
     "question": "朝から植木算",
     "reading": "あさからうえきざん",
     "answer": "キラウエア火山",
+    "answerReading": "きらうえあかざん",
     "extraChar": "さ"
   },
   {
@@ -4469,6 +5027,7 @@
     "question": "じゃ、プルリク飛ばす",
     "reading": "じゃぷるりくとばす",
     "answer": "JavaScript",
+    "answerReading": "じゃばすくりぷと",
     "extraChar": "る"
   },
   {
@@ -4477,6 +5036,7 @@
     "question": "知識蒸留",
     "reading": "ちしきじょうりゅう",
     "answer": "長州力",
+    "answerReading": "ちょうしゅうりき",
     "extraChar": "じ"
   },
   {
@@ -4485,6 +5045,7 @@
     "question": "線型の課題だ",
     "reading": "せんけいのかだいだ",
     "answer": "団塊の世代",
+    "answerReading": "だんかいのせだい",
     "extraChar": "け"
   },
   {
@@ -4493,6 +5054,7 @@
     "question": "わしらも論文読む",
     "reading": "わしらもろんぶんよむ",
     "answer": "弱虫モンブラン",
+    "answerReading": "よわむしもんぶらん",
     "extraChar": "ろ"
   },
   {
@@ -4501,6 +5063,7 @@
     "question": "長大級数",
     "reading": "ちょうだいきゅうすう",
     "answer": "宇宙兄弟",
+    "answerReading": "うちゅうきょうだい",
     "extraChar": "す"
   },
   {
@@ -4509,6 +5072,7 @@
     "question": "う、帰納法しんどいて…",
     "reading": "うきのうほうしんどいて",
     "answer": "運動方程式",
+    "answerReading": "うんどうほうていしき",
     "extraChar": "の"
   },
   {
@@ -4517,6 +5081,7 @@
     "question": "GitHub BAN、酷やー！",
     "reading": "ぎっとはぶばんこくやー",
     "answer": "今夜はブギー・バック",
+    "answerReading": "こんやはぶぎーばっく",
     "extraChar": "と"
   },
   {
@@ -4525,6 +5090,7 @@
     "question": "カジュアル微分ツール",
     "reading": "かじゅあるびぶんつーる",
     "answer": "ルーブル美術館",
+    "answerReading": "るーぶるびじゅつかん",
     "extraChar": "あ"
   },
   {
@@ -4533,6 +5099,7 @@
     "question": "ガセ心霊",
     "reading": "がせしんれい",
     "answer": "紫外線",
+    "answerReading": "しがいせん",
     "extraChar": "れ"
   },
   {
@@ -4541,6 +5108,7 @@
     "question": "のりさまさん",
     "reading": "のりたまさん",
     "answer": "サンマリノ",
+    "answerReading": "さんまりの",
     "extraChar": "た"
   },
   {
@@ -4549,6 +5117,7 @@
     "question": "元プロ講師",
     "reading": "もとぷろこうし",
     "answer": "トウモロコシ",
+    "answerReading": "とうもろこし",
     "extraChar": "ぷ"
   },
   {
@@ -4557,6 +5126,7 @@
     "question": "誤る博士",
     "reading": "あやまるはかせ",
     "answer": "綾瀬はるか",
+    "answerReading": "あやせはるか",
     "extraChar": "ま"
   },
   {
@@ -4565,6 +5135,7 @@
     "question": "打ち合いに向く",
     "reading": "うちあいにむく",
     "answer": "アクチニウム",
+    "answerReading": "あくちにうむ",
     "extraChar": "い"
   },
   {
@@ -4573,6 +5144,7 @@
     "question": "ココにお願い",
     "reading": "ここにおねがい",
     "answer": "虎金妃笑虎",
+    "answerReading": "こがねいにこ",
     "extraChar": "お"
   },
   {
@@ -4581,6 +5153,7 @@
     "question": "いつかサ終か…",
     "reading": "いつかさしゅうか",
     "answer": "勝海舟",
+    "answerReading": "かつかいしゅう",
     "extraChar": "さ"
   },
   {
@@ -4589,6 +5162,7 @@
     "question": "分からず垢消し",
     "reading": "わからずあかけし",
     "answer": "荒川静香",
+    "answerReading": "あらかわしずか",
     "extraChar": "け"
   },
   {
@@ -4597,6 +5171,7 @@
     "question": "胃カメラ分解",
     "reading": "いかめらぶんかい",
     "answer": "文明開化",
+    "answerReading": "ぶんめいかいか",
     "extraChar": "ら"
   },
   {
@@ -4605,6 +5180,7 @@
     "question": "事件の謝罪",
     "reading": "じけんのしゃざい",
     "answer": "賢者の石",
+    "answerReading": "けんじゃのいし",
     "extraChar": "ざ"
   },
   {
@@ -4613,6 +5189,7 @@
     "question": "ミイラも湧く土地",
     "reading": "みいらもわくとち",
     "answer": "岩倉具視",
+    "answerReading": "いわくらともみ",
     "extraChar": "ち"
   },
   {
@@ -4621,6 +5198,7 @@
     "question": "クッパマンション",
     "reading": "くっぱまんしょん",
     "answer": "しょくぱんまん",
+    "answerReading": "しょくぱんまん",
     "extraChar": "っ"
   },
   {
@@ -4629,6 +5207,7 @@
     "question": "やばいレールガン",
     "reading": "やばいれーるがん",
     "answer": "ガンバレルーヤ",
+    "answerReading": "がんばれるーや",
     "extraChar": "い"
   },
   {
@@ -4637,6 +5216,7 @@
     "question": "たまーにデート、会お",
     "reading": "たまーにでーとあお",
     "answer": "ニーア オートマタ",
+    "answerReading": "にーあおーとまた",
     "extraChar": "で"
   },
   {
@@ -4645,6 +5225,7 @@
     "question": "ジャイアン威張るぜ",
     "reading": "じゃいあんいばるぜ",
     "answer": "アゼルバイジャン",
+    "answerReading": "あぜるばいじゃん",
     "extraChar": "い"
   },
   {
@@ -4653,6 +5234,7 @@
     "question": "暴力が好手",
     "reading": "ぼうりょくがこうしゅ",
     "answer": "修学旅行",
+    "answerReading": "しゅうがくりょこう",
     "extraChar": "ぼ"
   },
   {
@@ -4661,6 +5243,7 @@
     "question": "賢え後輩やの",
     "reading": "かしけえこうはいやの",
     "answer": "栄光の架橋",
+    "answerReading": "えいこうのかけはし",
     "extraChar": "や"
   },
   {
@@ -4669,6 +5252,7 @@
     "question": "柔道家のライバー",
     "reading": "じゅうどうかのらいばー",
     "answer": "怪獣のバラード",
+    "answerReading": "かいじゅうのばらーど",
     "extraChar": "う"
   },
   {
@@ -4677,6 +5261,7 @@
     "question": "全員花粉症ね",
     "reading": "ぜんいんかふんしょうね",
     "answer": "不完全燃焼",
+    "answerReading": "ふかんぜんねんしょう",
     "extraChar": "い"
   },
   {
@@ -4685,6 +5270,7 @@
     "question": "初顔出し",
     "reading": "はつかおだし",
     "answer": "かつおだし",
+    "answerReading": "かつおだし",
     "extraChar": "は"
   },
   {
@@ -4693,6 +5279,7 @@
     "question": "牛キムチ",
     "reading": "ぎゅうきむち",
     "answer": "地球儀",
+    "answerReading": "ちきゅうぎ",
     "extraChar": "む"
   },
   {
@@ -4701,6 +5288,7 @@
     "question": "地元案内",
     "reading": "じもとあんない",
     "answer": "アンモナイト",
+    "answerReading": "あんもないと",
     "extraChar": "じ"
   },
   {
@@ -4709,6 +5297,7 @@
     "question": "撒き菱拾た",
     "reading": "まきびしひろた",
     "answer": "玉木宏",
+    "answerReading": "たまきひろし",
     "extraChar": "び"
   },
   {
@@ -4717,6 +5306,7 @@
     "question": "失言！アウト！",
     "reading": "しつげんあうと",
     "answer": "浸透圧",
+    "answerReading": "しんとうあつ",
     "extraChar": "げ"
   },
   {
@@ -4725,6 +5315,7 @@
     "question": "甘いタケノコ",
     "reading": "あまいたけのこ",
     "answer": "天野景太",
+    "answerReading": "あまのけいた",
     "extraChar": "こ"
   },
   {
@@ -4733,6 +5324,7 @@
     "question": "博多醤油",
     "reading": "はかたしょうゆ",
     "answer": "高橋優",
+    "answerReading": "たかはしゆう",
     "extraChar": "ょ"
   },
   {
@@ -4741,6 +5333,7 @@
     "question": "ラーメン買い貯め",
     "reading": "らーめんかいだめ",
     "answer": "仮面ライダー",
+    "answerReading": "かめんらいだー",
     "extraChar": "め"
   },
   {
@@ -4749,6 +5342,7 @@
     "question": "食いしん坊っす",
     "reading": "くいしんぼうっす",
     "answer": "一寸法師",
+    "answerReading": "いっすんぼうし",
     "extraChar": "く"
   },
   {
@@ -4757,6 +5351,7 @@
     "question": "ポテチは禁止っ！",
     "reading": "ぽてちはきんしっ",
     "answer": "七転八起",
+    "answerReading": "しちてんはっき",
     "extraChar": "ぽ"
   },
   {
@@ -4765,6 +5360,7 @@
     "question": "サンプルのマーク",
     "reading": "さんぷるのまーく",
     "answer": "くまのプーさん",
+    "answerReading": "くまのぷーさん",
     "extraChar": "る"
   },
   {
@@ -4773,6 +5369,7 @@
     "question": "デコイちゃうんか？",
     "reading": "でこいちゃうんか",
     "answer": "紅茶花伝",
+    "answerReading": "こうちゃかでん",
     "extraChar": "い"
   },
   {
@@ -4781,6 +5378,7 @@
     "question": "IP寸断",
     "reading": "あいぴーすんだん",
     "answer": "インピーダンス",
+    "answerReading": "いんぴーだんす",
     "extraChar": "あ"
   },
   {
@@ -4789,6 +5387,7 @@
     "question": "わんこ収益化",
     "reading": "わんこしゅうえきか",
     "answer": "古今和歌集",
+    "answerReading": "こきんわかしゅう",
     "extraChar": "え"
   },
   {
@@ -4797,6 +5396,7 @@
     "question": "サイン会貴重だ",
     "reading": "さいんかいきちょうだ",
     "answer": "第一三共",
+    "answerReading": "だいいちさんきょう",
     "extraChar": "か"
   },
   {
@@ -4805,6 +5405,7 @@
     "question": "占いにも戸惑う",
     "reading": "うらないにもとまどう",
     "answer": "どうにもとまらない",
+    "answerReading": "どうにもとまらない",
     "extraChar": "う"
   },
   {
@@ -4813,6 +5414,7 @@
     "question": "笑う自己紹介",
     "reading": "わらうじこしょうかい",
     "answer": "白河上皇",
+    "answerReading": "しらかわじょうこう",
     "extraChar": "い"
   },
   {
@@ -4821,6 +5423,7 @@
     "question": "寒いしランニングだ",
     "reading": "さむいしらんにんぐだ",
     "answer": "ダンシング☆サムライ",
+    "answerReading": "だんしんぐさむらい",
     "extraChar": "に"
   },
   {
@@ -4829,6 +5432,7 @@
     "question": "電撃懲りてないし",
     "reading": "でんげきこりてないし",
     "answer": "利己的な遺伝子",
+    "answerReading": "りこてきないでんし",
     "extraChar": "げ"
   },
   {
@@ -4837,6 +5441,7 @@
     "question": "うさみみのお泊り会",
     "reading": "うさみみのおとまりかい",
     "answer": "神さまの言うとおり",
+    "answerReading": "かみさまのいうとおり",
     "extraChar": "み"
   },
   {
@@ -4845,6 +5450,7 @@
     "question": "狩り場尽きた",
     "reading": "かりばつきた",
     "answer": "カキツバタ",
+    "answerReading": "かきつばた",
     "extraChar": "り"
   },
   {
@@ -4853,6 +5459,7 @@
     "question": "毎晩勤務",
     "reading": "まいばんきんむ",
     "answer": "ばいきんまん",
+    "answerReading": "ばいきんまん",
     "extraChar": "む"
   },
   {
@@ -4861,6 +5468,7 @@
     "question": "激アツ回ね",
     "reading": "げきあつかいね",
     "answer": "赤いきつね",
+    "answerReading": "あかいきつね",
     "extraChar": "げ"
   },
   {
@@ -4869,6 +5477,7 @@
     "question": "生焼けタルト",
     "reading": "なまやけたると",
     "answer": "ヤマトタケル",
+    "answerReading": "やまとたける",
     "extraChar": "な"
   },
   {
@@ -4877,6 +5486,7 @@
     "question": "荒むとイライラ",
     "reading": "すさむといらいら",
     "answer": "ラストサムライ",
+    "answerReading": "らすとさむらい",
     "extraChar": "い"
   },
   {
@@ -4885,6 +5495,7 @@
     "question": "正味パンイチ",
     "reading": "しょうみぱんいち",
     "answer": "意味深長",
+    "answerReading": "いみしんちょう",
     "extraChar": "ぱ"
   },
   {
@@ -4893,6 +5504,7 @@
     "question": "コテハンで居ろよ",
     "reading": "こてはんでいろよ",
     "answer": "はいよろこんで",
+    "answerReading": "はいよろこんで",
     "extraChar": "て"
   },
   {
@@ -4901,6 +5513,7 @@
     "question": "高画質ばかり",
     "reading": "こうがしつばかり",
     "answer": "吊り橋効果",
+    "answerReading": "つりばしこうか",
     "extraChar": "が"
   },
   {
@@ -4909,6 +5522,7 @@
     "question": "伊豆でソロライブ",
     "reading": "いずでそろらいぶ",
     "answer": "空色デイズ",
+    "answerReading": "そらいろでいず",
     "extraChar": "ぶ"
   },
   {
@@ -4917,6 +5531,7 @@
     "question": "こえ部の視聴",
     "reading": "こえぶのしちょう",
     "answer": "胡蝶しのぶ",
+    "answerReading": "こちょうしのぶ",
     "extraChar": "え"
   },
   {
@@ -4925,6 +5540,7 @@
     "question": "援護に口出し",
     "reading": "えんごにくちだし",
     "answer": "国枝慎吾",
+    "answerReading": "くにえだしんご",
     "extraChar": "ち"
   },
   {
@@ -4933,6 +5549,7 @@
     "question": "一般通過さん",
     "reading": "いっぱんつうかさん",
     "answer": "活版印刷",
+    "answerReading": "かっぱんいんさつ",
     "extraChar": "う"
   },
   {
@@ -4941,6 +5558,7 @@
     "question": "うっかりさえ許す",
     "reading": "うっかりさえゆるす",
     "answer": "ユリウス・カエサル",
+    "answerReading": "ゆりうすかえさる",
     "extraChar": "っ"
   },
   {
@@ -4949,6 +5567,7 @@
     "question": "常識だと言う",
     "reading": "じょうしきだという",
     "answer": "唐招提寺",
+    "answerReading": "とうしょうだいじ",
     "extraChar": "き"
   },
   {
@@ -4957,6 +5576,7 @@
     "question": "クンカクンカ吸うさ",
     "reading": "くんかくんかすうさ",
     "answer": "三角関数",
+    "answerReading": "さんかくかんすう",
     "extraChar": "く"
   },
   {
@@ -4965,6 +5585,7 @@
     "question": "内輪ネタのきしめん",
     "reading": "うちわねたのきしめん",
     "answer": "七年目の浮気",
+    "answerReading": "しちねんめのうわき",
     "extraChar": "た"
   },
   {
@@ -4973,6 +5594,7 @@
     "question": "裸の奥さん居る",
     "reading": "はだかのおくさんいる",
     "answer": "春の大三角",
+    "answerReading": "はるのだいさんかく",
     "extraChar": "お"
   },
   {
@@ -4981,6 +5603,7 @@
     "question": "笑顔に初恋してた",
     "reading": "えがおにはつこいしてた",
     "answer": "老いては子に従え",
+    "answerReading": "おいてはこにしたがえ",
     "extraChar": "つ"
   },
   {
@@ -4989,6 +5612,7 @@
     "question": "家によくあるGの巣",
     "reading": "いえによくあるじーのす",
     "answer": "アニエールの水浴",
+    "answerReading": "あにえーるのすいよく",
     "extraChar": "じ"
   },
   {
@@ -4997,6 +5621,7 @@
     "question": "はあ？いなりとかは無いの？",
     "reading": "はあいなりとかはないの",
     "answer": "隣の花は赤い",
+    "answerReading": "となりのはなはあかい",
     "extraChar": "い"
   },
   {
@@ -5005,6 +5630,7 @@
     "question": "肘、故障ね",
     "reading": "ひじこしょうね",
     "answer": "彦根城",
+    "answerReading": "ひこねじょう",
     "extraChar": "し"
   },
   {
@@ -5013,6 +5639,7 @@
     "question": "サボりの禁止",
     "reading": "さぼりのきんし",
     "answer": "リボンの騎士",
+    "answerReading": "りぼんのきし",
     "extraChar": "さ"
   },
   {
@@ -5021,6 +5648,7 @@
     "question": "復刻でーす！",
     "reading": "ふっこくでーす",
     "answer": "Codex",
+    "answerReading": "こーでっくす",
     "extraChar": "ふ"
   },
   {
@@ -5029,6 +5657,7 @@
     "question": "トプ画こだわる",
     "reading": "とぷがこだわる",
     "answer": "だが断る",
+    "answerReading": "だがことわる",
     "extraChar": "ぷ"
   },
   {
@@ -5037,6 +5666,7 @@
     "question": "イケメン言われた",
     "reading": "いけめんいわれた",
     "answer": "携帯恋話",
+    "answerReading": "けいたいれんわ",
     "extraChar": "め"
   },
   {
@@ -5045,6 +5675,7 @@
     "question": "一旦デートね",
     "reading": "いったんでーとね",
     "answer": "インターネット",
+    "answerReading": "いんたーねっと",
     "extraChar": "で"
   },
   {
@@ -5053,6 +5684,7 @@
     "question": "枕カバー拭く",
     "reading": "まくらかばーふく",
     "answer": "鎌倉幕府",
+    "answerReading": "かまくらばくふ",
     "extraChar": "ー"
   },
   {
@@ -5061,6 +5693,7 @@
     "question": "非常に難儀",
     "reading": "ひじょうになんぎ",
     "answer": "雛人形",
+    "answerReading": "ひなにんぎょう",
     "extraChar": "じ"
   },
   {
@@ -5069,6 +5702,7 @@
     "question": "おっぱいがぷるん",
     "reading": "おっぱいがぷるん",
     "answer": "パイプオルガン",
+    "answerReading": "ぱいぷおるがん",
     "extraChar": "っ"
   },
   {
@@ -5077,6 +5711,7 @@
     "question": "う…天ぷら食いすぎ",
     "reading": "うてんぷらくいすぎ",
     "answer": "プランク定数",
+    "answerReading": "ぷらんくていすう",
     "extraChar": "ぎ"
   },
   {
@@ -5085,6 +5720,7 @@
     "question": "上からのドッスン",
     "reading": "うえからのどっすん",
     "answer": "カラスノエンドウ",
+    "answerReading": "からすのえんどう",
     "extraChar": "っ"
   },
   {
@@ -5093,6 +5729,7 @@
     "question": "アッー！の動画撮る",
     "reading": "あっーのどうがとる",
     "answer": "ドルアーガの塔",
+    "answerReading": "どるあーがのとう",
     "extraChar": "っ"
   },
   {
@@ -5101,6 +5738,7 @@
     "question": "軽くあしらえるん？",
     "reading": "かるくあしらえるん",
     "answer": "L'Arc〜en〜Ciel",
+    "answerReading": "らるくあんしえる",
     "extraChar": "か"
   },
   {
@@ -5109,6 +5747,7 @@
     "question": "サンプル見りゃあ好く",
     "reading": "さんぷるみりゃあすく",
     "answer": "アルプス山脈",
+    "answerReading": "あるぷすさんみゃく",
     "extraChar": "り"
   },
   {
@@ -5117,6 +5756,7 @@
     "question": "落とし物見えないよ",
     "reading": "おとしものみえないよ",
     "answer": "源義家",
+    "answerReading": "みなもとのよしいえ",
     "extraChar": "お"
   },
   {
@@ -5125,6 +5765,7 @@
     "question": "競技用武闘着",
     "reading": "きょうぎようぶとうぎ",
     "answer": "東京ブギウギ",
+    "answerReading": "とうきょうぶぎうぎ",
     "extraChar": "よ"
   },
   {
@@ -5133,6 +5774,7 @@
     "question": "いつかリメイクが出んだ",
     "reading": "いつかりめいくがでんだ",
     "answer": "立命館大学",
+    "answerReading": "りつめいかんだいがく",
     "extraChar": "で"
   },
   {
@@ -5141,6 +5783,7 @@
     "question": "故障した！再起動！",
     "reading": "こしょうしたさいきどう",
     "answer": "最小多項式",
+    "answerReading": "さいしょうたこうしき",
     "extraChar": "ど"
   },
   {
@@ -5149,6 +5792,7 @@
     "question": "常識、本当？嘘？",
     "reading": "じょうしきほんとううそ",
     "answer": "東方輝針城",
+    "answerReading": "とうほうきしんじょう",
     "extraChar": "そ"
   },
   {
@@ -5157,6 +5801,7 @@
     "question": "腹パンガードしますな",
     "reading": "はらぱんがーどしますな",
     "answer": "ナガシマスパーランド",
+    "answerReading": "ながしますぱーらんど",
     "extraChar": "は"
   },
   {
@@ -5165,6 +5810,7 @@
     "question": "炭酸ガス",
     "reading": "たんさんがす",
     "answer": "スタンガン",
+    "answerReading": "すたんがん",
     "extraChar": "さ"
   },
   {
@@ -5173,6 +5819,7 @@
     "question": "最善どっち？",
     "reading": "さいぜんどっち",
     "answer": "サンドイッチ",
+    "answerReading": "さんどいっち",
     "extraChar": "ぜ"
   },
   {
@@ -5181,6 +5828,7 @@
     "question": "ちと居酒屋へ",
     "reading": "ちといざかやへ",
     "answer": "十勝平野",
+    "answerReading": "とかちへいや",
     "extraChar": "ざ"
   },
   {
@@ -5189,6 +5837,7 @@
     "question": "お湯も入れるね",
     "reading": "おゆもいれるね",
     "answer": "揺れる想い",
+    "answerReading": "ゆれるおもい",
     "extraChar": "ね"
   },
   {
@@ -5197,6 +5846,7 @@
     "question": "女子のアバター",
     "reading": "じょしのあばたー",
     "answer": "あしたのジョー",
+    "answerReading": "あしたのじょー",
     "extraChar": "ば"
   },
   {
@@ -5205,6 +5855,7 @@
     "question": "政権放棄へ",
     "reading": "せいけんほうきへ",
     "answer": "赤方偏移",
+    "answerReading": "せきほうへんい",
     "extraChar": "け"
   },
   {
@@ -5213,6 +5864,7 @@
     "question": "派遣は1年",
     "reading": "はけんはいちねん",
     "answer": "廃藩置県",
+    "answerReading": "はいはんちけん",
     "extraChar": "ね"
   },
   {
@@ -5221,6 +5873,7 @@
     "question": "全員のエロ絵",
     "reading": "ぜんいんのえろえ",
     "answer": "永遠の0",
+    "answerReading": "えいえんのぜろ",
     "extraChar": "ん"
   },
   {
@@ -5229,6 +5882,7 @@
     "question": "進んだロケット",
     "reading": "すすんだろけっと",
     "answer": "SKET DANCE",
+    "answerReading": "すけっとだんす",
     "extraChar": "ろ"
   },
   {
@@ -5237,6 +5891,7 @@
     "question": "オチ無いのかよう",
     "reading": "おちないのかよう",
     "answer": "岡野陽一",
+    "answerReading": "おかのよういち",
     "extraChar": "な"
   },
   {
@@ -5245,6 +5900,7 @@
     "question": "ウルトラバーゲン",
     "reading": "うるとらばーげん",
     "answer": "ウランバートル",
+    "answerReading": "うらんばーとる",
     "extraChar": "げ"
   },
   {
@@ -5253,6 +5909,7 @@
     "question": "自家製石鹸",
     "reading": "じかせいせっけん",
     "answer": "摂関政治",
+    "answerReading": "せっかんせいじ",
     "extraChar": "け"
   },
   {
@@ -5261,6 +5918,7 @@
     "question": "サイキックといえば？",
     "reading": "さいきっくといえば",
     "answer": "エキサイトバイク",
+    "answerReading": "えきさいとばいく",
     "extraChar": "っ"
   },
   {
@@ -5269,6 +5927,7 @@
     "question": "苛立ち発狂",
     "reading": "いらだちはっきょう",
     "answer": "千原兄弟",
+    "answerReading": "ちはらきょうだい",
     "extraChar": "っ"
   },
   {
@@ -5277,6 +5936,7 @@
     "question": "単3あればいい",
     "reading": "たんさんあればいい",
     "answer": "恋愛裁判",
+    "answerReading": "れんあいさいばん",
     "extraChar": "た"
   },
   {
@@ -5285,6 +5945,7 @@
     "question": "特番回ですぞ",
     "reading": "とくばんかいですぞ",
     "answer": "鳥羽水族館",
+    "answerReading": "とばすいぞくかん",
     "extraChar": "で"
   },
   {
@@ -5293,6 +5954,7 @@
     "question": "ファイルコンバート",
     "reading": "ふぁいるこんばーと",
     "answer": "バルーンファイト",
+    "answerReading": "ばるーんふぁいと",
     "extraChar": "こ"
   },
   {
@@ -5301,6 +5963,7 @@
     "question": "明太子って無いん？",
     "reading": "めんたいこってないん",
     "answer": "名探偵コナン",
+    "answerReading": "めいたんていこなん",
     "extraChar": "っ"
   },
   {
@@ -5309,6 +5972,7 @@
     "question": "生肉賞味するん？",
     "reading": "なまにくしょうみするん",
     "answer": "少名針妙丸",
+    "answerReading": "すくなしんみょうまる",
     "extraChar": "に"
   },
   {
@@ -5317,6 +5981,7 @@
     "question": "茄子とか瓜、無生産",
     "reading": "なすとかうりむせいさん",
     "answer": "水酸化ナトリウム",
+    "answerReading": "すいさんかなとりうむ",
     "extraChar": "せ"
   },
   {
@@ -5325,6 +5990,7 @@
     "question": "シャツイン派",
     "reading": "しゃついんは",
     "answer": "上海",
+    "answerReading": "しゃんはい",
     "extraChar": "つ"
   },
   {
@@ -5333,6 +5999,7 @@
     "question": "零関数",
     "reading": "れいかんすう",
     "answer": "睡蓮花",
+    "answerReading": "すいれんか",
     "extraChar": "う"
   },
   {
@@ -5341,6 +6008,7 @@
     "question": "声真似ネキ",
     "reading": "こえまねねき",
     "answer": "招き猫",
+    "answerReading": "まねきねこ",
     "extraChar": "え"
   },
   {
@@ -5349,6 +6017,7 @@
     "question": "リアイベ無しか…",
     "reading": "りあいべなしか",
     "answer": "石狩鍋",
+    "answerReading": "いしかりなべ",
     "extraChar": "あ"
   },
   {
@@ -5357,6 +6026,7 @@
     "question": "古代魔獣",
     "reading": "こだいまじゅう",
     "answer": "今田耕司",
+    "answerReading": "いまだこうじ",
     "extraChar": "ゅ"
   },
   {
@@ -5365,6 +6035,7 @@
     "question": "良い記録出せ！",
     "reading": "いいきろくだせ",
     "answer": "黒田清輝",
+    "answerReading": "くろだせいき",
     "extraChar": "い"
   },
   {
@@ -5373,6 +6044,7 @@
     "question": "微妙な頭",
     "reading": "びみょうなあたま",
     "answer": "水俣病",
+    "answerReading": "みなまたびょう",
     "extraChar": "あ"
   },
   {
@@ -5381,6 +6053,7 @@
     "question": "クレカ天井",
     "reading": "くれかてんじょう",
     "answer": "九条カレン",
+    "answerReading": "くじょうかれん",
     "extraChar": "て"
   },
   {
@@ -5389,6 +6062,7 @@
     "question": "血迷い脱毛",
     "reading": "ちまよいだつもう",
     "answer": "市松模様",
+    "answerReading": "いちまつもよう",
     "extraChar": "だ"
   },
   {
@@ -5397,6 +6071,7 @@
     "question": "守りの作戦",
     "reading": "まもりのさくせん",
     "answer": "森のくまさん",
+    "answerReading": "もりのくまさん",
     "extraChar": "せ"
   },
   {
@@ -5405,6 +6080,7 @@
     "question": "マンガ欲しい！買う！",
     "reading": "まんがほしいかう",
     "answer": "ガンマ崩壊",
+    "answerReading": "がんまほうかい",
     "extraChar": "し"
   },
   {
@@ -5413,6 +6089,7 @@
     "question": "競艇場へ",
     "reading": "きょうていじょうへ",
     "answer": "平城京",
+    "answerReading": "へいじょうきょう",
     "extraChar": "て"
   },
   {
@@ -5421,6 +6098,7 @@
     "question": "正解は知ってた",
     "reading": "せいかいはしってた",
     "answer": "高橋一生",
+    "answerReading": "たかはしいっせい",
     "extraChar": "て"
   },
   {
@@ -5429,6 +6107,7 @@
     "question": "google要らん派だ",
     "reading": "ぐーぐるいらんはだ",
     "answer": "ハンググライダー",
+    "answerReading": "はんぐぐらいだー",
     "extraChar": "る"
   },
   {
@@ -5437,6 +6116,7 @@
     "question": "古さあるイラスト",
     "reading": "ふるさあるいらすと",
     "answer": "アサルトライフル",
+    "answerReading": "あさるとらいふる",
     "extraChar": "す"
   },
   {
@@ -5445,6 +6125,7 @@
     "question": "褐色きんにくん",
     "reading": "かっしょくきんにくん",
     "answer": "金環日食",
+    "answerReading": "きんかんにっしょく",
     "extraChar": "く"
   },
   {
@@ -5453,6 +6134,7 @@
     "question": "卒業の日、荒れる",
     "reading": "そつぎょうのひあれる",
     "answer": "あひるの行列",
+    "answerReading": "あひるのぎょうれつ",
     "extraChar": "そ"
   },
   {
@@ -5461,6 +6143,7 @@
     "question": "水色主人公",
     "reading": "みずいろしゅじんこう",
     "answer": "小泉進次郎",
+    "answerReading": "こいずみしんじろう",
     "extraChar": "ゅ"
   },
   {
@@ -5469,6 +6152,7 @@
     "question": "コンニャロ！追い打ちだ！",
     "reading": "こんにゃろおいうちだ",
     "answer": "ニコチャン大王",
+    "answerReading": "にこちゃんだいおう",
     "extraChar": "ろ"
   },
   {
@@ -5477,6 +6161,7 @@
     "question": "稼げる手法説いた",
     "reading": "かせげるしゅほうといた",
     "answer": "ゲシュタルト崩壊",
+    "answerReading": "げしゅたるとほうかい",
     "extraChar": "せ"
   },
   {
@@ -5485,6 +6170,7 @@
     "question": "マーガリン派",
     "reading": "まーがりんは",
     "answer": "ハンガリー",
+    "answerReading": "はんがりー",
     "extraChar": "ま"
   },
   {
@@ -5493,6 +6179,7 @@
     "question": "粗品ばかり",
     "reading": "そしなばかり",
     "answer": "金縛り",
+    "answerReading": "かなしばり",
     "extraChar": "そ"
   },
   {
@@ -5501,6 +6188,7 @@
     "question": "床掃除機",
     "reading": "ゆかそうじき",
     "answer": "梶裕貴",
+    "answerReading": "かじゆうき",
     "extraChar": "そ"
   },
   {
@@ -5509,6 +6197,7 @@
     "question": "マジ打率良い",
     "reading": "まじだりついい",
     "answer": "時代祭",
+    "answerReading": "じだいまつり",
     "extraChar": "い"
   },
   {
@@ -5517,6 +6206,7 @@
     "question": "酒の買い溜め",
     "reading": "さけのかいだめ",
     "answer": "池乃めだか",
+    "answerReading": "いけのめだか",
     "extraChar": "さ"
   },
   {
@@ -5525,6 +6215,7 @@
     "question": "阪神戦か",
     "reading": "はんしんせんか",
     "answer": "新幹線",
+    "answerReading": "しんかんせん",
     "extraChar": "は"
   },
   {
@@ -5533,6 +6224,7 @@
     "question": "こびり付く跡",
     "reading": "こびりつくあと",
     "answer": "ビクトリア湖",
+    "answerReading": "びくとりあこ",
     "extraChar": "つ"
   },
   {
@@ -5541,6 +6233,7 @@
     "question": "ダダンダン3",
     "reading": "だだんだんすりー",
     "answer": "ダーリンダンス",
+    "answerReading": "だーりんだんす",
     "extraChar": "だ"
   },
   {
@@ -5549,6 +6242,7 @@
     "question": "お気に入り見れた",
     "reading": "おきにいりみれた",
     "answer": "桐谷美玲",
+    "answerReading": "きりたにみれい",
     "extraChar": "お"
   },
   {
@@ -5557,6 +6251,7 @@
     "question": "ぶどうの品種",
     "reading": "ぶどうのひんしゅ",
     "answer": "秋分の日",
+    "answerReading": "しゅうぶんのひ",
     "extraChar": "ど"
   },
   {
@@ -5565,6 +6260,7 @@
     "question": "魔弾スナイパー",
     "reading": "まだんすないぱー",
     "answer": "スパイダーマン",
+    "answerReading": "すぱいだーまん",
     "extraChar": "な"
   },
   {
@@ -5573,6 +6269,7 @@
     "question": "マジ？足し算から？",
     "reading": "まじたしざんから",
     "answer": "新宝島",
+    "answerReading": "しんたからじま",
     "extraChar": "ざ"
   },
   {
@@ -5581,6 +6278,7 @@
     "question": "良作アイコラ",
     "reading": "りょうさくあいこら",
     "answer": "朝倉涼子",
+    "answerReading": "あさくらりょうこ",
     "extraChar": "い"
   },
   {
@@ -5589,6 +6287,7 @@
     "question": "ちまきが冷ご飯…",
     "reading": "ちまきがひやごはん",
     "answer": "比企谷八幡",
+    "answerReading": "ひきがやはちまん",
     "extraChar": "ご"
   },
   {
@@ -5597,6 +6296,7 @@
     "question": "開国してくれん？",
     "reading": "かいこくしてくれん",
     "answer": "確定申告",
+    "answerReading": "かくていしんこく",
     "extraChar": "れ"
   },
   {
@@ -5605,6 +6305,7 @@
     "question": "ノーガード大爆破",
     "reading": "のーがーどだいばくは",
     "answer": "ハーバード大学",
+    "answerReading": "はーばーどだいがく",
     "extraChar": "の"
   },
   {
@@ -5613,6 +6314,7 @@
     "question": "週一で投函",
     "reading": "しゅういちでとうかん",
     "answer": "懐中電灯",
+    "answerReading": "かいちゅうでんとう",
     "extraChar": "し"
   },
   {
@@ -5621,6 +6323,7 @@
     "question": "ダイアンとジャムパン",
     "reading": "だいあんとじゃむぱん",
     "answer": "ジャイアントパンダ",
+    "answerReading": "じゃいあんとぱんだ",
     "extraChar": "む"
   },
   {
@@ -5629,6 +6332,7 @@
     "question": "んっ？これ生姜入りの？",
     "reading": "んっこれしょうがいりの",
     "answer": "婚礼の合唱",
+    "answerReading": "こんれいのがっしょう",
     "extraChar": "り"
   },
   {
@@ -5637,6 +6341,7 @@
     "question": "寄生獣たちが湧く",
     "reading": "きせいじゅうたちがわく",
     "answer": "地球型惑星",
+    "answerReading": "ちきゅうがたわくせい",
     "extraChar": "じ"
   },
   {
@@ -5645,6 +6350,7 @@
     "question": "疲れた！無理！",
     "reading": "つかれたむり",
     "answer": "カタツムリ",
+    "answerReading": "かたつむり",
     "extraChar": "れ"
   },
   {
@@ -5653,6 +6359,7 @@
     "question": "先に指して",
     "reading": "さきにさして",
     "answer": "ササニシキ",
+    "answerReading": "ささにしき",
     "extraChar": "て"
   },
   {
@@ -5661,6 +6368,7 @@
     "question": "ノーガードボス",
     "reading": "のーがーどぼす",
     "answer": "スノーボード",
+    "answerReading": "すのーぼーど",
     "extraChar": "が"
   },
   {
@@ -5669,6 +6377,7 @@
     "question": "タダ飯あるん？",
     "reading": "ただめしあるん",
     "answer": "ダルメシアン",
+    "answerReading": "だるめしあん",
     "extraChar": "た"
   },
   {
@@ -5677,6 +6386,7 @@
     "question": "巣穴で住もう",
     "reading": "すあなですもう",
     "answer": "アスモデウス",
+    "answerReading": "あすもでうす",
     "extraChar": "な"
   },
   {
@@ -5685,6 +6395,7 @@
     "question": "粗めの作図",
     "reading": "あらめのさくず",
     "answer": "桜ノ雨",
+    "answerReading": "さくらのあめ",
     "extraChar": "ず"
   },
   {
@@ -5693,6 +6404,7 @@
     "question": "土砂対策",
     "reading": "どしゃたいさく",
     "answer": "独裁者",
+    "answerReading": "どくさいしゃ",
     "extraChar": "た"
   },
   {
@@ -5701,6 +6413,7 @@
     "question": "青き空かな",
     "reading": "あおきそらかな",
     "answer": "中尾彬",
+    "answerReading": "なかおあきら",
     "extraChar": "そ"
   },
   {
@@ -5709,6 +6422,7 @@
     "question": "ガチャ引く尼僧",
     "reading": "がちゃひくにそう",
     "answer": "ヒャクニチソウ",
+    "answerReading": "ひゃくにちそう",
     "extraChar": "が"
   },
   {
@@ -5717,6 +6431,7 @@
     "question": "新たな加湿器",
     "reading": "あらたなかしつき",
     "answer": "小鳥遊キアラ",
+    "answerReading": "たかなしきあら",
     "extraChar": "つ"
   },
   {
@@ -5725,6 +6440,7 @@
     "question": "足し算めんどい",
     "reading": "たしざんめんどい",
     "answer": "インドメタシン",
+    "answerReading": "いんどめたしん",
     "extraChar": "ざ"
   },
   {
@@ -5733,6 +6449,7 @@
     "question": "午後はまた掛け算",
     "reading": "ごごはまたかけざん",
     "answer": "卵かけご飯",
+    "answerReading": "たまごかけごはん",
     "extraChar": "ざ"
   },
   {
@@ -5741,6 +6458,7 @@
     "question": "悪人とその闇",
     "reading": "あくにんとそのやみ",
     "answer": "二宮尊徳",
+    "answerReading": "にのみやそんとく",
     "extraChar": "あ"
   },
   {
@@ -5749,6 +6467,7 @@
     "question": "体育ブルマ推し",
     "reading": "たいいくぶるまおし",
     "answer": "渋井丸拓男",
+    "answerReading": "しぶいまるたくお",
     "extraChar": "い"
   },
   {
@@ -5757,6 +6476,7 @@
     "question": "諸国も参列",
     "reading": "しょこくもさんれつ",
     "answer": "食物連鎖",
+    "answerReading": "しょくもつれんさ",
     "extraChar": "こ"
   },
   {
@@ -5765,6 +6485,7 @@
     "question": "クレーマーが来ない",
     "reading": "くれーまーがこない",
     "answer": "コナー・マクレガー",
+    "answerReading": "こなーまくれがー",
     "extraChar": "い"
   },
   {
@@ -5773,6 +6494,7 @@
     "question": "時間攻めはしたい",
     "reading": "じかんぜめはしたい",
     "answer": "高橋名人",
+    "answerReading": "たかはしめいじん",
     "extraChar": "ぜ"
   },
   {
@@ -5781,6 +6503,7 @@
     "question": "口喧嘩強者",
     "reading": "くちげんかきょうしゃ",
     "answer": "減価償却",
+    "answerReading": "げんかしょうきゃく",
     "extraChar": "ち"
   },
   {
@@ -5789,6 +6512,7 @@
     "question": "黒醤油精製",
     "reading": "くろしょうゆせいせい",
     "answer": "有性生殖",
+    "answerReading": "ゆうせいせいしょく",
     "extraChar": "ろ"
   },
   {
@@ -5797,6 +6521,7 @@
     "question": "迫真の上演",
     "reading": "はくしんのじょうえん",
     "answer": "炎色反応",
+    "answerReading": "えんしょくはんのう",
     "extraChar": "じ"
   },
   {
@@ -5805,6 +6530,7 @@
     "question": "穴丸出し",
     "reading": "あなまるだし",
     "answer": "芦田愛菜",
+    "answerReading": "あしだまな",
     "extraChar": "る"
   },
   {
@@ -5813,6 +6539,7 @@
     "question": "妻の腋嗅ぐ",
     "reading": "つまのわきかぐ",
     "answer": "ツキノワグマ",
+    "answerReading": "つきのわぐま",
     "extraChar": "か"
   },
   {
@@ -5821,6 +6548,7 @@
     "question": "チンポ見せあい",
     "reading": "ちんぽみせあい",
     "answer": "ポインセチア",
+    "answerReading": "ぽいんせちあ",
     "extraChar": "み"
   },
   {
@@ -5829,6 +6557,7 @@
     "question": "汁がエロいのね",
     "reading": "しるがえろいのね",
     "answer": "白銀ノエル",
+    "answerReading": "しろがねのえる",
     "extraChar": "い"
   },
   {
@@ -5837,214 +6566,403 @@
     "question": "奥は気持ちいいの",
     "reading": "おくはきもちいいの",
     "answer": "破竹の勢い",
+    "answerReading": "はちくのいきおい",
     "extraChar": "も"
   },
   {
     "id": 731,
-    "genre": "アスリート",
-    "question": "太ももズリとかは？",
-    "reading": "ふとももずりとかは",
-    "answer": "張本智和",
-    "extraChar": "ふ"
-  },
-  {
-    "id": 732,
     "genre": "日本史",
     "question": "舌入れの快感",
     "reading": "したいれのかいかん",
     "answer": "大化の改新",
+    "answerReading": "たいかのかいしん",
     "extraChar": "れ"
   },
   {
-    "id": 733,
+    "id": 732,
     "genre": "実業家",
     "question": "粗チン包茎だろう",
     "reading": "そちんほうけいだろう",
     "answer": "本田宗一郎",
+    "answerReading": "ほんだそういちろう",
     "extraChar": "け"
   },
   {
-    "id": 734,
+    "id": 733,
     "genre": "四字熟語",
     "question": "超舌入れクンニ",
     "reading": "ちょうしたいれくんに",
     "answer": "一蓮托生",
+    "answerReading": "いちれんたくしょう",
     "extraChar": "に"
   },
   {
-    "id": 735,
+    "id": 734,
     "genre": "ゴスペル",
     "question": "口淫時の接写",
     "reading": "こういんじのせっしゃ",
     "answer": "聖者の行進",
+    "answerReading": "せいじゃのこうしん",
     "extraChar": "っ"
   },
   {
-    "id": 736,
+    "id": 735,
     "genre": "数学",
     "question": "先、性交渉した",
     "reading": "さきせいこうしょうした",
     "answer": "最小多項式",
+    "answerReading": "さいしょうたこうしき",
     "extraChar": "せ"
   },
   {
-    "id": 737,
+    "id": 736,
     "genre": "超能力",
     "question": "痺れてパー",
     "reading": "しびれてぱー",
     "answer": "テレパシー",
+    "answerReading": "てれぱしー",
     "extraChar": "び"
   },
   {
-    "id": 738,
+    "id": 737,
     "genre": "日本の地名",
     "question": "みがわり出す",
     "reading": "みがわりだす",
     "answer": "隅田川",
+    "answerReading": "すみだがわ",
     "extraChar": "り"
   },
   {
-    "id": 739,
+    "id": 738,
     "genre": "絵本・アニメ",
     "question": "晴れパかなっ？",
     "reading": "はれぱかなっ",
     "answer": "はなかっぱ",
+    "answerReading": "はなかっぱ",
     "extraChar": "れ"
   },
   {
-    "id": 740,
+    "id": 739,
     "genre": "都道府県",
     "question": "ヌケニンが居た",
     "reading": "ぬけにんがいた",
     "answer": "新潟県",
+    "answerReading": "にいがたけん",
     "extraChar": "ぬ"
   },
   {
-    "id": 741,
+    "id": 740,
     "genre": "漫画・アニメ",
     "question": "ランクマ人気",
     "reading": "らんくまにんき",
     "answer": "キン肉マン",
+    "answerReading": "きんにくまん",
     "extraChar": "ら"
   },
   {
-    "id": 742,
+    "id": 741,
     "genre": "お笑いタレント",
     "question": "赤版くれる？",
     "reading": "あかばんくれる",
     "answer": "あばれる君",
+    "answerReading": "あばれるくん",
     "extraChar": "か"
   },
   {
-    "id": 743,
+    "id": 742,
     "genre": "楽器",
     "question": "悪Zするさ",
     "reading": "あくぜっとするさ",
     "answer": "アルトサックス",
+    "answerReading": "あるとさっくす",
     "extraChar": "ぜ"
   },
   {
-    "id": 744,
+    "id": 743,
     "genre": "VTuber",
     "question": "ご当地ヤケモン",
     "reading": "ごとうちやけもん",
     "answer": "剣持刀也",
+    "answerReading": "けんもちとうや",
     "extraChar": "ご"
   },
   {
-    "id": 745,
+    "id": 744,
     "genre": "ディズニーソング",
     "question": "最遅活かせない",
     "reading": "さいちいかせない",
     "answer": "小さな世界",
+    "answerReading": "ちいさなせかい",
     "extraChar": "い"
   },
   {
-    "id": 746,
+    "id": 745,
     "genre": "アニソン",
     "question": "メガガル焼けずかー…",
     "reading": "めががるやけずかー",
     "answer": "Cagayake!GIRLS",
+    "answerReading": "かがやけがーるず",
     "extraChar": "め"
   },
   {
-    "id": 747,
+    "id": 746,
     "genre": "お笑いタレント",
     "question": "うち、虫テラ切るよ",
     "reading": "うちむしてらきるよ",
     "answer": "内村光良",
+    "answerReading": "うちむらてるよし",
     "extraChar": "き"
   },
   {
-    "id": 748,
+    "id": 747,
     "genre": "児童文学",
     "question": "パオジアン流しさ",
     "reading": "ぱおじあんながしさ",
     "answer": "あしながおじさん",
+    "answerReading": "あしながおじさん",
     "extraChar": "ぱ"
   },
   {
-    "id": 749,
+    "id": 748,
     "genre": "アニソン",
     "question": "にらはねの置きもん",
     "reading": "にらはねのおきもん",
     "answer": "オラはにんきもの",
+    "answerReading": "おらはにんきもの",
     "extraChar": "ね"
   },
   {
-    "id": 750,
+    "id": 749,
     "genre": "チェーン店",
     "question": "安易のメガガルね",
     "reading": "あんいのめががるね",
     "answer": "メガネの愛眼",
+    "answerReading": "めがねのあいがん",
     "extraChar": "る"
   },
   {
-    "id": 751,
+    "id": 750,
     "genre": "歴史上の人物",
     "question": "タスキ携帯ガブ",
     "reading": "たすきけいたいがぶ",
     "answer": "板垣退助",
+    "answerReading": "いたがきたいすけ",
     "extraChar": "ぶ"
   },
   {
-    "id": 752,
+    "id": 751,
     "genre": "書籍",
     "question": "オーキド氏と文通",
     "reading": "おーきどしとぶんつう",
     "answer": "シートン動物記",
+    "answerReading": "しーとんどうぶつき",
     "extraChar": "お"
   },
   {
-    "id": 753,
+    "id": 752,
     "genre": "童謡",
     "question": "ウーラオス入れたのか",
     "reading": "うーらおすいれたのか",
     "answer": "カレーライスのうた",
+    "answerReading": "かれーらいすのうた",
     "extraChar": "お"
   },
   {
-    "id": 754,
+    "id": 753,
     "genre": "企業",
     "question": "クッションにし、瀕死",
     "reading": "くっしょんにしひんし",
     "answer": "日清食品",
+    "answerReading": "にっしんしょくひん",
     "extraChar": "し"
   },
   {
-    "id": 755,
+    "id": 754,
     "genre": "教育機関",
     "question": "じっくり系ガブマンダ",
     "reading": "じっくりけいがぶまんだ",
     "answer": "ケンブリッジ大学",
+    "answerReading": "けんぶりっじだいがく",
     "extraChar": "ま"
   },
   {
-    "id": 756,
+    "id": 755,
     "genre": "環境技術",
     "question": "交代読みで撃つんは？",
     "reading": "こうたいよみでうつんは",
     "answer": "太陽光発電",
+    "answerReading": "たいようこうはつでん",
     "extraChar": "み"
+  },
+  {
+    "id": 756,
+    "genre": "動物",
+    "question": "殿降臨",
+    "reading": "とのこうりん",
+    "answer": "こうのとり",
+    "answerReading": "こうのとり",
+    "extraChar": "ん"
+  },
+  {
+    "id": 757,
+    "genre": "食べ物",
+    "question": "ワシ、金持ち",
+    "reading": "わしかねもち",
+    "answer": "柏餅",
+    "answerReading": "かしわもち",
+    "extraChar": "ね"
+  },
+  {
+    "id": 758,
+    "genre": "漫画・アニメ",
+    "question": "回文作る",
+    "reading": "かいぶんつくる",
+    "answer": "怪物くん",
+    "answerReading": "かいぶつくん",
+    "extraChar": "る"
+  },
+  {
+    "id": 759,
+    "genre": "観光地",
+    "question": "みんな借り物",
+    "reading": "みんなかりもの",
+    "answer": "雷門",
+    "answerReading": "かみなりもん",
+    "extraChar": "の"
+  },
+  {
+    "id": 760,
+    "genre": "格闘家",
+    "question": "荒い過去作",
+    "reading": "あらいかこさく",
+    "answer": "朝倉海",
+    "answerReading": "あさくらかい",
+    "extraChar": "こ"
+  },
+  {
+    "id": 761,
+    "genre": "女優",
+    "question": "気はヤラセかよ…",
+    "reading": "きはやらせかよ",
+    "answer": "清原果耶",
+    "answerReading": "きよはらかや",
+    "extraChar": "せ"
+  },
+  {
+    "id": 762,
+    "genre": "お笑いタレント",
+    "question": "肘の故障が…",
+    "reading": "ひじのこしょうが",
+    "answer": "東野幸治",
+    "answerReading": "ひがしのこうじ",
+    "extraChar": "ょ"
+  },
+  {
+    "id": 763,
+    "genre": "スナック菓子",
+    "question": "チンパンクソコメ",
+    "reading": "ちんぱんくそこめ",
+    "answer": "コンソメパンチ",
+    "answerReading": "こんそめぱんち",
+    "extraChar": "く"
+  },
+  {
+    "id": 764,
+    "genre": "酒",
+    "question": "皿、万枚割る",
+    "reading": "さらまんまいわる",
+    "answer": "マルサラワイン",
+    "answerReading": "まるさらわいん",
+    "extraChar": "ま"
+  },
+  {
+    "id": 765,
+    "genre": "力士",
+    "question": "漢・修造",
+    "reading": "おとこしゅうぞう",
+    "answer": "琴欧洲",
+    "answerReading": "ことおうしゅう",
+    "extraChar": "ぞ"
+  },
+  {
+    "id": 766,
+    "genre": "ボカロ曲",
+    "question": "反則成功",
+    "reading": "はんそくせいこう",
+    "answer": "恋は戦争",
+    "answerReading": "こいはせんそう",
+    "extraChar": "く"
+  },
+  {
+    "id": 767,
+    "genre": "タレント",
+    "question": "仕事着触んなや！",
+    "reading": "しごとぎさわんなや",
+    "answer": "柳沢慎吾",
+    "answerReading": "やなぎさわしんご",
+    "extraChar": "と"
+  },
+  {
+    "id": 768,
+    "genre": "歴史上の人物",
+    "question": "イケたがイキ過ぎた",
+    "reading": "いけたがいきすぎた",
+    "answer": "板垣退助",
+    "answerReading": "いたがきたいすけ",
+    "extraChar": "ぎ"
+  },
+  {
+    "id": 769,
+    "genre": "漫画・アニメ",
+    "question": "うむ、トロッコは止めた",
+    "reading": "うむとろっこはとめた",
+    "answer": "とっとこハム太郎",
+    "answerReading": "とっとこはむたろう",
+    "extraChar": "め"
+  },
+  {
+    "id": 770,
+    "genre": "日本史",
+    "question": "汗だくの痛いンゴ",
+    "reading": "あせだくのいたいんご",
+    "answer": "安政の大獄",
+    "answerReading": "あんせいのたいごく",
+    "extraChar": "だ"
+  },
+  {
+    "id": 771,
+    "genre": "社会問題",
+    "question": "原価回収、楽",
+    "reading": "げんかかいしゅうらく",
+    "answer": "限界集落",
+    "answerReading": "げんかいしゅうらく",
+    "extraChar": "か"
+  },
+  {
+    "id": 772,
+    "genre": "宿題",
+    "question": "患部、塩素消毒",
+    "reading": "かんぶえんそしょうどく",
+    "answer": "読書感想文",
+    "answerReading": "どくしょかんそうぶん",
+    "extraChar": "え"
+  },
+  {
+    "id": 773,
+    "genre": "食べ物",
+    "question": "すぐミュートされるしん…",
+    "reading": "すぐみゅーとされるしん",
+    "answer": "シュールストレミング",
+    "answerReading": "しゅーるすとれみんぐ",
+    "extraChar": "さ"
+  },
+  {
+    "id": 774,
+    "genre": "法律",
+    "question": "淫夢王、国歌候補",
+    "reading": "いんむおうこっかこうほ",
+    "answer": "国家公務員法",
+    "answerReading": "こっかこうむいんほう",
+    "extraChar": "お"
   }
 ]
