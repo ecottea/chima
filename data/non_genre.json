@@ -6964,5 +6964,23 @@
     "answer": "国家公務員法",
     "answerReading": "こっかこうむいんほう",
     "extraChar": "お"
+  },
+  {
+    "id": 775,
+    "genre": "四字熟語",
+    "question": "ドバっとウンチして？",
+    "reading": "どばっとうんちして",
+    "answer": "七転八倒",
+    "answerReading": "しちてんばっとう",
+    "extraChar": "ど"
+  },
+  {
+    "id": 776,
+    "genre": "ソフトウェア",
+    "question": "糞、ドバあっと浴びろ",
+    "reading": "くそどばあっとあびろ",
+    "answer": "Adobe Acrobat",
+    "answerReading": "あどびあくろばっと",
+    "extraChar": "そ"
   }
 ]
