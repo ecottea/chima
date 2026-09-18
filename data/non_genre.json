@@ -6982,5 +6982,23 @@
     "answer": "Adobe Acrobat",
     "answerReading": "あどびあくろばっと",
     "extraChar": "そ"
+  },
+  {
+    "id": 777,
+    "genre": "人体",
+    "question": "便器の無い田所家",
+    "reading": "べんきのないたどころけ",
+    "answer": "弁慶の泣き所",
+    "answerReading": "べんけいのなきどころ",
+    "extraChar": "た"
+  },
+  {
+    "id": 778,
+    "genre": "数学",
+    "question": "ホモのクソ動画見るん？",
+    "reading": "ほものくそどうがみるん",
+    "answer": "ド・モルガンの法則",
+    "answerReading": "どもるがんのほうそく",
+    "extraChar": "み"
   }
 ]

@@ -1081,14 +1081,6 @@
   },
   {
     "id": 136,
-    "genre": "特撮",
-    "question": "裏イトマルなんだ",
-    "reading": "うらいとまるなんだ",
-    "answer": "ウルトラマンダイナ",
-    "answerReading": "うるとらまんだいな"
-  },
-  {
-    "id": 137,
     "genre": "情報工学",
     "question": "今日が収穫",
     "reading": "きょうがしゅうかく",
@@ -1096,7 +1088,7 @@
     "answerReading": "きょうかがくしゅう"
   },
   {
-    "id": 138,
+    "id": 137,
     "genre": "ラノベ・アニメ",
     "question": "歌唱のシンクロ",
     "reading": "かしょうのしんくろ",
@@ -1104,7 +1096,7 @@
     "answerReading": "くろのしょうかんし"
   },
   {
-    "id": 139,
+    "id": 138,
     "genre": "天体物理学",
     "question": "自身の成長へ",
     "reading": "じしんのせいちょうへ",
@@ -1112,7 +1104,7 @@
     "answerReading": "じしょうのちへいせん"
   },
   {
-    "id": 140,
+    "id": 139,
     "genre": "四字熟語",
     "question": "贅沢神社",
     "reading": "ぜいたくじんじゃ",
@@ -1120,7 +1112,7 @@
     "answerReading": "たいぜんじじゃく"
   },
   {
-    "id": 141,
+    "id": 140,
     "genre": "植物",
     "question": "それ運ゲ",
     "reading": "それうんげ",
@@ -1128,7 +1120,7 @@
     "answerReading": "れんげそう"
   },
   {
-    "id": 142,
+    "id": 141,
     "genre": "ゲーム",
     "question": "吸い込んだ",
     "reading": "すいこんだ",
@@ -1136,7 +1128,7 @@
     "answerReading": "んこだいす"
   },
   {
-    "id": 143,
+    "id": 142,
     "genre": "酒",
     "question": "ビビるエース",
     "reading": "びびるえーす",
@@ -1144,7 +1136,7 @@
     "answerReading": "えびすびーる"
   },
   {
-    "id": 144,
+    "id": 143,
     "genre": "日本史",
     "question": "自明因子",
     "reading": "じめいいんし",
@@ -1152,7 +1144,7 @@
     "answerReading": "めいじいしん"
   },
   {
-    "id": 145,
+    "id": 144,
     "genre": "数学",
     "question": "抗菌した",
     "reading": "こうきんした",
@@ -1160,7 +1152,7 @@
     "answerReading": "たんこうしき"
   },
   {
-    "id": 146,
+    "id": 145,
     "genre": "VTuber",
     "question": "推しはルリリ",
     "reading": "おしはるりり",
@@ -1168,7 +1160,7 @@
     "answerReading": "しおりはるり"
   },
   {
-    "id": 147,
+    "id": 146,
     "genre": "グラップラー刃牙",
     "question": "舞うとバトン",
     "reading": "まうとばとん",
@@ -1176,7 +1168,7 @@
     "answerReading": "まうんととば"
   },
   {
-    "id": 148,
+    "id": 147,
     "genre": "像",
     "question": "蛙がヒント",
     "reading": "かえるがひんと",
@@ -1184,7 +1176,7 @@
     "answerReading": "かんがえるひと"
   },
   {
-    "id": 149,
+    "id": 148,
     "genre": "アスリート",
     "question": "うるさいトンボ",
     "reading": "うるさいとんぼ",
@@ -1192,7 +1184,7 @@
     "answerReading": "うさいんぼると"
   },
   {
-    "id": 150,
+    "id": 149,
     "genre": "アニソン",
     "question": "加工製品",
     "reading": "かこうせいひん",
@@ -1200,7 +1192,7 @@
     "answerReading": "せいかんひこう"
   },
   {
-    "id": 151,
+    "id": 150,
     "genre": "四字熟語",
     "question": "賞金付けて？",
     "reading": "しょうきんつけて",
@@ -1208,7 +1200,7 @@
     "answerReading": "きしょうてんけつ"
   },
   {
-    "id": 152,
+    "id": 151,
     "genre": "童話",
     "question": "参加は辞さない",
     "reading": "さんかはじさない",
@@ -1216,7 +1208,7 @@
     "answerReading": "はなさかじいさん"
   },
   {
-    "id": 153,
+    "id": 152,
     "genre": "漫画・アニメの主人公",
     "question": "貯金借り、打つ",
     "reading": "ちょきんかりうつ",
@@ -1224,7 +1216,7 @@
     "answerReading": "りょうつかんきち"
   },
   {
-    "id": 154,
+    "id": 153,
     "genre": "テレビ番組",
     "question": "番犬に気づく",
     "reading": "ばんけんにきづく",
@@ -1232,7 +1224,7 @@
     "answerReading": "きんにくばんづけ"
   },
   {
-    "id": 155,
+    "id": 154,
     "genre": "タレント",
     "question": "嫌えば威嚇さ",
     "reading": "きらえばいかくさ",
@@ -1240,7 +1232,7 @@
     "answerReading": "さかきばらいくえ"
   },
   {
-    "id": 156,
+    "id": 155,
     "genre": "歴史的建造物",
     "question": "これが草案か",
     "reading": "これがそうあんか",
@@ -1248,7 +1240,7 @@
     "answerReading": "あかれんがそうこ"
   },
   {
-    "id": 157,
+    "id": 156,
     "genre": "漫画・アニメ",
     "question": "四連着信",
     "reading": "よんれんちゃくしん",
@@ -1256,7 +1248,7 @@
     "answerReading": "くれよんしんちゃん"
   },
   {
-    "id": 158,
+    "id": 157,
     "genre": "お笑いタレント",
     "question": "ヤングマンに賭けた",
     "reading": "やんぐまんにかけた",
@@ -1264,7 +1256,7 @@
     "answerReading": "かんにんぐたけやま"
   },
   {
-    "id": 159,
+    "id": 158,
     "genre": "お笑いタレント",
     "question": "山に監禁、泣く",
     "reading": "やまにかんきんなく",
@@ -1272,7 +1264,7 @@
     "answerReading": "なかやまきんにくん"
   },
   {
-    "id": 160,
+    "id": 159,
     "genre": "童謡",
     "question": "吸い物、冷めへんかい？",
     "reading": "すいものさめへんかい",
@@ -1280,7 +1272,7 @@
     "answerReading": "かもめのすいへいさん"
   },
   {
-    "id": 161,
+    "id": 160,
     "genre": "VTuber",
     "question": "溢れぬらしい",
     "reading": "あふれぬらしい",
@@ -1288,7 +1280,7 @@
     "answerReading": "しらぬいふれあ"
   },
   {
-    "id": 162,
+    "id": 161,
     "genre": "日本史",
     "question": "ウホ，性感帯",
     "reading": "うほせいかんたい",
@@ -1296,7 +1288,7 @@
     "answerReading": "たいせいほうかん"
   },
   {
-    "id": 163,
+    "id": 162,
     "genre": "J-POP",
     "question": "痴女の奉仕",
     "reading": "ちじょのほうし",
@@ -1304,7 +1296,7 @@
     "answerReading": "ちじょうのほし"
   },
   {
-    "id": 164,
+    "id": 163,
     "genre": "楽曲",
     "question": "ちんちんバキバキ",
     "reading": "ちんちんばきばき",
@@ -1312,7 +1304,7 @@
     "answerReading": "ちきちきばんばん"
   },
   {
-    "id": 165,
+    "id": 164,
     "genre": "ラジオ番組",
     "question": "夫、インポになーる",
     "reading": "おっといんぽになーる",
@@ -1320,7 +1312,7 @@
     "answerReading": "おーるないとにっぽん"
   },
   {
-    "id": 166,
+    "id": 165,
     "genre": "プログラミング",
     "question": "下品矯正",
     "reading": "げひんきょうせい",
@@ -1328,7 +1320,7 @@
     "answerReading": "せいきひょうげん"
   },
   {
-    "id": 167,
+    "id": 166,
     "genre": "映画",
     "question": "花見の木",
     "reading": "はなみのき",
@@ -1336,7 +1328,7 @@
     "answerReading": "きみのなは"
   },
   {
-    "id": 168,
+    "id": 167,
     "genre": "都道府県",
     "question": "LINE訊けば？",
     "reading": "らいんきけば",
@@ -1344,7 +1336,7 @@
     "answerReading": "いばらきけん"
   },
   {
-    "id": 169,
+    "id": 168,
     "genre": "漢方薬",
     "question": "関東っ子",
     "reading": "かんとうっこ",
@@ -1352,7 +1344,7 @@
     "answerReading": "かっこんとう"
   },
   {
-    "id": 170,
+    "id": 169,
     "genre": "俳優",
     "question": "北広島",
     "reading": "きたひろしま",
@@ -1360,7 +1352,7 @@
     "answerReading": "たまきひろし"
   },
   {
-    "id": 171,
+    "id": 170,
     "genre": "日本史",
     "question": "良いセレクト",
     "reading": "いいせれくと",
@@ -1368,7 +1360,7 @@
     "answerReading": "とくせいれい"
   },
   {
-    "id": 172,
+    "id": 171,
     "genre": "VTuber",
     "question": "あなたネカマ？",
     "reading": "あなたねかま",
@@ -1376,7 +1368,7 @@
     "answerReading": "あまねかなた"
   },
   {
-    "id": 173,
+    "id": 172,
     "genre": "四字熟語",
     "question": "嘘常識",
     "reading": "うそじょうしき",
@@ -1384,7 +1376,7 @@
     "answerReading": "じきしょうそう"
   },
   {
-    "id": 174,
+    "id": 173,
     "genre": "男性アイドル",
     "question": "蚊、どうにかしたい",
     "reading": "かどうにかしたい",
@@ -1392,7 +1384,7 @@
     "answerReading": "にかいどうたかし"
   },
   {
-    "id": 175,
+    "id": 174,
     "genre": "外国の地名",
     "question": "歯間に病気",
     "reading": "しかんにびょうき",
@@ -1400,7 +1392,7 @@
     "answerReading": "びきにかんしょう"
   },
   {
-    "id": 176,
+    "id": 175,
     "genre": "ブランド",
     "question": "回覧板来る",
     "reading": "かいらんばんくる",
@@ -1408,7 +1400,7 @@
     "answerReading": "かるばんくらいん"
   },
   {
-    "id": 177,
+    "id": 176,
     "genre": "ボカロ曲",
     "question": "脂取りだっる",
     "reading": "あぶらとりだっる",
@@ -1416,7 +1408,7 @@
     "answerReading": "だぶるらりあっと"
   },
   {
-    "id": 178,
+    "id": 177,
     "genre": "日本史",
     "question": "魔獣変身",
     "reading": "まじゅうへんしん",
@@ -1424,7 +1416,7 @@
     "answerReading": "まんしゅうじへん"
   },
   {
-    "id": 179,
+    "id": 178,
     "genre": "四字熟語",
     "question": "天然試料",
     "reading": "てんねんしりょう",
@@ -1432,7 +1424,7 @@
     "answerReading": "りんねてんしょう"
   },
   {
-    "id": 180,
+    "id": 179,
     "genre": "タレント",
     "question": "さきいか食らえば？",
     "reading": "さきいかくらえば",
@@ -1440,7 +1432,7 @@
     "answerReading": "さかきばらいくえ"
   },
   {
-    "id": 181,
+    "id": 180,
     "genre": "アニソン",
     "question": "冷えたままである",
     "reading": "ひえたままである",
@@ -1448,7 +1440,7 @@
     "answerReading": "またあえるひまで"
   },
   {
-    "id": 182,
+    "id": 181,
     "genre": "日本地理",
     "question": "飛べる傭兵隊",
     "reading": "とべるようへいたい",
@@ -1456,7 +1448,7 @@
     "answerReading": "たいへいようべると"
   },
   {
-    "id": 183,
+    "id": 182,
     "genre": "ラノベ",
     "question": "お皿入りうまトマ",
     "reading": "おさらいりうまとま",
@@ -1464,7 +1456,7 @@
     "answerReading": "まおうさまりとらい"
   },
   {
-    "id": 184,
+    "id": 183,
     "genre": "世界史",
     "question": "苦行3回目",
     "reading": "くぎょうさんかいめ",
@@ -1472,7 +1464,7 @@
     "answerReading": "さんぎょうかくめい"
   },
   {
-    "id": 185,
+    "id": 184,
     "genre": "ボカロ曲",
     "question": "痛いし喘いどるん？",
     "reading": "いたいしあえいどるん",
@@ -1480,7 +1472,7 @@
     "answerReading": "あいどるしんえいたい"
   },
   {
-    "id": 186,
+    "id": 185,
     "genre": "アニソン",
     "question": "無線LANでツイート",
     "reading": "むせんらんでついーと",
@@ -1488,7 +1480,7 @@
     "answerReading": "むーんらいとでんせつ"
   },
   {
-    "id": 187,
+    "id": 186,
     "genre": "イベント",
     "question": "野獣語",
     "reading": "やじゅうご",
@@ -1496,7 +1488,7 @@
     "answerReading": "じゅうごや"
   },
   {
-    "id": 188,
+    "id": 187,
     "genre": "元宇宙飛行士",
     "question": "赤いキムチ",
     "reading": "あかいきむち",
@@ -1504,7 +1496,7 @@
     "answerReading": "むかいちあき"
   },
   {
-    "id": 189,
+    "id": 188,
     "genre": "パーティーゲーム",
     "question": "和風ドール",
     "reading": "わふうどーる",
@@ -1512,7 +1504,7 @@
     "answerReading": "わーどうるふ"
   },
   {
-    "id": 190,
+    "id": 189,
     "genre": "イベント",
     "question": "良い対策",
     "reading": "いいたいさく",
@@ -1520,7 +1512,7 @@
     "answerReading": "たいいくさい"
   },
   {
-    "id": 191,
+    "id": 190,
     "genre": "陶器",
     "question": "白髪危機や",
     "reading": "しらがききや",
@@ -1528,7 +1520,7 @@
     "answerReading": "しがらきやき"
   },
   {
-    "id": 192,
+    "id": 191,
     "genre": "宇宙戦艦ヤマト",
     "question": "打開するん？",
     "reading": "だかいするん",
@@ -1536,7 +1528,7 @@
     "answerReading": "いすかんだる"
   },
   {
-    "id": 193,
+    "id": 192,
     "genre": "お笑いコンビ",
     "question": "関空行きだ",
     "reading": "かんくういきだ",
@@ -1544,7 +1536,7 @@
     "answerReading": "くうきかいだん"
   },
   {
-    "id": 194,
+    "id": 193,
     "genre": "風物詩",
     "question": "ファイル見せな",
     "reading": "ふぁいるみせな",
@@ -1552,7 +1544,7 @@
     "answerReading": "せみふぁいなる"
   },
   {
-    "id": 195,
+    "id": 194,
     "genre": "アイドル",
     "question": "たゆたうマリモ",
     "reading": "たゆたうまりも",
@@ -1560,7 +1552,7 @@
     "answerReading": "たまもりゆうた"
   },
   {
-    "id": 196,
+    "id": 195,
     "genre": "書籍",
     "question": "漢字に仮名とは",
     "reading": "かんじにかなとは",
@@ -1568,7 +1560,7 @@
     "answerReading": "じかんとはなにか"
   },
   {
-    "id": 197,
+    "id": 196,
     "genre": "アニソン",
     "question": "うどん貰えたの",
     "reading": "うどんもらえたの",
@@ -1576,7 +1568,7 @@
     "answerReading": "どらえもんのうた"
   },
   {
-    "id": 198,
+    "id": 197,
     "genre": "四字熟語",
     "question": "超いらんけど",
     "reading": "ちょういらんけど",
@@ -1584,7 +1576,7 @@
     "answerReading": "けんどちょうらい"
   },
   {
-    "id": 199,
+    "id": 198,
     "genre": "世界の地名",
     "question": "あまり加工ない",
     "reading": "あまりかこうない",
@@ -1592,7 +1584,7 @@
     "answerReading": "まりあなかいこう"
   },
   {
-    "id": 200,
+    "id": 199,
     "genre": "世界史",
     "question": "粧す服いらん",
     "reading": "めかすふくいらん",
@@ -1600,7 +1592,7 @@
     "answerReading": "ふらんすかくめい"
   },
   {
-    "id": 201,
+    "id": 200,
     "genre": "ゲーム・アニメ",
     "question": "まず部員入れな",
     "reading": "まずぶいんいれな",
@@ -1608,7 +1600,7 @@
     "answerReading": "いなずまいれぶん"
   },
   {
-    "id": 202,
+    "id": 201,
     "genre": "ゲーム",
     "question": "キモリと飴キメる",
     "reading": "きもりとあめきめる",
@@ -1616,7 +1608,7 @@
     "answerReading": "ときめきめもりある"
   },
   {
-    "id": 203,
+    "id": 202,
     "genre": "クラシック音楽",
     "question": "髪型がそれのみ",
     "reading": "かみがたがそれのみ",
@@ -1624,7 +1616,7 @@
     "answerReading": "かみがみのたそがれ"
   },
   {
-    "id": 204,
+    "id": 203,
     "genre": "日本史",
     "question": "ダリ、金賞みたい",
     "reading": "だりきんしょうみたい",
@@ -1632,7 +1624,7 @@
     "answerReading": "きりしたんだいみょう"
   },
   {
-    "id": 205,
+    "id": 204,
     "genre": "J-POP",
     "question": "銃撃たないのは可？",
     "reading": "じゅううたないのはか",
@@ -1640,7 +1632,7 @@
     "answerReading": "かいじゅうのはなうた"
   },
   {
-    "id": 206,
+    "id": 205,
     "genre": "生物学",
     "question": "おサボり禁止で描く",
     "reading": "おさぼりきんしでかく",
