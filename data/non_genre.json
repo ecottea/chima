@@ -7000,5 +7000,185 @@
     "answer": "ド・モルガンの法則",
     "answerReading": "どもるがんのほうそく",
     "extraChar": "み"
+  },
+  {
+    "id": 779,
+    "genre": "女優",
+    "question": "つか困った",
+    "reading": "つかこまった",
+    "answer": "松たか子",
+    "answerReading": "まつたかこ",
+    "extraChar": "っ"
+  },
+  {
+    "id": 780,
+    "genre": "お笑い芸人",
+    "question": "行けたら参加",
+    "reading": "いけたらさんか",
+    "answer": "酒井健太",
+    "answerReading": "さかいけんた",
+    "extraChar": "ら"
+  },
+  {
+    "id": 781,
+    "genre": "人体",
+    "question": "収益無い",
+    "reading": "しゅうえきない",
+    "answer": "永久歯",
+    "answerReading": "えいきゅうし",
+    "extraChar": "な"
+  },
+  {
+    "id": 782,
+    "genre": "VTuber",
+    "question": "唐澤氏、保護",
+    "reading": "からさわしほご",
+    "answer": "星川サラ",
+    "answerReading": "ほしかわさら",
+    "extraChar": "ご"
+  },
+  {
+    "id": 783,
+    "genre": "状態",
+    "question": "虎にちゅ～る",
+    "reading": "とらにちゅーる",
+    "answer": "ニュートラル",
+    "answerReading": "にゅーとらる",
+    "extraChar": "ち"
+  },
+  {
+    "id": 784,
+    "genre": "算数",
+    "question": "鉛筆修理",
+    "reading": "えんぴつしゅうり",
+    "answer": "円周率",
+    "answerReading": "えんしゅうりつ",
+    "extraChar": "ぴ"
+  },
+  {
+    "id": 785,
+    "genre": "カラオケ",
+    "question": "再度天井",
+    "reading": "さいどてんじょう",
+    "answer": "JOYSOUND",
+    "answerReading": "じょいさうんど",
+    "extraChar": "て"
+  },
+  {
+    "id": 786,
+    "genre": "スナック菓子",
+    "question": "パスタ折る奴か？",
+    "reading": "ぱすたおるやつか",
+    "answer": "おやつカルパス",
+    "answerReading": "おやつかるぱす",
+    "extraChar": "た"
+  },
+  {
+    "id": 787,
+    "genre": "J-POP",
+    "question": "ドラマ化した『仁』",
+    "reading": "どらまかしたじん",
+    "answer": "新宝島",
+    "answerReading": "しんたからじま",
+    "extraChar": "ど"
+  },
+  {
+    "id": 788,
+    "genre": "テーマパーク",
+    "question": "カンストいくぞ！やば！",
+    "reading": "かんすといくぞやば",
+    "answer": "鳥羽水族館",
+    "answerReading": "とばすいぞくかん",
+    "extraChar": "や"
+  },
+  {
+    "id": 789,
+    "genre": "イベント",
+    "question": "冷凍めかぶ缶",
+    "reading": "れいとうめかぶかん",
+    "answer": "仮面舞踏会",
+    "answerReading": "かめんぶとうかい",
+    "extraChar": "れ"
+  },
+  {
+    "id": 790,
+    "genre": "棋士",
+    "question": "八百屋はオマケする",
+    "reading": "やおやはおまけする",
+    "answer": "大山康晴",
+    "answerReading": "おおやまやすはる",
+    "extraChar": "け"
+  },
+  {
+    "id": 791,
+    "genre": "小説家",
+    "question": "バリカタ食わすなや",
+    "reading": "ばりかたくわすなや",
+    "answer": "川端康成",
+    "answerReading": "かわばたやすなり",
+    "extraChar": "く"
+  },
+  {
+    "id": 792,
+    "genre": "四字熟語",
+    "question": "ん？免許証は？",
+    "reading": "んめんきょしょうは",
+    "answer": "反面教師",
+    "answerReading": "はんめんきょうし",
+    "extraChar": "ょ"
+  },
+  {
+    "id": 793,
+    "genre": "武道",
+    "question": "検挙してくから",
+    "reading": "けんきょしてくから",
+    "answer": "極真空手",
+    "answerReading": "きょくしんからて",
+    "extraChar": "け"
+  },
+  {
+    "id": 794,
+    "genre": "歴史上の人物",
+    "question": "『三体』のドラマ化",
+    "reading": "さんたいのどらまか",
+    "answer": "平将門",
+    "answerReading": "たいらのまさかど",
+    "extraChar": "ん"
+  },
+  {
+    "id": 795,
+    "genre": "教育機関",
+    "question": "修正がくるんだ",
+    "reading": "しゅうせいがくるんだ",
+    "answer": "専修大学",
+    "answerReading": "せんしゅうだいがく",
+    "extraChar": "る"
+  },
+  {
+    "id": 796,
+    "genre": "楽曲",
+    "question": "すぐ2chしたーい",
+    "reading": "すぐにちゃんしたーい",
+    "answer": "シャイニングスター",
+    "answerReading": "しゃいにんぐすたー",
+    "extraChar": "ち"
+  },
+  {
+    "id": 797,
+    "genre": "著作",
+    "question": "全てのクソコメいらん",
+    "reading": "すべてのくそこめいらん",
+    "answer": "ソクラテスの弁明",
+    "answerReading": "そくらてすのべんめい",
+    "extraChar": "こ"
+  },
+  {
+    "id": 798,
+    "genre": "予備校",
+    "question": "ベクトル：数C範囲",
+    "reading": "べくとるすうしーはんい",
+    "answer": "東進ハイスクール",
+    "answerReading": "とうしんはいすくーる",
+    "extraChar": "べ"
   }
 ]
