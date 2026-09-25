@@ -122,6 +122,7 @@ function showQuestion(index) {
   }
 
   document.getElementById('answerArea').classList.add('hidden');
+  document.getElementById('showAnswerBtn').setAttribute('aria-expanded', 'false');
   document.getElementById('problemInput').value = currentIndex + 1;
   document.getElementById('problemInput').max = currentQuestions.length;
 
@@ -136,11 +137,13 @@ function clearDisplay() {
   document.getElementById('readingText').textContent = "-";
   document.getElementById('remarksText').textContent = "-";
   document.getElementById('answerArea').classList.add('hidden');
+  document.getElementById('showAnswerBtn').setAttribute('aria-expanded', 'false');
 }
 
 // イベント設定
 document.getElementById('showAnswerBtn').addEventListener('click', () => {
   document.getElementById('answerArea').classList.remove('hidden');
+  document.getElementById('showAnswerBtn').setAttribute('aria-expanded', 'true');
 });
 
 document.getElementById('prevBtn').addEventListener('click', () => {

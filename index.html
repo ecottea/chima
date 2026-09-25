@@ -25,25 +25,31 @@
   </script>
 
   <!-- モダンな日本語フォントを読み込み -->
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Noto+Sans+JP:wght@400;500;700;800&display=swap" rel="stylesheet">
   
   <!-- 外部CSS -->
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-  <h2>✨ アナグラム／チマタグラムクイズ ✨</h2>
+  <main class="app-shell">
+    <header class="hero">
+      <p class="eyebrow"><span></span> WORD PUZZLE STUDIO</p>
+      <h1>アナグラム<span>／</span>チマタグラム</h1>
+      <p class="hero-copy">ひらめきで文字をほどく、今日の一問。</p>
+    </header>
 
   <!-- ルール説明エリア -->
-  <div class="rule-box">
-    文字を並べ替えて指定されたジャンルの言葉にしてください。<br>
-    ただしチマタグラムでは <strong>余計な文字が1文字</strong> 含まれています。
-  </div>
+    <aside class="rule-box">
+      <span class="rule-icon">✦</span>
+      <p>文字を並べ替えて、指定されたジャンルの言葉にしてください。<br>チマタグラムでは <strong>余計な文字が1文字</strong> 混ざっています。</p>
+    </aside>
 
-  <div class="control-panel">
+    <section class="control-panel" aria-label="出題設定">
+      <div class="panel-heading"><span>PLAY SETTINGS</span><i></i></div>
     <div class="control-row">
       <label class="control-group">
-        問題セット:
+        <span>問題セット</span>
         <select id="genreSelect">
           <option value="data/non_genre_anagram.json">ノンジャンル（アナグラム）</option>
           <option value="data/non_genre.json">ノンジャンル（チマタグラム）</option>
@@ -54,20 +60,20 @@
       </label>
     </div>
     
-    <div class="control-row" style="justify-content: flex-start;">
+    <div class="control-row control-row-number">
       <label class="control-group">
-        問題番号:
-        <input type="number" id="problemInput" min="1" style="width: 70px;">
+        <span>問題番号</span>
+        <input type="number" id="problemInput" min="1">
       </label>
       <button id="goBtn" class="btn-secondary">移動</button>
       <button id="randomBtn" class="btn-accent">🎲 ランダム</button>
     </div>
-  </div>
+    </section>
 
-  <div class="card">
+    <section class="card" aria-live="polite">
     <h3>
-      <span id="problemNum">第 1 問</span> 
-      <span style="color:#cbd5e1; margin:0 8px;">|</span> 
+      <span id="problemNum">第 1 問</span>
+      <span class="question-divider"></span>
       <span id="totalNum">全 0 問</span>
     </h3>
     
@@ -78,8 +84,8 @@
       <p id="remarksArea"><strong>備考</strong> <span id="remarksText">読み込み中...</span></p>
     </div>
 
-    <button id="showAnswerBtn" class="btn-secondary" style="width: 100%; padding: 14px; margin-top: 10px;">
-      💡 答えを見る
+    <button id="showAnswerBtn" class="btn-secondary answer-button" aria-controls="answerArea" aria-expanded="false">
+      <span>💡</span> 答えを見る
     </button>
 
     <div id="answerArea" class="hidden">
@@ -87,12 +93,13 @@
       <p id="answerReadingArea"><strong>答えの読み</strong> <span id="answerReadingText" class="ans-highlight"></span></p>
       <p id="extraCharArea"><strong>余計な1文字</strong> <span id="extraCharText" class="ans-highlight"></span></p>
     </div>
-  </div>
+    </section>
 
-  <div class="nav-area" style="display: flex; justify-content: center; gap: 30px;">
+    <nav class="nav-area" aria-label="問題の移動">
     <button id="prevBtn" class="btn-primary btn-large">⬅ 前の問題へ</button>
     <button id="nextBtn" class="btn-primary btn-large">次の問題へ ➔</button>
-  </div>
+    </nav>
+  </main>
 
   <!-- 外部JavaScript -->
   <script src="script.js"></script>
