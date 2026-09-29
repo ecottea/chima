@@ -5563,15 +5563,6 @@
   },
   {
     "id": 619,
-    "genre": "寺社",
-    "question": "常識だと言う",
-    "reading": "じょうしきだという",
-    "answer": "唐招提寺",
-    "answerReading": "とうしょうだいじ",
-    "extraChar": "き"
-  },
-  {
-    "id": 620,
     "genre": "数学",
     "question": "クンカクンカ吸うさ",
     "reading": "くんかくんかすうさ",
@@ -5580,7 +5571,7 @@
     "extraChar": "く"
   },
   {
-    "id": 621,
+    "id": 620,
     "genre": "映画",
     "question": "内輪ネタのきしめん",
     "reading": "うちわねたのきしめん",
@@ -5589,7 +5580,7 @@
     "extraChar": "た"
   },
   {
-    "id": 622,
+    "id": 621,
     "genre": "天文",
     "question": "裸の奥さん居る",
     "reading": "はだかのおくさんいる",
@@ -5598,7 +5589,7 @@
     "extraChar": "お"
   },
   {
-    "id": 623,
+    "id": 622,
     "genre": "ことわざ",
     "question": "笑顔に初恋してた",
     "reading": "えがおにはつこいしてた",
@@ -5607,7 +5598,7 @@
     "extraChar": "つ"
   },
   {
-    "id": 624,
+    "id": 623,
     "genre": "芸術作品",
     "question": "家によくあるGの巣",
     "reading": "いえによくあるじーのす",
@@ -5616,7 +5607,7 @@
     "extraChar": "じ"
   },
   {
-    "id": 625,
+    "id": 624,
     "genre": "ことわざ",
     "question": "はあ？いなりとかは無いの？",
     "reading": "はあいなりとかはないの",
@@ -5625,7 +5616,7 @@
     "extraChar": "い"
   },
   {
-    "id": 626,
+    "id": 625,
     "genre": "城",
     "question": "肘、故障ね",
     "reading": "ひじこしょうね",
@@ -5634,7 +5625,7 @@
     "extraChar": "し"
   },
   {
-    "id": 627,
+    "id": 626,
     "genre": "漫画・アニメ",
     "question": "サボりの禁止",
     "reading": "さぼりのきんし",
@@ -5643,7 +5634,7 @@
     "extraChar": "さ"
   },
   {
-    "id": 628,
+    "id": 627,
     "genre": "AI",
     "question": "復刻でーす！",
     "reading": "ふっこくでーす",
@@ -5652,7 +5643,7 @@
     "extraChar": "ふ"
   },
   {
-    "id": 629,
+    "id": 628,
     "genre": "ネットスラング",
     "question": "トプ画こだわる",
     "reading": "とぷがこだわる",
@@ -5661,7 +5652,7 @@
     "extraChar": "ぷ"
   },
   {
-    "id": 630,
+    "id": 629,
     "genre": "ボカロ曲",
     "question": "イケメン言われた",
     "reading": "いけめんいわれた",
@@ -5670,7 +5661,7 @@
     "extraChar": "め"
   },
   {
-    "id": 631,
+    "id": 630,
     "genre": "IT",
     "question": "一旦デートね",
     "reading": "いったんでーとね",
@@ -5679,7 +5670,7 @@
     "extraChar": "で"
   },
   {
-    "id": 632,
+    "id": 631,
     "genre": "日本史",
     "question": "枕カバー拭く",
     "reading": "まくらかばーふく",
@@ -5688,7 +5679,7 @@
     "extraChar": "ー"
   },
   {
-    "id": 633,
+    "id": 632,
     "genre": "工芸品",
     "question": "非常に難儀",
     "reading": "ひじょうになんぎ",
@@ -5697,7 +5688,7 @@
     "extraChar": "じ"
   },
   {
-    "id": 634,
+    "id": 633,
     "genre": "楽器",
     "question": "おっぱいがぷるん",
     "reading": "おっぱいがぷるん",
@@ -5706,7 +5697,7 @@
     "extraChar": "っ"
   },
   {
-    "id": 635,
+    "id": 634,
     "genre": "物理学",
     "question": "う…天ぷら食いすぎ",
     "reading": "うてんぷらくいすぎ",
@@ -5715,7 +5706,7 @@
     "extraChar": "ぎ"
   },
   {
-    "id": 636,
+    "id": 635,
     "genre": "植物",
     "question": "上からのドッスン",
     "reading": "うえからのどっすん",
@@ -5724,7 +5715,7 @@
     "extraChar": "っ"
   },
   {
-    "id": 637,
+    "id": 636,
     "genre": "ゲーム",
     "question": "アッー！の動画撮る",
     "reading": "あっーのどうがとる",
@@ -5733,7 +5724,7 @@
     "extraChar": "っ"
   },
   {
-    "id": 638,
+    "id": 637,
     "genre": "バンド",
     "question": "軽くあしらえるん？",
     "reading": "かるくあしらえるん",
@@ -5742,7 +5733,7 @@
     "extraChar": "か"
   },
   {
-    "id": 639,
+    "id": 638,
     "genre": "外国の地名",
     "question": "サンプル見りゃあ好く",
     "reading": "さんぷるみりゃあすく",
@@ -5751,7 +5742,7 @@
     "extraChar": "り"
   },
   {
-    "id": 640,
+    "id": 639,
     "genre": "歴史上の人物",
     "question": "落とし物見えないよ",
     "reading": "おとしものみえないよ",
@@ -5760,7 +5751,7 @@
     "extraChar": "お"
   },
   {
-    "id": 641,
+    "id": 640,
     "genre": "懐メロ",
     "question": "競技用武闘着",
     "reading": "きょうぎようぶとうぎ",
@@ -5769,7 +5760,7 @@
     "extraChar": "よ"
   },
   {
-    "id": 642,
+    "id": 641,
     "genre": "教育機関",
     "question": "いつかリメイクが出んだ",
     "reading": "いつかりめいくがでんだ",
@@ -5778,7 +5769,7 @@
     "extraChar": "で"
   },
   {
-    "id": 643,
+    "id": 642,
     "genre": "数学",
     "question": "故障した！再起動！",
     "reading": "こしょうしたさいきどう",
@@ -5787,7 +5778,7 @@
     "extraChar": "ど"
   },
   {
-    "id": 644,
+    "id": 643,
     "genre": "ゲーム",
     "question": "常識、本当？嘘？",
     "reading": "じょうしきほんとううそ",
@@ -5796,7 +5787,7 @@
     "extraChar": "そ"
   },
   {
-    "id": 645,
+    "id": 644,
     "genre": "施設",
     "question": "腹パンガードしますな",
     "reading": "はらぱんがーどしますな",
@@ -5805,7 +5796,7 @@
     "extraChar": "は"
   },
   {
-    "id": 646,
+    "id": 645,
     "genre": "武器",
     "question": "炭酸ガス",
     "reading": "たんさんがす",
@@ -5814,7 +5805,7 @@
     "extraChar": "さ"
   },
   {
-    "id": 647,
+    "id": 646,
     "genre": "料理",
     "question": "最善どっち？",
     "reading": "さいぜんどっち",
@@ -5823,7 +5814,7 @@
     "extraChar": "ぜ"
   },
   {
-    "id": 648,
+    "id": 647,
     "genre": "日本の地名",
     "question": "ちと居酒屋へ",
     "reading": "ちといざかやへ",
@@ -5832,7 +5823,7 @@
     "extraChar": "ざ"
   },
   {
-    "id": 649,
+    "id": 648,
     "genre": "懐メロ",
     "question": "お湯も入れるね",
     "reading": "おゆもいれるね",
@@ -5841,7 +5832,7 @@
     "extraChar": "ね"
   },
   {
-    "id": 650,
+    "id": 649,
     "genre": "漫画・アニメ",
     "question": "女子のアバター",
     "reading": "じょしのあばたー",
@@ -5850,7 +5841,7 @@
     "extraChar": "ば"
   },
   {
-    "id": 651,
+    "id": 650,
     "genre": "天文学",
     "question": "政権放棄へ",
     "reading": "せいけんほうきへ",
@@ -5859,7 +5850,7 @@
     "extraChar": "け"
   },
   {
-    "id": 652,
+    "id": 651,
     "genre": "日本史",
     "question": "派遣は1年",
     "reading": "はけんはいちねん",
@@ -5868,7 +5859,7 @@
     "extraChar": "ね"
   },
   {
-    "id": 653,
+    "id": 652,
     "genre": "小説・映画",
     "question": "全員のエロ絵",
     "reading": "ぜんいんのえろえ",
@@ -5877,7 +5868,7 @@
     "extraChar": "ん"
   },
   {
-    "id": 654,
+    "id": 653,
     "genre": "漫画・アニメ",
     "question": "進んだロケット",
     "reading": "すすんだろけっと",
@@ -5886,7 +5877,7 @@
     "extraChar": "ろ"
   },
   {
-    "id": 655,
+    "id": 654,
     "genre": "お笑い芸人",
     "question": "オチ無いのかよう",
     "reading": "おちないのかよう",
@@ -5895,7 +5886,7 @@
     "extraChar": "な"
   },
   {
-    "id": 656,
+    "id": 655,
     "genre": "都市",
     "question": "ウルトラバーゲン",
     "reading": "うるとらばーげん",
@@ -5904,7 +5895,7 @@
     "extraChar": "げ"
   },
   {
-    "id": 657,
+    "id": 656,
     "genre": "日本史",
     "question": "自家製石鹸",
     "reading": "じかせいせっけん",
@@ -5913,7 +5904,7 @@
     "extraChar": "け"
   },
   {
-    "id": 658,
+    "id": 657,
     "genre": "ゲーム",
     "question": "サイキックといえば？",
     "reading": "さいきっくといえば",
@@ -5922,7 +5913,7 @@
     "extraChar": "っ"
   },
   {
-    "id": 659,
+    "id": 658,
     "genre": "お笑いコンビ",
     "question": "苛立ち発狂",
     "reading": "いらだちはっきょう",
@@ -5931,7 +5922,7 @@
     "extraChar": "っ"
   },
   {
-    "id": 660,
+    "id": 659,
     "genre": "ボカロ曲",
     "question": "単3あればいい",
     "reading": "たんさんあればいい",
@@ -5940,7 +5931,7 @@
     "extraChar": "た"
   },
   {
-    "id": 661,
+    "id": 660,
     "genre": "施設",
     "question": "特番回ですぞ",
     "reading": "とくばんかいですぞ",
@@ -5949,7 +5940,7 @@
     "extraChar": "で"
   },
   {
-    "id": 662,
+    "id": 661,
     "genre": "ゲーム",
     "question": "ファイルコンバート",
     "reading": "ふぁいるこんばーと",
@@ -5958,7 +5949,7 @@
     "extraChar": "こ"
   },
   {
-    "id": 663,
+    "id": 662,
     "genre": "漫画・アニメ",
     "question": "明太子って無いん？",
     "reading": "めんたいこってないん",
@@ -5967,7 +5958,7 @@
     "extraChar": "っ"
   },
   {
-    "id": 664,
+    "id": 663,
     "genre": "東方Project",
     "question": "生肉賞味するん？",
     "reading": "なまにくしょうみするん",
@@ -5976,7 +5967,7 @@
     "extraChar": "に"
   },
   {
-    "id": 665,
+    "id": 664,
     "genre": "化学",
     "question": "茄子とか瓜、無生産",
     "reading": "なすとかうりむせいさん",
@@ -5985,7 +5976,7 @@
     "extraChar": "せ"
   },
   {
-    "id": 666,
+    "id": 665,
     "genre": "都市",
     "question": "シャツイン派",
     "reading": "しゃついんは",
@@ -5994,7 +5985,7 @@
     "extraChar": "つ"
   },
   {
-    "id": 667,
+    "id": 666,
     "genre": "J-POP",
     "question": "零関数",
     "reading": "れいかんすう",
@@ -6003,7 +5994,7 @@
     "extraChar": "う"
   },
   {
-    "id": 668,
+    "id": 667,
     "genre": "置物",
     "question": "声真似ネキ",
     "reading": "こえまねねき",
@@ -6012,7 +6003,7 @@
     "extraChar": "え"
   },
   {
-    "id": 669,
+    "id": 668,
     "genre": "料理",
     "question": "リアイベ無しか…",
     "reading": "りあいべなしか",
@@ -6021,7 +6012,7 @@
     "extraChar": "あ"
   },
   {
-    "id": 670,
+    "id": 669,
     "genre": "お笑いタレント",
     "question": "古代魔獣",
     "reading": "こだいまじゅう",
@@ -6030,7 +6021,7 @@
     "extraChar": "ゅ"
   },
   {
-    "id": 671,
+    "id": 670,
     "genre": "歴史上の人物",
     "question": "良い記録出せ！",
     "reading": "いいきろくだせ",
@@ -6039,7 +6030,7 @@
     "extraChar": "い"
   },
   {
-    "id": 672,
+    "id": 671,
     "genre": "病気",
     "question": "微妙な頭",
     "reading": "びみょうなあたま",
@@ -6048,7 +6039,7 @@
     "extraChar": "あ"
   },
   {
-    "id": 673,
+    "id": 672,
     "genre": "きんいろモザイク",
     "question": "クレカ天井",
     "reading": "くれかてんじょう",
@@ -6057,7 +6048,7 @@
     "extraChar": "て"
   },
   {
-    "id": 674,
+    "id": 673,
     "genre": "柄",
     "question": "血迷い脱毛",
     "reading": "ちまよいだつもう",
@@ -6066,7 +6057,7 @@
     "extraChar": "だ"
   },
   {
-    "id": 675,
+    "id": 674,
     "genre": "童謡",
     "question": "守りの作戦",
     "reading": "まもりのさくせん",
@@ -6075,7 +6066,7 @@
     "extraChar": "せ"
   },
   {
-    "id": 676,
+    "id": 675,
     "genre": "素粒子物理学",
     "question": "マンガ欲しい！買う！",
     "reading": "まんがほしいかう",
@@ -6084,7 +6075,7 @@
     "extraChar": "し"
   },
   {
-    "id": 677,
+    "id": 676,
     "genre": "日本史",
     "question": "競艇場へ",
     "reading": "きょうていじょうへ",
@@ -6093,7 +6084,7 @@
     "extraChar": "て"
   },
   {
-    "id": 678,
+    "id": 677,
     "genre": "俳優",
     "question": "正解は知ってた",
     "reading": "せいかいはしってた",
@@ -6102,7 +6093,7 @@
     "extraChar": "て"
   },
   {
-    "id": 679,
+    "id": 678,
     "genre": "スポーツ",
     "question": "google要らん派だ",
     "reading": "ぐーぐるいらんはだ",
@@ -6111,7 +6102,7 @@
     "extraChar": "る"
   },
   {
-    "id": 680,
+    "id": 679,
     "genre": "武器",
     "question": "古さあるイラスト",
     "reading": "ふるさあるいらすと",
@@ -6120,7 +6111,7 @@
     "extraChar": "す"
   },
   {
-    "id": 681,
+    "id": 680,
     "genre": "天文",
     "question": "褐色きんにくん",
     "reading": "かっしょくきんにくん",
@@ -6129,7 +6120,7 @@
     "extraChar": "く"
   },
   {
-    "id": 682,
+    "id": 681,
     "genre": "童謡",
     "question": "卒業の日、荒れる",
     "reading": "そつぎょうのひあれる",
@@ -6138,7 +6129,7 @@
     "extraChar": "そ"
   },
   {
-    "id": 683,
+    "id": 682,
     "genre": "政治家",
     "question": "水色主人公",
     "reading": "みずいろしゅじんこう",
@@ -6147,7 +6138,7 @@
     "extraChar": "ゅ"
   },
   {
-    "id": 684,
+    "id": 683,
     "genre": "Dr.スランプ",
     "question": "コンニャロ！追い打ちだ！",
     "reading": "こんにゃろおいうちだ",
@@ -6156,7 +6147,7 @@
     "extraChar": "ろ"
   },
   {
-    "id": 685,
+    "id": 684,
     "genre": "心理学",
     "question": "稼げる手法説いた",
     "reading": "かせげるしゅほうといた",
@@ -6165,7 +6156,7 @@
     "extraChar": "せ"
   },
   {
-    "id": 686,
+    "id": 685,
     "genre": "国",
     "question": "マーガリン派",
     "reading": "まーがりんは",
@@ -6174,7 +6165,7 @@
     "extraChar": "ま"
   },
   {
-    "id": 687,
+    "id": 686,
     "genre": "心霊現象",
     "question": "粗品ばかり",
     "reading": "そしなばかり",
@@ -6183,7 +6174,7 @@
     "extraChar": "そ"
   },
   {
-    "id": 688,
+    "id": 687,
     "genre": "声優",
     "question": "床掃除機",
     "reading": "ゆかそうじき",
@@ -6192,7 +6183,7 @@
     "extraChar": "そ"
   },
   {
-    "id": 689,
+    "id": 688,
     "genre": "イベント",
     "question": "マジ打率良い",
     "reading": "まじだりついい",
@@ -6201,7 +6192,7 @@
     "extraChar": "い"
   },
   {
-    "id": 690,
+    "id": 689,
     "genre": "お笑いタレント",
     "question": "酒の買い溜め",
     "reading": "さけのかいだめ",
@@ -6210,7 +6201,7 @@
     "extraChar": "さ"
   },
   {
-    "id": 691,
+    "id": 690,
     "genre": "乗り物",
     "question": "阪神戦か",
     "reading": "はんしんせんか",
@@ -6219,7 +6210,7 @@
     "extraChar": "は"
   },
   {
-    "id": 692,
+    "id": 691,
     "genre": "外国の地名",
     "question": "こびり付く跡",
     "reading": "こびりつくあと",
@@ -6228,7 +6219,7 @@
     "extraChar": "つ"
   },
   {
-    "id": 693,
+    "id": 692,
     "genre": "ボカロ曲",
     "question": "ダダンダン3",
     "reading": "だだんだんすりー",
@@ -6237,7 +6228,7 @@
     "extraChar": "だ"
   },
   {
-    "id": 694,
+    "id": 693,
     "genre": "モデル",
     "question": "お気に入り見れた",
     "reading": "おきにいりみれた",
@@ -6246,7 +6237,7 @@
     "extraChar": "お"
   },
   {
-    "id": 695,
+    "id": 694,
     "genre": "祝日",
     "question": "ぶどうの品種",
     "reading": "ぶどうのひんしゅ",
@@ -6255,7 +6246,7 @@
     "extraChar": "ど"
   },
   {
-    "id": 696,
+    "id": 695,
     "genre": "映画",
     "question": "魔弾スナイパー",
     "reading": "まだんすないぱー",
@@ -6264,7 +6255,7 @@
     "extraChar": "な"
   },
   {
-    "id": 697,
+    "id": 696,
     "genre": "J-POP",
     "question": "マジ？足し算から？",
     "reading": "まじたしざんから",
@@ -6273,7 +6264,7 @@
     "extraChar": "ざ"
   },
   {
-    "id": 698,
+    "id": 697,
     "genre": "涼宮ハルヒの憂鬱",
     "question": "良作アイコラ",
     "reading": "りょうさくあいこら",
@@ -6282,7 +6273,7 @@
     "extraChar": "い"
   },
   {
-    "id": 699,
+    "id": 698,
     "genre": "ラノベ・アニメの主人公",
     "question": "ちまきが冷ご飯…",
     "reading": "ちまきがひやごはん",
@@ -6291,7 +6282,7 @@
     "extraChar": "ご"
   },
   {
-    "id": 700,
+    "id": 699,
     "genre": "税法",
     "question": "開国してくれん？",
     "reading": "かいこくしてくれん",
@@ -6300,7 +6291,7 @@
     "extraChar": "れ"
   },
   {
-    "id": 701,
+    "id": 700,
     "genre": "教育機関",
     "question": "ノーガード大爆破",
     "reading": "のーがーどだいばくは",
@@ -6309,7 +6300,7 @@
     "extraChar": "の"
   },
   {
-    "id": 702,
+    "id": 701,
     "genre": "機器",
     "question": "週一で投函",
     "reading": "しゅういちでとうかん",
@@ -6318,7 +6309,7 @@
     "extraChar": "し"
   },
   {
-    "id": 703,
+    "id": 702,
     "genre": "動物",
     "question": "ダイアンとジャムパン",
     "reading": "だいあんとじゃむぱん",
@@ -6327,7 +6318,7 @@
     "extraChar": "む"
   },
   {
-    "id": 704,
+    "id": 703,
     "genre": "クラシック音楽",
     "question": "んっ？これ生姜入りの？",
     "reading": "んっこれしょうがいりの",
@@ -6336,7 +6327,7 @@
     "extraChar": "り"
   },
   {
-    "id": 705,
+    "id": 704,
     "genre": "天文学",
     "question": "寄生獣たちが湧く",
     "reading": "きせいじゅうたちがわく",
@@ -6345,7 +6336,7 @@
     "extraChar": "じ"
   },
   {
-    "id": 706,
+    "id": 705,
     "genre": "動物",
     "question": "疲れた！無理！",
     "reading": "つかれたむり",
@@ -6354,7 +6345,7 @@
     "extraChar": "れ"
   },
   {
-    "id": 707,
+    "id": 706,
     "genre": "米",
     "question": "先に指して",
     "reading": "さきにさして",
@@ -6363,7 +6354,7 @@
     "extraChar": "て"
   },
   {
-    "id": 708,
+    "id": 707,
     "genre": "スポーツ",
     "question": "ノーガードボス",
     "reading": "のーがーどぼす",
@@ -6372,7 +6363,7 @@
     "extraChar": "が"
   },
   {
-    "id": 709,
+    "id": 708,
     "genre": "動物",
     "question": "タダ飯あるん？",
     "reading": "ただめしあるん",
@@ -6381,7 +6372,7 @@
     "extraChar": "た"
   },
   {
-    "id": 710,
+    "id": 709,
     "genre": "悪魔",
     "question": "巣穴で住もう",
     "reading": "すあなですもう",
@@ -6390,7 +6381,7 @@
     "extraChar": "な"
   },
   {
-    "id": 711,
+    "id": 710,
     "genre": "ボカロ曲",
     "question": "粗めの作図",
     "reading": "あらめのさくず",
@@ -6399,7 +6390,7 @@
     "extraChar": "ず"
   },
   {
-    "id": 712,
+    "id": 711,
     "genre": "映画",
     "question": "土砂対策",
     "reading": "どしゃたいさく",
@@ -6408,7 +6399,7 @@
     "extraChar": "た"
   },
   {
-    "id": 713,
+    "id": 712,
     "genre": "俳優",
     "question": "青き空かな",
     "reading": "あおきそらかな",
@@ -6417,7 +6408,7 @@
     "extraChar": "そ"
   },
   {
-    "id": 714,
+    "id": 713,
     "genre": "植物",
     "question": "ガチャ引く尼僧",
     "reading": "がちゃひくにそう",
@@ -6426,7 +6417,7 @@
     "extraChar": "が"
   },
   {
-    "id": 715,
+    "id": 714,
     "genre": "VTuber",
     "question": "新たな加湿器",
     "reading": "あらたなかしつき",
@@ -6435,7 +6426,7 @@
     "extraChar": "つ"
   },
   {
-    "id": 716,
+    "id": 715,
     "genre": "薬",
     "question": "足し算めんどい",
     "reading": "たしざんめんどい",
@@ -6444,7 +6435,7 @@
     "extraChar": "ざ"
   },
   {
-    "id": 717,
+    "id": 716,
     "genre": "料理",
     "question": "午後はまた掛け算",
     "reading": "ごごはまたかけざん",
@@ -6453,7 +6444,7 @@
     "extraChar": "ざ"
   },
   {
-    "id": 718,
+    "id": 717,
     "genre": "歴史上の人物",
     "question": "悪人とその闇",
     "reading": "あくにんとそのやみ",
@@ -6462,7 +6453,7 @@
     "extraChar": "あ"
   },
   {
-    "id": 719,
+    "id": 718,
     "genre": "デスノート",
     "question": "体育ブルマ推し",
     "reading": "たいいくぶるまおし",
@@ -6471,7 +6462,7 @@
     "extraChar": "い"
   },
   {
-    "id": 720,
+    "id": 719,
     "genre": "生態学",
     "question": "諸国も参列",
     "reading": "しょこくもさんれつ",
@@ -6480,7 +6471,7 @@
     "extraChar": "こ"
   },
   {
-    "id": 721,
+    "id": 720,
     "genre": "格闘家",
     "question": "クレーマーが来ない",
     "reading": "くれーまーがこない",
@@ -6489,7 +6480,7 @@
     "extraChar": "い"
   },
   {
-    "id": 722,
+    "id": 721,
     "genre": "プロゲーマー",
     "question": "時間攻めはしたい",
     "reading": "じかんぜめはしたい",
@@ -6498,7 +6489,7 @@
     "extraChar": "ぜ"
   },
   {
-    "id": 723,
+    "id": 722,
     "genre": "会計",
     "question": "口喧嘩強者",
     "reading": "くちげんかきょうしゃ",
@@ -6507,7 +6498,7 @@
     "extraChar": "ち"
   },
   {
-    "id": 724,
+    "id": 723,
     "genre": "生物学",
     "question": "黒醤油精製",
     "reading": "くろしょうゆせいせい",
@@ -6516,7 +6507,7 @@
     "extraChar": "ろ"
   },
   {
-    "id": 725,
+    "id": 724,
     "genre": "化学",
     "question": "迫真の上演",
     "reading": "はくしんのじょうえん",
@@ -6525,7 +6516,7 @@
     "extraChar": "じ"
   },
   {
-    "id": 726,
+    "id": 725,
     "genre": "女優",
     "question": "穴丸出し",
     "reading": "あなまるだし",
@@ -6534,7 +6525,7 @@
     "extraChar": "る"
   },
   {
-    "id": 727,
+    "id": 726,
     "genre": "動物",
     "question": "妻の腋嗅ぐ",
     "reading": "つまのわきかぐ",
@@ -6543,7 +6534,7 @@
     "extraChar": "か"
   },
   {
-    "id": 728,
+    "id": 727,
     "genre": "植物",
     "question": "チンポ見せあい",
     "reading": "ちんぽみせあい",
@@ -6552,7 +6543,7 @@
     "extraChar": "み"
   },
   {
-    "id": 729,
+    "id": 728,
     "genre": "VTuber",
     "question": "汁がエロいのね",
     "reading": "しるがえろいのね",
@@ -6561,7 +6552,7 @@
     "extraChar": "い"
   },
   {
-    "id": 730,
+    "id": 729,
     "genre": "故事成語",
     "question": "奥は気持ちいいの",
     "reading": "おくはきもちいいの",
@@ -6570,7 +6561,7 @@
     "extraChar": "も"
   },
   {
-    "id": 731,
+    "id": 730,
     "genre": "日本史",
     "question": "舌入れの快感",
     "reading": "したいれのかいかん",
@@ -6579,7 +6570,7 @@
     "extraChar": "れ"
   },
   {
-    "id": 732,
+    "id": 731,
     "genre": "実業家",
     "question": "粗チン包茎だろう",
     "reading": "そちんほうけいだろう",
@@ -6588,7 +6579,7 @@
     "extraChar": "け"
   },
   {
-    "id": 733,
+    "id": 732,
     "genre": "四字熟語",
     "question": "超舌入れクンニ",
     "reading": "ちょうしたいれくんに",
@@ -6597,7 +6588,7 @@
     "extraChar": "に"
   },
   {
-    "id": 734,
+    "id": 733,
     "genre": "ゴスペル",
     "question": "口淫時の接写",
     "reading": "こういんじのせっしゃ",
@@ -6606,7 +6597,7 @@
     "extraChar": "っ"
   },
   {
-    "id": 735,
+    "id": 734,
     "genre": "数学",
     "question": "先、性交渉した",
     "reading": "さきせいこうしょうした",
@@ -6615,7 +6606,7 @@
     "extraChar": "せ"
   },
   {
-    "id": 736,
+    "id": 735,
     "genre": "超能力",
     "question": "痺れてパー",
     "reading": "しびれてぱー",
@@ -6624,7 +6615,7 @@
     "extraChar": "び"
   },
   {
-    "id": 737,
+    "id": 736,
     "genre": "日本の地名",
     "question": "みがわり出す",
     "reading": "みがわりだす",
@@ -6633,7 +6624,7 @@
     "extraChar": "り"
   },
   {
-    "id": 738,
+    "id": 737,
     "genre": "絵本・アニメ",
     "question": "晴れパかなっ？",
     "reading": "はれぱかなっ",
@@ -6642,7 +6633,7 @@
     "extraChar": "れ"
   },
   {
-    "id": 739,
+    "id": 738,
     "genre": "都道府県",
     "question": "ヌケニンが居た",
     "reading": "ぬけにんがいた",
@@ -6651,7 +6642,7 @@
     "extraChar": "ぬ"
   },
   {
-    "id": 740,
+    "id": 739,
     "genre": "漫画・アニメ",
     "question": "ランクマ人気",
     "reading": "らんくまにんき",
@@ -6660,7 +6651,7 @@
     "extraChar": "ら"
   },
   {
-    "id": 741,
+    "id": 740,
     "genre": "お笑いタレント",
     "question": "赤版くれる？",
     "reading": "あかばんくれる",
@@ -6669,7 +6660,7 @@
     "extraChar": "か"
   },
   {
-    "id": 742,
+    "id": 741,
     "genre": "楽器",
     "question": "悪Zするさ",
     "reading": "あくぜっとするさ",
@@ -6678,7 +6669,7 @@
     "extraChar": "ぜ"
   },
   {
-    "id": 743,
+    "id": 742,
     "genre": "VTuber",
     "question": "ご当地ヤケモン",
     "reading": "ごとうちやけもん",
@@ -6687,7 +6678,7 @@
     "extraChar": "ご"
   },
   {
-    "id": 744,
+    "id": 743,
     "genre": "ディズニーソング",
     "question": "最遅活かせない",
     "reading": "さいちいかせない",
@@ -6696,7 +6687,7 @@
     "extraChar": "い"
   },
   {
-    "id": 745,
+    "id": 744,
     "genre": "アニソン",
     "question": "メガガル焼けずかー…",
     "reading": "めががるやけずかー",
@@ -6705,7 +6696,7 @@
     "extraChar": "め"
   },
   {
-    "id": 746,
+    "id": 745,
     "genre": "お笑いタレント",
     "question": "うち、虫テラ切るよ",
     "reading": "うちむしてらきるよ",
@@ -6714,7 +6705,7 @@
     "extraChar": "き"
   },
   {
-    "id": 747,
+    "id": 746,
     "genre": "児童文学",
     "question": "パオジアン流しさ",
     "reading": "ぱおじあんながしさ",
@@ -6723,7 +6714,7 @@
     "extraChar": "ぱ"
   },
   {
-    "id": 748,
+    "id": 747,
     "genre": "アニソン",
     "question": "にらはねの置きもん",
     "reading": "にらはねのおきもん",
@@ -6732,7 +6723,7 @@
     "extraChar": "ね"
   },
   {
-    "id": 749,
+    "id": 748,
     "genre": "チェーン店",
     "question": "安易のメガガルね",
     "reading": "あんいのめががるね",
@@ -6741,7 +6732,7 @@
     "extraChar": "る"
   },
   {
-    "id": 750,
+    "id": 749,
     "genre": "歴史上の人物",
     "question": "タスキ携帯ガブ",
     "reading": "たすきけいたいがぶ",
@@ -6750,7 +6741,7 @@
     "extraChar": "ぶ"
   },
   {
-    "id": 751,
+    "id": 750,
     "genre": "書籍",
     "question": "オーキド氏と文通",
     "reading": "おーきどしとぶんつう",
@@ -6759,7 +6750,7 @@
     "extraChar": "お"
   },
   {
-    "id": 752,
+    "id": 751,
     "genre": "童謡",
     "question": "ウーラオス入れたのか",
     "reading": "うーらおすいれたのか",
@@ -6768,7 +6759,7 @@
     "extraChar": "お"
   },
   {
-    "id": 753,
+    "id": 752,
     "genre": "企業",
     "question": "クッションにし、瀕死",
     "reading": "くっしょんにしひんし",
@@ -6777,7 +6768,7 @@
     "extraChar": "し"
   },
   {
-    "id": 754,
+    "id": 753,
     "genre": "教育機関",
     "question": "じっくり系ガブマンダ",
     "reading": "じっくりけいがぶまんだ",
@@ -6786,7 +6777,7 @@
     "extraChar": "ま"
   },
   {
-    "id": 755,
+    "id": 754,
     "genre": "環境技術",
     "question": "交代読みで撃つんは？",
     "reading": "こうたいよみでうつんは",
@@ -6795,7 +6786,7 @@
     "extraChar": "み"
   },
   {
-    "id": 756,
+    "id": 755,
     "genre": "動物",
     "question": "殿降臨",
     "reading": "とのこうりん",
@@ -6804,7 +6795,7 @@
     "extraChar": "ん"
   },
   {
-    "id": 757,
+    "id": 756,
     "genre": "食べ物",
     "question": "ワシ、金持ち",
     "reading": "わしかねもち",
@@ -6813,7 +6804,7 @@
     "extraChar": "ね"
   },
   {
-    "id": 758,
+    "id": 757,
     "genre": "漫画・アニメ",
     "question": "回文作る",
     "reading": "かいぶんつくる",
@@ -6822,7 +6813,7 @@
     "extraChar": "る"
   },
   {
-    "id": 759,
+    "id": 758,
     "genre": "観光地",
     "question": "みんな借り物",
     "reading": "みんなかりもの",
@@ -6831,7 +6822,7 @@
     "extraChar": "の"
   },
   {
-    "id": 760,
+    "id": 759,
     "genre": "格闘家",
     "question": "荒い過去作",
     "reading": "あらいかこさく",
@@ -6840,7 +6831,7 @@
     "extraChar": "こ"
   },
   {
-    "id": 761,
+    "id": 760,
     "genre": "女優",
     "question": "気はヤラセかよ…",
     "reading": "きはやらせかよ",
@@ -6849,7 +6840,7 @@
     "extraChar": "せ"
   },
   {
-    "id": 762,
+    "id": 761,
     "genre": "お笑いタレント",
     "question": "肘の故障が…",
     "reading": "ひじのこしょうが",
@@ -6858,7 +6849,7 @@
     "extraChar": "ょ"
   },
   {
-    "id": 763,
+    "id": 762,
     "genre": "スナック菓子",
     "question": "チンパンクソコメ",
     "reading": "ちんぱんくそこめ",
@@ -6867,7 +6858,7 @@
     "extraChar": "く"
   },
   {
-    "id": 764,
+    "id": 763,
     "genre": "酒",
     "question": "皿、万枚割る",
     "reading": "さらまんまいわる",
@@ -6876,7 +6867,7 @@
     "extraChar": "ま"
   },
   {
-    "id": 765,
+    "id": 764,
     "genre": "力士",
     "question": "漢・修造",
     "reading": "おとこしゅうぞう",
@@ -6885,7 +6876,7 @@
     "extraChar": "ぞ"
   },
   {
-    "id": 766,
+    "id": 765,
     "genre": "ボカロ曲",
     "question": "反則成功",
     "reading": "はんそくせいこう",
@@ -6894,7 +6885,7 @@
     "extraChar": "く"
   },
   {
-    "id": 767,
+    "id": 766,
     "genre": "タレント",
     "question": "仕事着触んなや！",
     "reading": "しごとぎさわんなや",
@@ -6903,7 +6894,7 @@
     "extraChar": "と"
   },
   {
-    "id": 768,
+    "id": 767,
     "genre": "歴史上の人物",
     "question": "イケたがイキ過ぎた",
     "reading": "いけたがいきすぎた",
@@ -6912,7 +6903,7 @@
     "extraChar": "ぎ"
   },
   {
-    "id": 769,
+    "id": 768,
     "genre": "漫画・アニメ",
     "question": "うむ、トロッコは止めた",
     "reading": "うむとろっこはとめた",
@@ -6921,7 +6912,7 @@
     "extraChar": "め"
   },
   {
-    "id": 770,
+    "id": 769,
     "genre": "日本史",
     "question": "汗だくの痛いンゴ",
     "reading": "あせだくのいたいんご",
@@ -6930,7 +6921,7 @@
     "extraChar": "だ"
   },
   {
-    "id": 771,
+    "id": 770,
     "genre": "社会問題",
     "question": "原価回収、楽",
     "reading": "げんかかいしゅうらく",
@@ -6939,7 +6930,7 @@
     "extraChar": "か"
   },
   {
-    "id": 772,
+    "id": 771,
     "genre": "宿題",
     "question": "患部、塩素消毒",
     "reading": "かんぶえんそしょうどく",
@@ -6948,7 +6939,7 @@
     "extraChar": "え"
   },
   {
-    "id": 773,
+    "id": 772,
     "genre": "食べ物",
     "question": "すぐミュートされるしん…",
     "reading": "すぐみゅーとされるしん",
@@ -6957,7 +6948,7 @@
     "extraChar": "さ"
   },
   {
-    "id": 774,
+    "id": 773,
     "genre": "法律",
     "question": "淫夢王、国歌候補",
     "reading": "いんむおうこっかこうほ",
@@ -6966,7 +6957,7 @@
     "extraChar": "お"
   },
   {
-    "id": 775,
+    "id": 774,
     "genre": "四字熟語",
     "question": "ドバっとウンチして？",
     "reading": "どばっとうんちして",
@@ -6975,7 +6966,7 @@
     "extraChar": "ど"
   },
   {
-    "id": 776,
+    "id": 775,
     "genre": "ソフトウェア",
     "question": "糞、ドバあっと浴びろ",
     "reading": "くそどばあっとあびろ",
@@ -6984,7 +6975,7 @@
     "extraChar": "そ"
   },
   {
-    "id": 777,
+    "id": 776,
     "genre": "人体",
     "question": "便器の無い田所家",
     "reading": "べんきのないたどころけ",
@@ -6993,7 +6984,7 @@
     "extraChar": "た"
   },
   {
-    "id": 778,
+    "id": 777,
     "genre": "数学",
     "question": "ホモのクソ動画見るん？",
     "reading": "ほものくそどうがみるん",
@@ -7002,7 +6993,7 @@
     "extraChar": "み"
   },
   {
-    "id": 779,
+    "id": 778,
     "genre": "女優",
     "question": "つか困った",
     "reading": "つかこまった",
@@ -7011,7 +7002,7 @@
     "extraChar": "っ"
   },
   {
-    "id": 780,
+    "id": 779,
     "genre": "お笑い芸人",
     "question": "行けたら参加",
     "reading": "いけたらさんか",
@@ -7020,7 +7011,7 @@
     "extraChar": "ら"
   },
   {
-    "id": 781,
+    "id": 780,
     "genre": "人体",
     "question": "収益無い",
     "reading": "しゅうえきない",
@@ -7029,7 +7020,7 @@
     "extraChar": "な"
   },
   {
-    "id": 782,
+    "id": 781,
     "genre": "VTuber",
     "question": "唐澤氏、保護",
     "reading": "からさわしほご",
@@ -7038,7 +7029,7 @@
     "extraChar": "ご"
   },
   {
-    "id": 783,
+    "id": 782,
     "genre": "状態",
     "question": "虎にちゅ～る",
     "reading": "とらにちゅーる",
@@ -7047,7 +7038,7 @@
     "extraChar": "ち"
   },
   {
-    "id": 784,
+    "id": 783,
     "genre": "算数",
     "question": "鉛筆修理",
     "reading": "えんぴつしゅうり",
@@ -7056,7 +7047,7 @@
     "extraChar": "ぴ"
   },
   {
-    "id": 785,
+    "id": 784,
     "genre": "カラオケ",
     "question": "再度天井",
     "reading": "さいどてんじょう",
@@ -7065,7 +7056,7 @@
     "extraChar": "て"
   },
   {
-    "id": 786,
+    "id": 785,
     "genre": "スナック菓子",
     "question": "パスタ折る奴か？",
     "reading": "ぱすたおるやつか",
@@ -7074,7 +7065,7 @@
     "extraChar": "た"
   },
   {
-    "id": 787,
+    "id": 786,
     "genre": "J-POP",
     "question": "ドラマ化した『仁』",
     "reading": "どらまかしたじん",
@@ -7083,7 +7074,7 @@
     "extraChar": "ど"
   },
   {
-    "id": 788,
+    "id": 787,
     "genre": "テーマパーク",
     "question": "カンストいくぞ！やば！",
     "reading": "かんすといくぞやば",
@@ -7092,7 +7083,7 @@
     "extraChar": "や"
   },
   {
-    "id": 789,
+    "id": 788,
     "genre": "イベント",
     "question": "冷凍めかぶ缶",
     "reading": "れいとうめかぶかん",
@@ -7101,7 +7092,7 @@
     "extraChar": "れ"
   },
   {
-    "id": 790,
+    "id": 789,
     "genre": "棋士",
     "question": "八百屋はオマケする",
     "reading": "やおやはおまけする",
@@ -7110,7 +7101,7 @@
     "extraChar": "け"
   },
   {
-    "id": 791,
+    "id": 790,
     "genre": "小説家",
     "question": "バリカタ食わすなや",
     "reading": "ばりかたくわすなや",
@@ -7119,7 +7110,7 @@
     "extraChar": "く"
   },
   {
-    "id": 792,
+    "id": 791,
     "genre": "四字熟語",
     "question": "ん？免許証は？",
     "reading": "んめんきょしょうは",
@@ -7128,7 +7119,7 @@
     "extraChar": "ょ"
   },
   {
-    "id": 793,
+    "id": 792,
     "genre": "武道",
     "question": "検挙してくから",
     "reading": "けんきょしてくから",
@@ -7137,7 +7128,7 @@
     "extraChar": "け"
   },
   {
-    "id": 794,
+    "id": 793,
     "genre": "歴史上の人物",
     "question": "『三体』のドラマ化",
     "reading": "さんたいのどらまか",
@@ -7146,7 +7137,7 @@
     "extraChar": "ん"
   },
   {
-    "id": 795,
+    "id": 794,
     "genre": "教育機関",
     "question": "修正がくるんだ",
     "reading": "しゅうせいがくるんだ",
@@ -7155,7 +7146,7 @@
     "extraChar": "る"
   },
   {
-    "id": 796,
+    "id": 795,
     "genre": "楽曲",
     "question": "すぐ2chしたーい",
     "reading": "すぐにちゃんしたーい",
@@ -7164,7 +7155,7 @@
     "extraChar": "ち"
   },
   {
-    "id": 797,
+    "id": 796,
     "genre": "著作",
     "question": "全てのクソコメいらん",
     "reading": "すべてのくそこめいらん",
@@ -7173,12 +7164,210 @@
     "extraChar": "こ"
   },
   {
-    "id": 798,
+    "id": 797,
     "genre": "予備校",
     "question": "ベクトル：数C範囲",
     "reading": "べくとるすうしーはんい",
     "answer": "東進ハイスクール",
     "answerReading": "とうしんはいすくーる",
     "extraChar": "べ"
+  },
+  {
+    "id": 798,
+    "genre": "動物",
+    "question": "Fラン、ゴミ",
+    "reading": "えふらんごみ",
+    "answer": "フラミンゴ",
+    "answerReading": "ふらみんご",
+    "extraChar": "え"
+  },
+  {
+    "id": 799,
+    "genre": "生物学",
+    "question": "糞料理よ",
+    "reading": "くそりょうりよ",
+    "answer": "葉緑素",
+    "answerReading": "ようりょくそ",
+    "extraChar": "り"
+  },
+  {
+    "id": 800,
+    "genre": "俳優",
+    "question": "イキかけたな",
+    "reading": "いきかけたな",
+    "answer": "田中圭",
+    "answerReading": "たなかけい",
+    "extraChar": "き"
+  },
+  {
+    "id": 801,
+    "genre": "コンピュータ",
+    "question": "アドいっぱい",
+    "reading": "あどいっぱい",
+    "answer": "iPad",
+    "answerReading": "あいぱっど",
+    "extraChar": "い"
+  },
+  {
+    "id": 802,
+    "genre": "建造物",
+    "question": "激辛の鍋",
+    "reading": "げきからのなべ",
+    "answer": "嘆きの壁",
+    "answerReading": "なげきのかべ",
+    "extraChar": "ら"
+  },
+  {
+    "id": 803,
+    "genre": "アスリート",
+    "question": "胡椒舞うの",
+    "reading": "こしょうまうの",
+    "answer": "宇野昌磨",
+    "answerReading": "うのしょうま",
+    "extraChar": "こ"
+  },
+  {
+    "id": 804,
+    "genre": "数学",
+    "question": "高級都市",
+    "reading": "こうきゅうとし",
+    "answer": "恒等式",
+    "answerReading": "こうとうしき",
+    "extraChar": "ゅ"
+  },
+  {
+    "id": 805,
+    "genre": "道具",
+    "question": "服無いじゃんっ！",
+    "reading": "ふくないじゃんっ",
+    "answer": "ジャックナイフ",
+    "answerReading": "じゃっくないふ",
+    "extraChar": "ん"
+  },
+  {
+    "id": 806,
+    "genre": "単位",
+    "question": "江戸すぎるって！",
+    "reading": "えどすぎるって",
+    "answer": "エルステッド",
+    "answerReading": "えるすてっど",
+    "extraChar": "ぎ"
+  },
+  {
+    "id": 807,
+    "genre": "ボカロ曲",
+    "question": "お前に決めます",
+    "reading": "おまえにきめます",
+    "answer": "お気に召すまま",
+    "answerReading": "おきにめすまま",
+    "extraChar": "え"
+  },
+  {
+    "id": 808,
+    "genre": "タレント",
+    "question": "下北往きなの",
+    "reading": "しもきたゆきなの",
+    "answer": "木下優樹菜",
+    "answerReading": "きのしたゆきな",
+    "extraChar": "も"
+  },
+  {
+    "id": 809,
+    "genre": "世界史",
+    "question": "昏睡確定",
+    "reading": "こんすいかくてい",
+    "answer": "インカ帝国",
+    "answerReading": "いんかていこく",
+    "extraChar": "す"
+  },
+  {
+    "id": 810,
+    "genre": "童謡",
+    "question": "お漬物出ない…",
+    "reading": "おつけものでない",
+    "answer": "夏の思い出",
+    "answerReading": "なつのおもいで",
+    "extraChar": "け"
+  },
+  {
+    "id": 811,
+    "genre": "ボカロ曲",
+    "question": "ハバネロトラップー!?",
+    "reading": "はばねろとらっぷー",
+    "answer": "＊ハロー、プラネット。",
+    "answerReading": "はろーぷらねっと",
+    "extraChar": "ば"
+  },
+  {
+    "id": 812,
+    "genre": "会社",
+    "question": "群馬県ほどの地",
+    "reading": "ぐんまけんほどのち",
+    "answer": "ほけんの窓口",
+    "answerReading": "ほけんのまどぐち",
+    "extraChar": "ん"
+  },
+  {
+    "id": 813,
+    "genre": "映画",
+    "question": "ヤニねこ氏のウンチ",
+    "reading": "やにねこしのうんち",
+    "answer": "荒野の七人",
+    "answerReading": "こうやのしちにん",
+    "extraChar": "ね"
+  },
+  {
+    "id": 814,
+    "genre": "企業",
+    "question": "研究で半徹",
+    "reading": "けんきゅうではんてつ",
+    "answer": "阪急電鉄",
+    "answerReading": "はんきゅうでんてつ",
+    "extraChar": "け"
+  },
+  {
+    "id": 815,
+    "genre": "四字熟語",
+    "question": "パクツイはクソっしょ",
+    "reading": "ぱくついはくそっしょ",
+    "answer": "一触即発",
+    "answerReading": "いっしょくそくはつ",
+    "extraChar": "ぱ"
+  },
+  {
+    "id": 816,
+    "genre": "童話",
+    "question": "昼ココア飲みにいく",
+    "reading": "ひるここあのみにいく",
+    "answer": "みにくいアヒルの子",
+    "answerReading": "みにくいあひるのこ",
+    "extraChar": "こ"
+  },
+  {
+    "id": 817,
+    "genre": "映画",
+    "question": "アへ顔の雄キツい",
+    "reading": "あへがおのおすきつい",
+    "answer": "お熱いのがお好き",
+    "answerReading": "おあついのがおすき",
+    "extraChar": "へ"
+  },
+  {
+    "id": 818,
+    "genre": "小説",
+    "question": "仕事し貯金だろう",
+    "reading": "しごとしちょきんだろう",
+    "answer": "騎士団長殺し",
+    "answerReading": "きしだんちょうごろし",
+    "extraChar": "と"
+  },
+  {
+    "id": 819,
+    "genre": "漫画・アニメ",
+    "question": "ニトリ半額じゃんっ！",
+    "reading": "にとりはんがくじゃんっ",
+    "answer": "忍者ハットリくん",
+    "answerReading": "にんじゃはっとりくん",
+    "extraChar": "が"
   }
 ]
