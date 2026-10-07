@@ -269,3 +269,65 @@ button:active {
   from { opacity: 0; transform: translateY(-15px) scale(0.98); }
   to { opacity: 1; transform: translateY(0) scale(1); }
 }
+
+/* 参考リンク（X のカード風） */
+.reference-area {
+  margin-top: 14px;
+  text-align: left;
+}
+.reference-area > strong {
+  color: var(--light-text);
+  font-size: 0.85rem;
+  display: block;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.ref-card {
+  display: flex;
+  gap: 12px;
+  text-decoration: none;
+  color: inherit;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #f8fafc;
+  transition: all 0.2s ease;
+}
+.ref-card:hover {
+  border-color: var(--primary-color);
+  background: #fff;
+  box-shadow: 0 4px 12px rgba(79, 172, 254, 0.15);
+}
+.ref-thumb-wrap {
+  flex: 0 0 160px;
+}
+.ref-thumb {
+  width: 160px;
+  height: 90px;   /* 16:9 */
+  object-fit: cover;
+}
+.ref-info {
+  flex: 1;
+  min-width: 0;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 6px;
+}
+.ref-title {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--text-color);
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  word-break: break-word;
+}
+.ref-domain {
+  font-size: 0.8rem;
+  color: var(--light-text);
+  word-break: break-all;
+}
