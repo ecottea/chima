@@ -187,6 +187,10 @@ button:active {
   width: 100%;
   box-sizing: border-box;
   border: 1px solid #f1f5f9;
+  
+  /* 追加: 1行に収めてはみ出させない */
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 .hidden { display: none !important; }
@@ -228,43 +232,6 @@ button:active {
   border-radius: 30px;
 }
 
-/* 備考エリアを目立たなくするスタイル */
-#remarksArea {
-  margin-top: 16px;
-  font-size: 0.85rem;      /* 全体の文字サイズを小さく（他は1.05rem） */
-  color: #64748b;          /* 文字色を落ち着いたグレーに */
-  border-top: 1px dashed #e2e8f0; /* 上にうっすら破線を引いて区切る */
-  padding-top: 8px;
-}
-
-#remarksArea strong {
-  font-size: 0.75rem;      /* 見出し「備考」の文字もさらに小さく */
-  color: #94a3b8;          /* 見出し色をさらに薄いグレーに */
-  margin-bottom: 2px;
-}
-
-.remarks-style {
-  color: var(--text-color);
-  font-size: 1rem;
-  background: #fff;
-  padding: 6px 12px;
-  border-radius: 6px;
-  display: inline-block;
-  margin-left: 8px;
-  border: 1px solid #e2e8f0;
-}
-
-/* 備考エリア内のリンク用スタイル */
-#remarksArea a {
-  color: #0284c7;
-  text-decoration: underline;
-  word-break: break-all; /* 長いURLが溢れないよう折り返し */
-}
-
-#remarksArea a:hover {
-  color: #0369a1;
-}
-
 @keyframes slideDown {
   from { opacity: 0; transform: translateY(-15px) scale(0.98); }
   to { opacity: 1; transform: translateY(0) scale(1); }
@@ -293,11 +260,25 @@ button:active {
   overflow: hidden;
   background: #f8fafc;
   transition: all 0.2s ease;
+  
+  /* 追加: サムネイルがない場合も高さを維持してレイアウト崩れを防ぐ */
+  min-height: 92px; 
 }
 .ref-card:hover {
   border-color: var(--primary-color);
   background: #fff;
   box-shadow: 0 4px 12px rgba(79, 172, 254, 0.15);
+}
+/* ----- 追加: 参考情報がない（No Data）ときのスタイル ----- */
+.ref-card.no-data {
+  background: #f1f5f9;
+  border-color: #cbd5e1;
+  pointer-events: none; /* クリック無効化 */
+  cursor: default;
+}
+.ref-card.no-data .ref-title {
+  color: #94a3b8;
+  font-weight: normal;
 }
 .ref-thumb-wrap {
   flex: 0 0 160px;

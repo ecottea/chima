@@ -5,7 +5,10 @@
     "question": "例題批評",
     "reading": "れいだいひひょう",
     "answer": "比例代表",
-    "answerReading": "ひれいだいひょう"
+    "answerReading": "ひれいだいひょう",
+    "URL": "https://dic.pixiv.net/a/%E4%BE%8B",
+    "title": "例",
+    "image": "https://dic.pixiv.net/ogp?article_id=4304107&mdate=1780639789"
   },
   {
     "id": 2,
@@ -13,7 +16,9 @@
     "question": "昼の巴戦",
     "reading": "ひるのともえせん",
     "answer": "セントエルモの火",
-    "answerReading": "せんとえるものひ"
+    "answerReading": "せんとえるものひ",
+    "URL": "https://ja.wikipedia.org/wiki/%E5%B7%B4%E6%88%A6",
+    "title": "巴戦 - Wikipedia"
   },
   {
     "id": 3,
@@ -21,7 +26,10 @@
     "question": "彼怖いんだい",
     "reading": "かれこわいんだい",
     "answer": "かいわれ大根",
-    "answerReading": "かいわれだいこん"
+    "answerReading": "かいわれだいこん",
+    "URL": "https://dic.pixiv.net/a/DV",
+    "title": "DV",
+    "image": "https://dic.pixiv.net/ogp?article_id=28322&mdate=1768786188"
   },
   {
     "id": 4,
@@ -37,7 +45,10 @@
     "question": "宇治に来てほしい",
     "reading": "うじにきてほしい",
     "answer": "二次方程式",
-    "answerReading": "にじほうていしき"
+    "answerReading": "にじほうていしき",
+    "URL": "https://dic.pixiv.net/a/%E5%AE%87%E6%B2%BB%E5%B8%82",
+    "title": "宇治市",
+    "image": "https://dic.pixiv.net/ogp?article_id=5092399&mdate=1783636714"
   },
   {
     "id": 6,
@@ -45,7 +56,10 @@
     "question": "サムネ手間だ",
     "reading": "さむねてまだ",
     "answer": "伊達政宗",
-    "answerReading": "だてまさむね"
+    "answerReading": "だてまさむね",
+    "URL": "https://dic.pixiv.net/a/%E3%82%B5%E3%83%A0%E3%83%8D",
+    "title": "サムネ",
+    "image": "https://dic.pixiv.net/ogp?article_id=28605&mdate=1786688481"
   },
   {
     "id": 7,
@@ -61,7 +75,10 @@
     "question": "茄子バーガー",
     "reading": "なすばーがー",
     "answer": "ガスバーナー",
-    "answerReading": "がすばーなー"
+    "answerReading": "がすばーなー",
+    "URL": "https://dic.pixiv.net/a/%E3%83%8F%E3%83%B3%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC",
+    "title": "ハンバーガー",
+    "image": "https://dic.pixiv.net/ogp?article_id=2624&mdate=1791248711"
   },
   {
     "id": 9,
@@ -85,7 +102,10 @@
     "question": "並べ飽きたわ",
     "reading": "ならべあきたわ",
     "answer": "渡辺明",
-    "answerReading": "わたなべあきら"
+    "answerReading": "わたなべあきら",
+    "URL": "https://kotaro-note.com/kifunarabe/",
+    "title": "将棋の上達法「棋譜並べ」【効果的なやり方を教えます】 | コタローノート",
+    "image": "https://kotaro-note.com/wp-content/uploads/2020/12/2012141_棋譜並べ.png"
   },
   {
     "id": 12,
@@ -97,7 +117,7 @@
   },
   {
     "id": 13,
-    "genre": "外国の地名",
+    "genre": "島",
     "question": "討論が前",
     "reading": "とうろんがまえ",
     "answer": "エロマンガ島",
@@ -109,7 +129,10 @@
     "question": "新衣装だよ",
     "reading": "しんいしょうだよ",
     "answer": "吉田松陰",
-    "answerReading": "よしだしょういん"
+    "answerReading": "よしだしょういん",
+    "URL": "https://dic.pixiv.net/a/%E6%96%B0%E8%A1%A3%E8%A3%85",
+    "title": "新衣装",
+    "image": "https://dic.pixiv.net/ogp?article_id=7794849&mdate=1692538588"
   },
   {
     "id": 15,
@@ -117,7 +140,10 @@
     "question": "無地アイライナーはくねくねと",
     "reading": "むじあいらいなーはくねくねと",
     "answer": "アイネ・クライネ・ナハトムジーク",
-    "answerReading": "あいねくらいねなはとむじーく"
+    "answerReading": "あいねくらいねなはとむじーく",
+    "URL": "https://dic.pixiv.net/a/%E3%82%A2%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC",
+    "title": "アイライナー",
+    "image": "https://dic.pixiv.net/ogp?article_id=7388800&mdate=1651722065"
   },
   {
     "id": 16,
@@ -125,7 +151,10 @@
     "question": "3合完食",
     "reading": "さんごうかんしょく",
     "answer": "三国干渉",
-    "answerReading": "さんごくかんしょう"
+    "answerReading": "さんごくかんしょう",
+    "URL": "https://dic.pixiv.net/a/%E3%81%9A%E3%82%93%E3%81%A0%E3%81%A9%E3%82%93",
+    "title": "ずんだどん",
+    "image": "https://dic.pixiv.net/ogp?article_id=9776510&mdate=1785603695"
   },
   {
     "id": 17,
@@ -133,7 +162,10 @@
     "question": "チン凸所望",
     "reading": "ちんとつしょもう",
     "answer": "猪突猛進",
-    "answerReading": "ちょとつもうしん"
+    "answerReading": "ちょとつもうしん",
+    "URL": "https://dic.pixiv.net/a/%E3%81%A1%E3%82%93%E5%87%B8",
+    "title": "ちん凸",
+    "image": "https://dic.pixiv.net/ogp?article_id=7691292&mdate=1754840964"
   },
   {
     "id": 18,
@@ -149,7 +181,10 @@
     "question": "今メン限",
     "reading": "いまめんげん",
     "answer": "インゲンマメ",
-    "answerReading": "いんげんまめ"
+    "answerReading": "いんげんまめ",
+    "URL": "https://dic.pixiv.net/a/%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E9%99%90%E5%AE%9A",
+    "title": "メンバー限定",
+    "image": "https://dic.pixiv.net/ogp?article_id=9388697&mdate=1773773042"
   },
   {
     "id": 20,
@@ -157,7 +192,10 @@
     "question": "小屋、熊居た",
     "reading": "こやくまいた",
     "answer": "邪馬台国",
-    "answerReading": "やまたいこく"
+    "answerReading": "やまたいこく",
+    "URL": "https://dic.pixiv.net/a/%E5%AE%B6%E5%86%85%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%AF%E3%83%9E%E3%81%A7%E3%81%AA",
+    "title": "家内じゃなくてクマでな",
+    "image": "https://dic.pixiv.net/ogp?article_id=9213300&mdate=1775740842"
   },
   {
     "id": 21,
@@ -165,7 +203,10 @@
     "question": "やる夫は仲間",
     "reading": "やるおはなかま",
     "answer": "花山薫",
-    "answerReading": "はなやまかおる"
+    "answerReading": "はなやまかおる",
+    "URL": "https://dic.pixiv.net/a/%E3%82%84%E3%82%8B%E5%A4%AB",
+    "title": "やる夫",
+    "image": "https://dic.pixiv.net/ogp?article_id=5547&mdate=1776490485"
   },
   {
     "id": 22,
@@ -173,7 +214,10 @@
     "question": "釧路漂う",
     "reading": "くしろただよう",
     "answer": "吉田拓郎",
-    "answerReading": "よしだたくろう"
+    "answerReading": "よしだたくろう",
+    "URL": "https://dic.pixiv.net/a/%E9%87%A7%E8%B7%AF",
+    "title": "釧路",
+    "image": "https://dic.pixiv.net/ogp?article_id=4270711&mdate=1781798719"
   },
   {
     "id": 23,
@@ -181,7 +225,10 @@
     "question": "画伯居た、草",
     "reading": "がはくいたくさ",
     "answer": "博学多才",
-    "answerReading": "はくがくたさい"
+    "answerReading": "はくがくたさい",
+    "URL": "https://www.youtube.com/watch?v=NvAJhLs8Fec",
+    "title": "【放送事故】はいだしょうこお姉さんのスプーの絵描き歌騒動www",
+    "image": "https://i.ytimg.com/vi/NvAJhLs8Fec/hqdefault.jpg"
   },
   {
     "id": 24,
@@ -189,7 +236,10 @@
     "question": "苦戦、3乙",
     "reading": "くせんさんおつ",
     "answer": "草津温泉",
-    "answerReading": "くさつおんせん"
+    "answerReading": "くさつおんせん",
+    "URL": "https://dic.pixiv.net/a/3%E4%B9%99",
+    "title": "3乙",
+    "image": "https://dic.pixiv.net/ogp?article_id=9815032&mdate=1791457624"
   },
   {
     "id": 25,
@@ -197,7 +247,10 @@
     "question": "加湿成功",
     "reading": "かしつせいこう",
     "answer": "回折格子",
-    "answerReading": "かいせつこうし"
+    "answerReading": "かいせつこうし",
+    "URL": "https://www.youtube.com/watch?v=bG7jFulbENE",
+    "title": "加湿器は「無から水を生み出して加湿する」と思い込んでいて、自分の過失を時代のせいにするさくらみこ、ざわつくコメント欄【ホロライブ切り抜き】",
+    "image": "https://i.ytimg.com/vi/bG7jFulbENE/maxresdefault.jpg"
   },
   {
     "id": 26,
@@ -205,7 +258,10 @@
     "question": "整数は好き",
     "reading": "せいすうはすき",
     "answer": "積水ハウス",
-    "answerReading": "せきすいはうす"
+    "answerReading": "せきすいはうす",
+    "URL": "https://dic.pixiv.net/a/%E6%95%B4%E6%95%B0",
+    "title": "整数",
+    "image": "https://dic.pixiv.net/ogp?article_id=4174262&mdate=1768986579"
   },
   {
     "id": 27,
@@ -213,11 +269,14 @@
     "question": "月夜と紅葉",
     "reading": "つきよともみじ",
     "answer": "辻元清美",
-    "answerReading": "つじもときよみ"
+    "answerReading": "つじもときよみ",
+    "URL": "https://dic.pixiv.net/a/%E7%A7%8B",
+    "title": "秋",
+    "image": "https://dic.pixiv.net/ogp?article_id=82&mdate=1781620703"
   },
   {
     "id": 28,
-    "genre": "ゲーム",
+    "genre": "アクションゲーム",
     "question": "まだ鞠高いし",
     "reading": "まだまりたかいし",
     "answer": "塊魂",
@@ -237,7 +296,10 @@
     "question": "早よカキコしたれ",
     "reading": "はよかきこしたれ",
     "answer": "高橋是清",
-    "answerReading": "たかはしこれきよ"
+    "answerReading": "たかはしこれきよ",
+    "URL": "https://dic.pixiv.net/a/%E3%82%AB%E3%82%AD%E3%82%B3",
+    "title": "カキコ",
+    "image": "https://dic.pixiv.net/ogp?article_id=8409589&mdate=1688346659"
   },
   {
     "id": 31,
@@ -253,7 +315,10 @@
     "question": "清楚系描きたい",
     "reading": "せいそけいかきたい",
     "answer": "形態素解析",
-    "answerReading": "けいたいそかいせき"
+    "answerReading": "けいたいそかいせき",
+    "URL": "https://dic.pixiv.net/a/%E6%B8%85%E6%A5%9A%E7%B3%BB",
+    "title": "清楚系",
+    "image": "https://dic.pixiv.net/ogp?article_id=8414547&mdate=1688534490"
   },
   {
     "id": 33,
@@ -261,7 +326,10 @@
     "question": "新テニの曲や！",
     "reading": "しんてにのきょくや",
     "answer": "紀伊國屋書店",
-    "answerReading": "きのくにやしょてん"
+    "answerReading": "きのくにやしょてん",
+    "URL": "https://dic.pixiv.net/a/%E6%96%B0%E3%83%86%E3%83%8B%E3%82%B9%E3%81%AE%E7%8E%8B%E5%AD%90%E6%A7%98",
+    "title": "新テニスの王子様",
+    "image": "https://dic.pixiv.net/ogp?article_id=53019&mdate=1790862132"
   },
   {
     "id": 34,
@@ -269,7 +337,10 @@
     "question": "大仁田の裁判",
     "reading": "おおにたのさいばん",
     "answer": "おばたのお兄さん",
-    "answerReading": "おばたのおにいさん"
+    "answerReading": "おばたのおにいさん",
+    "URL": "https://dic.pixiv.net/a/%E5%A4%A7%E4%BB%81%E7%94%B0%E5%8E%9A",
+    "title": "大仁田厚",
+    "image": "https://dic.pixiv.net/ogp?article_id=4551245&mdate=1790813806"
   },
   {
     "id": 35,
@@ -277,7 +348,10 @@
     "question": "マサラの大仏だ",
     "reading": "まさらのだいぶつだ",
     "answer": "松平定信",
-    "answerReading": "まつだいらさだのぶ"
+    "answerReading": "まつだいらさだのぶ",
+    "URL": "https://dic.pixiv.net/a/%E3%83%9E%E3%82%B5%E3%83%A9%E3%82%BF%E3%82%A6%E3%83%B3",
+    "title": "マサラタウン",
+    "image": "https://dic.pixiv.net/ogp?article_id=810817&mdate=1734663469"
   },
   {
     "id": 36,
@@ -301,7 +375,9 @@
     "question": "鼻曲がるね",
     "reading": "はなまがるね",
     "answer": "長濱ねる",
-    "answerReading": "ながはまねる"
+    "answerReading": "ながはまねる",
+    "URL": "https://proverb-encyclopedia.com/hanamagaru/",
+    "title": "【鼻が曲がる】の意味と使い方や例文（慣用句） – ことわざ・慣用句の百科事典"
   },
   {
     "id": 39,
@@ -309,7 +385,10 @@
     "question": "ゴミ拾う",
     "reading": "ごみひろう",
     "answer": "郷ひろみ",
-    "answerReading": "ごうひろみ"
+    "answerReading": "ごうひろみ",
+    "URL": "https://dic.pixiv.net/a/2ch%E6%B9%98%E5%8D%97%E3%82%B4%E3%83%9F%E6%8B%BE%E3%81%84%E3%82%AA%E3%83%95",
+    "title": "2ch湘南ゴミ拾いオフ",
+    "image": "https://dic.pixiv.net/ogp?article_id=9124681&mdate=1723104668"
   },
   {
     "id": 40,
@@ -317,7 +396,10 @@
     "question": "うん？どしたん？",
     "reading": "うんどしたん",
     "answer": "単振動",
-    "answerReading": "たんしんどう"
+    "answerReading": "たんしんどう",
+    "URL": "https://dic.pixiv.net/a/%E3%81%A9%E3%81%97%E3%81%9F%E3%82%93%E8%A9%B1%E8%81%9E%E3%81%93%E3%81%86%E3%81%8B%3F",
+    "title": "どしたん話聞こうか?",
+    "image": "https://dic.pixiv.net/ogp?article_id=6662936&mdate=1777886198"
   },
   {
     "id": 41,
@@ -325,15 +407,21 @@
     "question": "トランプ君",
     "reading": "とらんぷくん",
     "answer": "プランクトン",
-    "answerReading": "ぷらんくとん"
+    "answerReading": "ぷらんくとん",
+    "URL": "https://dic.pixiv.net/a/%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%E3%83%BB%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97",
+    "title": "ドナルド・トランプ",
+    "image": "https://dic.pixiv.net/ogp?article_id=4337449&mdate=1791377275"
   },
   {
     "id": 42,
-    "genre": "日本の地名",
+    "genre": "日本地理",
     "question": "ああ理系か",
     "reading": "あありけいか",
     "answer": "有明海",
-    "answerReading": "ありあけかい"
+    "answerReading": "ありあけかい",
+    "URL": "https://dic.pixiv.net/a/%E7%90%86%E7%B3%BB",
+    "title": "理系",
+    "image": "https://dic.pixiv.net/ogp?article_id=4376340&mdate=1771764532"
   },
   {
     "id": 43,
@@ -341,7 +429,10 @@
     "question": "ウニ天丼",
     "reading": "うにてんどん",
     "answer": "任天堂",
-    "answerReading": "にんてんどう"
+    "answerReading": "にんてんどう",
+    "URL": "https://dic.pixiv.net/a/%E5%A4%A9%E4%B8%BC",
+    "title": "天丼",
+    "image": "https://dic.pixiv.net/ogp?article_id=30354&mdate=1772775383"
   },
   {
     "id": 44,
@@ -349,7 +440,10 @@
     "question": "ぐう聖人",
     "reading": "ぐうせいじん",
     "answer": "伊勢神宮",
-    "answerReading": "いせじんぐう"
+    "answerReading": "いせじんぐう",
+    "URL": "https://dic.pixiv.net/a/%E3%81%90%E3%81%86",
+    "title": "ぐう",
+    "image": "https://dic.pixiv.net/ogp?article_id=5190145&mdate=1605611089"
   },
   {
     "id": 45,
@@ -357,7 +451,10 @@
     "question": "辛い白菜",
     "reading": "からいはくさい",
     "answer": "井原西鶴",
-    "answerReading": "いはらさいかく"
+    "answerReading": "いはらさいかく",
+    "URL": "https://dic.pixiv.net/a/%E7%99%BD%E8%8F%9C",
+    "title": "白菜",
+    "image": "https://dic.pixiv.net/ogp?article_id=10626&mdate=1765108042"
   },
   {
     "id": 46,
@@ -365,7 +462,10 @@
     "question": "謹製痛バ",
     "reading": "きんせいいたば",
     "answer": "大器晩成",
-    "answerReading": "たいきばんせい"
+    "answerReading": "たいきばんせい",
+    "URL": "https://dic.pixiv.net/a/%E7%97%9B%E3%83%90%E3%83%83%E3%82%B0",
+    "title": "痛バッグ",
+    "image": "https://dic.pixiv.net/ogp?article_id=8808636&mdate=1774857672"
   },
   {
     "id": 47,
@@ -373,7 +473,10 @@
     "question": "キッズとサーカス",
     "reading": "きっずとさーかす",
     "answer": "鈴鹿サーキット",
-    "answerReading": "すずかさーきっと"
+    "answerReading": "すずかさーきっと",
+    "URL": "https://dic.pixiv.net/a/%E3%82%B5%E3%83%BC%E3%82%AB%E3%82%B9",
+    "title": "サーカス",
+    "image": "https://dic.pixiv.net/ogp?article_id=9339&mdate=1788324184"
   },
   {
     "id": 48,
@@ -389,11 +492,14 @@
     "question": "根っこタフじゃん",
     "reading": "ねっこたふじゃん",
     "answer": "猫踏んじゃった",
-    "answerReading": "ねこふんじゃった"
+    "answerReading": "ねこふんじゃった",
+    "URL": "https://dic.pixiv.net/a/%E3%81%9F%E3%82%93%E3%81%BD%E3%81%BD",
+    "title": "たんぽぽ",
+    "image": "https://dic.pixiv.net/ogp?article_id=3235&mdate=1773492723"
   },
   {
     "id": 50,
-    "genre": "ゲーム",
+    "genre": "ゲーム・アニメ",
     "question": "アイスマタドール",
     "reading": "あいすまたどーる",
     "answer": "アイドルマスター",
@@ -405,7 +511,10 @@
     "question": "至高の将棋",
     "reading": "しこうのしょうぎ",
     "answer": "鎬昂昇",
-    "answerReading": "しのぎこうしょう"
+    "answerReading": "しのぎこうしょう",
+    "URL": "https://dic.pixiv.net/a/%E5%B0%86%E6%A3%8B",
+    "title": "将棋",
+    "image": "https://dic.pixiv.net/ogp?article_id=9142&mdate=1789349476"
   },
   {
     "id": 52,
@@ -413,7 +522,10 @@
     "question": "ロックマン.img",
     "reading": "ろっくまんいめーじ",
     "answer": "メジロマックイーン",
-    "answerReading": "めじろまっくいーん"
+    "answerReading": "めじろまっくいーん",
+    "URL": "https://dic.pixiv.net/a/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3%E3%82%A8%E3%82%B0%E3%82%BC",
+    "title": "ロックマンエグゼ",
+    "image": "https://dic.pixiv.net/ogp?article_id=3892&mdate=1779842754"
   },
   {
     "id": 53,
@@ -421,7 +533,10 @@
     "question": "うな重は高いの…",
     "reading": "うなじゅうはたかいの",
     "answer": "怪獣の花唄",
-    "answerReading": "かいじゅうのはなうた"
+    "answerReading": "かいじゅうのはなうた",
+    "URL": "https://dic.pixiv.net/a/%E3%81%86%E3%81%AA%E9%87%8D",
+    "title": "うな重",
+    "image": "https://dic.pixiv.net/ogp?article_id=241918&mdate=1760568106"
   },
   {
     "id": 54,
@@ -429,7 +544,10 @@
     "question": "ワイ、さきいかバクバク",
     "reading": "わいさきいかばくばく",
     "answer": "バイク川崎バイク",
-    "answerReading": "ばいくかわさきばいく"
+    "answerReading": "ばいくかわさきばいく",
+    "URL": "https://7premium.jp/product/search/detail?id=9030",
+    "title": "ソフトさきいか 39g | セブンプレミアム公式",
+    "image": "https://7premium.jp/files/item/2021_guidelines/4902181104880_k.jpg"
   },
   {
     "id": 55,
@@ -453,7 +571,10 @@
     "question": "助手くん動転",
     "reading": "じょしゅくんどうてん",
     "answer": "ジュンク堂書店",
-    "answerReading": "じゅんくどうしょてん"
+    "answerReading": "じゅんくどうしょてん",
+    "URL": "https://dic.pixiv.net/a/%E5%8A%A9%E6%89%8B%E3%81%8F%E3%82%93",
+    "title": "助手くん",
+    "image": "https://dic.pixiv.net/ogp?article_id=9724288&mdate=1745982167"
   },
   {
     "id": 58,
@@ -469,15 +590,21 @@
     "question": "良い寿司だ",
     "reading": "いいすしだ",
     "answer": "石田スイ",
-    "answerReading": "いしだすい"
+    "answerReading": "いしだすい",
+    "URL": "https://dic.pixiv.net/a/%E5%AF%BF%E5%8F%B8",
+    "title": "寿司",
+    "image": "https://dic.pixiv.net/ogp?article_id=8979&mdate=1790510434"
   },
   {
     "id": 60,
-    "genre": "日本の地名",
+    "genre": "日本地理",
     "question": "わ！白い粉！",
     "reading": "わしろいこな",
     "answer": "猪苗代湖",
-    "answerReading": "いなわしろこ"
+    "answerReading": "いなわしろこ",
+    "URL": "https://dic.pixiv.net/a/%E3%82%B5%E3%83%BC%E3%83%83%21%28%E8%BF%AB%E7%9C%9F%29",
+    "title": "サーッ!(迫真)",
+    "image": "https://dic.pixiv.net/ogp?article_id=4641198&mdate=1778918169"
   },
   {
     "id": 61,
@@ -493,7 +620,10 @@
     "question": "妖精居た",
     "reading": "ようせいいた",
     "answer": "大西洋",
-    "answerReading": "たいせいよう"
+    "answerReading": "たいせいよう",
+    "URL": "https://dic.pixiv.net/a/%E5%A6%96%E7%B2%BE",
+    "title": "妖精",
+    "image": "https://dic.pixiv.net/ogp?article_id=231&mdate=1788420160"
   },
   {
     "id": 63,
@@ -501,7 +631,10 @@
     "question": "個人行動",
     "reading": "こじんこうどう",
     "answer": "近藤浩治",
-    "answerReading": "こんどうこうじ"
+    "answerReading": "こんどうこうじ",
+    "URL": "https://dic.pixiv.net/a/%E3%81%BC%E3%81%A3%E3%81%A1",
+    "title": "ぼっち",
+    "image": "https://dic.pixiv.net/ogp?article_id=28122&mdate=1790266963"
   },
   {
     "id": 64,
@@ -509,7 +642,10 @@
     "question": "マイクラ火事だ",
     "reading": "まいくらかじだ",
     "answer": "鎌倉時代",
-    "answerReading": "かまくらじだい"
+    "answerReading": "かまくらじだい",
+    "URL": "https://www.youtube.com/watch?v=J7qXZvjdv4o",
+    "title": "「あっちゅあっちゅ」が誕生した伝説の名シーン【ホロライブ切り抜き/さくらみこ】",
+    "image": "https://i.ytimg.com/vi/J7qXZvjdv4o/maxresdefault.jpg"
   },
   {
     "id": 65,
@@ -517,7 +653,10 @@
     "question": "3度も王手",
     "reading": "さんどもおうて",
     "answer": "表参道",
-    "answerReading": "おもてさんどう"
+    "answerReading": "おもてさんどう",
+    "URL": "https://dic.pixiv.net/a/%E7%8E%8B%E6%89%8B",
+    "title": "王手",
+    "image": "https://dic.pixiv.net/ogp?article_id=4398313&mdate=1791199297"
   },
   {
     "id": 66,
@@ -525,7 +664,10 @@
     "question": "若い漁師",
     "reading": "わかいりょうし",
     "answer": "石川遼",
-    "answerReading": "いしかわりょう"
+    "answerReading": "いしかわりょう",
+    "URL": "https://dic.pixiv.net/a/%E3%83%90%E3%83%8B%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3",
+    "title": "バニーガーデン",
+    "image": "https://dic.pixiv.net/ogp?article_id=9061165&mdate=1786850163"
   },
   {
     "id": 67,
@@ -533,7 +675,10 @@
     "question": "ヘソの意味、無い",
     "reading": "へそのいみない",
     "answer": "磯野波平",
-    "answerReading": "いそのなみへい"
+    "answerReading": "いそのなみへい",
+    "URL": "https://dic.pixiv.net/a/%E3%81%B8%E3%81%9D",
+    "title": "へそ",
+    "image": "https://dic.pixiv.net/ogp?article_id=2074&mdate=1790410336"
   },
   {
     "id": 68,
@@ -541,7 +686,10 @@
     "question": "しばき合いしたか",
     "reading": "しばきあいしたか",
     "answer": "石橋貴明",
-    "answerReading": "いしばしたかあき"
+    "answerReading": "いしばしたかあき",
+    "URL": "https://dic.pixiv.net/a/%E3%82%B4%E3%83%9C%E3%82%A6%E3%81%97%E3%81%B0%E3%81%8D%E5%90%88%E3%81%84%E5%AF%BE%E6%B1%BA",
+    "title": "ゴボウしばき合い対決",
+    "image": "https://dic.pixiv.net/ogp?article_id=5270494&mdate=1735443116"
   },
   {
     "id": 69,
@@ -549,7 +697,10 @@
     "question": "修了式",
     "reading": "しゅうりょうしき",
     "answer": "消臭力",
-    "answerReading": "しょうしゅうりき"
+    "answerReading": "しょうしゅうりき",
+    "URL": "https://dic.pixiv.net/a/%E4%BF%AE%E4%BA%86%E5%BC%8F",
+    "title": "修了式",
+    "image": "https://dic.pixiv.net/ogp?article_id=10584506&mdate=1757117225"
   },
   {
     "id": 70,
@@ -557,7 +708,10 @@
     "question": "サボテン完売",
     "reading": "さぼてんかんばい",
     "answer": "天才バカボン",
-    "answerReading": "てんさいばかぼん"
+    "answerReading": "てんさいばかぼん",
+    "URL": "https://dic.pixiv.net/a/%E3%82%B5%E3%83%9C%E3%83%86%E3%83%B3",
+    "title": "サボテン",
+    "image": "https://dic.pixiv.net/ogp?article_id=4781&mdate=1790767934"
   },
   {
     "id": 71,
@@ -565,7 +719,10 @@
     "question": "龍舞し、勝つ",
     "reading": "りゅうまいしかつ",
     "answer": "対馬海流",
-    "answerReading": "つしまかいりゅう"
+    "answerReading": "つしまかいりゅう",
+    "URL": "https://dic.pixiv.net/a/%E3%82%8A%E3%82%85%E3%81%86%E3%81%AE%E3%81%BE%E3%81%84",
+    "title": "りゅうのまい",
+    "image": "https://dic.pixiv.net/ogp?article_id=4216443&mdate=1779119388"
   },
   {
     "id": 72,
@@ -573,7 +730,10 @@
     "question": "対抗形ですよ",
     "reading": "たいこうけいですよ",
     "answer": "太陽系デスコ",
-    "answerReading": "たいようけいですこ"
+    "answerReading": "たいようけいですこ",
+    "URL": "https://xn--pet04dr1n5x9a.com/%E5%B0%86%E6%A3%8B%E7%94%A8%E8%AA%9E/%E5%AF%BE%E6%8A%97%E5%BD%A2.html",
+    "title": "対抗形 - 将棋用語説明｜将棋講座ドットコム",
+    "image": "https://xn--pet04dr1n5x9a.com/img/ogimage/用語駒.png"
   },
   {
     "id": 73,
@@ -589,7 +749,10 @@
     "question": "破格の三塁打",
     "reading": "はかくのさんるいだ",
     "answer": "春の大三角",
-    "answerReading": "はるのだいさんかく"
+    "answerReading": "はるのだいさんかく",
+    "URL": "https://dic.pixiv.net/a/%E4%B8%89%E5%A1%81%E6%89%93",
+    "title": "三塁打",
+    "image": "https://dic.pixiv.net/ogp?article_id=4235964&mdate=1728705650"
   },
   {
     "id": 75,
@@ -597,7 +760,10 @@
     "question": "蹴りやすい課長",
     "reading": "けりやすいかちょう",
     "answer": "いかりや長介",
-    "answerReading": "いかりやちょうすけ"
+    "answerReading": "いかりやちょうすけ",
+    "URL": "https://dic.pixiv.net/a/%E8%AA%B2%E9%95%B7%E3%81%93%E3%82%8F%E3%82%8C%E3%82%8B",
+    "title": "課長こわれる",
+    "image": "https://dic.pixiv.net/ogp?article_id=5440631&mdate=1784385806"
   },
   {
     "id": 76,
@@ -621,7 +787,10 @@
     "question": "ムウマ♀",
     "reading": "むうまめす",
     "answer": "ウマ娘",
-    "answerReading": "うまむすめ"
+    "answerReading": "うまむすめ",
+    "URL": "https://dic.pixiv.net/a/%E3%83%A0%E3%82%A6%E3%83%9E",
+    "title": "ムウマ",
+    "image": "https://dic.pixiv.net/ogp?article_id=8947&mdate=1790288870"
   },
   {
     "id": 79,
@@ -629,7 +798,10 @@
     "question": "パン粉要る",
     "reading": "ぱんこいる",
     "answer": "コンパイル",
-    "answerReading": "こんぱいる"
+    "answerReading": "こんぱいる",
+    "URL": "https://dic.pixiv.net/a/%E3%83%91%E3%83%B3%E7%B2%89",
+    "title": "パン粉",
+    "image": "https://dic.pixiv.net/ogp?article_id=6762853&mdate=1625659383"
   },
   {
     "id": 80,
@@ -653,7 +825,10 @@
     "question": "禁書の保持",
     "reading": "きんしょのほじ",
     "answer": "巨人の星",
-    "answerReading": "きょじんのほし"
+    "answerReading": "きょじんのほし",
+    "URL": "https://dic.pixiv.net/a/%E3%83%81%E3%80%82",
+    "title": "チ。",
+    "image": "https://dic.pixiv.net/ogp?article_id=7518912&mdate=1742955602"
   },
   {
     "id": 83,
@@ -669,7 +844,10 @@
     "question": "野次馬検知",
     "reading": "やじうまけんち",
     "answer": "山内健司",
-    "answerReading": "やまうちけんじ"
+    "answerReading": "やまうちけんじ",
+    "URL": "https://dic.pixiv.net/a/%E9%87%8E%E6%AC%A1%E9%A6%AC",
+    "title": "野次馬",
+    "image": "https://dic.pixiv.net/ogp?article_id=7070077&mdate=1738280967"
   },
   {
     "id": 85,
@@ -693,7 +871,10 @@
     "question": "臭すぎた歯間",
     "reading": "くさすぎたしかん",
     "answer": "高杉晋作",
-    "answerReading": "たかすぎしんさく"
+    "answerReading": "たかすぎしんさく",
+    "URL": "https://dic.pixiv.net/a/%E6%AD%AF%E9%96%93%E3%83%96%E3%83%A9%E3%82%B7",
+    "title": "歯間ブラシ",
+    "image": "https://dic.pixiv.net/ogp?article_id=8920538&mdate=1772631811"
   },
   {
     "id": 88,
@@ -717,7 +898,10 @@
     "question": "カカシの引退",
     "reading": "かかしのいんたい",
     "answer": "大化の改新",
-    "answerReading": "たいかのかいしん"
+    "answerReading": "たいかのかいしん",
+    "URL": "https://dic.pixiv.net/a/%E3%81%AF%E3%81%9F%E3%81%91%E3%82%AB%E3%82%AB%E3%82%B7",
+    "title": "はたけカカシ",
+    "image": "https://dic.pixiv.net/ogp?article_id=38701&mdate=1784297431"
   },
   {
     "id": 91,
@@ -725,7 +909,10 @@
     "question": "再三の誤BAN",
     "reading": "さいさんのごばん",
     "answer": "最後の晩餐",
-    "answerReading": "さいごのばんさん"
+    "answerReading": "さいごのばんさん",
+    "URL": "https://dic.nicovideo.jp/a/%E8%AA%A4ban",
+    "title": "誤BANとは (ゴバンとは) [単語記事] - ニコニコ大百科",
+    "image": "https://dic.nicovideo.jp/img/og_b.webp"
   },
   {
     "id": 92,
@@ -741,7 +928,10 @@
     "question": "俺はアントニー",
     "reading": "おれはあんとにー",
     "answer": "アニ・レオンハート",
-    "answerReading": "あにれおんはーと"
+    "answerReading": "あにれおんはーと",
+    "URL": "https://dic.pixiv.net/a/%E3%83%9E%E3%83%86%E3%83%B3%E3%83%AD%E3%82%A6",
+    "title": "マテンロウ",
+    "image": "https://dic.pixiv.net/ogp?article_id=7943450&mdate=1789560406"
   },
   {
     "id": 94,
@@ -757,7 +947,10 @@
     "question": "「うい先生？」「そうだよ」",
     "reading": "ういせんせいそうだよ",
     "answer": "妖精大戦争",
-    "answerReading": "ようせいだいせんそう"
+    "answerReading": "ようせいだいせんそう",
+    "URL": "https://dic.pixiv.net/a/%E3%81%97%E3%81%90%E3%82%8C%E3%81%86%E3%81%84",
+    "title": "しぐれうい",
+    "image": "https://dic.pixiv.net/ogp?article_id=6242180&mdate=1790921746"
   },
   {
     "id": 96,
@@ -765,7 +958,10 @@
     "question": "ウミトリオのイカサマ",
     "reading": "うみとりおのいかさま",
     "answer": "神さまの言うとおり",
-    "answerReading": "かみさまのいうとおり"
+    "answerReading": "かみさまのいうとおり",
+    "URL": "https://dic.pixiv.net/a/%E3%82%A6%E3%83%9F%E3%83%88%E3%83%AA%E3%82%AA",
+    "title": "ウミトリオ",
+    "image": "https://dic.pixiv.net/ogp?article_id=7844017&mdate=1790212958"
   },
   {
     "id": 97,
@@ -781,7 +977,10 @@
     "question": "恨みの日",
     "reading": "うらみのひ",
     "answer": "平野美宇",
-    "answerReading": "ひらのみう"
+    "answerReading": "ひらのみう",
+    "URL": "https://dic.pixiv.net/a/%E6%80%92%E3%82%8A%E3%81%AE%E6%97%A5",
+    "title": "怒りの日",
+    "image": "https://dic.pixiv.net/ogp?article_id=4606318&mdate=1764068858"
   },
   {
     "id": 99,
@@ -789,7 +988,10 @@
     "question": "防塵用",
     "reading": "ぼうじんよう",
     "answer": "用心棒",
-    "answerReading": "ようじんぼう"
+    "answerReading": "ようじんぼう",
+    "URL": "https://dic.pixiv.net/a/%E3%81%BC%E3%81%86%E3%81%98%E3%82%93%E3%82%B4%E3%83%BC%E3%82%B0%E3%83%AB",
+    "title": "ぼうじんゴーグル",
+    "image": "https://dic.pixiv.net/ogp?article_id=4264184&mdate=1764874999"
   },
   {
     "id": 100,
@@ -805,11 +1007,14 @@
     "question": "ケンモ煽り",
     "reading": "けんもあおり",
     "answer": "青森県",
-    "answerReading": "あおもりけん"
+    "answerReading": "あおもりけん",
+    "URL": "https://dic.pixiv.net/a/%E5%AB%8C%E5%84%B2",
+    "title": "嫌儲",
+    "image": "https://dic.pixiv.net/ogp?article_id=4245656&mdate=1787984108"
   },
   {
     "id": 102,
-    "genre": "アスリート",
+    "genre": "スキージャンプ選手",
     "question": "肩慣らしさ",
     "reading": "かたならしさ",
     "answer": "高梨沙羅",
@@ -821,7 +1026,10 @@
     "question": "う…ロコン麻痺",
     "reading": "うろこんまひ",
     "answer": "浪漫飛行",
-    "answerReading": "ろまんひこう"
+    "answerReading": "ろまんひこう",
+    "URL": "https://dic.pixiv.net/a/%E3%83%AD%E3%82%B3%E3%83%B3",
+    "title": "ロコン",
+    "image": "https://dic.pixiv.net/ogp?article_id=34005&mdate=1789734434"
   },
   {
     "id": 104,
@@ -845,7 +1053,10 @@
     "question": "噴火うんざり",
     "reading": "ふんかうんざり",
     "answer": "風林火山",
-    "answerReading": "ふうりんかざん"
+    "answerReading": "ふうりんかざん",
+    "URL": "https://dic.pixiv.net/a/%E5%99%B4%E7%81%AB",
+    "title": "噴火",
+    "image": "https://dic.pixiv.net/ogp?article_id=1026217&mdate=1785628394"
   },
   {
     "id": 107,
@@ -853,7 +1064,10 @@
     "question": "トッポすり替え",
     "reading": "とっぽすりかえ",
     "answer": "ポカリスエット",
-    "answerReading": "ぽかりすえっと"
+    "answerReading": "ぽかりすえっと",
+    "URL": "https://dic.pixiv.net/a/%E3%83%88%E3%83%83%E3%83%9D",
+    "title": "トッポ",
+    "image": "https://dic.pixiv.net/ogp?article_id=4203967&mdate=1749716268"
   },
   {
     "id": 108,
@@ -861,7 +1075,10 @@
     "question": "麻生が艦これ",
     "reading": "あそうがかんこれ",
     "answer": "赤レンガ倉庫",
-    "answerReading": "あかれんがそうこ"
+    "answerReading": "あかれんがそうこ",
+    "URL": "https://dic.pixiv.net/a/%E8%89%A6%E3%81%93%E3%82%8C",
+    "title": "艦これ",
+    "image": "https://dic.pixiv.net/ogp?article_id=4236776&mdate=1734129271"
   },
   {
     "id": 109,
@@ -869,7 +1086,10 @@
     "question": "文字の無い鳥",
     "reading": "もんじのないとり",
     "answer": "陣内智則",
-    "answerReading": "じんないとものり"
+    "answerReading": "じんないとものり",
+    "URL": "https://dic.pixiv.net/a/%E3%81%AB%E3%82%89%E3%81%BF%E3%81%A4%E3%81%91%E3%82%8B%E3%81%95%E3%82%93",
+    "title": "にらみつけるさん",
+    "image": "https://dic.pixiv.net/ogp?article_id=7656718&mdate=1781581468"
   },
   {
     "id": 110,
@@ -877,7 +1097,10 @@
     "question": "スクーター邪魔ね",
     "reading": "すくーたーじゃまね",
     "answer": "タスクマネージャー",
-    "answerReading": "たすくまねーじゃー"
+    "answerReading": "たすくまねーじゃー",
+    "URL": "https://dic.pixiv.net/a/%E3%82%B9%E3%82%AF%E3%83%BC%E3%82%BF%E3%83%BC",
+    "title": "スクーター",
+    "image": "https://dic.pixiv.net/ogp?article_id=1324&mdate=1791504503"
   },
   {
     "id": 111,
@@ -885,7 +1108,10 @@
     "question": "怯む少林寺",
     "reading": "ひるむしょうりんじ",
     "answer": "無印良品",
-    "answerReading": "むじるしりょうひん"
+    "answerReading": "むじるしりょうひん",
+    "URL": "https://dic.pixiv.net/a/%E5%B0%91%E6%9E%97%E5%AF%BA",
+    "title": "少林寺",
+    "image": "https://dic.pixiv.net/ogp?article_id=4166287&mdate=1787978453"
   },
   {
     "id": 112,
@@ -901,15 +1127,21 @@
     "question": "どせいせん昇天",
     "reading": "どせいさんしょうてん",
     "answer": "三省堂書店",
-    "answerReading": "さんせいどうしょてん"
+    "answerReading": "さんせいどうしょてん",
+    "URL": "https://dic.pixiv.net/a/%E3%81%A9%E3%81%9B%E3%81%84%E3%81%95%E3%82%93",
+    "title": "どせいさん",
+    "image": "https://dic.pixiv.net/ogp?article_id=4208&mdate=1780925568"
   },
   {
     "id": 114,
-    "genre": "VTuber",
+    "genre": "にじさんじ",
     "question": "オイタするフリーレン",
     "reading": "おいたするふりーれん",
     "answer": "フレン・E・ルスタリオ",
-    "answerReading": "ふれんいーるすたりお"
+    "answerReading": "ふれんいーるすたりお",
+    "URL": "https://dic.pixiv.net/a/%E3%83%95%E3%83%AA%E3%83%BC%E3%83%AC%E3%83%B3",
+    "title": "フリーレン",
+    "image": "https://dic.pixiv.net/ogp?article_id=6706756&mdate=1788420723"
   },
   {
     "id": 115,
@@ -933,7 +1165,10 @@
     "question": "不死身猫",
     "reading": "ふじみねこ",
     "answer": "峰不二子",
-    "answerReading": "みねふじこ"
+    "answerReading": "みねふじこ",
+    "URL": "https://dic.pixiv.net/a/%E4%B8%8D%E6%AD%BB%E8%BA%AB",
+    "title": "不死身",
+    "image": "https://dic.pixiv.net/ogp?article_id=4267979&mdate=1789621121"
   },
   {
     "id": 118,
@@ -949,11 +1184,14 @@
     "question": "逃げるムウマ",
     "reading": "にげるむうま",
     "answer": "ゲルマニウム",
-    "answerReading": "げるまにうむ"
+    "answerReading": "げるまにうむ",
+    "URL": "https://dic.pixiv.net/a/%E3%83%A0%E3%82%A6%E3%83%9E",
+    "title": "ムウマ",
+    "image": "https://dic.pixiv.net/ogp?article_id=8947&mdate=1790288870"
   },
   {
     "id": 120,
-    "genre": "日本の地名",
+    "genre": "日本地理",
     "question": "どうしましょ",
     "reading": "どうしましょ",
     "answer": "小豆島",
@@ -965,7 +1203,10 @@
     "question": "呪い防止",
     "reading": "のろいぼうし",
     "answer": "路傍の石",
-    "answerReading": "ろぼうのいし"
+    "answerReading": "ろぼうのいし",
+    "URL": "https://dic.pixiv.net/a/%E5%91%AA%E3%81%84",
+    "title": "呪い",
+    "image": "https://dic.pixiv.net/ogp?article_id=22274&mdate=1784651165"
   },
   {
     "id": 122,
@@ -973,7 +1214,10 @@
     "question": "舞茸さん",
     "reading": "まいたけさん",
     "answer": "埼玉県",
-    "answerReading": "さいたまけん"
+    "answerReading": "さいたまけん",
+    "URL": "https://www.youtube.com/watch?v=XqEBZgNkb5M",
+    "title": "まいたけダンス",
+    "image": "https://i.ytimg.com/vi/XqEBZgNkb5M/maxresdefault.jpg"
   },
   {
     "id": 123,
@@ -981,7 +1225,10 @@
     "question": "絵の公開",
     "reading": "えのこうかい",
     "answer": "狩野英孝",
-    "answerReading": "かのえいこう"
+    "answerReading": "かのえいこう",
+    "URL": "https://dic.pixiv.net/a/pixiv",
+    "title": "pixiv",
+    "image": "https://dic.pixiv.net/ogp?article_id=1537&mdate=1790601235"
   },
   {
     "id": 124,
@@ -989,15 +1236,21 @@
     "question": "キモリの絵画",
     "reading": "きもりのかいが",
     "answer": "いきものがかり",
-    "answerReading": "いきものがかり"
+    "answerReading": "いきものがかり",
+    "URL": "https://dic.pixiv.net/a/%E3%82%AD%E3%83%A2%E3%83%AA",
+    "title": "キモリ",
+    "image": "https://dic.pixiv.net/ogp?article_id=3615&mdate=1791256037"
   },
   {
     "id": 125,
-    "genre": "日本の地名",
+    "genre": "日本地理",
     "question": "ウッウごと捕れ",
     "reading": "うっうごととれ",
     "answer": "五島列島",
-    "answerReading": "ごとうれっとう"
+    "answerReading": "ごとうれっとう",
+    "URL": "https://dic.pixiv.net/a/%E3%82%A6%E3%83%83%E3%82%A6",
+    "title": "ウッウ",
+    "image": "https://dic.pixiv.net/ogp?article_id=5677809&mdate=1790261143"
   },
   {
     "id": 126,
@@ -1005,7 +1258,10 @@
     "question": "噴火だ、パーン",
     "reading": "ふんかだぱーん",
     "answer": "カンフーパンダ",
-    "answerReading": "かんふーぱんだ"
+    "answerReading": "かんふーぱんだ",
+    "URL": "https://dic.pixiv.net/a/%E9%A0%AD%E3%81%8C%E3%83%91%E3%83%BC%E3%83%B3",
+    "title": "頭がパーン",
+    "image": "https://dic.pixiv.net/ogp?article_id=24629&mdate=1741781514"
   },
   {
     "id": 127,
@@ -1013,11 +1269,14 @@
     "question": "煽りしないの",
     "reading": "あおりしないの",
     "answer": "アイのシナリオ",
-    "answerReading": "あいのしなりお"
+    "answerReading": "あいのしなりお",
+    "URL": "https://dic.pixiv.net/a/%E7%85%BD%E3%82%8A%E3%82%B9%E3%82%AD%E3%83%AB",
+    "title": "煽りスキル",
+    "image": "https://dic.pixiv.net/ogp?article_id=8809412&mdate=1781485022"
   },
   {
     "id": 128,
-    "genre": "ゲーム",
+    "genre": "RPG",
     "question": "メイン画見せて",
     "reading": "めいんがみせて",
     "answer": "女神転生",
@@ -1029,7 +1288,10 @@
     "question": "Nとイルカマン",
     "reading": "えぬといるかまん",
     "answer": "イマヌエル・カント",
-    "answerReading": "いまぬえるかんと"
+    "answerReading": "いまぬえるかんと",
+    "URL": "https://dic.pixiv.net/a/%E3%82%A4%E3%83%AB%E3%82%AB%E3%83%9E%E3%83%B3",
+    "title": "イルカマン",
+    "image": "https://dic.pixiv.net/ogp?article_id=7844115&mdate=1791261781"
   },
   {
     "id": 130,
@@ -1037,7 +1299,10 @@
     "question": "顔焼くの我慢",
     "reading": "かおやくのがまん",
     "answer": "山の音楽家",
-    "answerReading": "やまのおんがくか"
+    "answerReading": "やまのおんがくか",
+    "URL": "https://dic.pixiv.net/a/%E6%97%A5%E7%84%BC%E3%81%91",
+    "title": "日焼け",
+    "image": "https://dic.pixiv.net/ogp?article_id=3170&mdate=1760076377"
   },
   {
     "id": 131,
@@ -1045,19 +1310,25 @@
     "question": "胃液の製造",
     "reading": "いえきのせいぞう",
     "answer": "映像の世紀",
-    "answerReading": "えいぞうのせいき"
+    "answerReading": "えいぞうのせいき",
+    "URL": "https://dic.pixiv.net/a/%E8%83%83%E6%B6%B2",
+    "title": "胃液",
+    "image": "https://dic.pixiv.net/ogp?article_id=4228419&mdate=1702425641"
   },
   {
     "id": 132,
     "genre": "お笑いタレント",
-    "question": "Mayuは歌うだろ",
+    "question": "MAYUは歌うだろ",
     "reading": "まゆはうたうだろ",
     "answer": "濱田祐太郎",
-    "answerReading": "はまだゆうたろう"
+    "answerReading": "はまだゆうたろう",
+    "URL": "https://dic.pixiv.net/a/MAYU",
+    "title": "MAYU",
+    "image": "https://dic.pixiv.net/ogp?article_id=4201848&mdate=1546448171"
   },
   {
     "id": 133,
-    "genre": "VTuber",
+    "genre": "ホロライブ",
     "question": "魔法輪唱",
     "reading": "まほうりんしょう",
     "answer": "宝鐘マリン",
@@ -1077,7 +1348,10 @@
     "question": "歌唱のシンクロ",
     "reading": "かしょうのしんくろ",
     "answer": "黒の召喚士",
-    "answerReading": "くろのしょうかんし"
+    "answerReading": "くろのしょうかんし",
+    "URL": "https://dic.pixiv.net/a/%E3%83%8F%E3%83%A2%E3%83%AA",
+    "title": "ハモリ",
+    "image": "https://dic.pixiv.net/ogp?article_id=4650210&mdate=1485080847"
   },
   {
     "id": 136,
@@ -1101,15 +1375,21 @@
     "question": "それ運ゲ",
     "reading": "それうんげ",
     "answer": "レンゲソウ",
-    "answerReading": "れんげそう"
+    "answerReading": "れんげそう",
+    "URL": "https://dic.pixiv.net/a/%E9%81%8B%E3%82%B2%E3%83%BC",
+    "title": "運ゲー",
+    "image": "https://dic.pixiv.net/ogp?article_id=4205505&mdate=1789294119"
   },
   {
     "id": 139,
-    "genre": "ゲーム",
+    "genre": "PCゲーム",
     "question": "吸い込んだ",
     "reading": "すいこんだ",
     "answer": "NKODICE",
-    "answerReading": "んこだいす"
+    "answerReading": "んこだいす",
+    "URL": "https://dic.pixiv.net/a/%E3%82%AB%E3%83%BC%E3%83%93%E3%82%A3",
+    "title": "カービィ",
+    "image": "https://dic.pixiv.net/ogp?article_id=359&mdate=1791022236"
   },
   {
     "id": 140,
@@ -1125,7 +1405,10 @@
     "question": "自明因子",
     "reading": "じめいいんし",
     "answer": "明治維新",
-    "answerReading": "めいじいしん"
+    "answerReading": "めいじいしん",
+    "URL": "https://dic.pixiv.net/a/1",
+    "title": "1",
+    "image": "https://dic.pixiv.net/ogp?article_id=17049&mdate=1769753773"
   },
   {
     "id": 142,
@@ -1133,15 +1416,21 @@
     "question": "抗菌した",
     "reading": "こうきんした",
     "answer": "単項式",
-    "answerReading": "たんこうしき"
+    "answerReading": "たんこうしき",
+    "URL": "https://dic.pixiv.net/a/%E6%8A%97%E8%8F%8C",
+    "title": "抗菌",
+    "image": "https://dic.pixiv.net/ogp?article_id=9795197&mdate=1734214293"
   },
   {
     "id": 143,
-    "genre": "VTuber",
+    "genre": "にじさんじ",
     "question": "推しはルリリ",
     "reading": "おしはるりり",
     "answer": "栞葉るり",
-    "answerReading": "しおりはるり"
+    "answerReading": "しおりはるり",
+    "URL": "https://dic.pixiv.net/a/%E3%83%AB%E3%83%AA%E3%83%AA",
+    "title": "ルリリ",
+    "image": "https://dic.pixiv.net/ogp?article_id=49159&mdate=1788858131"
   },
   {
     "id": 144,
@@ -1149,7 +1438,10 @@
     "question": "舞うとバトン",
     "reading": "まうとばとん",
     "answer": "マウント斗羽",
-    "answerReading": "まうんととば"
+    "answerReading": "まうんととば",
+    "URL": "https://dic.pixiv.net/a/%E3%83%90%E3%83%88%E3%83%B3%E3%82%BF%E3%83%83%E3%83%81%28%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%29",
+    "title": "バトンタッチ(ポケモン)",
+    "image": "https://dic.pixiv.net/ogp?article_id=5751761&mdate=1781501192"
   },
   {
     "id": 145,
@@ -1181,7 +1473,10 @@
     "question": "賞金付けて？",
     "reading": "しょうきんつけて",
     "answer": "起承転結",
-    "answerReading": "きしょうてんけつ"
+    "answerReading": "きしょうてんけつ",
+    "URL": "https://dic.pixiv.net/a/%E8%B3%9E%E9%87%91",
+    "title": "賞金",
+    "image": "https://dic.pixiv.net/ogp?article_id=1636053&mdate=1729418529"
   },
   {
     "id": 149,
@@ -1197,7 +1492,10 @@
     "question": "貯金借り、打つ",
     "reading": "ちょきんかりうつ",
     "answer": "両津勘吉",
-    "answerReading": "りょうつかんきち"
+    "answerReading": "りょうつかんきち",
+    "URL": "https://dic.pixiv.net/a/%E3%83%91%E3%83%81%E3%82%B9%E3%83%AD",
+    "title": "パチスロ",
+    "image": "https://dic.pixiv.net/ogp?article_id=5686&mdate=1778297370"
   },
   {
     "id": 151,
@@ -1205,7 +1503,10 @@
     "question": "番犬に気づく",
     "reading": "ばんけんにきづく",
     "answer": "筋肉番付",
-    "answerReading": "きんにくばんづけ"
+    "answerReading": "きんにくばんづけ",
+    "URL": "https://dic.pixiv.net/a/%E7%95%AA%E7%8A%AC",
+    "title": "番犬",
+    "image": "https://dic.pixiv.net/ogp?article_id=4267063&mdate=1791174131"
   },
   {
     "id": 152,
@@ -1213,7 +1514,10 @@
     "question": "嫌えば威嚇さ",
     "reading": "きらえばいかくさ",
     "answer": "榊原郁恵",
-    "answerReading": "さかきばらいくえ"
+    "answerReading": "さかきばらいくえ",
+    "URL": "https://dic.pixiv.net/a/%E5%A8%81%E5%9A%87",
+    "title": "威嚇",
+    "image": "https://dic.pixiv.net/ogp?article_id=4235457&mdate=1770859729"
   },
   {
     "id": 153,
@@ -1221,7 +1525,10 @@
     "question": "これが草案か",
     "reading": "これがそうあんか",
     "answer": "赤レンガ倉庫",
-    "answerReading": "あかれんがそうこ"
+    "answerReading": "あかれんがそうこ",
+    "URL": "https://dic.pixiv.net/a/%E8%8D%89%E6%A1%88",
+    "title": "草案",
+    "image": "https://dic.pixiv.net/ogp?article_id=9647691&mdate=1729808112"
   },
   {
     "id": 154,
@@ -1245,7 +1552,10 @@
     "question": "山に監禁、泣く",
     "reading": "やまにかんきんなく",
     "answer": "なかやまきんに君",
-    "answerReading": "なかやまきんにくん"
+    "answerReading": "なかやまきんにくん",
+    "URL": "https://dic.pixiv.net/a/%E7%9B%A3%E7%A6%81",
+    "title": "監禁",
+    "image": "https://dic.pixiv.net/ogp?article_id=12678&mdate=1758414657"
   },
   {
     "id": 157,
@@ -1253,11 +1563,14 @@
     "question": "吸い物、冷めへんかい？",
     "reading": "すいものさめへんかい",
     "answer": "かもめの水兵さん",
-    "answerReading": "かもめのすいへいさん"
+    "answerReading": "かもめのすいへいさん",
+    "URL": "https://dic.pixiv.net/a/%E3%81%8A%E5%90%B8%E3%81%84%E7%89%A9",
+    "title": "お吸い物",
+    "image": "https://dic.pixiv.net/ogp?article_id=5604253&mdate=1641831978"
   },
   {
     "id": 158,
-    "genre": "VTuber",
+    "genre": "ホロライブ",
     "question": "溢れぬらしい",
     "reading": "あふれぬらしい",
     "answer": "不知火フレア",
@@ -1269,7 +1582,10 @@
     "question": "ウホ，性感帯",
     "reading": "うほせいかんたい",
     "answer": "大政奉還",
-    "answerReading": "たいせいほうかん"
+    "answerReading": "たいせいほうかん",
+    "URL": "https://dic.pixiv.net/a/%E3%82%A6%E3%83%9B%E3%83%83",
+    "title": "ウホッ",
+    "image": "https://dic.pixiv.net/ogp?article_id=3641&mdate=1767771050"
   },
   {
     "id": 160,
@@ -1277,7 +1593,10 @@
     "question": "痴女の奉仕",
     "reading": "ちじょのほうし",
     "answer": "地上の星",
-    "answerReading": "ちじょうのほし"
+    "answerReading": "ちじょうのほし",
+    "URL": "https://dic.pixiv.net/a/%E7%97%B4%E5%A5%B3",
+    "title": "痴女",
+    "image": "https://dic.pixiv.net/ogp?article_id=15970&mdate=1780368118"
   },
   {
     "id": 161,
@@ -1285,7 +1604,10 @@
     "question": "ちんちんバキバキ",
     "reading": "ちんちんばきばき",
     "answer": "チキチキバンバン",
-    "answerReading": "ちきちきばんばん"
+    "answerReading": "ちきちきばんばん",
+    "URL": "https://dic.pixiv.net/a/%E3%83%90%E3%82%AD%E3%83%90%E3%82%AD%E7%AB%A5%E8%B2%9E%E3%81%A7%E3%81%99",
+    "title": "バキバキ童貞です",
+    "image": "https://dic.pixiv.net/ogp?article_id=7832425&mdate=1775052519"
   },
   {
     "id": 162,
@@ -1293,7 +1615,10 @@
     "question": "夫、インポになーる",
     "reading": "おっといんぽになーる",
     "answer": "オールナイトニッポン",
-    "answerReading": "おーるないとにっぽん"
+    "answerReading": "おーるないとにっぽん",
+    "URL": "https://dic.pixiv.net/a/%E3%82%A4%E3%83%B3%E3%83%9D%E3%83%86%E3%83%B3%E3%83%84",
+    "title": "インポテンツ",
+    "image": "https://dic.pixiv.net/ogp?article_id=4221121&mdate=1779804944"
   },
   {
     "id": 163,
@@ -1301,7 +1626,10 @@
     "question": "下品矯正",
     "reading": "げひんきょうせい",
     "answer": "正規表現",
-    "answerReading": "せいきひょうげん"
+    "answerReading": "せいきひょうげん",
+    "URL": "https://dic.pixiv.net/a/%E4%B8%8B%E5%93%81",
+    "title": "下品",
+    "image": "https://dic.pixiv.net/ogp?article_id=4205183&mdate=1768692688"
   },
   {
     "id": 164,
@@ -1309,7 +1637,10 @@
     "question": "花見の木",
     "reading": "はなみのき",
     "answer": "君の名は。",
-    "answerReading": "きみのなは"
+    "answerReading": "きみのなは",
+    "URL": "https://dic.pixiv.net/a/%E6%A1%9C",
+    "title": "桜",
+    "image": "https://dic.pixiv.net/ogp?article_id=917&mdate=1790070031"
   },
   {
     "id": 165,
@@ -1317,7 +1648,10 @@
     "question": "LINE訊けば？",
     "reading": "らいんきけば",
     "answer": "茨城県",
-    "answerReading": "いばらきけん"
+    "answerReading": "いばらきけん",
+    "URL": "https://dic.pixiv.net/a/LINE",
+    "title": "LINE",
+    "image": "https://dic.pixiv.net/ogp?article_id=4239671&mdate=1790929931"
   },
   {
     "id": 166,
@@ -1325,7 +1659,10 @@
     "question": "関東っ子",
     "reading": "かんとうっこ",
     "answer": "葛根湯",
-    "answerReading": "かっこんとう"
+    "answerReading": "かっこんとう",
+    "URL": "https://dic.pixiv.net/a/%E9%96%A2%E6%9D%B1%E5%9C%B0%E6%96%B9",
+    "title": "関東地方",
+    "image": "https://dic.pixiv.net/ogp?article_id=1471599&mdate=1788168678"
   },
   {
     "id": 167,
@@ -1333,7 +1670,10 @@
     "question": "北広島",
     "reading": "きたひろしま",
     "answer": "玉木宏",
-    "answerReading": "たまきひろし"
+    "answerReading": "たまきひろし",
+    "URL": "https://dic.pixiv.net/a/%E5%8C%97%E5%BA%83%E5%B3%B6%E5%B8%82",
+    "title": "北広島市",
+    "image": "https://dic.pixiv.net/ogp?article_id=4746320&mdate=1773748294"
   },
   {
     "id": 168,
@@ -1345,11 +1685,14 @@
   },
   {
     "id": 169,
-    "genre": "VTuber",
+    "genre": "ホロライブ",
     "question": "あなたネカマ？",
     "reading": "あなたねかま",
     "answer": "天音かなた",
-    "answerReading": "あまねかなた"
+    "answerReading": "あまねかなた",
+    "URL": "https://dic.pixiv.net/a/%E3%83%8D%E3%82%AB%E3%83%9E",
+    "title": "ネカマ",
+    "image": "https://dic.pixiv.net/ogp?article_id=4172144&mdate=1777606878"
   },
   {
     "id": 170,
@@ -1357,7 +1700,10 @@
     "question": "嘘常識",
     "reading": "うそじょうしき",
     "answer": "時期尚早",
-    "answerReading": "じきしょうそう"
+    "answerReading": "じきしょうそう",
+    "URL": "https://dic.pixiv.net/a/%E5%B8%B8%E8%AD%98",
+    "title": "常識",
+    "image": "https://dic.pixiv.net/ogp?article_id=1104205&mdate=1779352003"
   },
   {
     "id": 171,
@@ -1365,15 +1711,21 @@
     "question": "蚊、どうにかしたい",
     "reading": "かどうにかしたい",
     "answer": "二階堂高嗣",
-    "answerReading": "にかいどうたかし"
+    "answerReading": "にかいどうたかし",
+    "URL": "https://www.youtube.com/watch?v=dnZyVXOFgGI",
+    "title": "【50万年の戦い】未だにマラリアを駆逐できない意外な理由【ゆっくり解説】【雑学】",
+    "image": "https://i.ytimg.com/vi/dnZyVXOFgGI/maxresdefault.jpg"
   },
   {
     "id": 172,
-    "genre": "外国の地名",
+    "genre": "世界地理",
     "question": "歯間に病気",
     "reading": "しかんにびょうき",
     "answer": "ビキニ環礁",
-    "answerReading": "びきにかんしょう"
+    "answerReading": "びきにかんしょう",
+    "URL": "https://dic.pixiv.net/a/%E6%AD%AF%E5%91%A8%E7%97%85",
+    "title": "歯周病",
+    "image": "https://dic.pixiv.net/ogp?article_id=7320724&mdate=1735439373"
   },
   {
     "id": 173,
@@ -1381,7 +1733,10 @@
     "question": "回覧板来る",
     "reading": "かいらんばんくる",
     "answer": "カルバン・クライン",
-    "answerReading": "かるばんくらいん"
+    "answerReading": "かるばんくらいん",
+    "URL": "https://dic.pixiv.net/a/%E4%BC%9D%E8%A8%80%E6%9D%BF",
+    "title": "伝言板",
+    "image": "https://dic.pixiv.net/ogp?article_id=5610043&mdate=1721890290"
   },
   {
     "id": 174,
@@ -1389,7 +1744,10 @@
     "question": "脂取りだっる",
     "reading": "あぶらとりだっる",
     "answer": "ダブルラリアット",
-    "answerReading": "だぶるらりあっと"
+    "answerReading": "だぶるらりあっと",
+    "URL": "https://dic.pixiv.net/a/%E3%81%82%E3%81%B6%E3%82%89%E3%81%A8%E3%82%8A%E7%B4%99",
+    "title": "あぶらとり紙",
+    "image": "https://dic.pixiv.net/ogp?article_id=4698802&mdate=1735985330"
   },
   {
     "id": 175,
@@ -1397,7 +1755,10 @@
     "question": "魔獣変身",
     "reading": "まじゅうへんしん",
     "answer": "満州事変",
-    "answerReading": "まんしゅうじへん"
+    "answerReading": "まんしゅうじへん",
+    "URL": "https://dic.pixiv.net/a/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%A9%E3%83%B3%3D%E3%82%A2%E3%83%B3%E3%82%B7%E3%83%A5%E3%83%83%E3%83%84%3D%E3%82%B4%E3%83%BC%E3%83%86%E3%82%A3%E3%82%A8",
+    "title": "マイクラン=アンシュッツ=ゴーティエ",
+    "image": "https://dic.pixiv.net/ogp?article_id=6699706&mdate=1790356049"
   },
   {
     "id": 176,
@@ -1413,7 +1774,10 @@
     "question": "さきいか食らえば？",
     "reading": "さきいかくらえば",
     "answer": "榊原郁恵",
-    "answerReading": "さかきばらいくえ"
+    "answerReading": "さかきばらいくえ",
+    "URL": "https://7premium.jp/product/search/detail?id=9030",
+    "title": "ソフトさきいか 39g | セブンプレミアム公式",
+    "image": "https://7premium.jp/files/item/2021_guidelines/4902181104880_k.jpg"
   },
   {
     "id": 178,
@@ -1437,7 +1801,10 @@
     "question": "お皿入りうまトマ",
     "reading": "おさらいりうまとま",
     "answer": "魔王様、リトライ！",
-    "answerReading": "まおうさまりとらい"
+    "answerReading": "まおうさまりとらい",
+    "URL": "https://www.youtube.com/watch?v=GtKGnrhF4eE",
+    "title": "悲願15年…遂にこの日がやってきた…【【【うまトマ　レギュラー化！！！】】】",
+    "image": "https://i.ytimg.com/vi/GtKGnrhF4eE/maxresdefault.jpg"
   },
   {
     "id": 181,
@@ -1453,7 +1820,10 @@
     "question": "痛いし喘いどるん？",
     "reading": "いたいしあえいどるん",
     "answer": "アイドル新鋭隊",
-    "answerReading": "あいどるしんえいたい"
+    "answerReading": "あいどるしんえいたい",
+    "URL": "https://dic.pixiv.net/a/%E3%82%A4%E3%82%AD%E3%82%B9%E3%82%AE%E3%82%A3%21",
+    "title": "イキスギィ!",
+    "image": "https://dic.pixiv.net/ogp?article_id=4327624&mdate=1790593517"
   },
   {
     "id": 183,
@@ -1461,7 +1831,10 @@
     "question": "無線LANでツイート",
     "reading": "むせんらんでついーと",
     "answer": "ムーンライト伝説",
-    "answerReading": "むーんらいとでんせつ"
+    "answerReading": "むーんらいとでんせつ",
+    "URL": "https://dic.pixiv.net/a/%E7%84%A1%E7%B7%9ALAN",
+    "title": "無線LAN",
+    "image": "https://dic.pixiv.net/ogp?article_id=4267205&mdate=1781266309"
   },
   {
     "id": 184,
@@ -1469,7 +1842,10 @@
     "question": "野獣語",
     "reading": "やじゅうご",
     "answer": "十五夜",
-    "answerReading": "じゅうごや"
+    "answerReading": "じゅうごや",
+    "URL": "https://dic.pixiv.net/a/%E6%B7%AB%E5%A4%A2%E8%AA%9E%E9%8C%B2",
+    "title": "淫夢語録",
+    "image": "https://dic.pixiv.net/ogp?article_id=4329043&mdate=1789784783"
   },
   {
     "id": 185,
@@ -1477,7 +1853,10 @@
     "question": "赤いキムチ",
     "reading": "あかいきむち",
     "answer": "向井千秋",
-    "answerReading": "むかいちあき"
+    "answerReading": "むかいちあき",
+    "URL": "https://dic.pixiv.net/a/%E3%82%AD%E3%83%A0%E3%83%81",
+    "title": "キムチ",
+    "image": "https://dic.pixiv.net/ogp?article_id=18318&mdate=1771583493"
   },
   {
     "id": 186,
@@ -1485,7 +1864,10 @@
     "question": "和風ドール",
     "reading": "わふうどーる",
     "answer": "ワードウルフ",
-    "answerReading": "わーどうるふ"
+    "answerReading": "わーどうるふ",
+    "URL": "https://dic.pixiv.net/a/%E5%8D%97%E6%A5%B51%E5%8F%B7",
+    "title": "南極1号",
+    "image": "https://dic.pixiv.net/ogp?article_id=9363523&mdate=1768829678"
   },
   {
     "id": 187,
@@ -1501,7 +1883,10 @@
     "question": "白髪危機や",
     "reading": "しらがききや",
     "answer": "信楽焼",
-    "answerReading": "しがらきやき"
+    "answerReading": "しがらきやき",
+    "URL": "https://dic.pixiv.net/a/%E7%99%BD%E9%AB%AA",
+    "title": "白髪",
+    "image": "https://dic.pixiv.net/ogp?article_id=910&mdate=1790492158"
   },
   {
     "id": 189,
@@ -1509,7 +1894,10 @@
     "question": "打開するん？",
     "reading": "だかいするん",
     "answer": "イスカンダル",
-    "answerReading": "いすかんだる"
+    "answerReading": "いすかんだる",
+    "URL": "https://xn--pet04dr1n5x9a.com/%E5%B0%86%E6%A3%8B%E7%94%A8%E8%AA%9E/%E6%89%93%E9%96%8B%E3%81%99%E3%82%8B.html",
+    "title": "打開する - 将棋用語説明｜将棋講座ドットコム",
+    "image": "https://xn--pet04dr1n5x9a.com/img/ogimage/用語駒.png"
   },
   {
     "id": 190,
@@ -1517,7 +1905,10 @@
     "question": "関空行きだ",
     "reading": "かんくういきだ",
     "answer": "空気階段",
-    "answerReading": "くうきかいだん"
+    "answerReading": "くうきかいだん",
+    "URL": "https://dic.pixiv.net/a/%E9%96%A2%E7%A9%BA",
+    "title": "関空",
+    "image": "https://dic.pixiv.net/ogp?article_id=2607534&mdate=1771318478"
   },
   {
     "id": 191,
@@ -1533,7 +1924,10 @@
     "question": "たゆたうマリモ",
     "reading": "たゆたうまりも",
     "answer": "玉森裕太",
-    "answerReading": "たまもりゆうた"
+    "answerReading": "たまもりゆうた",
+    "URL": "https://dic.pixiv.net/a/%E3%83%9E%E3%83%AA%E3%83%A2",
+    "title": "マリモ",
+    "image": "https://dic.pixiv.net/ogp?article_id=4217585&mdate=1779341644"
   },
   {
     "id": 193,
@@ -1541,7 +1935,10 @@
     "question": "漢字に仮名とは",
     "reading": "かんじにかなとは",
     "answer": "時間とは何か",
-    "answerReading": "じかんとはなにか"
+    "answerReading": "じかんとはなにか",
+    "URL": "https://dic.pixiv.net/a/%E6%8C%AF%E3%82%8A%E4%BB%AE%E5%90%8D",
+    "title": "振り仮名",
+    "image": "https://dic.pixiv.net/ogp?article_id=4782302&mdate=1760171876"
   },
   {
     "id": 194,
@@ -1549,7 +1946,10 @@
     "question": "うどん貰えたの",
     "reading": "うどんもらえたの",
     "answer": "ドラえもんのうた",
-    "answerReading": "どらえもんのうた"
+    "answerReading": "どらえもんのうた",
+    "URL": "https://dic.pixiv.net/a/%E3%81%86%E3%81%A9%E3%82%93",
+    "title": "うどん",
+    "image": "https://dic.pixiv.net/ogp?article_id=1334&mdate=1790407627"
   },
   {
     "id": 195,
@@ -1561,7 +1961,7 @@
   },
   {
     "id": 196,
-    "genre": "世界の地名",
+    "genre": "世界地理",
     "question": "あまり加工ない",
     "reading": "あまりかこうない",
     "answer": "マリアナ海溝",
@@ -1581,15 +1981,21 @@
     "question": "まず部員入れな",
     "reading": "まずぶいんいれな",
     "answer": "イナズマイレブン",
-    "answerReading": "いなずまいれぶん"
+    "answerReading": "いなずまいれぶん",
+    "URL": "https://dic.pixiv.net/a/%E5%BB%83%E9%83%A8",
+    "title": "廃部",
+    "image": "https://dic.pixiv.net/ogp?article_id=11597853&mdate=1785391209"
   },
   {
     "id": 199,
-    "genre": "ゲーム",
+    "genre": "恋愛シミュレーションゲーム",
     "question": "キモリと飴キメる",
     "reading": "きもりとあめきめる",
     "answer": "ときめきメモリアル",
-    "answerReading": "ときめきめもりある"
+    "answerReading": "ときめきめもりある",
+    "URL": "https://dic.pixiv.net/a/%E3%81%B5%E3%81%97%E3%81%8E%E3%81%AA%E3%82%A2%E3%83%A1",
+    "title": "ふしぎなアメ",
+    "image": "https://dic.pixiv.net/ogp?article_id=463773&mdate=1776856136"
   },
   {
     "id": 200,
@@ -1605,7 +2011,10 @@
     "question": "ダリ、金賞みたい",
     "reading": "だりきんしょうみたい",
     "answer": "キリシタン大名",
-    "answerReading": "きりしたんだいみょう"
+    "answerReading": "きりしたんだいみょう",
+    "URL": "https://dic.pixiv.net/a/%E3%82%B5%E3%83%AB%E3%83%90%E3%83%89%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%80%E3%83%AA",
+    "title": "サルバドール・ダリ",
+    "image": "https://dic.pixiv.net/ogp?article_id=51161&mdate=1774274005"
   },
   {
     "id": 202,
