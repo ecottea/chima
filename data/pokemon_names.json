@@ -100,7 +100,10 @@
     "question": "栗ご飯",
     "reading": "クリゴハン",
     "answer": "ゴクリン",
-    "extraChar": "ハ"
+    "extraChar": "ハ",
+    "URL": "https://dic.pixiv.net/a/%E6%A0%97%E3%81%94%E9%A3%AF",
+    "title": "栗ご飯",
+    "image": "https://dic.pixiv.net/ogp?article_id=7507402&mdate=1734075839"
   },
   {
     "id": 12,
@@ -192,7 +195,10 @@
     "question": "南無三",
     "reading": "ナムサン",
     "answer": "ムンナ",
-    "extraChar": "サ"
+    "extraChar": "サ",
+    "URL": "https://dic.pixiv.net/a/%E5%8D%97%E7%84%A1%E4%B8%89",
+    "title": "南無三",
+    "image": "https://dic.pixiv.net/ogp?article_id=62210&mdate=1701850305"
   },
   {
     "id": 22,
@@ -262,7 +268,10 @@
     "question": "お尻邪魔",
     "reading": "オシリジャマ",
     "answer": "オシャマリ",
-    "extraChar": "ジ"
+    "extraChar": "ジ",
+    "URL": "https://www.youtube.com/watch?v=tFINsPFGMgo",
+    "title": "【手描き】新人の青くんを巨大なケツで押しのけるマリン船長【こまいぬ/切り抜き/Hololive】",
+    "image": "https://i.ytimg.com/vi/tFINsPFGMgo/maxresdefault.jpg"
   },
   {
     "id": 30,
@@ -311,7 +320,10 @@
     "question": "天ぷら",
     "reading": "テンプラ",
     "answer": "プテラ",
-    "extraChar": "ン"
+    "extraChar": "ン",
+    "URL": "https://dic.pixiv.net/a/%E5%A4%A9%E3%81%B7%E3%82%89",
+    "title": "天ぷら",
+    "image": "https://dic.pixiv.net/ogp?article_id=15953&mdate=1789485332"
   },
   {
     "id": 35,
@@ -360,7 +372,10 @@
     "question": "霰降らし",
     "reading": "アラレフラシ",
     "answer": "ラフレシア",
-    "extraChar": "ラ"
+    "extraChar": "ラ",
+    "URL": "https://dic.pixiv.net/a/%E3%82%86%E3%81%8D%E3%81%B5%E3%82%89%E3%81%97",
+    "title": "ゆきふらし",
+    "image": "https://dic.pixiv.net/ogp?article_id=4267933&mdate=1783398176"
   },
   {
     "id": 40,
@@ -452,7 +467,10 @@
     "question": "やはりステマ",
     "reading": "ヤハリステマ",
     "answer": "ハリテヤマ",
-    "extraChar": "ス"
+    "extraChar": "ス",
+    "URL": "https://dic.pixiv.net/a/%E3%82%B9%E3%83%86%E3%83%9E",
+    "title": "ステマ",
+    "image": "https://dic.pixiv.net/ogp?article_id=4189004&mdate=1784518576"
   },
   {
     "id": 50,
@@ -460,7 +478,10 @@
     "question": "いま何時？",
     "reading": "イマナンジ",
     "answer": "マイナン",
-    "extraChar": "ジ"
+    "extraChar": "ジ",
+    "URL": "https://dic.pixiv.net/a/%E6%99%82%E3%81%9D%E3%81%B0",
+    "title": "時そば",
+    "image": "https://dic.pixiv.net/ogp?article_id=4193482&mdate=1771296670"
   },
   {
     "id": 51,
@@ -516,7 +537,10 @@
     "question": "またフルチン",
     "reading": "マタフルチン",
     "answer": "フタチマル",
-    "extraChar": "ン"
+    "extraChar": "ン",
+    "URL": "https://dic.pixiv.net/a/%E3%83%95%E3%83%AB%E3%83%81%E3%83%B3",
+    "title": "フルチン",
+    "image": "https://dic.pixiv.net/ogp?article_id=30791&mdate=1781953864"
   },
   {
     "id": 58,
@@ -532,7 +556,10 @@
     "question": "ミミズだね",
     "reading": "ミミズダネ",
     "answer": "ミネズミ",
-    "extraChar": "ダ"
+    "extraChar": "ダ",
+    "URL": "https://dic.pixiv.net/a/%E3%83%9F%E3%83%9F%E3%82%BA",
+    "title": "ミミズ",
+    "image": "https://dic.pixiv.net/ogp?article_id=25766&mdate=1791545913"
   },
   {
     "id": 60,
@@ -680,7 +707,10 @@
     "question": "トイレかなっ？",
     "reading": "トイレカナッ",
     "answer": "ナットレイ",
-    "extraChar": "カ"
+    "extraChar": "カ",
+    "URL": "https://dic.pixiv.net/a/%E3%81%8A%E8%8A%B1%E6%91%98%E3%81%BF",
+    "title": "お花摘み",
+    "image": "https://dic.pixiv.net/ogp?article_id=7111321&mdate=1789773764"
   },
   {
     "id": 77,
@@ -874,7 +904,10 @@
     "question": "恋、甘々",
     "reading": "コイアマアマ",
     "answer": "アママイコ",
-    "extraChar": "ア"
+    "extraChar": "ア",
+    "URL": "https://www.youtube.com/watch?v=kjn4WB3On9Q",
+    "title": "船長のメン限を初めて視聴しゲロ甘すぎて衝撃を受ける雪花ラミィ【ホロライブ切り抜き/大空スバル/宝鐘マリン/尾丸ポルカ】",
+    "image": "https://i.ytimg.com/vi/kjn4WB3On9Q/maxresdefault.jpg"
   },
   {
     "id": 99,
@@ -1215,9 +1248,9 @@
     "reading": "ブラクラ",
     "answer": "クラブ",
     "extraChar": "ラ",
-    "URL": "https://www.youtube.com/watch?v=48rz8udZBmQ",
-    "title": "You are an idiot!!",
-    "image": "https://i.ytimg.com/vi/48rz8udZBmQ/hqdefault.jpg"
+    "URL": "https://www.youtube.com/watch?v=uiZvZ0m9E_k",
+    "title": "【音量ガチ注意】凸してきたジョー・力一の音声が面白すぎた神企画『ブラクラ作成配信』をする委員長【月ノ美兎切り抜き】",
+    "image": "https://i.ytimg.com/vi/uiZvZ0m9E_k/maxresdefault.jpg"
   },
   {
     "id": 134,
@@ -1255,7 +1288,10 @@
     "question": "メイドさん",
     "reading": "メイドサン",
     "answer": "サイドン",
-    "extraChar": "メ"
+    "extraChar": "メ",
+    "URL": "https://dic.pixiv.net/a/%E3%83%A1%E3%82%A4%E3%83%89",
+    "title": "メイド",
+    "image": "https://dic.pixiv.net/ogp?article_id=445&mdate=1788187948"
   },
   {
     "id": 138,
@@ -1430,7 +1466,10 @@
     "question": "尻晒すか…",
     "reading": "シリサラスカ",
     "answer": "カラサリス",
-    "extraChar": "シ"
+    "extraChar": "シ",
+    "URL": "https://www.youtube.com/watch?v=CUVYuE7C4Fw",
+    "title": "【公開測定】なぜかメジャーを持参したリスナーにより公開尻測定になった従井ノラ【従井ノラ/深層組切り抜き】",
+    "image": "https://i.ytimg.com/vi/CUVYuE7C4Fw/maxresdefault.jpg"
   },
   {
     "id": 157,
@@ -2126,7 +2165,10 @@
     "question": "キレる血筋",
     "reading": "キレルチスジ",
     "answer": "レジスチル",
-    "extraChar": "キ"
+    "extraChar": "キ",
+    "URL": "https://www.youtube.com/shorts/rfSlSgNATIM",
+    "title": "情緒不安定な神楽めあに痺れを切らし、福岡のヤンキーの血が騒いで暴言を言ってしまう釈迦さんに爆笑するかみと達【lol/LTK2/切り抜き】【SHAKA/神楽めあ/ゼロスト/うるか/みっちー】",
+    "image": "https://i.ytimg.com/vi/rfSlSgNATIM/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLAYGlLCBy5LB8WpDGQU0FbvC0HyVw"
   },
   {
     "id": 226,
@@ -3166,9 +3208,9 @@
     "reading": "ゴキブリーー",
     "answer": "ゴーリキー",
     "extraChar": "ブ",
-    "URL": "https://dic.pixiv.net/a/%E3%82%B4%E3%82%AD%E3%83%96%E3%83%AA",
-    "title": "ゴキブリ",
-    "image": "https://dic.pixiv.net/ogp?article_id=422&mdate=1789932731"
+    "URL": "https://www.youtube.com/watch?v=pSHLkR0vL4c",
+    "title": "【戌神ころね】ホラー実況中にゴキブリが出現してしまいリアルホラーを体験するころさん【ホロライブ】",
+    "image": "https://i.ytimg.com/vi/pSHLkR0vL4c/maxresdefault.jpg"
   },
   {
     "id": 333,
@@ -11595,7 +11637,10 @@
     "question": "距離ある",
     "reading": "キョリアル",
     "answer": "キルリア",
-    "extraChar": "ョ"
+    "extraChar": "ョ",
+    "URL": "https://www.youtube.com/watch?v=72LVcvMti54",
+    "title": "良かったこの距離で",
+    "image": "https://i.ytimg.com/vi/72LVcvMti54/maxresdefault.jpg"
   },
   {
     "id": 1198,
