@@ -163,9 +163,9 @@
     "reading": "ちんとつしょもう",
     "answer": "猪突猛進",
     "answerReading": "ちょとつもうしん",
-    "URL": "https://dic.pixiv.net/a/%E3%81%A1%E3%82%93%E5%87%B8",
-    "title": "ちん凸",
-    "image": "https://dic.pixiv.net/ogp?article_id=7691292&mdate=1754840964"
+    "URL": "https://www.youtube.com/watch?v=rEWhk3SeCho",
+    "title": "【彼女なぉた】ちん凸を自ら所望するなぉた【切り抜き】",
+    "image": "https://i.ytimg.com/vi/rEWhk3SeCho/maxresdefault.jpg"
   },
   {
     "id": 18,
@@ -2035,5 +2035,270 @@
     "reading": "おさぼりきんしでかく",
     "answer": "デオキシリボ核酸",
     "answerReading": "でおきしりぼかくさん"
+  },
+  {
+    "id": 203,
+    "genre": "ホロライブ",
+    "question": "飽きたから無し",
+    "reading": "あきたからなし",
+    "answer": "小鳥遊キアラ",
+    "answerReading": "たかなしきあら"
+  },
+  {
+    "id": 204,
+    "genre": "野球選手",
+    "question": "ブルーベース",
+    "reading": "ぶるーべーす",
+    "answer": "ベーブ・ルース",
+    "answerReading": "べーぶるーす",
+    "URL": "https://dic.pixiv.net/a/%E3%83%96%E3%83%AB%E3%83%99",
+    "title": "ブルベ",
+    "image": "https://dic.pixiv.net/ogp?article_id=8404486&mdate=1688179634"
+  },
+  {
+    "id": 205,
+    "genre": "らき☆すた",
+    "question": "滲みるらしいの",
+    "reading": "しみるらしいの",
+    "answer": "白石みのる",
+    "answerReading": "しらいしみのる"
+  },
+  {
+    "id": 206,
+    "genre": "シャーマンキング",
+    "question": "おまんまタダや",
+    "reading": "おまんまただや",
+    "answer": "小山田まん太",
+    "answerReading": "おやまだまんた",
+    "URL": "https://dic.nicovideo.jp/a/%E5%83%8D%E3%81%8B%E3%81%9A%E3%81%AB%E9%A3%9F%E3%81%86%E9%A3%AF%E3%81%AF%E3%81%86%E3%81%BE%E3%81%84%E3%81%8B%3F",
+    "title": "働かずに食う飯はうまいか？とは (ハタラカズニクウメシハウマイカとは) [単語記事] - ニコニコ大百科",
+    "image": "https://dic.nicovideo.jp/img/og_b.webp"
+  },
+  {
+    "id": 207,
+    "genre": "あおぎり高校",
+    "question": "馴染む粗品や",
+    "reading": "なじむそしなや",
+    "answer": "八十科むじな",
+    "answerReading": "やそしなむじな",
+    "URL": "https://dic.pixiv.net/a/%E7%B2%97%E5%93%81",
+    "title": "粗品",
+    "image": "https://dic.pixiv.net/ogp?article_id=4307446&mdate=1682580598"
+  },
+  {
+    "id": 208,
+    "genre": "スマホゲーム",
+    "question": "暑くなーい？",
+    "reading": "あつくなーい",
+    "answer": "アークナイツ",
+    "answerReading": "あーくないつ"
+  },
+  {
+    "id": 209,
+    "genre": "フィギュアスケート選手",
+    "question": "さあ今だ",
+    "reading": "さあいまだ",
+    "answer": "浅田舞",
+    "answerReading": "あさだまい",
+    "URL": "https://www.nicovideo.jp/watch/sm46647529",
+    "title": "【MV】INMU KING / YAJU-MC",
+    "image": "https://nicovideo.cdn.nimg.jp/thumbnails/46647529/46647529.14830621"
+  },
+  {
+    "id": 210,
+    "genre": "どうぶつの森",
+    "question": "杜撰絵師",
+    "reading": "ずさんえし",
+    "answer": "しずえさん",
+    "answerReading": "しずえさん",
+    "URL": "https://www.youtube.com/watch?v=ZHptQHgTHFk",
+    "title": "人気絵師、実はAI絵師だったとバレとんでもないことに…",
+    "image": "https://i.ytimg.com/vi/ZHptQHgTHFk/maxresdefault.jpg"
+  },
+  {
+    "id": 211,
+    "genre": "調味料",
+    "question": "推し活だ",
+    "reading": "おしかつだ",
+    "answer": "かつおだし",
+    "answerReading": "かつおだし",
+    "URL": "https://dic.pixiv.net/a/%E6%8E%A8%E3%81%97%E6%B4%BB",
+    "title": "推し活",
+    "image": "https://dic.pixiv.net/ogp?article_id=8130480&mdate=1782382748"
+  },
+  {
+    "id": 212,
+    "genre": "車",
+    "question": "椅子いらんか？",
+    "reading": "いすいらんか",
+    "answer": "スカイライン",
+    "answerReading": "すかいらいん",
+    "URL": "https://www.youtube.com/shorts/uX0pjzP-aww",
+    "title": "【動画】インドの修行僧さん、5年間一切座らずに立ち続けて足がとんでもないことになる #2ちゃんまとめ #2ch面白いスレ",
+    "image": "https://i.ytimg.com/vi/uX0pjzP-aww/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLAIGgJz5UIbSJrE5rVVTIpmnsaoow"
+  },
+  {
+    "id": 213,
+    "genre": "理科",
+    "question": "ツケが消えた",
+    "reading": "つけがきえた",
+    "answer": "血液型",
+    "answerReading": "けつえきがた",
+    "URL": "https://dic.pixiv.net/a/%E3%83%84%E3%82%B1",
+    "title": "ツケ",
+    "image": "https://dic.pixiv.net/ogp?article_id=9941988&mdate=1787446499"
+  },
+  {
+    "id": 214,
+    "genre": "料理",
+    "question": "人権散る",
+    "reading": "じんけんちる",
+    "answer": "けんちん汁",
+    "answerReading": "けんちんじる",
+    "URL": "https://dic.nicovideo.jp/a/%E3%81%93%E3%81%AE%E4%BA%BA%E3%81%A3%E3%81%A6%E4%BA%BA%E6%A8%A9%E3%81%AA%E3%81%84%E3%81%AE%3F",
+    "title": "この人って人権ないの？とは (コノヒトッテジンケンナイノとは) [単語記事] - ニコニコ大百科",
+    "image": "https://dic.nicovideo.jp/img/og_b.webp"
+  },
+  {
+    "id": 215,
+    "genre": "生活用品",
+    "question": "掘る意味ある？",
+    "reading": "ほるいみある",
+    "answer": "アルミホイル",
+    "answerReading": "あるみほいる",
+    "URL": "https://omocoro.jp/kiji/253982/",
+    "title": "大きな穴を掘って、埋める | オモコロ",
+    "image": "https://omocoro.jp/assets/uploads/2020/11/16045689277kxjz.jpg"
+  },
+  {
+    "id": 216,
+    "genre": "統計学",
+    "question": "奇跡←回文",
+    "reading": "きせきかいぶん",
+    "answer": "回帰分析",
+    "answerReading": "かいきぶんせき",
+    "URL": "https://dic.pixiv.net/a/%E5%9B%9E%E6%96%87",
+    "title": "回文",
+    "image": "https://dic.pixiv.net/ogp?article_id=58073&mdate=1783008374"
+  },
+  {
+    "id": 217,
+    "genre": "アニソン",
+    "question": "爆弾サーチ",
+    "reading": "ばくだんさーち",
+    "answer": "バクチダンサー",
+    "answerReading": "ばくちだんさー",
+    "URL": "https://dic.pixiv.net/a/%E3%83%9E%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%91",
+    "title": "マインスイーパ",
+    "image": "https://dic.pixiv.net/ogp?article_id=41723&mdate=1762989602"
+  },
+  {
+    "id": 218,
+    "genre": "教育機関",
+    "question": "メイクが大事",
+    "reading": "めいくがだいじ",
+    "answer": "明治大学",
+    "answerReading": "めいじだいがく",
+    "URL": "https://www.youtube.com/shorts/YKo7H-CIBhg",
+    "title": "全然違うwww #shorts #おもしろ #パンダ #メイク #美容",
+    "image": "https://i.ytimg.com/vi/YKo7H-CIBhg/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLAnsFp-ex0diUbQc8ZMlvjZkKTykA"
+  },
+  {
+    "id": 219,
+    "genre": "YouTuber",
+    "question": "飲酒が好き",
+    "reading": "いんしゅがすき",
+    "answer": "須貝駿貴",
+    "answerReading": "すがいしゅんき",
+    "URL": "https://www.youtube.com/shorts/HeuWQtE5L-w",
+    "title": "沖縄酒豪新人アナの飲酒運転体験教室",
+    "image": "https://i.ytimg.com/vi/HeuWQtE5L-w/sardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLC6cxGWH2_1vQU1vUco7nLM40wHUQ"
+  },
+  {
+    "id": 220,
+    "genre": "日本地理",
+    "question": "使い魔修理",
+    "reading": "つかいましゅうり",
+    "answer": "対馬海流",
+    "answerReading": "つしまかいりゅう",
+    "URL": "https://dic.pixiv.net/a/%E4%BD%BF%E3%81%84%E9%AD%94",
+    "title": "使い魔",
+    "image": "https://dic.pixiv.net/ogp?article_id=4193771&mdate=1791172208"
+  },
+  {
+    "id": 221,
+    "genre": "人体",
+    "question": "自称中2",
+    "reading": "じしょうちゅうに",
+    "answer": "十二指腸",
+    "answerReading": "じゅうにしちょう"
+  },
+  {
+    "id": 222,
+    "genre": "四字熟語",
+    "question": "一家就寝",
+    "reading": "いっかしゅうしん",
+    "answer": "終始一貫",
+    "answerReading": "しゅうしいっかん"
+  },
+  {
+    "id": 223,
+    "genre": "社会問題",
+    "question": "嬉しい呼称か？",
+    "reading": "うれしいこしょうか",
+    "answer": "少子高齢化",
+    "answerReading": "しょうしこうれいか",
+    "URL": "https://dic.pixiv.net/a/INMU_KING",
+    "title": "INMU_KING",
+    "image": "https://dic.pixiv.net/ogp?article_id=11645796&mdate=1791765288"
+  },
+  {
+    "id": 224,
+    "genre": "サイバーパンク小説",
+    "question": "ヤニ吸いレンジャー",
+    "reading": "やにすいれんじゃー",
+    "answer": "ニンジャスレイヤー",
+    "answerReading": "にんじゃすれいやー"
+  },
+  {
+    "id": 225,
+    "genre": "お笑いタレント",
+    "question": "群馬県に館",
+    "reading": "ぐんまけんにやかた",
+    "answer": "カンニング竹山",
+    "answerReading": "かんにんぐたけやま",
+    "URL": "https://dic.pixiv.net/a/%E7%BE%A4%E9%A6%AC%E7%9C%8C",
+    "title": "群馬県",
+    "image": "https://dic.pixiv.net/ogp?article_id=37236&mdate=1791974646"
+  },
+  {
+    "id": 226,
+    "genre": "料理",
+    "question": "グランブルX",
+    "reading": "ぐらんぶるえっくす",
+    "answer": "スクランブルエッグ",
+    "answerReading": "すくらんぶるえっぐ",
+    "URL": "https://dic.pixiv.net/a/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%96%E3%83%AB",
+    "title": "グランブル",
+    "image": "https://dic.pixiv.net/ogp?article_id=624068&mdate=1785461021"
+  },
+  {
+    "id": 227,
+    "genre": "イベント",
+    "question": "またリカと付き合うん？",
+    "reading": "またりかとつきあうん",
+    "answer": "秋田竿燈まつり",
+    "answerReading": "あきたかんとうまつり"
+  },
+  {
+    "id": 228,
+    "genre": "世界地理",
+    "question": "天井とは酷っ！",
+    "reading": "てんじょうとはこくっ",
+    "answer": "発展途上国",
+    "answerReading": "はってんとじょうこく",
+    "URL": "https://www.youtube.com/watch?v=GSERZCSs0lc",
+    "title": "自社ゲーでもやはり天井まで駆け抜けていく水宮枢【ホロライブ/水宮枢/Vtuber/切り抜き/ホロライブドリームス/ホロドリ】",
+    "image": "https://i.ytimg.com/vi/GSERZCSs0lc/maxresdefault.jpg"
   }
 ]
