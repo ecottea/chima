@@ -109,6 +109,11 @@ button:active {
   transform: translateY(2px);
 }
 
+button:disabled {
+  opacity: .45;
+  cursor: not-allowed;
+}
+
 .btn-primary {
   background: linear-gradient(to right, var(--primary-color), var(--primary-hover));
   color: white;

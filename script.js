@@ -150,9 +150,16 @@ function showQuestion(index) {
 
   renderReference(q); 
   localStorage.setItem(`chimatagram_progress_${currentGenrePath}`, currentIndex);
+  updateNavButtons();
 
   // 問題文がDOMにセットされた直後に文字サイズを自動調整
   setTimeout(adjustFontSize, 0);
+}
+
+// 前へ／次へボタンの有効・無効を現在位置に応じて切り替える
+function updateNavButtons() {
+  document.getElementById('prevBtn').disabled = currentIndex <= 0;
+  document.getElementById('nextBtn').disabled = currentIndex >= currentQuestions.length - 1;
 }
 
 // 問題文のフォントサイズを枠に収まるように自動調整する関数
@@ -185,6 +192,10 @@ function clearDisplay() {
   
   // クリア時もレイアウトを崩さないため、No Data状態の参考エリアを表示
   renderReference({});
+
+  // 問題がないので両方無効化
+  document.getElementById('prevBtn').disabled = true;
+  document.getElementById('nextBtn').disabled = true;
 }
 
 // イベント設定
@@ -195,16 +206,12 @@ document.getElementById('showAnswerBtn').addEventListener('click', () => {
 document.getElementById('prevBtn').addEventListener('click', () => {
   if (currentIndex - 1 >= 0) {
     showQuestion(currentIndex - 1);
-  } else {
-    alert('これが最初の問題です！');
   }
 });
 
 document.getElementById('nextBtn').addEventListener('click', () => {
   if (currentIndex + 1 < currentQuestions.length) {
     showQuestion(currentIndex + 1);
-  } else {
-    alert('このジャンルの問題は以上です！');
   }
 });
 

@@ -526,7 +526,10 @@
     "question": "I love クルミ",
     "reading": "あいらぶくるみ",
     "answer": "ミラクルアイ",
-    "extraChar": "ぶ"
+    "extraChar": "ぶ",
+    "URL": "https://dic.pixiv.net/a/%E3%82%AF%E3%83%AB%E3%83%9F%28%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%29",
+    "title": "クルミ(ポケモン)",
+    "image": "https://dic.pixiv.net/ogp?article_id=6304482&mdate=1729385189"
   },
   {
     "id": 53,
@@ -579,9 +582,9 @@
     "reading": "しんのむてきっす",
     "answer": "てんしのキッス",
     "extraChar": "む",
-    "URL": "https://dic.pixiv.net/a/%E7%84%A1%E6%95%B5",
-    "title": "無敵",
-    "image": "https://dic.pixiv.net/ogp?article_id=35833&mdate=1764001389"
+    "URL": "https://dic.pixiv.net/a/%E3%83%80%E3%82%A4%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB",
+    "title": "ダイウォール",
+    "image": "https://dic.pixiv.net/ogp?article_id=7806828&mdate=1755727439"
   },
   {
     "id": 58,
@@ -700,7 +703,7 @@
     "genre": "ポケモンの技",
     "question": "炎の公式",
     "reading": "ほのおのこうしき",
-    "answer": "きのこのほうし",
+    "answer": "キノコのほうし",
     "extraChar": "お"
   },
   {
@@ -731,10 +734,10 @@
     "question": "クッキー☆見ろ",
     "reading": "くっきーみろ",
     "answer": "ローキック",
-    "extraChar": "ミ",
-    "URL": "https://www.youtube.com/watch?v=amP2mCqqPlQ",
-    "title": "【東方合同動画企画】魔理沙とアリスのクッキーKiss",
-    "image": "https://i.ytimg.com/vi/amP2mCqqPlQ/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-A4ACgAOKAgwIABABGGUgXChYMA8=&rs=AOn4CLAGU7LxUMO6VCnHGeZxbslxAihmiQ"
+    "extraChar": "み",
+    "URL": "https://www.nicovideo.jp/watch/sm46969152",
+    "title": "【MV】君はCOOKIE STAR！【クッキー☆】",
+    "image": "https://nicovideo.cdn.nimg.jp/thumbnails/46969152/46969152.83317205"
   },
   {
     "id": 73,
@@ -787,9 +790,9 @@
     "reading": "なまのほうこう",
     "answer": "まほうのこな",
     "extraChar": "う",
-    "URL": "https://dic.pixiv.net/a/%E9%87%8E%E7%8D%A3%E3%81%AE%E5%92%86%E5%93%AE",
-    "title": "野獣の咆哮",
-    "image": "https://dic.pixiv.net/ogp?article_id=4327702&mdate=1780366189"
+    "URL": "https://www.youtube.com/watch?v=LQ5x23cBgU0",
+    "title": "ソロライブでの生声の「ありがとう」について語るミオしゃ【ホロライブ切り抜き/ホロライブ/大神ミオ】",
+    "image": "https://i.ytimg.com/vi/LQ5x23cBgU0/hqdefault.jpg"
   },
   {
     "id": 78,
@@ -1167,7 +1170,10 @@
     "question": "膝の差し合い",
     "reading": "ひざのさしあい",
     "answer": "あさのひざし",
-    "extraChar": "い"
+    "extraChar": "い",
+    "URL": "https://dic.pixiv.net/a/%E3%83%A0%E3%82%A8%E3%82%BF%E3%82%A4",
+    "title": "ムエタイ",
+    "image": "https://dic.pixiv.net/ogp?article_id=17337&mdate=1757340265"
   },
   {
     "id": 114,
@@ -1216,7 +1222,7 @@
     "question": "助っ人要るっしょ？",
     "reading": "すけっといるっしょ",
     "answer": "スケイルショット",
-    "extraChar": "ッ",
+    "extraChar": "っ",
     "URL": "https://dic.pixiv.net/a/%E5%8A%A9%E3%81%A3%E4%BA%BA",
     "title": "助っ人",
     "image": "https://dic.pixiv.net/ogp?article_id=4305459&mdate=1767363928"
@@ -1291,9 +1297,9 @@
     "reading": "がちのりけい",
     "answer": "いのちがけ",
     "extraChar": "り",
-    "URL": "https://dic.pixiv.net/a/%E7%90%86%E7%B3%BB",
-    "title": "理系",
-    "image": "https://dic.pixiv.net/ogp?article_id=4376340&mdate=1771764532"
+    "URL": "https://dic.pixiv.net/a/%E5%AE%99%E7%A7%91%E3%81%9D%E3%81%B4%E3%81%82",
+    "title": "宙科そぴあ",
+    "image": "https://dic.pixiv.net/ogp?article_id=11759361&mdate=1791328372"
   },
   {
     "id": 126,
@@ -1357,9 +1363,9 @@
     "reading": "きすはまだ",
     "answer": "はきだす",
     "extraChar": "ま",
-    "URL": "https://dic.pixiv.net/a/%E3%82%AD%E3%82%B9",
-    "title": "キス",
-    "image": "https://dic.pixiv.net/ogp?article_id=1112&mdate=1778864028"
+    "URL": "https://www.youtube.com/shorts/uqF7iKcUzVA",
+    "title": "まつりがチューしたホロメンの数【ホロライブ】#shorts",
+    "image": "https://i.ytimg.com/vi/uqF7iKcUzVA/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLCtCERHEmhLhiJWx5IXsVp_CxLBag"
   },
   {
     "id": 132,
@@ -1412,9 +1418,9 @@
     "reading": "ばいなりみるさ",
     "answer": "ミサイルばり",
     "extraChar": "な",
-    "URL": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF",
-    "title": "バイナリエディタ - Wikipedia",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Hexplorer.jpg?utm_source=ja.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
+    "URL": "https://www.youtube.com/watch?v=qV1EJU6howc",
+    "title": "【初代ポケモン】お手軽20分。バイナリエディタ作成チャート解説【バグ技 任意コード実行】",
+    "image": "https://i.ytimg.com/vi/qV1EJU6howc/maxresdefault.jpg"
   },
   {
     "id": 137,
@@ -1475,9 +1481,9 @@
     "reading": "かぜちらのしーん",
     "answer": "しぜんのちから",
     "extraChar": "ー",
-    "URL": "https://dic.pixiv.net/a/%E9%A2%A8%E3%81%AE%E3%81%84%E3%81%9F%E3%81%9A%E3%82%89",
-    "title": "風のいたずら",
-    "image": "https://dic.pixiv.net/ogp?article_id=71127&mdate=1745739095"
+    "URL": "https://www.youtube.com/watch?v=Sly8jEqmonI",
+    "title": "Polina Polenovich reporting in the rain and wind for Moscow 24 (6-03-2024)",
+    "image": "https://i.ytimg.com/vi/Sly8jEqmonI/maxresdefault.jpg"
   },
   {
     "id": 143,
@@ -1501,7 +1507,10 @@
     "question": "1位は逃げ切るよ",
     "reading": "いちいはにげきるよ",
     "answer": "はいよるいちげき",
-    "extraChar": "に"
+    "extraChar": "に",
+    "URL": "https://www.youtube.com/watch?v=iBheW-Hopcs",
+    "title": "例の楽曲、YouTubeから削除されてしまう…",
+    "image": "https://i.ytimg.com/vi/iBheW-Hopcs/maxresdefault.jpg"
   },
   {
     "id": 146,
@@ -1517,8 +1526,8 @@
   {
     "id": 147,
     "genre": "ポケモンの技",
-    "question": "プルリク来とる",
-    "reading": "汗（ぷるりくきとるあせ",
+    "question": "プルリク来とる(汗",
+    "reading": "ぷるりくきとるあせ",
     "answer": "トリプルアクセル",
     "extraChar": "き",
     "URL": "https://www.youtube.com/watch?v=enA6tGBRemw",
@@ -1575,7 +1584,10 @@
     "question": "挑んだなら五分",
     "reading": "いどんだならごぶ",
     "answer": "ドラゴンダイブ",
-    "extraChar": "な"
+    "extraChar": "な",
+    "URL": "https://www.youtube.com/watch?v=efzh2iTuqyE",
+    "title": "【かまいたち】レスリング女子中高生が金メダルに忖度なしで答えてほしいこと「これ余談なんですけど...」ナイトinナイト",
+    "image": "https://i.ytimg.com/vi/efzh2iTuqyE/maxresdefault.jpg"
   },
   {
     "id": 153,
@@ -1830,7 +1842,10 @@
     "question": "バランスブースト",
     "reading": "ばらんすぶーすと",
     "answer": "ブラストバーン",
-    "extraChar": "す"
+    "extraChar": "す",
+    "URL": "https://www.youtube.com/watch?v=Mg7C9C5xeqw",
+    "title": "【コメ付き】あのバランスのいい山本選手がッッ……【刃牙】",
+    "image": "https://i.ytimg.com/vi/Mg7C9C5xeqw/hqdefault.jpg"
   },
   {
     "id": 177,
@@ -1891,9 +1906,9 @@
     "reading": "すとかしおとか",
     "answer": "かかとおとし",
     "extraChar": "す",
-    "URL": "https://dic.pixiv.net/a/%E8%AA%BF%E5%91%B3%E6%96%99",
-    "title": "調味料",
-    "image": "https://dic.pixiv.net/ogp?article_id=19825&mdate=1787135995"
+    "URL": "https://dic.pixiv.net/a/%E6%96%99%E7%90%86%E3%81%AE%E3%81%95%E3%81%97%E3%81%99%E3%81%9B%E3%81%9D",
+    "title": "料理のさしすせそ",
+    "image": "https://dic.pixiv.net/ogp?article_id=5376354&mdate=1645451215"
   },
   {
     "id": 183,
@@ -1934,7 +1949,10 @@
     "question": "問いあったら解く",
     "reading": "といあったらとく",
     "answer": "トライアタック",
-    "extraChar": "と"
+    "extraChar": "と",
+    "URL": "https://www.youtube.com/watch?v=RVt_NvyTFdM",
+    "title": "AIが数学の難問を次々と解決…世界を変える「残りの難問」とは ドキュメンタリー【シンギュラリティ】",
+    "image": "https://i.ytimg.com/vi/RVt_NvyTFdM/maxresdefault.jpg"
   },
   {
     "id": 187,
@@ -1975,7 +1993,7 @@
     "question": "意外とファン",
     "reading": "いがいとふぁん",
     "answer": "",
-    "extraChar": "インファイト＋が",
+    "extraChar": "いんふぁいと＋が",
     "URL": "https://dic.pixiv.net/a/%E3%83%95%E3%82%A1%E3%83%B3",
     "title": "ファン",
     "image": "https://dic.pixiv.net/ogp?article_id=57273&mdate=1781633061"
@@ -2112,7 +2130,7 @@
     "question": "パパっとチェンジ",
     "reading": "ぱぱっとちぇんじ",
     "answer": "ジェットパンチ",
-    "extraChar": "パ",
+    "extraChar": "ぱ",
     "URL": "https://dic.pixiv.net/a/%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8",
     "title": "チェンジ",
     "image": "https://dic.pixiv.net/ogp?article_id=5373675&mdate=1674178086"
@@ -2506,9 +2524,9 @@
     "reading": "えいむばつ",
     "answer": "ついばむ",
     "extraChar": "え",
-    "URL": "https://dic.pixiv.net/a/%E3%82%A8%E3%82%A4%E3%83%A0",
-    "title": "エイム",
-    "image": "https://dic.pixiv.net/ogp?article_id=8235897&mdate=1721212848"
+    "URL": "https://www.youtube.com/watch?v=XprAEP5efAc",
+    "title": "【#holoRUST】こんな赤井さんは嫌だ。あまりにもPONすぎる赤井秀一ｗｗｗ【さくらみこ/大空スバル/白上フブキ/大神ミオ/切り抜き/ホロライブ】【ホロライブ切り抜き】",
+    "image": "https://i.ytimg.com/vi/XprAEP5efAc/maxresdefault.jpg"
   },
   {
     "id": 243,
@@ -2580,9 +2598,9 @@
     "reading": "おかわいい",
     "answer": "おいわい",
     "extraChar": "か",
-    "URL": "https://dic.pixiv.net/a/%E3%81%8A%E5%8F%AF%E6%84%9B%E3%81%84%E3%81%93%E3%81%A8",
-    "title": "お可愛いこと",
-    "image": "https://dic.pixiv.net/ogp?article_id=5484227&mdate=1770691408"
+    "URL": "https://www.youtube.com/watch?v=hR4Gd57MtBo",
+    "title": "おかわいいこと",
+    "image": "https://i.ytimg.com/vi/hR4Gd57MtBo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-DoACuAiKAgwIABABGH8gEygaMA8=&rs=AOn4CLCi8fIyej_Kr-gF1SOc6-vxgGvYfg"
   },
   {
     "id": 250,
@@ -2662,9 +2680,9 @@
     "reading": "えがしつやばめ",
     "answer": "つばめがえし",
     "extraChar": "や",
-    "URL": "https://dic.pixiv.net/a/%E7%94%BB%E8%B3%AA",
-    "title": "画質",
-    "image": "https://dic.pixiv.net/ogp?article_id=4301283&mdate=1772262601"
+    "URL": "https://www.youtube.com/watch?v=KAvgERfxOfo",
+    "title": "常に解像度の悪いスバルが用意した画像に絶叫する解像厨みこち【ホロライブ切り抜き】",
+    "image": "https://i.ytimg.com/vi/KAvgERfxOfo/maxresdefault.jpg"
   },
   {
     "id": 258,
@@ -2736,9 +2754,9 @@
     "reading": "われどえす",
     "answer": "ドわすれ",
     "extraChar": "え",
-    "URL": "https://dic.pixiv.net/a/%E3%83%89S",
-    "title": "ドS",
-    "image": "https://dic.pixiv.net/ogp?article_id=17128&mdate=1781041750"
+    "URL": "https://dic.pixiv.net/a/%E6%B5%9C%E7%94%B0%E9%9B%85%E5%8A%9F",
+    "title": "浜田雅功",
+    "image": "https://dic.pixiv.net/ogp?article_id=4191035&mdate=1787790895"
   },
   {
     "id": 265,
@@ -2851,9 +2869,9 @@
     "reading": "くねだんばれた",
     "answer": "たねばくだん",
     "extraChar": "れ",
-    "URL": "https://dic.pixiv.net/a/%E5%80%A4%E6%AE%B5",
-    "title": "値段",
-    "image": "https://dic.pixiv.net/ogp?article_id=4305462&mdate=1784440223"
+    "URL": "https://www.youtube.com/watch?v=9vZCBGMu8kU",
+    "title": "【ホロ金策サバイバル】友情よりも金を選びスイカバブルで荒稼ぎするも速攻でスイカがナーフされ畑の悲しき獣になるスバルｗ【ホロライブ切り抜き/大空スバル】",
+    "image": "https://i.ytimg.com/vi/9vZCBGMu8kU/maxresdefault.jpg"
   },
   {
     "id": 276,
@@ -2970,7 +2988,10 @@
     "question": "すぐママとゲーム",
     "reading": "すぐままとげーむ",
     "answer": "マグマストーム",
-    "extraChar": "げ"
+    "extraChar": "げ",
+    "URL": "https://www.youtube.com/watch?v=vANHqlHWXgI",
+    "title": "ホラゲで遊ぶ【火威青】くんちゃん、怖すぎてママさんを呼び出して無限に笑われるｗｗらでんも挨拶しに登場するもニアミスｗｗ【ホロライブDEV_IS/切り抜き】",
+    "image": "https://i.ytimg.com/vi/vANHqlHWXgI/maxresdefault.jpg"
   },
   {
     "id": 287,
@@ -3019,7 +3040,10 @@
     "question": "襟筋引っ掻く",
     "reading": "えりすじひっかく",
     "answer": "ひっくりかえす",
-    "extraChar": "じ"
+    "extraChar": "じ",
+    "URL": "https://dic.pixiv.net/a/%E5%90%89%E5%B7%9D%E7%B7%9A",
+    "title": "吉川線",
+    "image": "https://dic.pixiv.net/ogp?article_id=10497045&mdate=1759000101"
   },
   {
     "id": 292,
@@ -3228,9 +3252,9 @@
     "reading": "んきしゅつのずね",
     "answer": "しねんのずつき",
     "extraChar": "ゅ",
-    "URL": "https://dic.pixiv.net/a/%E6%97%A2%E5%87%BA",
-    "title": "既出",
-    "image": "https://dic.pixiv.net/ogp?article_id=41697&mdate=1767507233"
+    "URL": "https://www.youtube.com/watch?v=qoIZYLgkJuY",
+    "title": "【超難問】ラングレーの問題を数学最強メンバーに解かせたら何時間で解けるのか？",
+    "image": "https://i.ytimg.com/vi/qoIZYLgkJuY/maxresdefault.jpg"
   },
   {
     "id": 312,
@@ -3282,7 +3306,7 @@
     "question": "オタサー解雇っ？",
     "reading": "おたさーかいこっ",
     "answer": "サイコカッター",
-    "extraChar": "オ",
+    "extraChar": "お",
     "URL": "https://www.weblio.jp/content/%E3%82%AA%E3%82%BF%E3%82%B5%E3%83%BC",
     "title": "「オタサー」の意味や使い方 わかりやすく解説 Weblio辞書"
   },
@@ -3419,8 +3443,9 @@
     "reading": "ぶらんどごいしだ",
     "answer": "ドラゴンダイブ",
     "extraChar": "し",
-    "URL": "https://www.syogoya.co.jp/shopbrand/goisi-hamaguri/",
-    "title": "蛤碁石 | 将棋盤碁盤駒碁石等販売の大阪の将棋囲碁専門店将碁屋"
+    "URL": "https://www.youtube.com/shorts/Sz9Q39u1BwU",
+    "title": "数百年の伝統を誇る碁石メーカー",
+    "image": "https://i.ytimg.com/vi/Sz9Q39u1BwU/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLBT8GjLDs0BCZbQERnK2f3HnY2U3g"
   },
   {
     "id": 330,
@@ -3447,7 +3472,10 @@
     "question": "ん？それ不具合？",
     "reading": "んそれふぐあい",
     "answer": "フレアソング",
-    "extraChar": "い"
+    "extraChar": "い",
+    "URL": "https://www.youtube.com/shorts/1_bKBI4wmRA",
+    "title": "【ポケモン】隠し効果を持った特性3選",
+    "image": "https://i.ytimg.com/vi/1_bKBI4wmRA/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLCKqq7Qj7sGaXcDLhSeCX2JHcIMhw"
   },
   {
     "id": 333,
@@ -3531,7 +3559,10 @@
     "question": "ワオ！賢い！",
     "reading": "わおかしこい",
     "answer": "こわいかお",
-    "extraChar": "し"
+    "extraChar": "し",
+    "URL": "https://dic.pixiv.net/a/%E3%83%8D%E3%82%B8%E3%82%AD",
+    "title": "ネジキ",
+    "image": "https://dic.pixiv.net/ogp?article_id=12169&mdate=1742277700"
   },
   {
     "id": 342,
@@ -3623,7 +3654,10 @@
     "question": "砂漠掃除",
     "reading": "さばくそうじ",
     "answer": "じばそうさ",
-    "extraChar": "く"
+    "extraChar": "く",
+    "URL": "https://www.youtube.com/watch?v=rkGsi3FG1EI",
+    "title": "【鳥取砂丘】進む「緑化」  「除草ボランティア」に密着",
+    "image": "https://i.ytimg.com/vi/rkGsi3FG1EI/maxresdefault.jpg"
   },
   {
     "id": 352,
@@ -3764,14 +3798,17 @@
     "question": "そういう目",
     "reading": "そういうめ",
     "answer": "めいそう",
-    "extraChar": "う"
+    "extraChar": "う",
+    "URL": "https://dic.pixiv.net/a/%E9%87%8E%E7%8D%A3%E3%81%AE%E7%9C%BC%E5%85%89",
+    "title": "野獣の眼光",
+    "image": "https://dic.pixiv.net/ogp?article_id=4191261&mdate=1780069988"
   },
   {
     "id": 367,
     "genre": "ポケモンの技",
     "question": "ちびりちびり口説く",
     "reading": "ちびりちびりくどく",
-    "answer": "ビリビリチクチク",
+    "answer": "びりびりちくちく",
     "extraChar": "ど"
   },
   {
@@ -3807,7 +3844,10 @@
     "question": "パチ機提案",
     "reading": "ぱちきていあん",
     "answer": "きあいパンチ",
-    "extraChar": "て"
+    "extraChar": "て",
+    "URL": "https://www.youtube.com/shorts/gooKqhvCyPY",
+    "title": "パチ企画をして運営に怒られてたぺこちゃんの真意とは！？ｗ【兎田ぺこら/切り抜き/ホロライブ】",
+    "image": "https://i.ytimg.com/vi/gooKqhvCyPY/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLD82_oSh9oeXXtJl9mwwevOeH8ZJQ"
   },
   {
     "id": 372,
@@ -3842,7 +3882,10 @@
     "question": "腕でスイング",
     "reading": "うでですいんぐ",
     "answer": "デスウイング",
-    "extraChar": "で"
+    "extraChar": "で",
+    "URL": "https://www.youtube.com/watch?v=z6uAHdKwEf4",
+    "title": "Twitter（X）で話題になった鈴原るるのモーションに爆笑するにじさんじライバーまとめ【切り抜き/石神のぞみ/舞元啓介/デュエプレ】",
+    "image": "https://i.ytimg.com/vi/z6uAHdKwEf4/maxresdefault.jpg"
   },
   {
     "id": 376,
@@ -3896,7 +3939,10 @@
     "question": "えーん；ジッとする…",
     "reading": "えーんじっとする",
     "answer": "ストーンエッジ",
-    "extraChar": "る"
+    "extraChar": "る",
+    "URL": "https://dic.pixiv.net/a/%E5%AD%A6%E7%BF%92%E6%80%A7%E7%84%A1%E5%8A%9B%E6%84%9F",
+    "title": "学習性無力感",
+    "image": "https://dic.pixiv.net/ogp?article_id=4245519&mdate=1790627373"
   },
   {
     "id": 382,
@@ -3944,7 +3990,10 @@
     "question": "クロックス捨てる",
     "reading": "くろっくすすてる",
     "answer": "ステルスロック",
-    "extraChar": "く"
+    "extraChar": "く",
+    "URL": "https://dic.pixiv.net/a/%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9",
+    "title": "クロックス",
+    "image": "https://dic.pixiv.net/ogp?article_id=9011071&mdate=1772966748"
   },
   {
     "id": 387,
@@ -4000,7 +4049,10 @@
     "question": "む、ダイビングゲーム",
     "reading": "むだいびんぐげーむ",
     "answer": "ムゲンダイビーム",
-    "extraChar": "ぐ"
+    "extraChar": "ぐ",
+    "URL": "https://www.youtube.com/watch?v=cvK6Bsriueg",
+    "title": "N64 マリオパーティ ４にんようミニゲーム『すもぐりマリオ』",
+    "image": "https://i.ytimg.com/vi/cvK6Bsriueg/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGC4gSyh_MA8=&rs=AOn4CLBO_BCukpnOK9fsCJpX1Jubbndt9Q"
   },
   {
     "id": 394,
@@ -4055,9 +4107,9 @@
     "reading": "さむねは",
     "answer": "はさむ",
     "extraChar": "ね",
-    "URL": "https://dic.pixiv.net/a/%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB",
-    "title": "サムネイル",
-    "image": "https://dic.pixiv.net/ogp?article_id=57747&mdate=1783478826"
+    "URL": "https://www.youtube.com/watch?v=iDyC-lE8Izw",
+    "title": "ころねから通話",
+    "image": "https://i.ytimg.com/vi/iDyC-lE8Izw/maxresdefault.jpg"
   },
   {
     "id": 400,
@@ -4084,7 +4136,10 @@
     "question": "防寒コタツ",
     "reading": "ぼうかんこたつ",
     "answer": "ツタこんぼう",
-    "extraChar": "か"
+    "extraChar": "か",
+    "URL": "https://dic.pixiv.net/a/%E3%81%93%E3%81%9F%E3%81%A4",
+    "title": "こたつ",
+    "image": "https://dic.pixiv.net/ogp?article_id=465&mdate=1791739539"
   },
   {
     "id": 403,
@@ -4101,9 +4156,9 @@
     "reading": "ないすなすぴあー",
     "answer": "アイススピナー",
     "extraChar": "な",
-    "URL": "https://dic.pixiv.net/a/%E3%82%B9%E3%83%94%E3%82%A2%E3%83%BC",
-    "title": "スピアー",
-    "image": "https://dic.pixiv.net/ogp?article_id=18172&mdate=1790424320"
+    "URL": "https://dic.pixiv.net/a/%E3%83%A1%E3%82%AC%E3%82%B9%E3%83%94%E3%82%A2%E3%83%BC",
+    "title": "メガスピアー",
+    "image": "https://dic.pixiv.net/ogp?article_id=4283863&mdate=1791773874"
   },
   {
     "id": 405,
@@ -4447,7 +4502,10 @@
     "question": "メダル目指すんだ",
     "reading": "めだるめざすんだ",
     "answer": "めざめるダンス",
-    "extraChar": "だ"
+    "extraChar": "だ",
+    "URL": "https://dic.pixiv.net/a/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF",
+    "title": "オリンピック",
+    "image": "https://dic.pixiv.net/ogp?article_id=7303&mdate=1790608509"
   },
   {
     "id": 442,
@@ -4688,7 +4746,10 @@
     "question": "今はお飾り",
     "reading": "いまはおかざり",
     "answer": "おはかまいり",
-    "extraChar": "ざ"
+    "extraChar": "ざ",
+    "URL": "https://dic.pixiv.net/a/%E5%A4%A9%E7%9A%87",
+    "title": "天皇",
+    "image": "https://dic.pixiv.net/ogp?article_id=73801&mdate=1784641705"
   },
   {
     "id": 468,
@@ -4813,7 +4874,10 @@
     "question": "死神絶えた",
     "reading": "しにがみたえた",
     "answer": "たたみがえし",
-    "extraChar": "に"
+    "extraChar": "に",
+    "URL": "https://dic.pixiv.net/a/%E3%83%AC%E3%83%A0%28DEATHNOTE%29",
+    "title": "レム(DEATHNOTE)",
+    "image": "https://dic.pixiv.net/ogp?article_id=8080334&mdate=1789998511"
   },
   {
     "id": 481,
@@ -4921,7 +4985,10 @@
     "question": "インドも茶",
     "reading": "いんどもちゃ",
     "answer": "いちゃもん",
-    "extraChar": "ど"
+    "extraChar": "ど",
+    "URL": "https://dic.pixiv.net/a/%E3%83%80%E3%83%BC%E3%82%B8%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC",
+    "title": "ダージリンティー",
+    "image": "https://dic.pixiv.net/ogp?article_id=10112673&mdate=1765241129"
   },
   {
     "id": 493,
@@ -4975,7 +5042,10 @@
     "question": "非通知の絡み",
     "reading": "ひつうちのからみ",
     "answer": "ひみつのちから",
-    "extraChar": "う"
+    "extraChar": "う",
+    "URL": "https://www.youtube.com/watch?v=9YAtO5gQbt8",
+    "title": "知らない人との通話でも本気出せば完全特定できてしまう説【斎藤さん】",
+    "image": "https://i.ytimg.com/vi/9YAtO5gQbt8/maxresdefault.jpg"
   },
   {
     "id": 499,
@@ -5081,7 +5151,10 @@
     "question": "企画温存",
     "reading": "きかくおんぞん",
     "answer": "きんぞくおん",
-    "extraChar": "か"
+    "extraChar": "か",
+    "URL": "https://www.youtube.com/watch?v=iC_iz0M6lGM",
+    "title": "AZKi先輩とのGeoGuessrは後の楽しみにしておきたいと話すめら【ホロライブ切り抜き / 熱千めら / AZKi / GeoGuessr】",
+    "image": "https://i.ytimg.com/vi/iC_iz0M6lGM/maxresdefault.jpg"
   },
   {
     "id": 510,
@@ -5160,7 +5233,10 @@
     "question": "丸い形",
     "reading": "まるいかたち",
     "answer": "かまいたち",
-    "extraChar": "る"
+    "extraChar": "る",
+    "URL": "https://www.youtube.com/shorts/yTi1xF_sCIM",
+    "title": "鬼畜過ぎで草　#ポケモン　#上から見たプリン",
+    "image": "https://i.ytimg.com/vi/yTi1xF_sCIM/hq720_2.jpg?sqp=-oaymwEoCJYDENAFSFryq4qpAxoIARUAAIhC0AEB2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLBLavt9t0W99GgPmkApdCwD3NhN1g"
   },
   {
     "id": 518,
@@ -5381,7 +5457,10 @@
     "question": "オタク翻弄",
     "reading": "おたくほんろう",
     "answer": "オクタンほう",
-    "extraChar": "ろ"
+    "extraChar": "ろ",
+    "URL": "https://www.youtube.com/watch?v=5OM4MtSfL6c",
+    "title": "クリスマスにやってしまった「冷めたチキン」事件について語る兎田ぺこら【ホロライブ切り抜き】",
+    "image": "https://i.ytimg.com/vi/5OM4MtSfL6c/maxresdefault.jpg"
   },
   {
     "id": 540,
@@ -5642,7 +5721,10 @@
     "question": "ほぼ公認ね",
     "reading": "ほぼこうにんね",
     "answer": "ホネこんぼう",
-    "extraChar": "に"
+    "extraChar": "に",
+    "URL": "https://www.youtube.com/watch?v=-GFZHWO_8UA",
+    "title": "ホロ非公式wikiの添削をするまつり、自分の語録を見てあまりの酷さに引いてしまう【ホロライブ/夏色まつり/切り抜き】",
+    "image": "https://i.ytimg.com/vi/-GFZHWO_8UA/maxresdefault.jpg"
   },
   {
     "id": 567,
@@ -5694,7 +5776,7 @@
     "question": "オーシャンボード",
     "reading": "おーしゃんぼーど",
     "answer": "シャドーボーン",
-    "extraChar": "オ"
+    "extraChar": "お"
   },
   {
     "id": 572,
@@ -5735,7 +5817,10 @@
     "question": "ツノ立派",
     "reading": "つのりっぱ",
     "answer": "つっぱり",
-    "extraChar": "の"
+    "extraChar": "の",
+    "URL": "https://dic.pixiv.net/a/%E3%83%A6%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%B3",
+    "title": "ユニコーン",
+    "image": "https://dic.pixiv.net/ogp?article_id=4201&mdate=1784374184"
   },
   {
     "id": 576,
@@ -5844,7 +5929,10 @@
     "question": "朝一来るな！",
     "reading": "あさいちくるな",
     "answer": "ちいさくなる",
-    "extraChar": "あ"
+    "extraChar": "あ",
+    "URL": "https://www.youtube.com/watch?v=2VsjJPRXVy8",
+    "title": "ゲリラ朝凸で起こされるスバル、わために乗せられてスバルに2回目の朝凸をするポルカ【ホロライブ/尾丸ポルカ/大空スバル/角巻わため】",
+    "image": "https://i.ytimg.com/vi/2VsjJPRXVy8/maxresdefault.jpg"
   },
   {
     "id": 587,
@@ -5912,7 +6000,10 @@
     "question": "値打ち未知",
     "reading": "ねうちみち",
     "answer": "みねうち",
-    "extraChar": "ち"
+    "extraChar": "ち",
+    "URL": "https://dic.pixiv.net/a/%E9%96%8B%E9%81%8B%21%E3%81%AA%E3%82%93%E3%81%A7%E3%82%82%E9%91%91%E5%AE%9A%E5%9B%A3",
+    "title": "開運!なんでも鑑定団",
+    "image": "https://dic.pixiv.net/ogp?article_id=4299372&mdate=1792393525"
   },
   {
     "id": 594,
@@ -5931,7 +6022,10 @@
     "question": "お家来い",
     "reading": "おうちこい",
     "answer": "おいうち",
-    "extraChar": "こ"
+    "extraChar": "こ",
+    "URL": "https://www.youtube.com/watch?v=5iuax8GIoCw",
+    "title": "リスナーにガチ住所晒してバーガーキング届けさせてみよう！前編【息根とめる/切り抜き】",
+    "image": "https://i.ytimg.com/vi/5iuax8GIoCw/maxresdefault.jpg"
   },
   {
     "id": 596,
@@ -6025,7 +6119,10 @@
     "question": "非課税やしアリ",
     "reading": "ひかぜいやしあり",
     "answer": "あやしいひかり",
-    "extraChar": "ぜ"
+    "extraChar": "ぜ",
+    "URL": "https://dic.pixiv.net/a/NISA",
+    "title": "NISA",
+    "image": "https://dic.pixiv.net/ogp?article_id=9583562&mdate=1792310709"
   },
   {
     "id": 606,
@@ -6172,7 +6269,10 @@
     "question": "ルックス見ていた",
     "reading": "るっくすみていた",
     "answer": "すてみタックル",
-    "extraChar": "い"
+    "extraChar": "い",
+    "URL": "https://dic.pixiv.net/a/%E3%83%AB%E3%83%83%E3%82%AD%E3%82%BA%E3%83%A0",
+    "title": "ルッキズム",
+    "image": "https://dic.pixiv.net/ogp?article_id=4934934&mdate=1792217973"
   },
   {
     "id": 621,
@@ -6384,7 +6484,10 @@
     "question": "クソ苛つく",
     "reading": "くそいらつく",
     "answer": "くらいつく",
-    "extraChar": "そ"
+    "extraChar": "そ",
+    "URL": "https://www.youtube.com/shorts/TUT2pM8HdN8",
+    "title": "神楽めあを怒らせる方法　#leagueoflegends  #神楽めあ",
+    "image": "https://i.ytimg.com/vi/TUT2pM8HdN8/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLBcgTASBuVUsc9ogNzDr0qRdZF3rA"
   },
   {
     "id": 643,
@@ -6392,7 +6495,10 @@
     "question": "じゃあ作れ",
     "reading": "じゃあつくれ",
     "answer": "じゃれつく",
-    "extraChar": "あ"
+    "extraChar": "あ",
+    "URL": "https://www.youtube.com/watch?v=Q6ezH0pBL-0",
+    "title": "【ゆっくり解説】お前が作れ！！「簡単にそうめんでいいよ」で大激論",
+    "image": "https://i.ytimg.com/vi/Q6ezH0pBL-0/maxresdefault.jpg"
   },
   {
     "id": 644,
@@ -6400,7 +6506,10 @@
     "question": "激辛やん",
     "reading": "げきからやん",
     "answer": "からげんき",
-    "extraChar": "や"
+    "extraChar": "や",
+    "URL": "https://www.youtube.com/watch?v=nDaeJiAtbxA",
+    "title": "【ホロ激辛部】いざキッチンへ！極上の激辛料理を作ります【#クッキングテスト】",
+    "image": "https://i.ytimg.com/vi/nDaeJiAtbxA/maxresdefault.jpg"
   },
   {
     "id": 645,
@@ -6446,7 +6555,10 @@
     "question": "同じ間合い",
     "reading": "おなじまあい",
     "answer": "おまじない",
-    "extraChar": "あ"
+    "extraChar": "あ",
+    "URL": "https://www.youtube.com/watch?v=Uvlz1gLZX0I",
+    "title": "待ちガイル　VS　待ちガイル（※大将戦）",
+    "image": "https://i.ytimg.com/vi/Uvlz1gLZX0I/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AG-AoAC8AGKAgwIABABGD4gZSg6MA8=&rs=AOn4CLAtESJnOSdP92Q8TZjFqKb7ZCQ-kg"
   },
   {
     "id": 650,
@@ -6473,7 +6585,10 @@
     "question": "完敗です",
     "reading": "かんぱいです",
     "answer": "かいでんぱ",
-    "extraChar": "す"
+    "extraChar": "す",
+    "URL": "https://www.youtube.com/watch?v=qm8MpBc0e5U",
+    "title": "【総集編 解説付】えっそらちゃんがあずきを魔王にしたの？オセロになると笑いが止まらなくなる魔王あずきの物語を一気見！【AZKi】",
+    "image": "https://i.ytimg.com/vi/qm8MpBc0e5U/maxresdefault.jpg"
   },
   {
     "id": 653,
@@ -6562,7 +6677,10 @@
     "question": "塩、ホワイト",
     "reading": "しおほわいと",
     "answer": "いわおとし",
-    "extraChar": "ほ"
+    "extraChar": "ほ",
+    "URL": "https://dic.pixiv.net/a/%E5%A1%A9",
+    "title": "塩",
+    "image": "https://dic.pixiv.net/ogp?article_id=31911&mdate=1757411508"
   },
   {
     "id": 662,
@@ -6570,7 +6688,10 @@
     "question": "ハンサムアーマー",
     "reading": "はんさむあーまー",
     "answer": "アームハンマー",
-    "extraChar": "さ"
+    "extraChar": "さ",
+    "URL": "https://dic.pixiv.net/a/%E3%82%AC%E3%83%88%E3%83%AA%E3%83%BC",
+    "title": "ガトリー",
+    "image": "https://dic.pixiv.net/ogp?article_id=4213043&mdate=1722924902"
   },
   {
     "id": 663,
@@ -6578,7 +6699,10 @@
     "question": "仮の彼氏",
     "reading": "かりのかれし",
     "answer": "のしかかり",
-    "extraChar": "れ"
+    "extraChar": "れ",
+    "URL": "https://dic.pixiv.net/a/%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E5%BD%BC%E5%A5%B3",
+    "title": "レンタル彼女",
+    "image": "https://dic.pixiv.net/ogp?article_id=7422167&mdate=1777281183"
   },
   {
     "id": 664,
@@ -6646,7 +6770,10 @@
     "question": "現代棋風",
     "reading": "げんだいきふう",
     "answer": "だいふんげき",
-    "extraChar": "う"
+    "extraChar": "う",
+    "URL": "https://dic.pixiv.net/a/%E8%97%A4%E4%BA%95%E8%81%A1%E5%A4%AA",
+    "title": "藤井聡太",
+    "image": "https://dic.pixiv.net/ogp?article_id=4793219&mdate=1789169351"
   },
   {
     "id": 671,
@@ -6785,7 +6912,10 @@
     "question": "単発公募",
     "reading": "たんぱつこうぼ",
     "answer": "ツタこんぼう",
-    "extraChar": "ぱ"
+    "extraChar": "ぱ",
+    "URL": "https://dic.pixiv.net/a/%E3%81%A6%E3%81%A3%E3%81%A6%E3%81%84%E3%81%93%E3%81%86%E3%81%9B%E3%82%93",
+    "title": "てっていこうせん",
+    "image": "https://dic.pixiv.net/ogp?article_id=5608475&mdate=1780900595"
   },
   {
     "id": 685,
@@ -6805,9 +6935,9 @@
     "reading": "こえまねだし",
     "answer": "ねこだまし",
     "extraChar": "え",
-    "URL": "https://dic.pixiv.net/a/%E5%A3%B0%E7%9C%9F%E4%BC%BC",
-    "title": "声真似",
-    "image": "https://dic.pixiv.net/ogp?article_id=5546074&mdate=1776319224"
+    "URL": "https://www.youtube.com/watch?v=YfVS0obNXrs",
+    "title": "ホロメン２２名がカーナビに搭載されたらというモノマネが面白過ぎる尾丸ポルカ【ホロライブ/ホロライブ切り抜き】",
+    "image": "https://i.ytimg.com/vi/YfVS0obNXrs/maxresdefault.jpg"
   },
   {
     "id": 687,
@@ -6826,7 +6956,10 @@
     "question": "スッキリしてんの",
     "reading": "すっきりしてんの",
     "answer": "てんしのキッス",
-    "extraChar": "り"
+    "extraChar": "り",
+    "URL": "https://dic.pixiv.net/a/%E8%B3%A2%E8%80%85%E3%82%BF%E3%82%A4%E3%83%A0",
+    "title": "賢者タイム",
+    "image": "https://dic.pixiv.net/ogp?article_id=54579&mdate=1788054163"
   },
   {
     "id": 689,
@@ -6997,7 +7130,10 @@
     "question": "芋値上がり、買える？",
     "reading": "いもねあがりかえる",
     "answer": "もえあがるいかり",
-    "extraChar": "ね"
+    "extraChar": "ね",
+    "URL": "https://dic.pixiv.net/a/%E7%89%A9%E4%BE%A1%E9%AB%98",
+    "title": "物価高",
+    "image": "https://dic.pixiv.net/ogp?article_id=10619489&mdate=1785456459"
   },
   {
     "id": 707,
@@ -7013,7 +7149,10 @@
     "question": "豪邸施工",
     "reading": "ごうていせこう",
     "answer": "こうごうせい",
-    "extraChar": "て"
+    "extraChar": "て",
+    "URL": "https://www.youtube.com/watch?v=23FEyv8bkBM",
+    "title": "みこちの豪邸を見たホロメン達の反応まとめ【ホロライブ 切り抜き／さくらみこ /ときのそら/アイラニ・イオフィフティーン/角巻わため/天音かなた/沙花叉クロヱ/博衣こより/風真いろは】",
+    "image": "https://i.ytimg.com/vi/23FEyv8bkBM/maxresdefault.jpg"
   },
   {
     "id": 709,
@@ -7059,7 +7198,10 @@
     "question": "飯の係",
     "reading": "めしのかかり",
     "answer": "のしかかり",
-    "extraChar": "め"
+    "extraChar": "め",
+    "URL": "https://dic.pixiv.net/a/%E7%B5%A6%E9%A3%9F%E5%BD%93%E7%95%AA",
+    "title": "給食当番",
+    "image": "https://dic.pixiv.net/ogp?article_id=4231422&mdate=1786266327"
   },
   {
     "id": 714,
@@ -7141,7 +7283,10 @@
     "question": "疑似物理",
     "reading": "ぎじぶつり",
     "answer": "つじぎり",
-    "extraChar": "ぶ"
+    "extraChar": "ぶ",
+    "URL": "https://dic.pixiv.net/a/%E7%89%A9%E7%90%86%E6%BC%94%E7%AE%97",
+    "title": "物理演算",
+    "image": "https://dic.pixiv.net/ogp?article_id=11290799&mdate=1776682378"
   },
   {
     "id": 722,
@@ -7312,7 +7457,10 @@
     "question": "神没落",
     "reading": "かみぼつらく",
     "answer": "からみつく",
-    "extraChar": "ぼ"
+    "extraChar": "ぼ",
+    "URL": "https://dic.pixiv.net/a/%E7%A5%9E%E3%81%AF%E6%AD%BB%E3%82%93%E3%81%A0",
+    "title": "神は死んだ",
+    "image": "https://dic.pixiv.net/ogp?article_id=6093994&mdate=1755594368"
   },
   {
     "id": 740,
@@ -7495,7 +7643,10 @@
     "question": "重い岩",
     "reading": "おもいいわ",
     "answer": "おいわい",
-    "extraChar": "も"
+    "extraChar": "も",
+    "URL": "https://dic.pixiv.net/a/%E5%B2%A9%E3%81%8A%E3%81%98",
+    "title": "岩おじ",
+    "image": "https://dic.pixiv.net/ogp?article_id=9200472&mdate=1781332412"
   },
   {
     "id": 758,
@@ -7598,7 +7749,10 @@
     "question": "バラとササミ",
     "reading": "ばらとささみ",
     "answer": "トラバサミ",
-    "extraChar": "さ"
+    "extraChar": "さ",
+    "URL": "https://dic.pixiv.net/a/%E7%89%9B%E8%82%89",
+    "title": "牛肉",
+    "image": "https://dic.pixiv.net/ogp?article_id=52510&mdate=1771398138"
   },
   {
     "id": 769,
@@ -7606,7 +7760,10 @@
     "question": "一途の恋さ",
     "reading": "いちずのこいさ",
     "answer": "サイコノイズ",
-    "extraChar": "ち"
+    "extraChar": "ち",
+    "URL": "https://dic.pixiv.net/a/%E4%B8%80%E9%80%94",
+    "title": "一途",
+    "image": "https://dic.pixiv.net/ogp?article_id=4312773&mdate=1744594219"
   },
   {
     "id": 770,
@@ -7644,7 +7801,10 @@
     "question": "突起押して",
     "reading": "とっきおして",
     "answer": "とっておき",
-    "extraChar": "し"
+    "extraChar": "し",
+    "URL": "https://dic.pixiv.net/a/%E4%B9%B3%E9%A6%96%E5%BD%93%E3%81%A6%E3%82%B2%E3%83%BC%E3%83%A0",
+    "title": "乳首当てゲーム",
+    "image": "https://dic.pixiv.net/ogp?article_id=5507640&mdate=1722707568"
   },
   {
     "id": 774,
@@ -7663,7 +7823,10 @@
     "question": "赤カビ取る",
     "reading": "あかかびとる",
     "answer": "とびかかる",
-    "extraChar": "あ"
+    "extraChar": "あ",
+    "URL": "https://dic.pixiv.net/a/%E3%82%AB%E3%83%93%E3%82%AD%E3%83%A9%E3%83%BC",
+    "title": "カビキラー",
+    "image": "https://dic.pixiv.net/ogp?article_id=4177212&mdate=1460806744"
   },
   {
     "id": 776,
@@ -7671,7 +7834,10 @@
     "question": "本人バレ",
     "reading": "ほんにんばれ",
     "answer": "にほんばれ",
-    "extraChar": "ん"
+    "extraChar": "ん",
+    "URL": "https://www.youtube.com/watch?v=2G0ulQoxa58",
+    "title": "ガチの研究者をしているVtuberさん、Natureに論文が載ったことで本名がバレてしまうwwwww",
+    "image": "https://i.ytimg.com/vi/2G0ulQoxa58/maxresdefault.jpg"
   },
   {
     "id": 777,
@@ -7709,7 +7875,10 @@
     "question": "メイドがんばれ",
     "reading": "めいどがんばれ",
     "answer": "メガドレイン",
-    "extraChar": "ば"
+    "extraChar": "ば",
+    "URL": "https://dic.pixiv.net/a/%E3%83%89%E3%82%B8%E3%81%A3%E5%AD%90%E3%83%A1%E3%82%A4%E3%83%89",
+    "title": "ドジっ子メイド",
+    "image": "https://dic.pixiv.net/ogp?article_id=7430158&mdate=1754093089"
   },
   {
     "id": 781,
@@ -7727,7 +7896,10 @@
     "question": "縄で絞めたる",
     "reading": "なわでしめたる",
     "answer": "したでなめる",
-    "extraChar": "わ"
+    "extraChar": "わ",
+    "URL": "https://dic.pixiv.net/a/%E7%B7%8A%E7%B8%9B",
+    "title": "緊縛",
+    "image": "https://dic.pixiv.net/ogp?article_id=2645&mdate=1787489127"
   },
   {
     "id": 783,
@@ -7792,7 +7964,10 @@
     "question": "コーラL",
     "reading": "こーらえる",
     "answer": "こらえる",
-    "extraChar": "ー"
+    "extraChar": "ー",
+    "URL": "https://dic.pixiv.net/a/%E3%82%B3%E3%83%BC%E3%83%A9",
+    "title": "コーラ",
+    "image": "https://dic.pixiv.net/ogp?article_id=25398&mdate=1787683481"
   },
   {
     "id": 790,
@@ -7843,7 +8018,10 @@
     "question": "マンネリ期",
     "reading": "まんねりき",
     "answer": "ねんりき",
-    "extraChar": "ま"
+    "extraChar": "ま",
+    "URL": "https://dic.pixiv.net/a/%E3%83%9E%E3%83%B3%E3%83%8D%E3%83%AA",
+    "title": "マンネリ",
+    "image": "https://dic.pixiv.net/ogp?article_id=818284&mdate=1763955311"
   },
   {
     "id": 796,
@@ -7886,7 +8064,10 @@
     "question": "理科系",
     "reading": "りかけい",
     "answer": "いかり",
-    "extraChar": "け"
+    "extraChar": "け",
+    "URL": "https://dic.pixiv.net/a/%E3%82%8A%E3%81%8B%E3%81%91%E3%81%84%E3%81%AE%E3%81%8A%E3%81%A8%E3%81%93",
+    "title": "りかけいのおとこ",
+    "image": "https://dic.pixiv.net/ogp?article_id=532998&mdate=1758801537"
   },
   {
     "id": 801,
@@ -7905,7 +8086,10 @@
     "question": "「デブ」禁句っしょ",
     "reading": "でぶきんくっしょ",
     "answer": "でんきショック",
-    "extraChar": "ぶ"
+    "extraChar": "ぶ",
+    "URL": "https://www.youtube.com/shorts/r7gBWJzWw6w",
+    "title": "週２でマックに通うみこちの体重を推測する35P #ホロライブ #切り抜き #shorts",
+    "image": "https://i.ytimg.com/vi/r7gBWJzWw6w/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLB8nFfk43O1cyeHiaVVEv51P2YRZg"
   },
   {
     "id": 803,
@@ -8306,9 +8490,9 @@
     "reading": "あまるみえ",
     "answer": "あまえる",
     "extraChar": "み",
-    "URL": "https://dic.pixiv.net/a/%E4%B8%B8%E8%A6%8B%E3%81%88",
-    "title": "丸見え",
-    "image": "https://dic.pixiv.net/ogp?article_id=4266147&mdate=1766184462"
+    "URL": "https://www.youtube.com/shorts/_5psHa43PW0",
+    "title": "あおぎり最古参の魂子とあかりが新人VTuberの初配信をゆるく見守る【LN_へるぷ.exe編】 #あおぎり高校 #ゆうぎり高校 #vtuber #funny #shorts",
+    "image": "https://i.ytimg.com/vi/_5psHa43PW0/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLCrewGAeZCr1Y60PU3pW1Yd6-9kPA"
   },
   {
     "id": 844,
@@ -8317,9 +8501,9 @@
     "reading": "くすぐりもありっ",
     "answer": "クリアスモッグ",
     "extraChar": "り",
-    "URL": "https://dic.pixiv.net/a/%E3%81%8F%E3%81%99%E3%81%90%E3%82%8A",
-    "title": "くすぐり",
-    "image": "https://dic.pixiv.net/ogp?article_id=13411&mdate=1791195577"
+    "URL": "https://www.youtube.com/watch?v=cv-FW4_9JdE",
+    "title": "4月26日配信スタート！『ドキュメンタル シーズン7』60秒予告 | Amazonプライム・ビデオ",
+    "image": "https://i.ytimg.com/vi/cv-FW4_9JdE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgVChBMA8=&rs=AOn4CLD83jDEGUFoTNClENxwpWu7rRYy7A"
   },
   {
     "id": 845,
@@ -8327,7 +8511,10 @@
     "question": "知らない字",
     "reading": "しらないじ",
     "answer": "じならし",
-    "extraChar": "い"
+    "extraChar": "い",
+    "URL": "https://www.youtube.com/watch?v=k93UKKt2vWM",
+    "title": "【 漢字でGO!】激ムズ漢字にブチギレるトワ様が面白すぎるwww【ホロライブ/常闇トワ様/切り抜き】",
+    "image": "https://i.ytimg.com/vi/k93UKKt2vWM/maxresdefault.jpg"
   },
   {
     "id": 846,
@@ -8379,7 +8566,10 @@
     "question": "毒バレへんだろ",
     "reading": "どくばれへんだろ",
     "answer": "ヘドロばくだん",
-    "extraChar": "れ"
+    "extraChar": "れ",
+    "URL": "https://www.youtube.com/watch?v=WCQoaaUaaQM",
+    "title": "【天才トリック】毒使いの挑戦状！空白の1時間40分を解き明かせ！",
+    "image": "https://i.ytimg.com/vi/WCQoaaUaaQM/maxresdefault.jpg"
   },
   {
     "id": 851,
@@ -8484,9 +8674,9 @@
     "reading": "ぶきふり",
     "answer": "ふぶき",
     "extraChar": "り",
-    "URL": "https://dic.pixiv.net/a/%E7%B4%A0%E6%8C%AF%E3%82%8A",
-    "title": "素振り",
-    "image": "https://dic.pixiv.net/ogp?article_id=4313958&mdate=1772264377"
+    "URL": "https://www.youtube.com/watch?v=z6uAHdKwEf4",
+    "title": "Twitter（X）で話題になった鈴原るるのモーションに爆笑するにじさんじライバーまとめ【切り抜き/石神のぞみ/舞元啓介/デュエプレ】",
+    "image": "https://i.ytimg.com/vi/z6uAHdKwEf4/maxresdefault.jpg"
   },
   {
     "id": 861,
@@ -8688,7 +8878,10 @@
     "question": "指示待ち部下",
     "reading": "しじまちぶか",
     "answer": "ぶちかまし",
-    "extraChar": "じ"
+    "extraChar": "じ",
+    "URL": "https://dic.pixiv.net/a/%E3%82%86%E3%81%A8%E3%82%8A%E4%B8%96%E4%BB%A3",
+    "title": "ゆとり世代",
+    "image": "https://dic.pixiv.net/ogp?article_id=4174411&mdate=1754474627"
   },
   {
     "id": 881,
@@ -8856,9 +9049,9 @@
     "reading": "あわどれす",
     "answer": "ドわすれ",
     "extraChar": "あ",
-    "URL": "https://dic.pixiv.net/a/%E3%83%89%E3%83%AC%E3%82%B9",
-    "title": "ドレス",
-    "image": "https://dic.pixiv.net/ogp?article_id=3145&mdate=1769171824"
+    "URL": "https://www.youtube.com/watch?v=Vlmqj8Eb2K4",
+    "title": "おかゆにゅ～む続編が30年ぶりにCEROの限界に挑戦する作品になったおかゆんw【猫又おかゆ/不知火フレア/大空スバル/ホロライブ/切り抜き】",
+    "image": "https://i.ytimg.com/vi/Vlmqj8Eb2K4/maxresdefault.jpg"
   },
   {
     "id": 897,
@@ -8877,7 +9070,10 @@
     "question": "配牌ボーナス",
     "reading": "はいぱいぼーなす",
     "answer": "ハイパーボイス",
-    "extraChar": "な"
+    "extraChar": "な",
+    "URL": "https://dic.pixiv.net/a/%E8%B5%A4%E3%83%89%E3%83%A9",
+    "title": "赤ドラ",
+    "image": "https://dic.pixiv.net/ogp?article_id=4192219&mdate=1768423251"
   },
   {
     "id": 899,
@@ -8970,7 +9166,10 @@
     "question": "王の地位",
     "reading": "おうのちい",
     "answer": "おいうち",
-    "extraChar": "の"
+    "extraChar": "の",
+    "URL": "https://dic.pixiv.net/a/INMU_KING",
+    "title": "INMU_KING",
+    "image": "https://dic.pixiv.net/ogp?article_id=11645796&mdate=1791765288"
   },
   {
     "id": 908,
@@ -9115,7 +9314,10 @@
     "question": "値が張る",
     "reading": "ねがはる",
     "answer": "はねる",
-    "extraChar": "が"
+    "extraChar": "が",
+    "URL": "https://www.youtube.com/watch?v=CTBUMMUAI68",
+    "title": "【初代ポケモン】100万のじてんしゃを現金決済するバグ技の解説。【バグ技 任意コード実行】",
+    "image": "https://i.ytimg.com/vi/CTBUMMUAI68/maxresdefault.jpg"
   },
   {
     "id": 922,
@@ -9167,7 +9369,10 @@
     "question": "血走るドリンク",
     "reading": "ちばしるどりんく",
     "answer": "ドリルくちばし",
-    "extraChar": "ん"
+    "extraChar": "ん",
+    "URL": "https://dic.pixiv.net/a/%E3%83%92%E3%83%AD%E3%83%9D%E3%83%B3",
+    "title": "ヒロポン",
+    "image": "https://dic.pixiv.net/ogp?article_id=61687&mdate=1784374182"
   },
   {
     "id": 927,
@@ -9197,7 +9402,10 @@
     "question": "銀色の雫",
     "reading": "ぎんいろのしずく",
     "answer": "シンクロノイズ",
-    "extraChar": "ぎ"
+    "extraChar": "ぎ",
+    "URL": "https://dic.pixiv.net/a/%E6%B0%B4%E9%8A%80",
+    "title": "水銀",
+    "image": "https://dic.pixiv.net/ogp?article_id=1236727&mdate=1792037093"
   },
   {
     "id": 930,
@@ -9306,7 +9514,10 @@
     "question": "サッと起きて！",
     "reading": "さっとおきて",
     "answer": "とっておき",
-    "extraChar": "さ"
+    "extraChar": "さ",
+    "URL": "https://www.youtube.com/shorts/7Z7NfEeqUKE",
+    "title": "早朝フットサル! #水曜日のダウンタウン #早朝フットサル  #爆笑動画",
+    "image": "https://i.ytimg.com/vi/7Z7NfEeqUKE/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLBTyq5zTh2VrVZlqA5TeFVUtHhiCg"
   },
   {
     "id": 941,
@@ -9325,7 +9536,10 @@
     "question": "っ…履けない！",
     "reading": "っはけない",
     "answer": "はっけい",
-    "extraChar": "な"
+    "extraChar": "な",
+    "URL": "https://www.youtube.com/watch?v=mzDrgXaJZbQ",
+    "title": "ラブラブな白上フブキと夏色まつり⁇⁇⁇#ホロライブ",
+    "image": "https://i.ytimg.com/vi/mzDrgXaJZbQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVyhGMA8=&rs=AOn4CLDWgEUnCQFqlcMXYiBMdgeXMJqsDA"
   },
   {
     "id": 943,
@@ -9344,7 +9558,10 @@
     "question": "液こぼれるー！",
     "reading": "えきこぼれるー",
     "answer": "エレキボール",
-    "extraChar": "こ"
+    "extraChar": "こ",
+    "URL": "https://www.youtube.com/watch?v=--UMYcufCkA",
+    "title": "【伝説】「叫んだら即終了OUTLAST」で奇跡を起こし、とんでもない終わり方をする鷹嶺ルイ【ホロライブ切り抜き】",
+    "image": "https://i.ytimg.com/vi/--UMYcufCkA/maxresdefault.jpg"
   },
   {
     "id": 945,
@@ -9372,9 +9589,9 @@
     "reading": "うらでさつばつ",
     "answer": "つばさでうつ",
     "extraChar": "ら",
-    "URL": "https://dic.pixiv.net/a/%E3%81%BA%E3%81%93%E3%81%BF%E3%81%93",
-    "title": "ぺこみこ",
-    "image": "https://dic.pixiv.net/ogp?article_id=6622628&mdate=1780743594"
+    "URL": "https://www.youtube.com/watch?v=qB7IwzCXE-M",
+    "title": "【運営体制】ゆうぎり高校プロデューサー変更とあおぎり高校リスナーの誤解について【ゆうぎり高校/切り抜き/運命メイナ/天羅洲テラス/LN_へるぷ.exe/篠崎シャノン/宮霧りりい】",
+    "image": "https://i.ytimg.com/vi/qB7IwzCXE-M/maxresdefault.jpg"
   },
   {
     "id": 948,
@@ -9415,7 +9632,10 @@
     "question": "盤石の知識",
     "reading": "ばんじゃくのちしき",
     "answer": "くちばしキャノン",
-    "extraChar": "じ"
+    "extraChar": "じ",
+    "URL": "https://www.youtube.com/watch?v=nrr7Elwy0XE",
+    "title": "リアル物理学博士がゲームの橋作りに挑んだ結果、天才とPON要素で視聴者を裏切らない配信となるｗ【ホロライブ/切り抜き/VTuber/ 宙科そぴあ / アソビ★まわり隊!/Poly Bridge 3 】",
+    "image": "https://i.ytimg.com/vi/nrr7Elwy0XE/maxresdefault.jpg"
   },
   {
     "id": 952,
@@ -9453,7 +9673,10 @@
     "question": "贄の招待",
     "reading": "にえのしょうたい",
     "answer": "いにしえのうた",
-    "extraChar": "ょ"
+    "extraChar": "ょ",
+    "URL": "https://dic.pixiv.net/a/%E6%B3%A8%E6%96%87%E3%81%AE%E5%A4%9A%E3%81%84%E6%96%99%E7%90%86%E5%BA%97",
+    "title": "注文の多い料理店",
+    "image": "https://dic.pixiv.net/ogp?article_id=4226787&mdate=1775969887"
   },
   {
     "id": 956,
@@ -9518,7 +9741,10 @@
     "question": "土地買い楽をする",
     "reading": "とちかいらくをする",
     "answer": "ちからをすいとる",
-    "extraChar": "く"
+    "extraChar": "く",
+    "URL": "https://dic.pixiv.net/a/%E5%9C%9F%E5%9C%B0%E3%81%93%E3%82%8D%E3%81%8C%E3%81%97",
+    "title": "土地ころがし",
+    "image": "https://dic.pixiv.net/ogp?article_id=10673178&mdate=1782115279"
   },
   {
     "id": 963,
@@ -9526,7 +9752,10 @@
     "question": "お宅訪問",
     "reading": "おたくほうもん",
     "answer": "オクタンほう",
-    "extraChar": "も"
+    "extraChar": "も",
+    "URL": "https://dic.pixiv.net/a/%E7%94%B0%E8%88%8E%E3%81%AB%E6%B3%8A%E3%81%BE%E3%82%8D%E3%81%86",
+    "title": "田舎に泊まろう",
+    "image": "https://dic.pixiv.net/ogp?article_id=6874489&mdate=1720187998"
   },
   {
     "id": 964,
@@ -9627,7 +9856,10 @@
     "question": "一流の武器",
     "reading": "いちりゅうのぶき",
     "answer": "りゅうのいぶき",
-    "extraChar": "ち"
+    "extraChar": "ち",
+    "URL": "https://dic.pixiv.net/a/%E6%9C%AC%E5%BD%93%E6%97%A5%E6%9C%AC%E5%88%80",
+    "title": "本当日本刀",
+    "image": "https://dic.pixiv.net/ogp?article_id=5109849&mdate=1764567946"
   },
   {
     "id": 974,
@@ -9646,7 +9878,10 @@
     "question": "コラ！違反だ！",
     "reading": "こらいはんだ",
     "answer": "はらだいこ",
-    "extraChar": "ん"
+    "extraChar": "ん",
+    "URL": "https://www.youtube.com/watch?v=5Z7lGnKjK-s",
+    "title": "自転車の青切符、罠すぎると話題になるww",
+    "image": "https://i.ytimg.com/vi/5Z7lGnKjK-s/maxresdefault.jpg"
   },
   {
     "id": 976,
@@ -9750,9 +9985,9 @@
     "reading": "ぱっとしょけいする",
     "answer": "スケイルショット",
     "extraChar": "ぱ",
-    "URL": "https://dic.pixiv.net/a/%E5%87%A6%E5%88%91",
-    "title": "処刑",
-    "image": "https://dic.pixiv.net/ogp?article_id=8426&mdate=1782549064"
+    "URL": "https://www.youtube.com/shorts/HMuSyMGXSTM",
+    "title": "「畜神いるよぉ!!」ロケランでみこスバを吹き飛ばすミオしゃwww【ホロライブ】",
+    "image": "https://i.ytimg.com/vi/HMuSyMGXSTM/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLDjcAcdbeD7q55gN3_xpM1qYyPbbA"
   },
   {
     "id": 987,
@@ -9931,8 +10166,8 @@
   {
     "id": 1005,
     "genre": "ポケモンの技",
-    "question": "割り勘",
-    "reading": "笑)（わりかんわら",
+    "question": "割り勘(笑)",
+    "reading": "わりかんわら",
     "answer": "かわらわり",
     "extraChar": "ん",
     "URL": "https://dic.pixiv.net/a/%E5%89%B2%E3%82%8A%E5%8B%98",
@@ -10039,9 +10274,9 @@
     "reading": "みみなめだ",
     "answer": "なみだめ",
     "extraChar": "み",
-    "URL": "https://dic.pixiv.net/a/%E8%80%B3%E8%88%90%E3%82%81",
-    "title": "耳舐め",
-    "image": "https://dic.pixiv.net/ogp?article_id=1365478&mdate=1716051482"
+    "URL": "https://www.youtube.com/watch?v=rYlR94wDkdI",
+    "title": "【切り抜きアニメ】耳舐めASMRで収益が剥奪された女達の戯言",
+    "image": "https://i.ytimg.com/vi/rYlR94wDkdI/maxresdefault.jpg"
   },
   {
     "id": 1016,

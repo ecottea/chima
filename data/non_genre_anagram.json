@@ -280,7 +280,10 @@
     "question": "記名推奨",
     "reading": "きめいすいしょう",
     "answer": "明鏡止水",
-    "answerReading": "めいきょうしすい"
+    "answerReading": "めいきょうしすい",
+    "URL": "https://dic.pixiv.net/a/%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89",
+    "title": "クレジットカード",
+    "image": "https://dic.pixiv.net/ogp?article_id=4174842&mdate=1786532994"
   },
   {
     "id": 29,
@@ -378,9 +381,9 @@
     "reading": "ごみひろう",
     "answer": "郷ひろみ",
     "answerReading": "ごうひろみ",
-    "URL": "https://dic.pixiv.net/a/2ch%E6%B9%98%E5%8D%97%E3%82%B4%E3%83%9F%E6%8B%BE%E3%81%84%E3%82%AA%E3%83%95",
-    "title": "2ch湘南ゴミ拾いオフ",
-    "image": "https://dic.pixiv.net/ogp?article_id=9124681&mdate=1723104668"
+    "URL": "https://www.youtube.com/watch?v=l4q_B20g5gA",
+    "title": "【2ch伝説の祭り】湘南のゴミを拾いつくしてフジテレビの企画をつぶした2ch伝説のオフ会の全貌【ゆっくり解説】",
+    "image": "https://i.ytimg.com/vi/l4q_B20g5gA/maxresdefault.jpg"
   },
   {
     "id": 39,
@@ -400,9 +403,9 @@
     "reading": "とらんぷくん",
     "answer": "プランクトン",
     "answerReading": "ぷらんくとん",
-    "URL": "https://dic.pixiv.net/a/%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%E3%83%BB%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97",
-    "title": "ドナルド・トランプ",
-    "image": "https://dic.pixiv.net/ogp?article_id=4337449&mdate=1791377275"
+    "URL": "https://www.nicovideo.jp/watch/sm46953153",
+    "title": "【INMU KING】AMERICA KING【ドナルド・トランプ】",
+    "image": "https://nicovideo.cdn.nimg.jp/thumbnails/46953153/46953153.91290115"
   },
   {
     "id": 41,
@@ -476,7 +479,10 @@
     "question": "工場保護区",
     "reading": "こうじょうほごく",
     "answer": "五穀豊穣",
-    "answerReading": "ごこくほうじょう"
+    "answerReading": "ごこくほうじょう",
+    "URL": "https://dic.pixiv.net/a/%E5%B7%A5%E6%A5%AD%E5%9C%B0%E5%B8%AF",
+    "title": "工業地帯",
+    "image": "https://dic.pixiv.net/ogp?article_id=4468472&mdate=1647301313"
   },
   {
     "id": 48,
@@ -504,9 +510,9 @@
     "reading": "しこうのしょうぎ",
     "answer": "鎬昂昇",
     "answerReading": "しのぎこうしょう",
-    "URL": "https://dic.pixiv.net/a/%E5%B0%86%E6%A3%8B",
-    "title": "将棋",
-    "image": "https://dic.pixiv.net/ogp?article_id=9142&mdate=1789349476"
+    "URL": "https://www.youtube.com/watch?v=SK2pa_bSQh4",
+    "title": "歴史に残る伝説の名局3選",
+    "image": "https://i.ytimg.com/vi/SK2pa_bSQh4/hqdefault.jpg"
   },
   {
     "id": 51,
@@ -583,9 +589,9 @@
     "reading": "いいすしだ",
     "answer": "石田スイ",
     "answerReading": "いしだすい",
-    "URL": "https://dic.pixiv.net/a/%E5%AF%BF%E5%8F%B8",
-    "title": "寿司",
-    "image": "https://dic.pixiv.net/ogp?article_id=8979&mdate=1790510434"
+    "URL": "https://dic.pixiv.net/a/%E5%A4%A7%E3%83%88%E3%83%AD",
+    "title": "大トロ",
+    "image": "https://dic.pixiv.net/ogp?article_id=4266900&mdate=1774365231"
   },
   {
     "id": 59,
@@ -604,7 +610,10 @@
     "question": "甘い裁き",
     "reading": "あまいさばき",
     "answer": "相葉雅紀",
-    "answerReading": "あいばまさき"
+    "answerReading": "あいばまさき",
+    "URL": "https://www.youtube.com/watch?v=w5G990T3QIg",
+    "title": "INMU KINGの刑 全員集合｜踊らされた総勢167組・約600人を完全解説【まとめ】",
+    "image": "https://i.ytimg.com/vi/w5G990T3QIg/maxresdefault.jpg"
   },
   {
     "id": 61,
@@ -921,7 +930,10 @@
     "question": "順位制だし",
     "reading": "じゅんいせいだし",
     "answer": "青春時代",
-    "answerReading": "せいしゅんじだい"
+    "answerReading": "せいしゅんじだい",
+    "URL": "https://dic.pixiv.net/a/%E9%A0%86%E4%BD%8D%E6%88%A6%28%E5%B0%86%E6%A3%8B%29",
+    "title": "順位戦(将棋)",
+    "image": "https://dic.pixiv.net/ogp?article_id=5925253&mdate=1759458910"
   },
   {
     "id": 92,
@@ -1000,7 +1012,10 @@
     "question": "我慢いらん",
     "reading": "がまんいらん",
     "answer": "LINEマンガ",
-    "answerReading": "らいんまんが"
+    "answerReading": "らいんまんが",
+    "URL": "https://dic.pixiv.net/a/%E3%83%81%E3%83%BC%E3%83%88%E3%83%87%E3%82%A4",
+    "title": "チートデイ",
+    "image": "https://dic.pixiv.net/ogp?article_id=8245901&mdate=1770382575"
   },
   {
     "id": 100,
@@ -1252,9 +1267,9 @@
     "reading": "うっうごととれ",
     "answer": "五島列島",
     "answerReading": "ごとうれっとう",
-    "URL": "https://dic.pixiv.net/a/%E3%82%A6%E3%83%83%E3%82%A6",
-    "title": "ウッウ",
-    "image": "https://dic.pixiv.net/ogp?article_id=5677809&mdate=1790261143"
+    "URL": "https://dic.pixiv.net/a/%E9%B5%9C%E9%A3%BC%E3%81%84",
+    "title": "鵜飼い",
+    "image": "https://dic.pixiv.net/ogp?article_id=4215901&mdate=1746438721"
   },
   {
     "id": 125,
@@ -2139,9 +2154,9 @@
     "reading": "いすいらんか",
     "answer": "スカイライン",
     "answerReading": "すかいらいん",
-    "URL": "https://www.youtube.com/shorts/uX0pjzP-aww",
-    "title": "【動画】インドの修行僧さん、5年間一切座らずに立ち続けて足がとんでもないことになる #2ちゃんまとめ #2ch面白いスレ",
-    "image": "https://i.ytimg.com/vi/uX0pjzP-aww/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLAIGgJz5UIbSJrE5rVVTIpmnsaoow"
+    "URL": "https://www.youtube.com/shorts/DPr-1eSfnWM",
+    "title": "配信終了でカメラ切り替えたら空気椅子がバレるすいちゃん【星街すいせい/さくらみこ/ホロライブ切り抜き】#shorts",
+    "image": "https://i.ytimg.com/vi/DPr-1eSfnWM/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLDuRRrqAhizU5ED2ov5OO1D2X67kw"
   },
   {
     "id": 213,
@@ -2161,9 +2176,9 @@
     "reading": "じんけんちる",
     "answer": "けんちん汁",
     "answerReading": "けんちんじる",
-    "URL": "https://dic.nicovideo.jp/a/%E3%81%93%E3%81%AE%E4%BA%BA%E3%81%A3%E3%81%A6%E4%BA%BA%E6%A8%A9%E3%81%AA%E3%81%84%E3%81%AE%3F",
-    "title": "この人って人権ないの？とは (コノヒトッテジンケンナイノとは) [単語記事] - ニコニコ大百科",
-    "image": "https://dic.nicovideo.jp/img/og_b.webp"
+    "URL": "https://www.youtube.com/watch?v=cwDoRuoshDs",
+    "title": "【まとめ】人権捨てたケモ耳スバルにゃんの『マシュマロノック』面白シーンまとめ【大空スバル/ホロライブ切り抜き】",
+    "image": "https://i.ytimg.com/vi/cwDoRuoshDs/maxresdefault.jpg"
   },
   {
     "id": 215,
@@ -2306,5 +2321,13 @@
     "URL": "https://www.youtube.com/watch?v=GSERZCSs0lc",
     "title": "自社ゲーでもやはり天井まで駆け抜けていく水宮枢【ホロライブ/水宮枢/Vtuber/切り抜き/ホロライブドリームス/ホロドリ】",
     "image": "https://i.ytimg.com/vi/GSERZCSs0lc/maxresdefault.jpg"
+  },
+  {
+    "id": 229,
+    "genre": "歌手",
+    "question": "元ヤリマンだ",
+    "reading": "もとやりまんだ",
+    "answer": "山本リンダ",
+    "answerReading": "やまもとりんだ"
   }
 ]
